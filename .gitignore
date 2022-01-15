@@ -1,3 +1,6 @@
 # ignore all roms and save files
 *.gba
 *.sav
+*.gba.bak
+*.sav.bak
+*.sgm
