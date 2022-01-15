@@ -338,6 +338,19 @@ org $8F325A0; incbin m1_gfx_store_1.bin
 define new_shop_tileset $8FFE800
 org {new_shop_tileset}; incbin m1_gfx_store_2.bin 
 
+org $8F547A0; incbin m1_shop_arrangements.bin
+org $8F53DA0; incbin m1_shop_subquads.bin
+
+// Change sport subquads
+org $8F41DA1; db $6A; db $69
+org $8F3D619; db $6A; db $69
+org $8F3D5A9; db $6A; db $69
+
+// Change palettes
+org $8F55030; incbin m1_shop_sport_palette.bin
+org $8F54F05; db $C4
+org $8F54E46; db $C9
+
 
 //========================================================================================
 //                               MOTHER 1 MAP EDIT
