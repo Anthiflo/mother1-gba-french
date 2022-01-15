@@ -1,0 +1,510 @@
+﻿000:           
+000-E: _
+000:           
+000-E: _
+001: ボロのバット
+001-E: CRACKDBAT
+002: ふつうのバット
+002-E: T-BALLBAT
+003: いいバット
+003-E: SANDLTBAT
+004: とてもいいバット
+004-E: MINOR BAT
+005: ミスターのバット
+005-E: MR.BB BAT
+006: ゴヂラのバット
+006-E: T-REX BAT
+007: ゴージャスなバット
+007-E: MAJOR BAT
+008: さいこうのバット
+008-E: FAME BAT
+009: きゅうきょくバット
+009-E: ULTIM.BAT
+00A: マジカントバット
+00A-E: MAGIC.BAT
+00B: でんせつのバット
+00B-E: LEGENDBAT
+00C: ガッツのバット
+00C-E: GUTSY BAT
+00D: かたにちからバット
+00D-E: CASEY BAT
+00E: フライパン
+00E-E: FRY PAN
+00F: あつめのフライパン
+00F-E: THICK PAN
+010: いいフライパン
+010-E: DELUXEPAN
+011: シェフのフライパン
+011-E: CHEF PAN
+012: たのしいフライパン
+012-E: NONSTKPAN
+013: すてきなフライパン
+013-E: FRENCHPAN
+014: ふしぎなフライパン
+014-E: MAGIC PAN
+015: てんしのフライパン
+015-E: HOLY PAN
+016: おうじゃのつるぎ
+016-E: KINGSWORD
+017: バンバンガン
+017-E: POP GUN
+018: ショックガン
+018-E: STUN GUN
+019: エアガン
+019-E: TOYAIRGUN
+01A: スーパーエアガン
+01A-E: MAGAIRGUN
+01B: アストロマシンガン
+01B-E: ZIP GUN
+01C: レーザービーム
+01C-E: LASER GUN
+01D: ハイパービーム
+01D-E: HYPERBEAM
+01E: ダブルビーム
+01E-E: DBL BEAM
+01F: クラッシュビーム
+01F-E: CRSHRBEAM
+020: にじいろビーム
+020-E: SPEC.BEAM
+021: デスビーム
+021-E: DEATH RAY
+022: さいあくビーム
+022-E: BAD BEAM
+023: ムーンビーム
+023-E: MOON BEAM
+024: ガイアビーム
+024-E: GAIA BEAM
+025: ヨーヨー
+025-E: YO-YO
+026: スリングショット
+026-E: SLINGSHOT
+027: スーパースリング
+027-E: BSLINGSHT
+028: すっごいヨーヨー
+028-E: TRICKYOYO
+029: コンバットヨーヨー
+029-E: COMBTYOYO
+02A: たびのおまもり
+02A-E: TRVLCHARM
+02B: おおきなおまもり
+02B-E: GREATCHRM
+02C: かがやくおまもり
+02C-E: CRYSTCHRM
+02D: うさぎのおまもり
+02D-E: RABBTFOOT
+02E: ほのおのペンダント
+02E-E: FLAMPNDNT
+02F: しずくのペンダント
+02F-E: RAINPNDNT
+030: やみのペンダント
+030-E: NITEPNDNT
+031: うみのペンダント
+031-E: SEAPENDNT
+032: だいちのペンダント
+032-E: ERTHPNDNT
+033: ほしのペンダント
+033-E: STARPNDNT
+034: おうじゃのマント
+034-E: KINGCLOAK
+035: やすもののうでわ
+035-E: CHEAPBRAC
+036: どうのうでわ
+036-E: COPPRBRAC
+037: ぎんのうでわ
+037-E: SLVRBRACE
+038: きんのうでわ
+038-E: GOLDBRACE
+039: プラチナのうでわ
+039-E: PLATBRACE
+03A: ダイヤのうでわ
+03A-E: DMNDBRACE
+03B: ようせいのうでわ
+03B-E: PIXIBRACE
+03C: てんしのうでわ
+03C-E: CHERUBAND
+03D: めがみのうでわ
+03D-E: GDDESSBND
+03E: おうじゃのうでわ
+03E-E: KINGDIADM
+03F: やきゅうぼう
+03F-E: BALL CAP
+040: ホームズキャップ
+040-E: HOLMESHAT
+041: ミスターのぼうし
+041-E: MR.BB CAP
+042: ぼうしへルメット
+042-E: HARD HAT
+043: リボン
+043-E: RIBBON
+044: まっかなリボン
+044-E: REDRIBBON
+045: まもりのリボン
+045-E: DEFRIBBON
+046: まふうじのリボン
+046-E: TALRIBBON
+047: どせいさんのリボン
+047-E: STRNRIBBN
+048: めがみのリボン
+048-E: GDDSSRBBN
+049: やすらぎのコイン
+049-E: COINSLMBR
+04A: まもりのコイン
+04A-E: DEF. COIN
+04B: しずけさのコイン
+04B-E: COINSILNC
+04C: どせいさんのコイン
+04C-E: SATRNCOIN
+04D: まよけのコイン
+04D-E: CHARMCOIN
+04E: まふうじのコイン
+04E-E: TLSMNCOIN
+04F: かがやきのコイン
+04F-E: SHINYCOIN
+050: おみやげのコイン
+050-E: SOUV.COIN
+051: おうじゃのバンダナ
+051-E: KINGBRACE
+052: オレンジジュース
+052-E: JUICE
+053: クッキー
+053-E: COOKIE
+054: コーヒー
+054-E: COFFEE
+055: アイスキャンデー
+055-E: POPSICLE
+056: ポテトフライ
+056-E: FRIES
+057: そまつなパン
+057-E: PLAIN ROLL
+058: バターロール
+058-E: BREAD ROLL
+059: ひしょちのジェラート
+059-E: GELATO
+05A: ゆでたまご
+05A-E: BOILED EGG
+05B: まめのコロッケ
+05B-E: CROQUETTE
+05C: カップめん
+05C-E: CUPNOODLES
+05D: ハンバーガー
+05D-E: HAMBURGER
+05E: クロワッサン
+05E-E: CROISSANT
+05F: カロリーブロック
+05F-E: CAL. STICK
+060: ロイヤルアイスティー
+060-E: ROYAL TEA
+061: うみたてたまご
+061-E: FRESH EGG
+062: モロへイヤスープ
+062-E: MOLO SOUP
+063: えんそくランチ
+063-E: PICNICLNCH
+064: おとなのドリンク
+064-E: PROT.DRINK
+065: ダブルバーガー
+065-E: DOUBLBURGR
+066: アーモンドもなか
+066-E: PCHEESEBAR
+067: サマーズふうパスタ
+067-E: SMMRSPASTA
+068: ピザ
+068-E: PIZZA
+069: コンガリくしやき
+069-E: KABOB
+06A: ほしにく
+06A-E: BEEF JERKY
+06B: そぼくなヨーグルト
+06B-E: YOGURT
+06C: マンモスバーガー
+06C-E: MAMMTHBRGR
+06D: やぎバターがゆ
+06D-E: RICE GRUEL
+06E: シェフのおすすめ
+06E-E: CHEFSPECIL
+06F: スパイシーほしにく
+06F-E: SPICYJERKY
+070: ゼイタクほしにく
+070-E: LUXRYJERKY
+071: ブタようかん
+071-E: PIGGYJELLY
+072: クラーケンのスープ
+072-E: KRAKENSOUP
+073: ピザ（Lサイズ）
+073-E: LARGEPIZZA
+074: さとりのべんとう
+074-E: BRAIN FOOD
+075: みず
+075-E: WATER
+076: たかいみず
+076-E: DX WATER
+077: サイコキャラメル
+077-E: PSICARAMEL
+078: マジックタルト
+078-E: MAGIC TART
+079: マジックトリフ
+079-E: MAGTRUFFLE
+07A: マジックプリン
+07A-E: MAGPUDDING
+07B: スキップサンド
+07B-E: SKIPWICH
+07C: ダブルスキップサンド
+07C-E: DBLSKIPWCH
+07D: ラッキーサンド
+07D-E: LUCKYWICH
+07E: あおのり
+07E-E: PARSLEY
+07F: ケチャップ
+07F-E: KETCHUP
+080: こなざとう
+080-E: SUGAR
+081: コンデンスミルク
+081-E: CREAM
+082: しお
+082-E: SALT
+083: タバスコ
+083-E: HOT SAUCE
+084: チョコチップ
+084-E: COCOA
+085: マンダラふりかけ
+085-E: DELISAUCE
+086: あなぬけネズミ
+086-E: EXITMOUSE
+087: アンチPSIマシン
+087-E: COUNTERPSI
+088: いちごとうふ
+088-E: TROUTYOGRT
+089: いのちのうどん
+089-E: LIFENOODLE
+08A: インスタントガッツ
+08A-E: GUTS PILL
+08B: いんせきのかけら
+08B-E: METEORITE
+08C: うさぎごのみニンジン
+08C-E: CARROT KEY
+08D: えはがき
+08D-E: POSTCARD
+08E: おとのいし
+08E-E: SOUNDSTONE
+08F: キャッシュカード
+08F-E: ATM CARD
+090: キングバナナ
+090-E: KINGBANANA
+091: グミドリアン
+091-E: TENDAKRAUT
+092: ぐるめとうふマシン
+092-E: YOGURT DIS
+093: グレオレマシーン
+093-E: SUPORMA
+094: くわがたむし
+094-E: STAGBEETLE
+095: こけしけしマシン
+095-E: DOLLERASER
+096: コンタクトレンズ
+096-E: CONTCTLENS
+097: サインいりバナナ
+097-E: SIGNBANANA
+098: さつたば
+098-E: WADOFBILLS
+099: さっちゅうスプレー
+099-E: BUG SPRAY
+09A: さとりのいし
+09A-E: BRAINSTONE
+09B: さびのもと
+09B-E: RUST SPRAY
+09C: さびのもとスーパー
+09C-E: SUPER RUST
+09D: サルのきもち
+09D-E: MONKEYLOVE
+09E: シールドキラー
+09E-E: SHIELDKLLR
+09F: じてんしゃ
+09F-E: BICYCLE
+0A0: じゅしんでんわ
+0A0-E: RECVRPHONE
+0A1: スーパースプレー
+0A1-E: SUPERSPRAY
+0A2: スーパーチューチュー
+0A2-E: HNGRYSUCKR
+0A3: スーパーバズーカ
+0A3-E: HVYBAZOOKA
+0A4: スーパーボム
+0A4-E: SUPER BOMB
+0A5: ゾンビホイホイ
+0A5-E: ZOMBIPAPER
+0A6: たいしたことないもの
+0A6-E: INSIG.ITEM
+0A7: ダイヤモンド
+0A7-E: DIAMOND
+0A8: タカのめ
+0A8-E: HAWK EYE
+0A9: タコけしマシン
+0A9-E: OCTOERASER
+0AA: たびごやのカギ
+0AA-E: SHACK KEY
+0AB: ちいさなルビー
+0AB-E: TINY RUBY
+0AC: チケット
+0AC-E: TICKET
+0AD: チューチューマシン
+0AD-E: HP SUCKER
+0AE: ちゅうわマシン
+0AE-E: NEUTRLIZER
+0AF: ちょっとカギマシン
+0AF-E: BADKEYMCHN
+0B0: つよいぬいぐるみ
+0B0-E: SUPER BEAR
+0B1: ディフェンスシャワー
+0B1-E: DEF.SHOWER
+0B2: ディフェンススプレー
+0B2-E: DEF. SPRAY
+0B3: どうぐやのかんばん
+0B3-E: SALE SIGN
+0B4: とうのカギ
+0B4-E: TOWER KEY
+0B5: どくへび
+0B5-E: VIPER
+0B6: ドラゴンパウダー
+0B6-E: DRAGONITE
+0B7: にわとり
+0B7-E: CHICKEN
+0B8: ぬいぐるみ
+0B8-E: TEDDY BEAR
+0B9: ねばねばマシン
+0B9-E: SLIMEGNTR
+0BA: はえみつ
+0BA-E: FLY HONEY
+0BB: バズーカほう
+0BB-E: BAZOOKA
+0BC: バックステージパス
+0BC-E: BACK PASS
+0BD: ハブラシ
+0BD-E: TOOTHBRUSH
+0BE: ハンドエイド
+0BE-E: HAND-AID
+0BF: ハンドバッグのベルト
+0BF-E: BAG STRAP
+0C0: ヒエログリフのうつし
+0C0-E: HIEROGLYPH
+0C1: ヒヨコ
+0C1-E: CHICK
+0C2: ファラオののろい
+0C2-E: PHAROCURSE
+0C3: フーセンガム
+0C3-E: BUBBLE GUM
+0C4: ブタのはな
+0C4-E: PIGGY NOSE
+0C5: フランクリンバッジ
+0C5-E: FRANKBADGE
+0C6: ぶんどき
+0C6-E: PROTRACTOR
+0C7: ペテネラのくつした
+0C7-E: DIRTYSOCKS
+0C8: へび
+0C8-E: SNAKE
+0C9: へびぶくろ
+0C9-E: SNAKE BAG
+0CA: ペンシルロケット
+0CA-E: BOTTLERCKT
+0CB: ペンシルロケット5
+0CB-E: BIG ROCKET
+0CC: ペンシルロケット20
+0CC-E: MULTIROCKT
+0CD: ボム
+0CD-E: BOMB
+0CE: まちのちず
+0CE-E: TOWN MAP
+0CF: ミイラのほうたい
+0CF-E: MUMMY WRAP
+0D0: むくちをなおすほん
+0D0-E: SHYNSSBOOK
+0D1: メテオタイト
+0D1-E: METEOTITE
+0D2: メテオニウム
+0D2-E: METEORNIUM
+0D3: ものさし
+0D3-E: RULER
+0D4: ろうやのカギ
+0D4-E: CABIN KEY
+0D5: ロッカーのカギ
+0D5-E: LOCKER KEY
+0D6: かぜぐすり
+0D6-E: COLDREMEDY
+0D7: ぬれタオル
+0D7-E: WET TOWEL
+0D8: けっせい
+0D8-E: SERUM
+0D9: すっきりハーブ
+0D9-E: REFRSHHERB
+0DA: うらカンポー
+0DA-E: SECRETHERB
+0DB: いのちのつのぶえ
+0DB-E: HORNOFLIFE
+0DC: IQカプセル
+0DC-E: IQ CAPSULE
+0DD: ガッツカプセル
+0DD-E: GUTSCAPSUL
+0DE: スピードカプセル
+0DE-E: SPDCAPSULE
+0DF: バイタルカプセル
+0DF-E: VITCAPSULE
+0E0: ラックカプセル
+0E0-E: LUCKCAPSUL
+0E1: ふしぎなキャンディ
+0E1-E: ROCK CANDY
+0E2: バナナ
+0E2-E: BANANA
+0E3: こわれたきかい
+0E3-E: BRKMACHINE
+0E4: こわれたメカ
+0E4-E: BRK GADGET
+0E5: こわれたエアガン
+0E5-E: BRK AIRGUN
+0E6: こわれたスプレー
+0E6-E: BRK SPRAY
+0E7: こわれたレーザー
+0E7-E: BRK LASER
+0E8: こわれたアイロン
+0E8-E: BRKN IRON
+0E9: こわれたすいどうかん
+0E9-E: BRKN PIPE
+0EA: こわれたビームほう
+0EA-E: BRK CANNON
+0EB: こわれたつつ
+0EB-E: BRKN TUBE
+0EC: こわれたバズーカ
+0EC-E: BRKBAZOOKA
+0ED: こわれたラッパ
+0ED-E: BRKTRUMPET
+0EE: こわれたハーモニカ
+0EE-E: BRKHARMNCA
+0EF: こわれたパラボラ
+0EF-E: BRKANTENNA
+0F0: ラッキーサンド
+0F0-E: LUCKYWICH
+0F1: ラッキーサンド
+0F1-E: LUCKYWICH
+0F2: ラッキーサンド
+0F2-E: LUCKYWICH
+0F3: ラッキーサンド
+0F3-E: LUCKYWICH
+0F4: ラッキーサンド
+0F4-E: LUCKYWICH
+0F5: ラッキーサンド
+0F5-E: LUCKYWICH
+0F6: ママのてがみ
+0F6-E: MOM LETTER
+0F7: トニーのてがみ
+0F7-E: TONYLETTER
+0F8: ようちえんじのてがみ
+0F8-E: KIDSLETTER
+0F9: ゴージャスなバット
+0F9-E: MAJOR BAT
+0FA: プラチナのうでわ
+0FA-E: PLAT BAND
+0FB: ダイヤのうでわ
+0FB-E: DIAMNDBND
+0FC: まよけのコイン
+0FC-E: CHARMCOIN
+0FD: 
+0FD-E: _

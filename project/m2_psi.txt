@@ -1,0 +1,36 @@
+﻿000: _
+000-E: _
+001: PK
+001-E: PK[4D]
+002: PKファイアー
+002-E: PK FIRE
+003: PKフリーズ
+003-E: PK FREEZE
+004: PKサンダー
+004-E: PKTHUNDER
+005: PKフラッシュ
+005-E: PK FLASH
+006: PKスターストーム
+006-E: STARSTORM
+007: ライフアップ
+007-E: LIFEUP
+008: ヒーリング
+008-E: HEALING
+009: シールド
+009-E: SHIELD
+00A: サイコシールド
+00A-E: PSISHIELD
+00B: オフェンスアップ
+00B-E: OFF. UP
+00C: ディフェンスダウン
+00C-E: DEF. UP
+00D: さいみんじゅつ
+00D-E: HYPNOSIS
+00E: サイマグネット
+00E-E: PSIMAGNET
+00F: パラライシス
+00F-E: PARALYSIS
+010: ブレインショック
+010-E: BRNSHOCK
+011: テレポート
+011-E: TELEPORT

@@ -1,0 +1,464 @@
+﻿000:    
+000-E: _
+000:    
+000-E: _
+001: らんぼうなしんじゃ
+001-E: CULTIST
+002: デパートのかいじん
+002-E: DEPT.SPOOK
+003: アーマーガエル
+003-E: ARMOR FROG
+004: バッファロー
+004-E: BADBUFFALO
+005: アリアリブラック
+005-E: BLK ANTOID
+006: アリアリレッド
+006-E: RED ANTOID
+007: あるくキノコ
+007-E: RAMBLNSHRM
+008: いけないキノコ
+008-E: STRUTNSHRM
+009: あるくめ
+009-E: MOBLSPROUT
+00A: つよいあるくめ
+00A-E: TUFFSPROUT
+00B: いかりのプラグ
+00B-E: FIRE PLUG
+00C: あやかしのレコード
+00C-E: MYSTRECORD
+00D: エナジーロボ
+00D-E: ATOMIC BOT
+00E: スーパーエナジーロボ
+00E-E: NUCLEARBOT
+00F: のろいのえもじ
+00F-E: GUARDGLYPH
+010: スネークえもじ
+010-E: ASP GLYPH
+011: でんげきビューン
+011-E: ELECSWOOSH
+012: エレショッカ
+012-E: CON.MENACE
+013: エレキスピリット
+013-E: CON.SPIRIT
+014: のろいのメーワク
+014-E: EVILMENTAL
+015: [F8]のあくま
+015-E: NIGHTMARE
+016: こまったおじさん
+016-E: OLDPRTYMAN
+017: めいわくなオヤジ
+017-E: REVELER
+018: ジミなにいさん
+018-E: LOCAL GUY
+019: きままなにいさん
+019-E: HIPPIE
+01A: カーペインターさん
+01A-E: CARPAINTER
+01B: カーボンドッグ
+01B-E: CARBON DOG
+01C: かいりきベア
+01C-E: MIGHTYBEAR
+01D: かいりきベア・セブン
+01D-E: MY-T BEAR7
+01E: カビクサイマン
+01E-E: MOLDYMAN
+01F: リトルサンダー
+01F-E: THUNDRMITE
+020: ガミガミレディ
+020-E: CRANKYLADY
+021: ガミガミガミレディ
+021-E: XCRNKYLADY
+022: ギーグ
+022-E: GIYGAS
+023: カニメザウルス
+023-E: WETNOSAUR
+024: ハラペコザウルス
+024-E: CHOMPOSAUR
+025: きょだいアリ
+025-E: TITANICANT
+026: もっときょだいアリ
+026-E: GIANT ANT
+027: きょだいキノコ
+027-E: SHROOOM!
+028: きょだいネズミ
+028-E: PLAGUE RAT
+029: きょだいモグラ
+029-E: MONDO MOLE
+02A: あなのぬし
+02A-E: GRD.DIGGER
+02B: キラーカップ
+02B-E: COFFEE CUP
+02C: うわきなダイス
+02C-E: LOADEDDICE
+02D: ぐちゃぐちゃ
+02D-E: SLIMY PILE
+02E: げどげど
+02E-E: SLMIERPILE
+02F: スパイダー!
+02F-E: ARACHNID!
+030: スパイダー!!!!
+030-E: ARACHNID!!
+031: クラーケン
+031-E: KRAKEN
+032: クラーケンバイオ
+032-E: BIO-KRAKEN
+033: クルーン
+033-E: SPIN ROBO
+034: クルルーン
+034-E: WHIRL ROBO
+035: クルンクルーン
+035-E: HYPER ROBO
+036: ポリスマン
+036-E: COP
+037: まきへび
+037-E: COIL SNAKE
+038: まきへびドライ
+038-E: THRSTYSNAK
+039: こうもりさん
+039-E: MR. BATTY
+03A: こうもりさま
+03A-E: ELDERBATTY
+03B: あれ
+03B-E: VIOL.ROACH
+03C: あのあれ
+03C-E: FILTHROACH
+03D: マッドサイン
+03D-E: CRAZEDSIGN
+03E: スイスイ
+03E-E: SHAMBLER
+03F: スーダララッタ
+03F-E: WLDSHAMBLR
+040: なまいきボーダー
+040-E: SKATE PUNK
+041: スケルピオン
+041-E: SKELPION
+042: スケルピオン・デッド
+042-E: D.SKELPION
+043: スターマン
+043-E: STARMAN
+044: スーパースターマン
+044-E: SPRSTARMAN
+045: スターマン・センゾ
+045-E: GSTSTARMAN
+046: わらいボール
+046-E: SMLNSPHERE
+047: ぶきみボール
+047-E: UN. SPHERE
+048: おうけのせきぞう
+048-E: ROYALGUARD
+049: せきぞうのもとじめ
+049-E: GUARD GEN.
+04A: DXスターマン
+04A-E: STARMAN DX
+04B: さいごのスターマン
+04B-E: FNLSTARMAN
+04C: アーバンゾンビ
+04C-E: URBNZOMBIE
+04D: とりつきゾンビ
+04D-E: POSSESSOR
+04E: ゾンビドッグ
+04E-E: ZOMBIE DOG
+04F: ダーティコップ
+04F-E: CROOKEDCOP
+050: あばれんぼうコップ
+050-E: ZEALOUSCOP
+051: だいウッドー
+051-E: TERR. OAK
+052: こんじょうウッドー
+052-E: HOSTILEOAK
+053: ダイヤモンドドッグ
+053-E: DIAMONDDOG
+054: マル・デ・タコ
+054-E: MAROCTOBOT
+055: ミタ・メ・タコ
+055-E: MILOCTOBOT
+056: カナ・リ・タコ
+056-E: MECHOCTBOT
+057: タコ・ソ・ノモノ
+057-E: ULTOCTOBOT
+058: つっぱりダック
+058-E: MAD DUCK
+059: うしなわれしきおく
+059-E: DALISCLOCK
+05A: ちょうねんじゅのめ
+05A-E: TRILSPROUT
+05B: ムジカ
+05B-E: MUSICA
+05C: デザートウルフ
+05C-E: DESERTWOLF
+05D: ゲップー
+05D-E: MASTRBELCH
+05E: でかぐちゃぐちゃ
+05E-E: PILEOFPUKE
+05F: かえってきたゲップー
+05F-E: MASTERBARF
+060: あくまのキッス
+060-E: KISSODEATH
+061: あくまのディープキス
+061-E: FRENCHKISS
+062: デへラー
+062-E: FOPPY
+063: デへへへラー
+063-E: FOBBY
+064: でんきウナーギ
+064-E: ZAP EEL
+065: てんぐどの
+065-E: TANGOO
+066: ばけテント
+066-E: BOOGEYTENT
+067: やどかりデビル
+067-E: SQUATTER
+068: トサカラン
+068-E: BOOKA
+069: ドザガラン
+069-E: GREATBOOKA
+06A: ドムーク・イージー
+06A-E: LESSERMOOK
+06B: ドムーク・シニア
+06B-E: MOOK SR.
+06C: ちょっとくさゴースト
+06C-E: SMLLYGHOST
+06D: あくしゅうゴースト
+06D-E: STNKYGHOST
+06E: トンチキさん
+06E-E: EVERDRED
+06F: むこうみずなナメクジ
+06F-E: ATTACKSLUG
+070: ねちっこいナメクジ
+070-E: PITBLLSLUG
+071: ぐれたネズミ
+071-E: ROWDYMOUSE
+072: あくのネズミ
+072-E: DEDLYMOUSE
+073: あんしんボム
+073-E: C.F. BOMB
+074: でんげきバチバチ
+074-E: ELECSPECTR
+075: かわいいトムくん
+075-E: HANDSOMTOM
+076: おちゃめなサムくん
+076-E: SMILIN SAM
+077: サカナにんげん
+077-E: MANLY FISH
+078: サカナにんげん・あに
+078-E: MANFISHBRO
+079: おんしらずなイヌ
+079-E: RUNAWAYDOG
+07A: ハロウィーンやろう
+07A-E: T-OR-T KID
+07B: ビッグフット
+07B-E: CAVE BOY
+07C: なぞのゲージュツ
+07C-E: ABSTRCTART
+07D: ひびわれおとこ
+07D-E: SHATTRDMAN
+07E: しばきひびわれ
+07E-E: F.S.MAN
+07F: おもいこみストーン
+07F-E: EGO ORB
+080: いなずま・あらし
+080-E: THNDRSTORM
+081: おちょうしものキッド
+081-E: YESMAN JR.
+082: フランキースタイン2
+082-E: FRNKSTEIN2
+083: フランクさま
+083-E: FRANK
+084: おあいそユーホー
+084-E: CUTE UFO
+085: きくばりユーホー
+085-E: BEAUT. UFO
+086: はねっかえりキッド
+086-E: POGO PUNK
+087: どすこいおとこ
+087-E: TOUGH GUY
+088: マッドタクシー
+088-E: MAD TAXI
+089: マニマニのあくま
+089-E: MANI-MANI
+08A: ジッパヒトカリゲ
+08A-E: MRMOLECULE
+08B: オレナンカドーセ
+08B-E: WORTHLESS
+08C: みはりロボット
+08C-E: SENTRYBOT
+08D: じゅうそうびポーキー
+08D-E: ARMEDPOKEY
+08E: PKおとこ
+08E-E: P. PSYCHO
+08F: PKおとこ・かくうえ
+08F-E: M.P.PSYCHO
+090: わるぶるモグラ
+090-E: ROUGH MOLE
+091: あばれゴート
+091-E: GRUFF GOAT
+092: ゆだんロボ
+092-E: CLUMSYROBO
+093: あつくもえる てき
+093-E: SOUL FLAME
+094: おにラフレシア
+094-E: DMNPETUNIA
+095: ランブーブ
+095-E: RANBOOB
+096: ひとくちユーホー
+096-E: LIL UFO
+097: こうきゅうユーホー
+097-E: CLASSY UFO
+098: ツナマン
+098-E: NOOSE MAN
+099: ロボ・ガロン
+099-E: ROBO-PUMP
+09A: プレーンわに
+09A-E: PLAIN CROC
+09B: つよいわに
+09B-E: STRONGCROC
+09C: キツイわに
+09C-E: HARD CROC
+09D: よくないハエ
+09D-E: NOGOODFLY
+09E: けっこうわるいハエ
+09E-E: MSTLYBDFLY
+09F: にくいカラス
+09F-E: SPITE CROW
+0A0: かいいぬの なまえ
+0A0-E: MY PET
+0A1: ポーキー
+0A1-E: POKEY
+0A2: ピッキー
+0A2-E: PICKY
+0A3: トニー
+0A3-E: TONY
+0A4: バルーンモンキー
+0A4-E: BUBLMONKEY
+0A5: ダンジョンおとこ
+0A5-E: DUNGEONMAN
+0A6: フライングマン
+0A6-E: FLYING MAN
+0A7: ぬいぐるみ
+0A7-E: TEDDY BEAR
+0A8: つよいぬいぐるみ
+0A8-E: SUPER BEAR
+0A9: ゲップー
+0A9-E: MASTRBELCH
+0AA: らんぼうなしんじゃ
+0AA-E: CULTIST
+0AB: デパートのかいじん
+0AB-E: DEPT.SPOOK
+0AC: ♪のあくま
+0AC-E: NIGHTMARE
+0AD: カーペインターさん
+0AD-E: CARPAINTER
+0AE: カーボンドッグ
+0AE-E: CARBON DOG
+0AF: ハラペコザウルス
+0AF-E: CHOMPOSAUR
+0B0: きょだいアリ
+0B0-E: TITANICANT
+0B1: もっときょだいアリ
+0B1-E: GIANT ANT
+0B2: きょだいキノコ
+0B2-E: SHROOOM!
+0B3: きょだいネズミ
+0B3-E: PLAGUE RAT
+0B4: きょだいモグラ
+0B4-E: MONDO MOLE
+0B5: あなのぬし
+0B5-E: GUARD DGGR
+0B6: クラーケン
+0B6-E: KRAKEN
+0B7: クラーケンバイオ
+0B7-E: BIO-KRAKEN
+0B8: スターマン
+0B8-E: STARMAN
+0B9: スーパースターマン
+0B9-E: SPRSTARMAN
+0BA: スターマン・センゾ
+0BA-E: GSTSTARMAN
+0BB: DXスターマン
+0BB-E: STARMAN DX
+0BC: さいごのスターマン
+0BC-E: FNLSTARMAN
+0BD: アーバンゾンビ
+0BD-E: URBNZOMBIE
+0BE: ダイヤモンドドッグ
+0BE-E: DIAM. DOG
+0BF: ちょうねんじゅのめ
+0BF-E: TRILSPROUT
+0C0: ゲップー
+0C0-E: MASTRBELCH
+0C1: でかぐちゃぐちゃ
+0C1-E: PILEOFPUKE
+0C2: かえってきたゲップー
+0C2-E: MASTERBARF
+0C3: うわきなダイス
+0C3-E: LOADEDDICE
+0C4: てんぐどの
+0C4-E: TANGOO
+0C5: ばけテント
+0C5-E: BOOGEYTENT
+0C6: やどかりデビル
+0C6-E: SQUATTER
+0C7: トンチキさん
+0C7-E: EVERDRED
+0C8: でんげきバチバチ
+0C8-E: EL.SPECTER
+0C9: いなずま・あらし
+0C9-E: THNDRSTORM
+0CA: フランキースタイン2
+0CA-E: FRNKSTEIN2
+0CB: マニマニのあくま
+0CB-E: MANI-MANI
+0CC: じゅうそうびポーキー
+0CC-E: ARMEDPOKEY
+0CD: ゆだんロボ
+0CD-E: CLUMSYROBO
+0CE: ロボ・ガロン
+0CE-E: ROBO-PUMP
+0CF: デへラー
+0CF-E: FOPPY
+0D0: せきぞうのもとじめ
+0D0-E: GUARD GEN.
+0D1: アリアリブラック
+0D1-E: B. ANTOID
+0D2: あるくキノコ
+0D2-E: R. SHROOM
+0D3: おんしらずなイヌ
+0D3-E: RUNAWAYDOG
+0D4: ビッグフット
+0D4-E: CAVE BOY
+0D5: ミニミニユーレイ
+0D5-E: TINY GHOST
+0D6: スターマンのむすこ
+0D6-E: STARMAN JR
+0D7: ブンブーン
+0D7-E: BUZZ BUZZ
+0D8: じゅうそうびポーキー
+0D8-E: ARMEDPOKEY
+0D9: じゅうそうびポーキー
+0D9-E: ARMEDPOKEY
+0DA: ギーグ
+0DA-E: GIYGAS
+0DB: ギーグ
+0DB-E: GIYGAS
+0DC: ギーグ
+0DC-E: GIYGAS
+0DD: ギーグ
+0DD-E: GIYGAS
+0DE: どろつきゾンビ
+0DE-E: FARMZOMBIE
+0DF: おたずねものムシ
+0DF-E: CRIMPILLAR
+0E0: ジロリンガ
+0E0-E: EVIL EYE
+0E1: マジックバタフライ
+0E1-E: BUTTERFLY
+0E2: オエップ
+0E2-E: MINI BARF
+0E3: レアおたずねものムシ
+0E3-E: CRIM. WORM
+0E4: ストロングしょちょう
+0E4-E: CAPTSTRONG
+0E5: ギーグ
+0E5-E: GIYGAS
+0E6: ゆだんロボ
+0E6-E: CLUMSYROBO

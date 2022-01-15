@@ -1,0 +1,16 @@
+When you edit a file related to some window there will always be a starting 03 byte; this is a control code used very often in the code for Mother 1 for various things. For the windows it is followed by two bytes that represent respectively the Y (vertical) and X (horizontal) coordinates of the top-left corner of the window: 03 14; we need to change just the second of these bytes, corresponding to the horizontal coordinate.
+
+Almost every window is entirely formatted tile-by-tile (a square composed of 8x8 px). Here you are all the byte combinations corresponding to each window element:
+03 08 is the top-left corner;
+DB is the upper side of the window;
+03 09 is the top-right corner;
+03 0A is the left side of the window;
+03 0B is the right side of the window;
+03 0C is the bottom-left corner;
+FB is the bottom side of the window;
+03 0D is the bottom right corner.
+
+Then there are:
+01 which is the blank space (a totally black tile);
+02, the control code for new line;
+00, the control code that ends this block of code.

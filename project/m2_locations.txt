@@ -1,0 +1,28 @@
+﻿001: オネット
+001-E: ONETT
+002: ツーソン
+002-E: TWOSON
+003: スリーク
+003-E: THREED
+004: サターンバレー
+004-E: S.VALLEY
+005: フォーサイド
+005-E: FOURSIDE
+006: ウィンターズ
+006-E: WINTERS
+007: サマーズ
+007-E: SUMMERS
+008: スカラビ
+008-E: SCARABA
+009: ランマ
+009-E: DALAAM
+00A: まきょう
+00A-E: DEEPDARK
+00B: グミぞくのむら
+00B-E: TENDAVIL
+00C: ちていたいりく
+00C-E: UNDRWRLD
+00D: 
+00D-E: 
+00E: ドコドコさばく
+00E-E: DESERT

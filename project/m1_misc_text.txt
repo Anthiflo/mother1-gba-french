@@ -1,0 +1,506 @@
+//==========================================================================================================
+// IMPORTANT STUFF
+//==========================================================================================================
+
+// Various character names
+0F64294 Ninten
+0F642D4 Ana
+0F64314 Lloyd
+0F64354 Teddy
+0F64394 Fifi
+0F643D4 ÈVE
+0F64414 Garuda
+
+//==========================================================================================================
+// OVERWORLD MENU STUFF
+//==========================================================================================================
+
+// Main menu - if you want to resize this, you'll have to manually hex edit the command menu .bin file
+0FE4006 Commandes
+0FE4015 Parler
+0FE4023 Examiner
+0FE4031 PSI
+0FE403F Objets
+
+// Action menu
+0FE4B15 Utiliser
+0FE4B23 Manger
+0FE4B31 Donner
+0FE4B3F Jeter
+0FE4B4D Infos
+
+// Displayed when choosing a location to teleport to, [DB] is a window piece to make the text line up better
+0F7E200 [DB]Où ça ?[END]
+
+// Displayed when taking an item out of storage from your sister
+0FE7CE0 Objets stockés[END]
+
+// Displayed when using a PSI on someone or when choosing someone from the bottom-left name list
+0FE756E Qui ?
+
+// Stats/equipment menu
+0FE482A Statut
+0FE483C PSI
+0FE48E4 Équipement
+0FE497B Mélodies
+0FE485F Niv. 
+0FE4878 PV
+0FE48B9 Attaque
+0FE48D4 Défense
+0FE48F5 Fougue
+0FE490E Vitesse
+0FE4927 Sagesse
+0FE4940 Vigueur
+0FE4959 Force
+0FE498D Exp.
+
+// Used when displaying yes/no questions in main script
+0FE7102 Oui
+0FE710B Non
+0FE7142 Oui
+0FE714B Non
+
+// horizontal positions for cursor locations when given options in main text (note: numbers need to be -1 their actual X position)
+// note: these numbers need to be -1 their actual X coordinates
+// note: these numbers are shared for ALL options, not just yes/no. Other examples include "Continue/Save", "Medicine/Sleep", and a few others
+0F0B33A [02]
+0F0B33E [0B]
+
+// Used when 1 or more party members are in your team
+0F7E600 Le groupe de [END]
+0F0C3A0 [00][E6][F7][08]
+
+
+//==========================================================================================================
+// BATTLE STUFF
+//==========================================================================================================
+
+// This is displayed at the top of the battle menus and in the mini status windows outside
+0FE7403 Nom
+0FE740C PV
+0FE7410 PP
+0FE7414 Nv
+0FE741B Exp
+
+// This is the main battle menu
+0F2764A Frapper
+0F27653 Auto
+0F27661 PSI
+0F2766A Garde
+0F27678 Objets
+0F27681 Fuite
+0F2768F Analyser
+0F27698 Options
+
+// This is the menu for the final battle
+0F276BC Frapper
+0F276C5 Auto
+0F276D3 PSI
+0F276DC Garde
+0F276EA Objets
+0F276F3 [FF]Chanter
+0F27701 Analyser
+0F2770A Options
+
+// If you try to use a weird item in battle (change the address to move the text left or right)
+0F2780D Pas utilisable ici
+
+// If you try to equip an item during battle
+0F2783B Pas équipable ici
+
+// If a character tries to use an item they can't use in battle (like Ninten using a Bomb) edit m1_window_cant_use_item.bin for placement
+0FE78C2 Pas utilisable par [03][20]
+
+// If you use the Setup option in battle
+F2789D Vitesse du texte
+F278B3 (Lent)[01][01][01][01](Rapide)
+
+
+//==========================================================================================================
+// FILE MENU STUFF
+//==========================================================================================================
+// Note: In general, if you need to move text forward or back on the screen, add or subtract one
+//       from the text's address. So to move the "Speed" text left one column, subtract one from its address
+//       of 0FE5017, making it 0FE5016
+//==========================================================================================================
+
+// Text used for blank save slots - the first three numbers are the X coordinate for the cursor
+0F2A076 [07]
+0F2A08A [07]
+0F2A09E [07]
+0FE602A [01][01][01][01][01][01]Nouvelle partie
+
+// Text used at the top of the save slot windows
+0FE500C Nv.
+0FE6003 FICHIER ( )
+0FE5015 Vitesse
+
+// The first three numbers are the X coordinate for the cursor for each save slot window
+0F2A07A [02]
+0F2A08E [02]
+0F2A0A2 [02]
+0FE502B Jouer
+
+// The first three numbers are the X coordinate for the cursor for each save slot window
+0F2A07E [08]
+0F2A092 [08]
+0F2A0A6 [08]
+0FE5031 Copier
+
+// The first three numbers are the X coordinate for the cursor for each save slot window
+0F2A082 [0F]
+0F2A096 [0F]
+0F2A0AA [0F]
+0FE5038 Effacer
+
+// The first three numbers are the X coordinate for the cursor for each save slot window
+// These are text speed options, from Very Slow to Very Fast
+0F2A086 [17]
+0F2A09A [17]
+0F2A0AE [17]
+0F2711C [01]1/5[END]
+0F27122 [01]2/5[END]
+0F27128 [01]3/5[END]
+0F2712E [01]4/5[END]
+0F27134 [01]5/5[END]
+
+// Displayed when copying a save file from one slot to another
+0FE7010 Vers quel fichier ?
+
+// Displayed when erasing a file
+// These first two numbers are the X coordinates of the name and level number
+0F0D396 [05]
+0FE8017 Nv.
+0FE802B Effacer ce fichier ?
+0FE8049 Oui   Non
+0F2A0C6 [07]
+0F2A0CA [0D]
+
+
+//==========================================================================================================
+// NAMING SCREEN STUFF
+//==========================================================================================================
+
+0FE7C00 Nommez ce garçon.[END]
+0FE7C30 Nommez cette fille.[END]
+0FE7C60 Nommez cet ami.[END]
+0FE7C90 Nommez cet autre ami.[END]
+0FE7CC0 Votre plat favori ?[END]
+
+// unallowed names (separate them with [02], end with [END])
+0FE80C0 ABC[02]George[02]Mimmie[02]Minnie[02]Fifi[02]Duncan[02]Suzy[02]Abbot[02]Laura[02]Gyiyg[02]Giegue[02]Giygas[02]Mary[02]Maria[02]EVE[02]Eve[02]Ève[02] [02]  [02]   [02]    [02]     [02]      [02][END]
+
+0FE7211 Nom non autorisé
+
+// This changes the initial graphical layout of the naming screen, note you'll need to change the "actual table" below too
+0FE7A4C ABCDE abcde ÀÁÂÃÄ àáâãä 
+0FE7A6B FGHIJ fghij ÅÆÇÈÉ åæçèé 
+0FE7A8A KLMNO klmno ÊËÌÍÎ êëìíî 
+0FE7AA9 PQRST pqrst ÏÑŒÒÓ ïñœòó 
+0FE7AC8 UVWXY uvwxy ÔÕÖØÙ ôõöøù 
+0FE7AE7 Z(){} z-+'. ÚÛÜÝŸ úûüýÿ 
+0FE7B06 12345 67890 !?¡¿~ [FF]:;$/ 
+0FE7B25 [01]                       
+0FE7B44 [01]                  [C0][49][4A][4B][4C]
+0FE7B63 [01]                  [C0][4D][4E]  
+
+// This is the "actual table" of letters in the naming screen. When the user clicks the button
+// the program pulls the letter from this table.
+// FIRST ROW
+0F2A27C A
+0F2A280 B
+0F2A284 C
+0F2A288 D
+0F2A28C E
+0F2A290 a
+0F2A294 b
+0F2A298 c
+0F2A29C d
+0F2A2A0 e
+0F2A2A4 À
+0F2A2A8 Á
+0F2A2AC Â
+0F2A2B0 Ã
+0F2A2B4 Ä
+0F2A2B8 à
+0F2A2BC á
+0F2A2C0 â
+0F2A2C4 ã
+0F2A2C8 ä
+0F2A2CC [01]
+// SECOND ROW
+0F2A2D0 F
+0F2A2D4 G
+0F2A2D8 H
+0F2A2DC I
+0F2A2E0 J
+0F2A2E4 f
+0F2A2E8 g
+0F2A2EC h
+0F2A2F0 i
+0F2A2F4 j
+0F2A2F8 Å
+0F2A2FC Æ
+0F2A300 Ç
+0F2A304 È
+0F2A308 É
+0F2A30C å
+0F2A310 æ
+0F2A314 ç
+0F2A318 è
+0F2A31C é
+0F2A320 [01]
+// THIRD ROW
+0F2A324 K
+0F2A328 L
+0F2A32C M
+0F2A330 N
+0F2A334 O
+0F2A338 k
+0F2A33C l
+0F2A340 m
+0F2A344 n
+0F2A348 o
+0F2A34C Ê
+0F2A350 Ë
+0F2A354 Ì
+0F2A358 Í
+0F2A35C Î
+0F2A360 ê
+0F2A364 ë
+0F2A368 ì
+0F2A36C í
+0F2A370 î
+0F2A374 [01]
+// FOURTH ROW
+0F2A378 P
+0F2A37C Q
+0F2A380 R
+0F2A384 S
+0F2A388 T
+0F2A38C p
+0F2A390 q
+0F2A394 r
+0F2A398 s
+0F2A39C t
+0F2A3A0 Ï
+0F2A3A4 Ñ
+0F2A3A8 Œ
+0F2A3AC Ò
+0F2A3B0 Ó
+0F2A3B4 ï
+0F2A3B8 ñ
+0F2A3BC œ
+0F2A3C0 ò
+0F2A3C4 ó
+0F2A3C8 [01]
+// FIFTH ROW
+0F2A3CC U
+0F2A3D0 V
+0F2A3D4 W
+0F2A3D8 X
+0F2A3DC Y
+0F2A3E0 u
+0F2A3E4 v
+0F2A3E8 w
+0F2A3EC x
+0F2A3F0 y
+0F2A3F4 Ô
+0F2A3F8 Õ
+0F2A3FC Ö
+0F2A400 Ø
+0F2A404 Ù
+0F2A408 ô
+0F2A40C õ
+0F2A410 ö
+0F2A414 ø
+0F2A418 ù
+0F2A41C [01]
+// SIXTH ROW
+0F2A420 Z
+0F2A424 (
+0F2A428 )
+0F2A42C {
+0F2A430 }
+0F2A434 z
+0F2A438 -
+0F2A43C +
+0F2A440 '
+0F2A444 .
+0F2A448 Ú
+0F2A44C Û
+0F2A450 Ü
+0F2A454 Ý
+0F2A458 Ÿ
+0F2A45C ú
+0F2A460 û
+0F2A464 ü
+0F2A468 ý
+0F2A46C ÿ
+0F2A470 [01]
+// SEVENTH ROW
+0F2A474 1
+0F2A478 2
+0F2A47C 3
+0F2A480 4
+0F2A484 5
+0F2A488 6
+0F2A48C 7
+0F2A490 8
+0F2A494 9
+0F2A498 0
+0F2A49C !
+0F2A4A0 ?
+0F2A4A4 ¡
+0F2A4A8 ¿
+0F2A4AC ~
+0F2A4B0 [FF]
+0F2A4B4 :
+0F2A4B8 ;
+0F2A4BC $
+0F2A4C0 /
+0F2A4C4 [01]
+// EIGHTH ROW
+0F2A4C8 [01]
+0F2A4CC [01]
+0F2A4D0 [01]
+0F2A4D4 [01]
+0F2A4D8 [01]
+0F2A4DC [01]
+0F2A4E0 [01]
+0F2A4E4 [01]
+0F2A4E8 [01]
+0F2A4EC [01]
+0F2A4F0 [01]
+0F2A4F4 [01]
+0F2A4F8 [01]
+0F2A4FC [01]
+0F2A500 [01]
+0F2A504 [01]
+0F2A508 [01]
+0F2A50C [01]
+0F2A510 [01]
+0F2A514 [01]
+0F2A518 [01]
+// NINTH ROW
+0F2A51C [01]
+0F2A520 [01]
+0F2A524 [01]
+0F2A528 [01]
+0F2A52C [01]
+0F2A530 [01]
+0F2A534 [01]
+0F2A538 [01]
+0F2A53C [01]
+0F2A540 [01]
+0F2A544 [01]
+0F2A548 [01]
+0F2A54C [01]
+0F2A550 [01]
+0F2A554 [01]
+// TENTH ROW
+0F2A55C [01]
+0F2A560 [01]
+0F2A564 [01]
+0F2A568 [01]
+0F2A56C [01]
+0F2A570 [01]
+0F2A574 [01]
+0F2A578 [01]
+0F2A57C [01]
+0F2A580 [01]
+0F2A584 [01]
+0F2A588 [01]
+0F2A58C [01]
+0F2A590 [01]
+0F2A594 [01]
+
+0FE7900 Plat  [END]
+// this is the X coordinate of this line
+0F0DB3C [09]
+
+0F2742D Tout est OK ?
+0F27442 Oui
+0F27447 Non
+// these are the X coordinates for the cursor for the Yes/No confirmation
+0F2A272 [0A]
+0F2A276 [0F]
+
+
+//==========================================================================================================
+// PLAYER NAMING SCREEN
+//==========================================================================================================
+
+// This changes the initial layout graphics, you need to change the actual data layout below too
+0F26E8D ABCDEFG[01]HIJKLMN[01]@[49][4A][4B][4C]
+0F26EB1 OPQRSTU[01]VWXYZ.-[01]@OK  
+
+// This is the actual data that gets pulled when a user selects a letter or hovers over a letter
+0F29FF0 A
+0F29FF4 B
+0F29FF8 C
+0F29FFC D
+0F2A000 E
+0F2A004 F
+0F2A008 G
+0F2A00C [01]
+0F2A010 H
+0F2A014 I
+0F2A018 J
+0F2A01C K
+0F2A020 L
+0F2A024 M
+0F2A028 N
+0F2A02C @
+0F2A030 O
+0F2A034 P
+0F2A038 Q
+0F2A03C R
+0F2A040 S
+0F2A044 T
+0F2A048 U
+0F2A04C [01]
+0F2A050 V
+0F2A054 W
+0F2A058 X
+0F2A05C Y
+0F2A060 Z
+0F2A064 .
+0F2A068 -
+0F2A06C @
+
+
+//==========================================================================================================
+// INTRODUCTION STUFF
+//==========================================================================================================
+
+0F7DC00 Dans les années 1900, une[BREAK]ombre se profila au dessus[BREAK]d'un village américain. Peu[BREAK]après, un couple marié[BREAK]disparut mystérieusement.[BREAK][BREAK]L'homme s'appelait George,[BREAK]la femme s'appelait Maria.[BREAK][BREAK]Deux ans plus tard, George[BREAK]réapparut, mais ne confia à[BREAK]personne ce qui lui était[BREAK]arrivé.[BREAK]Il s'isola et se plongea[BREAK]dans d'étranges recherches.[BREAK][BREAK]Quant à sa femme, Maria...[BREAK]elle ne revint jamais.[END]
+// starting X,Y positions for this text
+0F0DC40 [00]
+0F0DC42 [01]
+
+0F7E000 1988, dans la proche[BREAK]banlieue de Podunk...[END]
+// starting X,Y positions for this text
+0F0DC74 [03]
+0F0DC76 [08]
+
+
+//==========================================================================================================
+// POINTERS - DON'T EDIT THIS UNLESS YOU KNOW A LOT ABOUT ROM HACKING
+//==========================================================================================================
+
+// pointers to the new intro text
+0F0DCCC [00][E0][F7][08]
+0F0DCC4 [00][DC][F7][08]
+
+// pointer to teleport menu "To?" text
+0F0BBF0 [00][E2][F7][08]
+
+// pointer to the "Stored Goods" text
+0F0B838 [E0][7C][FE][08]
+
+//==========================================================================================================
+// INTERNAL TABLE CONVERSION STUFF - DON'T MESS WITH THIS UNLESS YOU *REALLY* KNOW WHAT YOU'RE DOING!
+//==========================================================================================================
+
+0F29C8A [01][00][02][00][03][00][04][00][05][00][06][00][07][00][08][00][09][00][0A][00][0B][00][0C][00][0D][00][0E][00][0F][00][10][00][11][00][12][00][13][00][14][00][15][00][16][00][17][00][18][00][19][00][1A][00][1B][00][1C][00][1D][00][1E][00][1F][00][20][00][21][00][22][00][23][00][24][00][25][00][26][00][27][00][28][00][29][00][2A][00][2B][00][2C][00][2D][00][2E][00][2F][00][30][00][31][00][32][00][33][00][34][00][35][00][36][00][37][00][38][00][39][00][3A][00][3B][00][3C][00][3D][00][3E][00][3F][00][40][00][41][00][42][00][43][00][44][00][45][00][46][00][47][00][48][00][49][00][4A][00][4B][00][4C][00][4D][00][4E][00][4F][00][50][00][51][00][52][00][53][00][54][00][55][00][56][00][57][00][58][00][59][00][5A][00][5B][00][5C][00][5D][00][5E][00][5F][00][60][00][61][00][62][00][63][00][64][00][65][00][66][00][67][00][68][00][69][00][6A][00][6B][00][6C][00][6D][00][6E][00][6F][00][70][00][71][00][72][00][73][00][74][00][75][00][76][00][77][00][78][00][79][00][7A][00][7B][00][7C][00][7D][00][7E][00][7F][00][80][00][81][00][82][00][83][00][84][00][85][00][86][00][87][00][88][00][89][00][8A][00][8B][00][8C][00][8D][00][8E][00][8F][00][90][00][91][00][92][00][93][00][94][00][95][00][96][00][97][00][98][00][99][00][9A][00][9B][00][9C][00][9D][00][9E][00][9F][00][A0][00][A1]
