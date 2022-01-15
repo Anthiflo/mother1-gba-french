@@ -30,7 +30,7 @@ for line_index, table_line in enumerate(table_lines):
         file_contents = replace(file_contents, character, value)
 
 # We write the result into the output file
-with io.open(output_file, "r+", encoding="utf-8") as file:
+with io.open(output_file, "w+", encoding="utf-8") as file:
     file.seek(0)
     file.truncate()
     file.write(file_contents)
