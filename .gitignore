@@ -1,0 +1,3 @@
+# ignore all roms and save files
+*.gba
+*.sav

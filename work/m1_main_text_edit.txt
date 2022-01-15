@@ -121,7 +121,7 @@
 03C: 
 03C-E: 
 03D: @Did a poltergeist attack[BREAK]your house?[BREAK][PAUSE]It tore mine apart.[BREAK]
-03D-E: @Est-ce qu'un esprit[BREAK]frappeur a attaqué ta[BREAK]maison[4F]?[BREAK][PAUSE]L'un deux a réduit la[BREAK]mienne en morceaux.[BREAK]
+03D-E: @Est-ce qu'un esprit[BREAK]frappeur a attaqué ta[BREAK]maison[4F]?[BREAK][PAUSE]L'un d'eux a réduit la[BREAK]mienne en morceaux.[BREAK]
 03E: @I hear they locked the zoo[BREAK]up to keep any more animals[BREAK]from escaping.[BREAK][PAUSE]@They've all gone berserk,[BREAK]you see...[BREAK]
 03E-E: @Ils ont apparemment fermé[BREAK]le zoo pour éviter que plus[BREAK]d'animaux ne s'échappent.[BREAK][PAUSE]@Ils sont tous devenus[BREAK]enragés, t'imagines...[BREAK]
 03F: @Bread is great for when[BREAK]you're hungry,[BREAK][PAUSE]but I bet you could also[BREAK]use its crumbs to mark your[BREAK]trail.[BREAK][PAUSE]@...I guess it's really none[BREAK]of my business, though.[BREAK]
@@ -1078,7 +1078,7 @@
 20D: @Surely it must be[BREAK]hard carrying so[BREAK]much stuff...[BREAK]
 20D-E: @Ça doit être dur[BREAK]de porter autant[BREAK]d'affaires...[BREAK]
 20E: @[03 10]! [03 10]![BREAK][PAUSE]@It looks like you got your[BREAK]head handed to you.[BREAK][PAUSE]@So, how about giving it[BREAK]another shot?[BREAK]
-20E-E: @[03 10] ! [03 10] ![BREAK][PAUSE]@On dirait que tu as passé[BREAK]un sale quart d'heure.[BREAK][PAUSE]@Alors, que dirais-tu de[BREAK]tenter à nouveau ?[BREAK]
+20E-E: @[03 10] ! [03 10] ![BREAK][PAUSE]@On dirait que tu as subi[BREAK]un échec cuisant.[BREAK][PAUSE]@Alors, que dirais-tu de[BREAK]tenter à nouveau ?[BREAK]
 // line from EarthBound
 // line from EarthBound
 
@@ -1103,7 +1103,7 @@
 218: Ocean Overlook[BREAK]
 218-E: Panorama de l'océan[BREAK]
 219: @I don't think[BREAK]there's anyone here[BREAK]by that name,[BREAK][PAUSE]but perhaps I'm[BREAK]mistaken...[BREAK]
-219-E: @Il n'y a personne[BREAK]ici qui porte ce[BREAK]nom,[BREAK][PAUSE]mais je peux me[BREAK]tromper...[BREAK]
+219-E: @Je ne crois pas[BREAK]qu'il y a quelqu'un[BREAK]de ce nom-là ici,[BREAK][PAUSE]mais je peux me[BREAK]tromper...[BREAK]
 21A: @After being placed in the[BREAK]fountain,[BREAK][PAUSE]the Red Weed turned into a[BREAK]very energizing Magic Herb.[BREAK]
 21A-E: @Après avoir été déposée[BREAK]dans la fontaine,[BREAK][PAUSE]la Pousse rouge se[BREAK]transforme en une Herbe[BREAK]magique très énergisante.[BREAK]
 21B: @There's no one like[BREAK]that here![BREAK]
@@ -1543,9 +1543,9 @@
 2EB: @There's a church in the[BREAK]mountains further to the[BREAK]east.[BREAK][PAUSE]@(cough... cough...)[BREAK]
 2EB-E: @Il y a une église dans les[BREAK]montagnes plus loin vers[BREAK]l'est.[BREAK][PAUSE]@(tousse... tousse...)[BREAK]
 2EC: @You kids sure are energetic[BREAK]and carefree, wearing such[BREAK]light clothes out here![BREAK][PAUSE](cough... cough...)[BREAK]
-2EC-E: @Vous les enfants, vous êtes[BREAK]vraiment insouciants et[BREAK]plein d'énergie...[BREAK][PAUSE]Porter des habits aussi[BREAK]légers par ce temps... ![BREAK][PAUSE](tousse... tousse...)[BREAK]
+2EC-E: @Vous les enfants, vous êtes[BREAK]vraiment insouciants et[BREAK]pleins d'énergie...[BREAK][PAUSE]Porter des habits aussi[BREAK]légers par ce temps... ![BREAK][PAUSE](tousse... tousse...)[BREAK]
 2ED: @If you run into some camel[BREAK]bones in the Advent Desert,[BREAK]tell them I say hi.[BREAK][PAUSE]@That camel and I go way[BREAK]back.[BREAK]
-2ED-E: @Dans le désert Yucca, il y[BREAK]a un tas d'os de chameau.[BREAK][PAUSE]Si jamais tu le croises,[BREAK]passe-lui le bonjour de ma[BREAK]part.[BREAK][PAUSE]@C'est une très vieille[BREAK]connaissance.[BREAK]
+2ED-E: @Dans le désert Yucca, il y[BREAK]a un tas d'os de chameau.[BREAK][PAUSE]Si jamais tu tombes dessus,[BREAK]passe-lui le bonjour de ma[BREAK]part.[BREAK][PAUSE]@C'est une très vieille[BREAK]connaissance.[BREAK]
 2EE: @I can treat minor injuries[BREAK]here.[BREAK][PAUSE]@But if you're sick, you'll[BREAK]need to visit an actual[BREAK]hospital, okay?[BREAK][PAUSE]
 2EE-E: @J'ai de quoi soigner des[BREAK]blessures légères.[BREAK][PAUSE]@Mais si tu es malade, tu[BREAK]vas devoir aller dans un[BREAK]vrai hôpital, d'accord ?[BREAK][PAUSE]
 2EF: @I bet [03 11] will have a[BREAK]computer-related job in the[BREAK]future.[BREAK]
@@ -1563,17 +1563,17 @@
 2F5: @In a fight between you and[BREAK]me...[BREAK][PAUSE]I'm pretty sure I would[BREAK]lose.[BREAK]
 2F5-E: @Si on devait se battre toi[BREAK]et moi...[BREAK][PAUSE]Je suis quasi certain que[BREAK]je perdrais.[BREAK]
 2F6: @I'm tough.[BREAK][PAUSE]@But I'm mostly all talk.[BREAK]
-2F6-E: @Je suis un dur un cuire.[BREAK][PAUSE]@Enfin, je suis surtout une[BREAK]grande gueule.[BREAK]
+2F6-E: @Je suis un dur à cuire.[BREAK][PAUSE]@Enfin, je suis surtout un[BREAK]beau parleur.[BREAK]
 2F7: @Our boss [03 13] could[BREAK]totally beat you with just[BREAK]his pinkie if he wanted to![BREAK]
 2F7-E: @[03 13], notre chef, peux[BREAK]carrément te dézinguer rien[BREAK]qu'avec son petit doigt ![BREAK]
 2F8: @Did you make sure to read[BREAK]the sign?[BREAK]
 2F8-E: @As-tu bien lu la pancarte ?[BREAK]
 2F9: @If you ever come across a[BREAK]cactus with a face on it[BREAK]in a desert somewhere...[BREAK][PAUSE]...that would be utterly[BREAK]terrifying.[BREAK]
-2F9-E: @Si jamais tu croises un[BREAK]cactus avec un visage dans[BREAK]le désert...[BREAK][PAUSE]... ça serait carrément[BREAK]flippant.[BREAK]
+2F9-E: @Si jamais tu tombes sur un[BREAK]cactus avec un visage dans[BREAK]le désert...[BREAK][PAUSE]... ça sera carrément[BREAK]flippant.[BREAK]
 2FA: @Talk to the fisherman and[BREAK]he'll wind up talking your[BREAK]ears off.[BREAK]
-2FA-E: @Prends garde si tu parles[BREAK]au pêcheur, il va finir par[BREAK]te casser les oreilles.[BREAK]
+2FA-E: @Fais gaffe si tu commences[BREAK]à parler au pêcheur, il va[BREAK]plus jamais te lâcher.[BREAK]
 2FB: @Any first-grader can do a[BREAK]cartwheel, wouldn't you[BREAK]say?[BREAK]
-2FB-E: @N'importe quel élève de CP[BREAK]est capable de faire la[BREAK]roue, t'es d'accord ?[BREAK]
+2FB-E: @N'importe quel élève de CP[BREAK]est capable de faire la[BREAK]roue, t'es pas d'accord ?[BREAK]
 2FC: @Please take this elevator[BREAK]up to the observation deck.[BREAK]
 2FC-E: @Empruntez cet ascenseur[BREAK]pour accéder à la[BREAK]plateforme d'observation.[BREAK]
 2FD: @I saw smoke rising from an[BREAK]island you can see from[BREAK]the observation deck.[BREAK][PAUSE]@I wonder if someone lives[BREAK]there.[BREAK][PAUSE]@Man, if only I'd looked[BREAK]through the telescope...[BREAK]
@@ -1587,7 +1587,7 @@
 301: @I'm hungry.[BREAK]
 301-E: @J'ai faim.[BREAK]
 302: @Don't assume I'm an[BREAK]ordinary old guy.[BREAK][PAUSE]@...Is what my dad likes to[BREAK]say all the time.[BREAK]
-302-E: @Ne me prends pas pour un[BREAK]vieil homme banal.[BREAK][PAUSE]@... C'est ce que mon père[BREAK]me dit tout le temps.[BREAK]
+302-E: @Ne me traite pas comme un[BREAK]petit vieux ordinaire.[BREAK][PAUSE]@... C'est ce que mon père[BREAK]me dit tout le temps.[BREAK]
 303: @You're late for class![BREAK]
 303-E: @T'es en retard pour les[BREAK]cours ![BREAK]
 304: @Did you see a strange[BREAK]teacher in the science lab?[BREAK][PAUSE]@...Because I did.
@@ -1631,7 +1631,7 @@
 317: @Pleasant dreams![BREAK]
 317-E: @Bonne nuit ![BREAK]
 318: @Good morning.[BREAK][PAUSE]@Please come back again.[BREAK]We look forward to it.[BREAK]
-318-E: @Bonjour.[BREAK][PAUSE]@Nous nous réjouissons de ta[BREAK]prochaine visite.[BREAK]
+318-E: @Bonnne journée.[BREAK][PAUSE]@Nous nous réjouissons de ta[BREAK]prochaine visite.[BREAK]
 319: @[03 1B] was just[BREAK]brought in, and is[BREAK]still unconscious.[BREAK][PAUSE]@Please pay $[03 1E][BREAK]for the doctor's[BREAK]fee.[BREAK]
 319-E: @On a pris en charge[BREAK][03 1B], toujours[BREAK]sans connaissance.[BREAK][PAUSE]@Les honoraires du[BREAK]médecin s'élèvent[BREAK]à [03 1E]$[BREAK]
 31A: @Who are you here to[BREAK]see?[BREAK]
@@ -1639,11 +1639,11 @@
 31B: 
 31B-E: 
 31C: @Dad's not home.[BREAK][PAUSE]@I don't understand money,[BREAK]but I can do other stuff.[BREAK][PAUSE]@So don't worry. You can[BREAK]stay here tonight if you[BREAK]want.[BREAK]
-31C-E: @Papa n'est pas là.[BREAK][PAUSE]@Je sais pas comment marche[BREAK]l'argent, mais je peux[BREAK]faire d'autres choses.[BREAK][PAUSE]@Vous inquiétez pas, vous[BREAK]pouvez passer la nuit ici[BREAK]si vous voulez.[BREAK]
+31C-E: @Papa est pas là.[BREAK][PAUSE]@Je sais pas comment marche[BREAK]l'argent, mais je peux[BREAK]faire d'autres trucs.[BREAK][PAUSE]@Donc vous inquiétez pas,[BREAK]vous pouvez passer la nuit[BREAK]ici si vous voulez.[BREAK]
 31D: @Good morning.[BREAK][PAUSE]@Stay again sometime, okay?[BREAK][PAUSE]@It gets lonely here all by[BREAK]myself.[BREAK]
 31D-E: @Bonjour.[BREAK][PAUSE]@Revenez passer la nuit ici[BREAK]une prochaine fois, OK ?[BREAK][PAUSE]@Je m'ennuie ici tout seul.[BREAK]
 31E: @Oh? You're not going to[BREAK]stay?[BREAK][PAUSE]@But I can do this work just[BREAK]fine even when Dad's[BREAK]gone...[BREAK]
-31E-E: @Oh ? Vous voulez pas[BREAK]rester ?[BREAK][PAUSE]@Mais je sais me débrouiller[BREAK]même quand Papa est pas à[BREAK]la maison...[BREAK]
+31E-E: @Oh ? Vous voulez pas[BREAK]rester ?[BREAK][PAUSE]@Mais je sais faire le[BREAK]boulot même quand Papa est[BREAK]pas à la maison...[BREAK]
 31F: @Oh, I can't let you in[BREAK]without tickets.[BREAK]
 31F-E: @Hum, je ne peux pas vous[BREAK]laisser entrer sans billet.[BREAK]
 320: @But...[BREAK]There was nothing there.[BREAK]
@@ -1657,7 +1657,7 @@
 324: @You haven't left[BREAK]any items with me.[BREAK]
 324-E: @Tu ne m'as laissé[BREAK]aucun objet.[BREAK]
 325: @Hold on...[BREAK][PAUSE]@The storeroom is[BREAK]full,[BREAK][PAUSE]so I can't store[BREAK]any more stuff.[BREAK]
-325-E: @Une minute...[BREAK][PAUSE]@Mon espace de[BREAK]stockage est plein.[BREAK][PAUSE]Je ne peux rien[BREAK]stocker de plus.[BREAK]
+325-E: @Une minute...[BREAK][PAUSE]@Ma réserve est[BREAK]pleine.[BREAK][PAUSE]Je ne peux rien[BREAK]stocker de plus.[BREAK]
 326: @WELCOME[BREAK]
 326-E: @BONJOUR[BREAK]
 327: @INSUFFICIENT FUNDS[BREAK]
@@ -1671,7 +1671,7 @@
 32B: @THANK YOU[BREAK]
 32B-E: @MERCI[BREAK]
 32C: @There's an old music box[BREAK]hidden inside the doll.[BREAK][PAUSE]@[03 3E] opened the music[BREAK]box.[BREAK][PAUSE]@A broken melody began to[BREAK]play.[BREAK]
-32C-E: @Une vieille boîte à musique[BREAK]est cachée à l'intérieur de[BREAK]la poupée.[BREAK][PAUSE]@[03 3E] ouvre la boîte à[BREAK]musique.[BREAK][PAUSE]@Une mélodie incomplète[BREAK]commence à être jouée.[BREAK]
+32C-E: @Une vieille boîte à musique[BREAK]est cachée à l'intérieur de[BREAK]la poupée.[BREAK][PAUSE]@[03 3E] ouvre la boîte à[BREAK]musique.[BREAK][PAUSE]@Une mélodie sacadée[BREAK]commence à être jouée.[BREAK]
 32D: @ ???[BREAK]
 32D-E: @ ???[BREAK]
 32E: @Thank you.[BREAK]
@@ -2366,7 +2366,7 @@
 485: PSI Magnet
 485-E: Aimant PSI
 486: Shield Off
-486-E: Anti-boucl.
+486-E: Anti-Bouclr
 487: PSI Block
 487-E: Blocage PSI
 488: Offense Up
@@ -2472,9 +2472,9 @@
 4BA: Antidote
 4BA-E: Antidote
 4BB: Real Rocket
-4BB-E: Vraie fusée
+4BB-E: VraieFusée
 4BC: Time Machine
-4BC-E: Mach. temps
+4BC-E: MachineTemp
 4BD: 
 4BD-E: 
 4BE: 
@@ -3198,7 +3198,7 @@
 625: 
 625-E: 
 626: Red Snake
-626-E: Serp. rouge
+626-E: SerpentRouge
 627: Lone Wolf
 627-E: Loup isolé
 628: Polar Bear
