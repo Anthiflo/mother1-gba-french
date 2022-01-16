@@ -1693,9 +1693,9 @@
 336: @[03 16][03 17] unlocked[BREAK]the door and went inside.[BREAK]
 336-E: @[03 17][03 16][BREAK]déverrouille la porte et[BREAK]pénètre à l'intérieur.[BREAK]
 337:   Save      Nothing
-337-E:   Sauver   Rien
+337-E:   Sauvegarder  Rien
 338:   Continue  End
-338-E:   Jouer    Arrêter
+338-E:   Continuer    Arrêter
 339: @[03 3E] picked up the[BREAK]telephone.[BREAK]
 339-E: @[03 3E] décroche le[BREAK]téléphone.[BREAK]
 33A: @I'm sorry, but you[BREAK]don't seem to have[BREAK]enough money.[BREAK]
