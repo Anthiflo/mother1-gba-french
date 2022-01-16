@@ -793,6 +793,76 @@ ldr  r0,[r0,#0]
 pop  {pc}
 
 
+yes_no_cursor:
+push    {r4,r5,lr}
+add     sp,#-0x18
+mov     r5,r0
+mov     r1,r13
+ldr     r0,=#0x8F29FA0
+ldmia   r0!,{r2-r4}
+stmia   r1!,{r2-r4}
+add     r1,sp,#0xC
+ldr     r0,=#0x20001
+str     r0,[sp,#0xC]
+ldr     r0,=#0xF0002    // Space between yes/no cursors
+
+ldr     r3,=#0x2014300
+ldrh    r3,[r3,#0]
+ldr     r4,=#0x337      // If not line 337 (Save/Nothing)...
+cmp     r3,r4
+beq     +
+add     r4,#1           // nor line 338 (Continue/End)...
+cmp     r3,r4
+beq     +
+ldr     r0,=#0xB0002    // then revert to default space between yes/no cursors
++
+str     r0,[r1,#0x4]
+mov     r0,#0x0
+str     r0,[r1,#0x8]
+ldr     r2,=#0x30034AC
+ldrb    r0,[r1,#0x2]
+ldrb    r3,[r2,#0]
+add     r0,r0,r3
+strb    r0,[r1,#0x2]
+ldr     r2,=#0x30034D4
+ldrb    r0,[r1,#0x3]
+ldrb    r2,[r2,#0]
+add     r0,r0,r2
+strb    r0,[r1,#0x3]
+ldrb    r0,[r1,#0x6]
+add     r3,r3,r0
+strb    r3,[r1,#0x6]
+ldrb    r3,[r1,#0x7]
+add     r2,r2,r3
+strb    r2,[r1,#0x7]
+mov     r4,r1
+-
+mov     r0,r4
+mov     r1,#0x0
+bl      0x8F0CC98
+mov     r2,r0
+cmp     r2,#0x0
+bge     +
+cmp     r5,#0x0
+beq     -
++
+ldr     r1,=#0x30034B8
+ldr     r0,=#0x30034AC
+ldrb    r0,[r0,#0]
+strb    r0,[r1,#0]
+ldr     r1,=#0x30034CC
+mov     r0,#0x80
+ldrb    r4,[r1,#0]
+orr     r0,r4
+strb    r0,[r1,#0]
+mov     r0,r2
+add     sp,#0x18
+pop     {r4,r5}
+pop     {r1}
+bx      r1
+
+
+
 //======================================================================
 // Intro screen stuff
 //======================================================================

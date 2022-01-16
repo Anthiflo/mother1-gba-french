@@ -243,6 +243,10 @@ org $8FE4400; incbin m1_window_money.bin
 // change currency display in shops
 org $8F0BAD8; bl change_dollar_sign_pos_shop; nop; nop; nop; nop
 
+org $8F05A6A; bl yes_no_cursor
+org $8F04FD8; bl yes_no_cursor
+org $8F07FCE; bl yes_no_cursor
+
 //========================================================================================
 //                  FIXES TO BUGS IN THE ORIGINAL MOTHER 1 PROGRAMMING
 //========================================================================================
