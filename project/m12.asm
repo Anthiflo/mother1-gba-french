@@ -316,9 +316,6 @@ org $8F0D63C; bl producescreen2; b $8F0D664
 org $8F0D66E; nop
 org $8F0D676; nop
 
-// make the "CD" machine say "ATM" instead
-//org $8F328F0; incbin m1_gfx_atm.bin
-
 // change some of the graphical text used in the end credits
 org $8F5FF2C; incbin m1_gfx_credits.bin
 
@@ -329,6 +326,7 @@ org $8F5CB1C; incbin m1_gfx_map.bin
 org $8F2C720; incbin m1_gfx_dept_hotel_1.bin
 org $8F2CF20; incbin m1_gfx_dept_hotel_2.bin
 
+// translate stores categories
 org $8F013EA; bl alt_tiles_pointers.check_alt_tilesets
 
 define alt_tiles_table $8FFEC00
@@ -341,12 +339,12 @@ org {new_shop_tileset}; incbin m1_gfx_store_2.bin
 org $8F547A0; incbin m1_shop_arrangements.bin
 org $8F53DA0; incbin m1_shop_subquads.bin
 
-// Change sport subquads
+// change sport subquads
 org $8F41DA1; db $6A; db $69
 org $8F3D619; db $6A; db $69
 org $8F3D5A9; db $6A; db $69
 
-// Change palettes
+// change palettes for sport
 org $8F55030; incbin m1_shop_sport_palette.bin
 org $8F54F05; db $C4
 org $8F54E46; db $C9

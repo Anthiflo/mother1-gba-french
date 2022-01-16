@@ -984,11 +984,11 @@ pop  {pc}
 
 //======================================================================
 
-//org $8B33000;
+org $8B33000;
 //disclaimer_palette:
-//incbin intro_screen_pal.bin
+incbin intro_screen_pal.bin
 
 //disclaimer_graphics:
-//incbin intro_screen_gfx.bin
+incbin intro_screen_gfx.bin
 
-//org $800027A; bl intro_screen
+org $800027A; bl intro_screen

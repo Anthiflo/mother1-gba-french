@@ -6,3 +6,4 @@ copy m12.gba test.gba
 @xkas test.gba m12.asm
 @insert.exe
 @del m1_main_text.txt
+pause
