@@ -1054,11 +1054,17 @@ pop  {pc}
 
 //======================================================================
 
+//insert intro screen
 org $8B33000;
-//disclaimer_palette:
+disclaimer_palette:
 incbin intro_screen_pal.bin
 
-//disclaimer_graphics:
+disclaimer_graphics:
 incbin intro_screen_gfx.bin
 
 org $800027A; bl intro_screen
+
+//======================================================================
+
+//autoboot Mother 1 by Chaos Rush
+org $80001F0; db $F0,$00,$F0
