@@ -2042,7 +2042,7 @@
 3E3: @Do you need anything else?[BREAK]
 3E3-E: @As-tu besoin d'autre[BREAK]chose ?[BREAK]
 3E4: @Welcome, [03 16]...[BREAK][PAUSE]@I always had faith that you[BREAK]would make it this far.[BREAK][PAUSE]@Long ago, your[BREAK]great-grandmother Maria[BREAK]filled her eight melodies[BREAK][PAUSE]with all the love she could[BREAK]and scattered them around[BREAK]as gifts for you,[BREAK][PAUSE]even though she had never[BREAK]seen you before...[BREAK][PAUSE]
-3E4-E: @Bienvenue, [03 16]...[BREAK][PAUSE]@J'ai toujours su que tu[BREAK]arriverais jusqu'ici.[BREAK][PAUSE]@Il y a longtemps, ton[BREAK]arrière-grand-mère Maria[BREAK]emplit ses huits mélodies[BREAK][PAUSE]de tout son amour et les[BREAK]dispersa un peu partout[BREAK]comme présents pour toi,[BREAK][PAUSE]alors même qu'elle ne[BREAK]t'avait jamais rencontré...[BREAK][PAUSE]
+3E4-E: @Bienvenue, [03 16]...[BREAK][PAUSE]@J'ai toujours su que tu[BREAK]arriverais jusqu'ici.[BREAK][PAUSE]@Il y a longtemps, ton[BREAK]arrière-grand-mère Maria[BREAK]emplit ses huit mélodies[BREAK][PAUSE]de tout l'amour qu'elle[BREAK]portait et les dispersa en[BREAK]différents lieux[BREAK][PAUSE]comme des présents pour[BREAK]toi, avant même de t'avoir[BREAK]rencontré...[BREAK][PAUSE]
 3E5: @Bathed in the glow of the[BREAK]crystal, everyone was[BREAK]completely healed![BREAK]
 3E5-E: @Baigné dans la lueur du[BREAK]cristal, tout le monde a[BREAK]été complètement soigné ![BREAK]
 3E6: 
