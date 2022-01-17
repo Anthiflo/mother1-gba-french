@@ -314,9 +314,9 @@ parsecopy:
   + 
   cmp  r3,#0x23; bne +; bl control_code_23; b .loop_start
   + 
-  cmp  r3,#0xF0; bne +; bl control_code_F0; b .loop_start
+  cmp  r3,#0xF8; blt +; bl control_code_won_item; b .loop_start
   + 
-  cmp  r3,#0xF1; bne +; bl control_code_F1; b .loop_start
+  cmp  r3,#0xF0; blt +; bl control_code_item; b .loop_start
   + 
 
   .copy_control_code:
@@ -609,11 +609,13 @@ control_code_22:
 //----------------------------------------------------------------------------------------
 // this is a custom battle control code that selects a/an/the for when an item is used
 
-control_code_F0:
+control_code_item:
   push {lr}
   push {r2-r7}
   push {r0}
 
+  mov  r0,#0x7
+  and  r3,r0
   ldr  r5,=#0x8F70840
   ldr  r4,=#0x3003690
   ldrh r0,[r4,#0x0]
@@ -624,9 +626,10 @@ control_code_F0:
   ldrb r0,[r5,r0]        // we now have the item class
   mov  r4,#6
   mul  r0,r4             // 6 articles per class
+  add  r0,r0,r3
   lsl  r0,r0,#0x3        // 8 characters per article
   ldr  r5,=#0x8FFE100
-  add  r0,r0,r5          //we now have the address of the custom article string to copy
+  add  r0,r0,r5          // we now have the address of the custom article string to copy
   
   bl   strcopy
   pop  {r0}
@@ -639,17 +642,24 @@ control_code_F0:
 //----------------------------------------------------------------------------------------
 // this is a custom battle control code that selects a/an/the when an item is won in battle
 
-control_code_F1:
+control_code_won_item:
   push {lr}
   push {r2-r7}
   push {r0}
 
+  mov  r0,#0x7
+  and  r3,r0
   ldr  r4,=#0x30007D4
   ldrb r0,[r4,#0x0]      // this now has the item number being used
-  lsl  r0,r0,#0x4
   ldr  r5,=#0x8FFE000
+  ldrb r0,[r5,r0]        // we now have the item class
+  mov  r4,#6
+  mul  r0,r4             // 6 articles per class
+  add  r0,r0,r3
+  lsl  r0,r0,#0x3        // 8 characters per article
+  ldr  r5,=#0x8FFE100
   add  r0,r0,r5          // we now have the address of the custom article string to copy
-
+  
   bl   strcopy
   pop  {r0}
   add  r0,#0x2

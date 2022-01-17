@@ -4248,7 +4248,7 @@
 832: [03 21] was revived!!!
 832-E: [03 21] revient à la vie[4F]!!!
 833: [03 20] used [03 F0][03 22]!
-833-E: [03 20] utilise [03 F0][03 22][4F]!
+833-E: [03 20] utilise [03 F1][03 22][4F]!
 834: [03 20] tried [03 22]!
 834-E: [03 20] tente [03 22][4F]!
 835: [03 20] can't use [03 22]!
@@ -4330,7 +4330,7 @@
 85B: [03 20] escaped from the rope!
 85B-E: [03 20] s'est défait de ses liens[4F]!
 85C: Picked up [03 F1][03 1D]![BREAK][PAUSE][03 01]
-85C-E: Vous rammassez [03 F1][03 1D]![BREAK][PAUSE][03 01]
+85C-E: Vous ramassez [03 F8][03 1D]![BREAK][PAUSE][03 01]
 85D: [03 21]'s confusion went away!
 85D-E: La confusion de [03 21] a disparue[4F]!
 85E: [03 20] woke up!
