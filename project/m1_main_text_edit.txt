@@ -4056,213 +4056,213 @@
 7D2: 
 7D2-E: 
 7D3: [03 20] suddenly attacked!
-7D3-E: [03 20] attaque soudainement[4F]!
+7D3-E: [03 E0][03 20] attaque soudainement[4F]!
 7D4: [03 20] attacks!
-7D4-E: [03 20] attaque[4F]!
+7D4-E: [03 E2][03 20] attaque[4F]!
 7D5: [03 20] fired the tank cannon!
-7D5-E: [03 20] fait feu avec le canon du char[4F]!
+7D5-E: [03 E2][03 20] fait feu avec le canon du char[4F]!
 7D6: [03 21] dodged quickly!
-7D6-E: [03 21] esquive rapidement[4F]!
+7D6-E: [03 EA][03 21] esquive rapidement[4F]!
 7D7: Combo attack!
 7D7-E: Attaque combo[4F]!
 7D8: [03 20] bit [03 21]!
-7D8-E: [03 20] mord [03 21][4F]!
+7D8-E: [03 E2][03 20] mord [03 EB][03 21][4F]!
 7D9: [03 20] scratched [03 21]!
-7D9-E: [03 20] griffe [03 21][4F]!
+7D9-E: [03 E2][03 20] griffe [03 EB][03 21][4F]!
 7DA: [03 20] bore down on [03 21]!
-7DA-E: [03 20] fonce sur [03 21][4F]!
+7DA-E: [03 E2][03 20] fonce sur [03 EB][03 21][4F]!
 7DB: [03 2C]
 7DB-E: [03 2C]
 7DC: [03 21] took [03 23] damage!
-7DC-E: [03 21] perd [03 23] PV[4F]!
+7DC-E: [03 EA][03 21] perd [03 23] PV[4F]!
 7DD: [BREAK]         YOU WON![BREAK]
 7DD-E: [BREAK]        VICTOIRE[4F]![BREAK]
 7DE: [BREAK][03 16][03 17] was defeated...[BREAK]
 7DE-E: [BREAK][03 17][03 16] a été vaincu...[BREAK]
 7DF: Defeated the [03 21]!
-7DF-E: Vous avez vaincu [03 21][4F]!
+7DF-E: Vous avez vaincu [03 EB][03 21][4F]!
 7E0: [03 21] got tired and collapsed...
-7E0-E: [03 21] s'évanouit...
+7E0-E: [03 EA][03 21] s'évanouit...
 7E1: But [03 21] was already gone.
-7E1-E: Mais [03 21] n'est plus là.
+7E1-E: Mais [03 EB][03 21] n'est plus là.
 7E2: No effect on [03 21]!
-7E2-E: Aucun effet sur [03 21][4F]!
+7E2-E: Aucun effet sur [03 EB][03 21][4F]!
 7E3: [03 20] went berserk!
-7E3-E: [03 20] entre dans une rage folle[4F]!
+7E3-E: [03 E2][03 20] entre dans une rage folle[4F]!
 7E4: [03 20] ran out of strength!
-7E4-E: [03 20] n'a plus de force[4F]!
+7E4-E: [03 E2][03 20] n'a plus de force[4F]!
 7E5: [03 20]'s final desperation attack!!!
-7E5-E: [03 20] lance une ultime attaque désespérée[4F]!!!
+7E5-E: [03 E2][03 20] lance une ultime attaque désespérée[4F]!!!
 7E6: You can't grasp the form of [03 20]'s attack!
-7E6-E: Vous ne parvenez pas à saisir la nature de l'attaque de [03 20][4F]!
+7E6-E: Vous ne parvenez pas à saisir la nature de l'attaque [03 E5][03 20][4F]!
 7E7: [03 21] was enveloped in a barrier!
-7E7-E: [03 21] est protégé par une barrière[4F]!
+7E7-E: [03 EA][03 21] est protégé par une barrière[4F]!
 7E8: "You're a disgrace to your mom!"
 7E8-E: "Tu fais honte à ta mère!"
 7E9: [03 21] turned to stone!
-7E9-E: [03 21] se transforme en pierre[4F]!
+7E9-E: [03 EA][03 21] se transforme en pierre[4F]!
 7EA: [03 20] spewed a a sticky substance!
-7EA-E: [03 20] crache une substance collante[4F]!
+7EA-E: [03 E2][03 20] crache une substance collante[4F]!
 7EB: [03 21] was blinded!
-7EB-E: [03 21] est aveuglé[4F]!
+7EB-E: [03 EA][03 21] est aveuglé[03 EC][4F]!
 7EC: [03 20] is tied up...
-7EC-E: [03 20] est ligoté...
+7EC-E: [03 E2][03 20] est ligoté...
 7ED: [03 20] let out a strange howl!
-7ED-E: [03 20] pousse un hurlement étrange[4F]!
+7ED-E: [03 E2][03 20] pousse un hurlement étrange[4F]!
 7EE: [03 20] exploded!
-7EE-E: [03 20] explose[4F]!
+7EE-E: [03 E2][03 20] explose[4F]!
 7EF: [03 20] burst into flames!
-7EF-E: [03 20] prend feu[4F]!
+7EF-E: [03 E2][03 20] prend feu[4F]!
 7F0: [03 21]'s Offense went up by [03 23]!
-7F0-E: L'attaque de [03 21] augmente de [03 23][4F]!
+7F0-E: L'attaque [03 ED][03 21] augmente de [03 23][4F]!
 7F1: [03 21]'s Offense went down by [03 23]!
-7F1-E: L'attaque de [03 21] diminue de [03 23][4F]!
+7F1-E: L'attaque [03 ED][03 21] diminue de [03 23][4F]!
 7F2: [03 21]'s Defense went up by [03 23]!
-7F2-E: La défense de [03 21] augmente de [03 23][4F]!
+7F2-E: La défense [03 ED][03 21] augmente de [03 23][4F]!
 7F3: [03 21]'s Speed went went up by [03 23]!
-7F3-E: La vitesse de [03 21] augmente de [03 23][4F]!
+7F3-E: La vitesse [03 ED][03 21] augmente de [03 23][4F]!
 7F4: [03 3C] Offense [03 23]
 7F4-E: [03 3C] Attaque [03 23]
 7F5: [03 3C] Defense [03 23]
 7F5-E: [03 3C] Défense [03 23]
 7F6: [03 21]'s Fight went down by [03 23]!
-7F6-E: La fougue de [03 21] diminue de [03 23][4F]!
+7F6-E: La fougue [03 ED][03 21] diminue de [03 23][4F]!
 7F7: [03 21]'s Defense went down by [03 23]!
-7F7-E: La défense de [03 21] diminue de [03 23][4F]!
+7F7-E: La défense [03 ED][03 21] diminue de [03 23][4F]!
 7F8: [03 20] smiled boldly!
 7F8-E: [03 20] sourit avec insolence[4F]!
 7F9: [03 21]'s Fight went up by [03 23]!
-7F9-E: La fougue de [03 21] augmente de [03 23][4F]!
+7F9-E: La fougue [03 ED][03 21] augmente de [03 23][4F]!
 7FA: [03 20] flew into a rage!
-7FA-E: [03 20] se met en colère[4F]!
+7FA-E: [03 E2][03 20] se met en colère[4F]!
 7FB: [03 21]'s Speed went down by [03 23]!
-7FB-E: La vitesse de [03 21] diminue de [03 23][4F]!
+7FB-E: La vitesse [03 ED][03 21] diminue de [03 23][4F]!
 7FC: [03 20] did something disturbing!
-7FC-E: [03 20] fait quelque chose de dérangeant[4F]!
+7FC-E: [03 E2][03 20] fait quelque chose de dérangeant[4F]!
 7FD: [03 20] called for help!
-7FD-E: [03 20] appelle à l'aide[4F]!
+7FD-E: [03 E2][03 20] appelle à l'aide[4F]!
 7FE: [03 20] sowed some seeds!
-7FE-E: [03 20] sème des graines[4F]!
+7FE-E: [03 E2][03 20] sème des graines[4F]!
 7FF: For some reason, [03 21]'s experience points went up!
-7FF-E: Pour une raison inconnue, les points d'expérience de [03 21] augmentent[4F]!
+7FF-E: Pour une raison inconnue, les points d'expérience [03 ED][03 21] augmentent[4F]!
 800: [03 20] burst into laughter!
-800-E: [03 20] éclate de rire[4F]!
+800-E: [03 E2][03 20] éclate de rire[4F]!
 801: The tank was scrapped...
 801-E: Le char a été démoli...
 802: [03 20] said something scary!
-802-E: [03 20] dit quelque chose de terrifiant[4F]!
+802-E: [03 E2][03 20] dit quelque chose de terrifiant[4F]!
 803: [03 20] said something nasty!
-803-E: [03 20] dit quelque chose de dégoûtant[4F]!
+803-E: [03 E2][03 20] dit quelque chose de dégoûtant[4F]!
 804: [03 20] is trying to play dead...
-804-E: [03 20] essaie de faire le mort...
+804-E: [03 E2][03 20] essaie de faire le mort...
 805: It was effective!
 805-E: C'est très efficace[4F]!
 806: It wasn't very convincing.
 806-E: Ce n'est pas très convaincant.
 807: [03 21] became angry!
-807-E: [03 21] se met en colère[4F]!
+807-E: [03 EA][03 21] se met en colère[4F]!
 808: [03 21] fell into a critical state!
-808-E: [03 21] entre dans un état critique[4F]!
+808-E: [03 EA][03 21] entre dans un état critique[4F]!
 809: [03 21] lost all sense of the situation!
-809-E: [03 21] perd tout sens de la situation[4F]!
+809-E: [03 EA][03 21] perd tout sens de la situation[4F]!
 80A: [03 20] has lost sense of the situation.
-80A-E: [03 20] a perdu tout sens de la situation.
+80A-E: [03 E2][03 20] a perdu tout sens de la situation.
 80B: [03 21] fell asleep!
-80B-E: [03 21] s'endort[4F]!
+80B-E: [03 EA][03 21] s'endort[4F]!
 80C: [03 20] is asleep...
-80C-E: [03 20] dort profondément...
+80C-E: [03 E2][03 20] dort profondément...
 80D: [03 21] recovered [03 23] PP!
-80D-E: [03 21] récupère [03 23] PP[4F]!
+80D-E: [03 EA][03 21] récupère [03 23] PP[4F]!
 80E: [03 21] recovered [03 23] HP!
-80E-E: [03 21] récupère [03 23] PV[4F]!
+80E-E: [03 EA][03 21] récupère [03 23] PV[4F]!
 80F: [03 20] replenished energy!
-80F-E: [03 20] est réalimenté en énergie[4F]!
+80F-E: [03 E2][03 20] est réalimenté en énergie[4F]!
 810: But no one came.
 810-E: Mais personne ne vient.
 811: (silence...)
 811-E: (silence...)
 812: [03 21] joined the battle!
-812-E: [03 21] rejoint le combat[4F]!
+812-E: [03 E8][03 21] rejoint le combat[4F]!
 813: [03 20] ran away!
-813-E: [03 20] s'enfuit[4F]!
+813-E: [03 E2][03 20] s'enfuit[4F]!
 814: ...It didn't work out.
 814-E: ... Ça n'a pas fonctionné.
 815: [03 20] tripped and fell!
-815-E: [03 20] trébuche et tombe[4F]!
+815-E: [03 E2][03 20] trébuche et tombe[4F]!
 816: [03 20] can't move...
-816-E: [03 20] ne peut pas bouger...
+816-E: [03 E2][03 20] ne peut pas bouger...
 817: [03 20] has been petrified...
-817-E: [03 20] se change en pierre...
+817-E: [03 E2][03 20] se change en pierre...
 818: Stole [03 23] PP from [03 21]!
 818-E: [03 23] PP volés à [03 21][4F]!
 819: [03 21] is immobilized!
-819-E: [03 21] est immobilisé[4F]!
+819-E: [03 EA][03 21] est immobilisé[03 EC][4F]!
 81A: [03 20] vented exhaust fumes!
-81A-E: [03 20] évacue ses gaz d'échappement[4F]!
+81A-E: [03 E2][03 20] évacue ses gaz d'échappement[4F]!
 81B: [03 21] was poisoned!
-81B-E: [03 21] est empoisonné[4F]!
+81B-E: [03 EA][03 21] est empoisonné[03 EC][4F]!
 81C: [03 21] was dehydrated!
-81C-E: [03 21] est déshydraté[4F]!
+81C-E: [03 EA][03 21] est déshydraté[03 EC][4F]!
 81D: [03 21]'s powers were blocked!
-81D-E: Les pouvoirs de [03 21] ont été bloqués[4F]!
+81D-E: Les pouvoirs [03 ED][03 21] ont été bloqués[4F]!
 81E: [03 21] was tied up with rope!
-81E-E: [03 21] est ligoté avec la corde[4F]!
+81E-E: [03 EA][03 21] est [03 EC]ligoté avec la corde[4F]!
 81F: [03 21] was enveloped by a shield!
-81F-E: [03 21] est enveloppé d'un bouclier[4F]!
+81F-E: [03 EA][03 21] est enveloppé d'un bouclier[4F]!
 820: Missed!
 820-E: Raté[4F]!
 821: But the PSI was blocked!
 821-E: Mais la PSI est bloquée[4F]!
 822: But [03 21]'s Franklin Badge reflected the beam back!
-822-E: Mais le Badge Franklin de [03 21] renvoie le rayon[4F]!
+822-E: Mais le Badge Franklin [03 ED][03 21] renvoie le rayon[4F]!
 823: [03 21] reflected the attack back!
-823-E: [03 21] renvoie l'attaque[4F]!
+823-E: [03 EA][03 21] renvoie l'attaque[4F]!
 824: Not enough PP!
 824-E: Pas assez de PP[4F]!
 825: There was no effect on [03 21]!
-825-E: Ça n'a pas d'effet sur [03 21]!
+825-E: Ça n'a pas d'effet sur [03 EB][03 21]!
 826: [03 20] had an asthma attack![BREAK]... (cough cough cough)
-826-E: [03 20] est pris d'une crise d'asthme[4F]![BREAK]... (kof kof kof)
+826-E: [03 E2][03 20] est pris d'une crise d'asthme[4F]![BREAK]... (kof kof kof)
 827: [03 20] is praying!
-827-E: [03 20] prie[4F]!
+827-E: [03 E2][03 20] prie[4F]!
 828: [03 20] greeted everyone politely and left.
-828-E: [03 20] salue tout le monde poliment et s'en va.
+828-E: [03 E2][03 20] salue tout le monde poliment et s'en va.
 829: [03 20] is in a defensive stance!
-829-E: [03 20] adopte une posture défensive[4F]!
+829-E: [03 E2][03 20] adopte une posture défensive[4F]!
 82A: [03 20] sang!
-82A-E: [03 20] chante[4F]!
+82A-E: [03 E2][03 20] chante[4F]!
 82B: [03 20] is guarding.
-82B-E: [03 20] se protège.
+82B-E: [03 E2][03 20] se protège.
 82C: [03 20] edged closer!
-82C-E: [03 20] se rapproche[4F]!
+82C-E: [03 E2][03 20] se rapproche[4F]!
 82D: The poison disappeared from [03 21]'s body!
-82D-E: Le poison disparaît du corps de [03 21][4F]!
+82D-E: Le poison disparaît du corps [03 ED][03 21][4F]!
 82E: [03 21] went back to normal!
-82E-E: [03 21] revient à la normale[4F]!
+82E-E: [03 EA][03 21] revient à la normale[4F]!
 82F: [03 21] writhed around in itchy pain!
-82F-E: [03 21] souffre d'horribles démangeaisons[4F]!
+82F-E: [03 EA][03 21] souffre d'horribles démangeaisons[4F]!
 830: [03 21] is able to move again!
-830-E: [03 21] peut à nouver bouger[4F]!
+830-E: [03 EA][03 21] peut à nouver bouger[4F]!
 831: [03 21] woke up!
-831-E: [03 21] se réveille[4F]!
+831-E: [03 EA][03 21] se réveille[4F]!
 832: [03 21] was revived!!!
-832-E: [03 21] revient à la vie[4F]!!!
+832-E: [03 EA][03 21] revient à la vie[4F]!!!
 833: [03 20] used [03 F0][03 22]!
-833-E: [03 20] utilise [03 F1][03 22][4F]!
+833-E: [03 E2][03 20] utilise [03 F1][03 22][4F]!
 834: [03 20] tried [03 22]!
-834-E: [03 20] tente [03 22][4F]!
+834-E: [03 E2][03 20] tente [03 22][4F]!
 835: [03 20] can't use [03 22]!
-835-E: [03 20] ne peut pas utiliser [03 22]!
+835-E: [03 E2][03 20] ne peut pas utiliser [03 22]!
 836: [03 20] is sizing up the situation...
-836-E: [03 20] prend la mesure de la situation...
+836-E: [03 E2][03 20] prend la mesure de la situation...
 837: [03 20] did something strange!
-837-E: [03 20] fait quelque chose d'étrange[4F]!
+837-E: [03 E2][03 20] fait quelque chose d'étrange[4F]!
 838: [03 20] is spacing out.
-838-E: [03 20] est en train de rêvasser.
+838-E: [03 E2][03 20] est en train de rêvasser.
 839: [03 21]'s shield was destroyed!
-839-E: Le bouclier de [03 21] a été détruit[4F]!
+839-E: Le bouclier [03 ED][03 21] a été détruit[4F]!
 83A: [03 20] checked [03 21]!
-83A-E: [03 20] analyse [03 21][4F]!
+83A-E: [03 E2][03 20] analyse [03 EB][03 21][4F]!
 83B: [03 3C] Strong against heat
 83B-E: [03 3C] Résiste à la chaleur
 83C: [03 3C] Strong against cold
@@ -4274,45 +4274,45 @@
 83F: [03 3C] Strong against sprays
 83F-E: [03 3C] Résiste aux sprays
 840: [03 21]'s asthma attack went away!
-840-E: La crise d'asthme de [03 21] s'est arrêtée[4F]!
+840-E: La crise d'asthme [03 ED][03 21] s'est arrêtée[4F]!
 841: [03 21] softened!
-841-E: Le corps de [03 21] n'est plus pétrifié[4F]!
+841-E: Le corps [03 ED][03 21] n'est plus pétrifié[4F]!
 842: "I like you!"
 842-E: "Je t'aime très fort[4F]!"
 843: "I hate you!"
 843-E: "Je te déteste[4F]!"
 844: [03 21] had an asthma attack!
-844-E: [03 21] est pris d'une crise d'asthme[4F]!
+844-E: [03 EA][03 21] est pris d'une crise d'asthme[4F]!
 845: The [03 22] broke...
 845-E: [03 22] s'est cassé...
 846: [03 20] used a Demon Seed!
-846-E: [03 20] utilise une Graine de démon[4F]!
+846-E: [03 E2][03 20] utilise une Graine de démon[4F]!
 847: [03 20] used paralysis gas!
-847-E: [03 20] utilise un gaz paralysant[4F]!
+847-E: [03 E2][03 20] utilise un gaz paralysant[4F]!
 848: The [03 22] turned into an ordinary stone...
 848-E: La [03 22] devient une pierre ordinaire...
 849: [03 21] went back to normal!
-849-E: [03 21] revient à son état normal[4F]!
+849-E: [03 EA][03 21] revient à son état normal[4F]!
 84A: [03 21] became tame!
-84A-E: [03 21] a été maîtrisé[4F]!
+84A-E: [03 EA][03 21] a été maîtrisé[03 EC][4F]!
 84B: [03 21] was defeated!
-84B-E: Vous avez vaincu [03 21][4F]!
+84B-E: Vous avez vaincu [03 EB][03 21][4F]!
 84C: [03 21] was destroyed!
-84C-E: [03 21] s'est fait détruire[4F]!
+84C-E: [03 EA][03 21] s'est fait détruire[4F]!
 84D: [03 21] returned to the dust of the earth!
-84D-E: [03 21] retourne à la terre[4F]!
+84D-E: [03 EA][03 21] retourne à la terre[4F]!
 84E: [03 21] stopped moving!
-84E-E: [03 21] ne bouge plus[4F]!
+84E-E: [03 EA][03 21] ne bouge plus[4F]!
 84F: [03 21] was scrapped!
-84F-E: [03 21] tombe en morceaux[4F]!
+84F-E: [03 EA][03 21] tombe en morceaux[4F]!
 850: [03 21] disappeared into thin air!
-850-E: [03 21] s'est volatilisé[4F]!
+850-E: [03 EA][03 21] s'est volatilisé[03 EC][4F]!
 851: [03 20] stole [03 21]'s [03 22]!
-851-E: [03 20] vole [03 22] de [03 21][4F]!
+851-E: [03 E2][03 20] vole [03 22] de [03 21][4F]!
 852: [03 20] leveled up![BREAK][PAUSE][03 01]
-852-E: [03 20] gagne un niveau[4F]![BREAK][PAUSE][03 01]
+852-E: [03 E2][03 20] gagne un niveau[4F]![BREAK][PAUSE][03 01]
 853: [03 20] learned a new PSI in battle![BREAK][PAUSE][03 01]
-853-E: [03 20] a appris une nouvelle PSI au combat[4F]![BREAK][PAUSE][03 01]
+853-E: [03 E2][03 20] a appris une nouvelle PSI au combat[4F]![BREAK][PAUSE][03 01]
 854: Max HP went up [03 23]![BREAK][PAUSE][03 01]
 854-E: Ses PV augmentent de [03 23][4F]![BREAK][PAUSE][03 01]
 855: Max PP went up [03 23]![BREAK][PAUSE][03 01]
@@ -4328,15 +4328,15 @@
 85A: Force went up [03 23]![BREAK][PAUSE][03 01]
 85A-E: Sa force augmente de [03 23][4F]![BREAK][PAUSE][03 01]
 85B: [03 20] escaped from the rope!
-85B-E: [03 20] s'est défait de ses liens[4F]!
+85B-E: [03 E2][03 20] s'est défait de ses liens[4F]!
 85C: Picked up [03 F1][03 1D]![BREAK][PAUSE][03 01]
 85C-E: Vous ramassez [03 F8][03 1D]![BREAK][PAUSE][03 01]
 85D: [03 21]'s confusion went away!
-85D-E: La confusion de [03 21] a disparue[4F]!
+85D-E: La confusion [03 ED][03 21] a disparue[4F]!
 85E: [03 20] woke up!
-85E-E: [03 20] se réveille[4F]!
+85E-E: [03 E2][03 20] se réveille[4F]!
 85F: [03 20] tore a hole through space![BREAK]
-85F-E: [03 20] déchire un trou dans l'espace[4F]![BREAK]
+85F-E: [03 E2][03 20] déchire un trou dans l'espace[4F]![BREAK]
 860: But there was no effect!
 860-E: Mais ça n'a aucun effet[4F]!
 861: The [03 22] was fully emptied...
@@ -4346,7 +4346,7 @@
 863: (From somewhere,[BREAK][PAUSE][03 16] heard Queen Mary's voice...)[BREAK][PAUSE]You can't beat Giygas with brute strength...[BREAK][PAUSE]I doubt any weapon can defeat him...[BREAK][PAUSE]But the lullaby...[BREAK][PAUSE]Maybe the song I used to sing to him can stop him![BREAK][PAUSE][03 01]
 863-E: (Depuis quelque part,[BREAK][PAUSE][03 16] entend la voix de la reine Mary...)[BREAK][PAUSE]Vous ne pouvez pas battre Giygas par la force brute...[BREAK][PAUSE]Je doute que des armes puissent en venir à bout...[BREAK][PAUSE]Mais la berceuse...[BREAK][PAUSE]La chanson que je lui chantait tous les soirs,[BREAK][PAUSE] elle pourrait peut-être l'arrêter[4F]![BREAK][PAUSE][03 01]
 864: [03 21] recovered completely!
-864-E: [03 21] est totalement rétabli[4F]!
+864-E: [03 EA][03 21] est totalement rétabli[4F]!
 865: 
 865-E: 
 866: "[03 10]! I owe a great deal to your family line!"[BREAK][PAUSE][03 01]

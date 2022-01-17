@@ -318,6 +318,8 @@ parsecopy:
   + 
   cmp  r3,#0xF0; blt +; bl control_code_item; b .loop_start
   + 
+  cmp  r3,#0xE0; blt +; bl control_code_enemy; b .loop_start
+  + 
 
   .copy_control_code:
   mov  r3,#0x3
@@ -668,6 +670,70 @@ control_code_won_item:
   pop  {r2-r7}
   pop  {pc}
 
+//----------------------------------------------------------------------------------------
+// this is a custom battle control code that selects a/an/the for when an item is used
+
+control_code_enemy:
+  push {lr}
+  push {r2-r7}
+  push {r0}
+
+  ldr  r5,=#0x3003700
+
+  mov  r0,#0x8
+  and  r0,r3
+  cmp  r0,#0             // actor or target?
+  beq  + 
+  sub  r5,#0x14
+  +
+  ldrb r5,[r5,#0x0]      // r5 now has the index of the relevant actor or target in battle
+  
+  mov  r0,#0x4
+  and  r0,r5             // r0 now knows if the character is a party member (0) or an enemy (4)
+  
+  
+  ldr  r4,=#0x3003500    // unless...
+  add  r4,#0x18
+  lsl  r5,r5,#0x5
+  ldrb r4,[r4,r5]        // r4 now has the character id
+  
+  cmp  r0,#0             // but, is the character a party member?
+  bne +                  // if not, skip
+
+  mov  r0,r4
+  mov  r4,#0x7C           // 7C is character id for "male party member without elision"
+  
+  cmp  r0,#1
+  bne  .battle_id_not_ana
+  add  r4,#2
+  
+  .battle_id_not_ana:
+    
+  
+  +
+  
+  ldr  r5,=#0x8FFE080    // article classes per enemy
+  ldrb r0,[r5,r4]        // r0 now has the article class
+
+  mov  r5,#6
+  mul  r0,r5             // 6 articles per class
+
+  mov  r5,#0x7           // article selection (later)
+  and  r3,r5
+  
+  add  r0,r0,r3
+  lsl  r0,r0,#0x3        // 8 characters per article
+  ldr  r5,=#0x8FFE400
+  add  r0,r0,r5          // we now have the address of the custom article string to copy
+  
+  bl   strcopy
+  pop  {r0}
+  add  r0,#0x2
+  sub  r1,#1
+
+  pop  {r2-r7}
+  pop  {pc}
+  
 //----------------------------------------------------------------------------------------
 // this is used to display numbers
 

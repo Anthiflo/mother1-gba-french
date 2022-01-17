@@ -1,256 +1,256 @@
 //
 ENEMY-5DC-00: 
 //Territ. Oak
-ENEMY-5DD-00: Territ. Oak
+ENEMY-5DD-01: Territ. Oak
 //Dragon
-ENEMY-5DE-01: Dragon
+ENEMY-5DE-02: Dragon
 //R-7038
-ENEMY-5DF-02: R-7038
+ENEMY-5DF-03: R-7038
 //Elephant
-ENEMY-5E0-03: Elephant
+ENEMY-5E0-04: Elephant
 //Bear
-ENEMY-5E1-04: Bear
+ENEMY-5E1-05: Bear
 //Bigfoot
-ENEMY-5E2-05: Bigfoot
+ENEMY-5E2-06: Bigfoot
 //Mad Truck
-ENEMY-5E3-06: Mad Truck
+ENEMY-5E3-07: Mad Truck
 //Old Robot
-ENEMY-5E4-07: Old Robot
+ENEMY-5E4-08: Old Robot
 //Mega-Borg
-ENEMY-5E5-08: Mega-Borg
+ENEMY-5E5-09: Mega-Borg
 //Gargoyle
-ENEMY-5E6-09: Gargoyle
+ENEMY-5E6-0A: Gargoyle
 //Gabilan
-ENEMY-5E7-0A: Gabilan
+ENEMY-5E7-0B: Gabilan
 //Gorilla
-ENEMY-5E8-0B: Gorilla
+ENEMY-5E8-0C: Gorilla
 //Bison
-ENEMY-5E9-0C: Bison
+ENEMY-5E9-0D: Bison
 //Tiger
-ENEMY-5EA-0D: Tiger
+ENEMY-5EA-0E: Tiger
 //Mad Car
-ENEMY-5EB-0E: Mad Car
+ENEMY-5EB-0F: Mad Car
 //Raeb Yddet
-ENEMY-5EC-0F: Raeb Yddet
+ENEMY-5EC-10: Raeb Yddet
 //Magisnail
-ENEMY-5ED-10: Magisnail
+ENEMY-5ED-11: Magisnail
 //Titany
-ENEMY-5EE-11: Titany
+ENEMY-5EE-12: Titany
 //Giygas
-ENEMY-5EF-12: Giygas
+ENEMY-5EF-13: Giygas
 //Eagle
-ENEMY-5F0-13: Eagle
+ENEMY-5F0-14: Eagle
 //Wolf
-ENEMY-5F1-14: Wolf
+ENEMY-5F1-15: Wolf
 //Gull Bandit
-ENEMY-5F2-15: Gull Bandit
+ENEMY-5F2-16: Gull Bandit
 //Crocodile
-ENEMY-5F3-16: Crocodile
+ENEMY-5F3-17: Crocodile
 //Atomic Robot
-ENEMY-5F4-17: Atomic Robot
+ENEMY-5F4-18: Atomic Robot
 //Cave Master
-ENEMY-5F5-18: Cave Master
+ENEMY-5F5-19: Cave Master
 //Fugitive
-ENEMY-5F6-19: Fugitive
+ENEMY-5F6-1A: Fugitive
 //BB Gang Boss
-ENEMY-5F7-1A: BB Gang Boss
+ENEMY-5F7-1B: BB Gang Boss
 //Barbot
-ENEMY-5F8-1B: Barbot
+ENEMY-5F8-1C: Barbot
 //Jane
-ENEMY-5F9-1C: Jane
+ENEMY-5F9-1D: Jane
 //Starman
-ENEMY-5FA-1D: Starman
+ENEMY-5FA-1E: Starman
 //Ulrich
-ENEMY-5FB-1E: Ulrich
+ENEMY-5FB-1F: Ulrich
 //Brainger
-ENEMY-5FC-1F: Brainger
+ENEMY-5FC-20: Brainger
 //Mook
-ENEMY-5FD-20: Mook
+ENEMY-5FD-21: Mook
 //Armor
-ENEMY-5FE-21: Armor
+ENEMY-5FE-22: Armor
 //Oak
-ENEMY-5FF-22: Oak
+ENEMY-5FF-23: Oak
 //Redneck
-ENEMY-600-23: Redneck
+ENEMY-600-24: Redneck
 //Hippie
-ENEMY-601-24: Hippie
+ENEMY-601-25: Hippie
 //Bag Lady
-ENEMY-602-25: Bag Lady
+ENEMY-602-26: Bag Lady
 //Gang Member
-ENEMY-603-26: Gang Member
+ENEMY-603-27: Gang Member
 //Dr. Distorto
-ENEMY-604-27: Dr. Distorto
+ENEMY-604-28: Dr. Distorto
 //
-ENEMY-605-28: 
+ENEMY-605-29: 
 //Gang Zombie
-ENEMY-606-29: Gang Zombie
+ENEMY-606-2A: Gang Zombie
 //PseudoZombie
-ENEMY-607-2A: PseudoZombie
+ENEMY-607-2B: PseudoZombie
 //Crow
-ENEMY-608-2B: Crow
+ENEMY-608-2C: Crow
 //Snake
-ENEMY-609-2C: Snake
+ENEMY-609-2D: Snake
 //Hyena
-ENEMY-60A-2D: Hyena
+ENEMY-60A-2E: Hyena
 //Lynx
-ENEMY-60B-2E: Lynx
+ENEMY-60B-2F: Lynx
 //Centipede
-ENEMY-60C-2F: Centipede
+ENEMY-60C-30: Centipede
 //Dust Ghost
-ENEMY-60D-30: Dust Ghost
+ENEMY-60D-31: Dust Ghost
 //Fly
-ENEMY-60E-31: Fly
+ENEMY-60E-32: Fly
 //Arachnid!
-ENEMY-60F-32: Arachnid!
+ENEMY-60F-33: Arachnid!
 //Scorpion
-ENEMY-610-33: Scorpion
+ENEMY-610-34: Scorpion
 //Rope
-ENEMY-611-34: Rope
+ENEMY-611-35: Rope
 //Fireball
-ENEMY-612-35: Fireball
+ENEMY-612-36: Fireball
 //Swoosh
-ENEMY-613-36: Swoosh
+ENEMY-613-37: Swoosh
 //Bonus Swoosh
-ENEMY-614-37: Bonus Swoosh
+ENEMY-614-38: Bonus Swoosh
 //Ghost
-ENEMY-615-38: Ghost
+ENEMY-615-39: Ghost
 //Li'l Saucer
-ENEMY-616-39: Li'l Saucer
+ENEMY-616-3A: Li'l Saucer
 //Mr. Batty
-ENEMY-617-3A: Mr. Batty
+ENEMY-617-3B: Mr. Batty
 //Starman Jr.
-ENEMY-618-3B: Starman Jr.
+ENEMY-618-3C: Starman Jr.
 //Skunk
-ENEMY-619-3C: Skunk
+ENEMY-619-3D: Skunk
 //BloodyZombie
-ENEMY-61A-3D: BloodyZombie
+ENEMY-61A-3E: BloodyZombie
 //Rat
-ENEMY-61B-3E: Rat
+ENEMY-61B-3F: Rat
 //Bomber
-ENEMY-61C-3F: Bomber
+ENEMY-61C-40: Bomber
 //
-ENEMY-61D-40: 
+ENEMY-61D-41: 
 //Doll
-ENEMY-61E-41: Doll
+ENEMY-61E-42: Doll
 //Lamp
-ENEMY-61F-42: Lamp
+ENEMY-61F-43: Lamp
 //
-ENEMY-620-43: 
+ENEMY-620-44: 
 //
-ENEMY-621-44: 
+ENEMY-621-45: 
 //Biopede
-ENEMY-622-45: Biopede
+ENEMY-622-46: Biopede
 //Bio-Scorpion
-ENEMY-623-46: Bio-Scorpion
+ENEMY-623-47: Bio-Scorpion
 //
-ENEMY-624-47: 
+ENEMY-624-48: 
 //
-ENEMY-625-48: 
+ENEMY-625-49: 
 //Red Snake
-ENEMY-626-49: Red Snake
+ENEMY-626-4A: Red Snake
 //Lone Wolf
-ENEMY-627-4A: Lone Wolf
+ENEMY-627-4B: Lone Wolf
 //Polar Bear
-ENEMY-628-4B: Polar Bear
+ENEMY-628-4C: Polar Bear
 //
-ENEMY-629-4C: 
+ENEMY-629-4D: 
 //
-ENEMY-62A-4D: 
+ENEMY-62A-4E: 
 //
-ENEMY-62B-4E: 
+ENEMY-62B-4F: 
 //
-ENEMY-62C-4F: 
+ENEMY-62C-50: 
 //Rattlesnake
-ENEMY-62D-50: Rattlesnake
+ENEMY-62D-51: Rattlesnake
 //Tarantula
-ENEMY-62E-51: Tarantula
+ENEMY-62E-52: Tarantula
 //Tough Croc
-ENEMY-62F-52: Tough Croc
+ENEMY-62F-53: Tough Croc
 //
-ENEMY-630-53: 
+ENEMY-630-54: 
 //Buffalo
-ENEMY-631-54: Buffalo
+ENEMY-631-55: Buffalo
 //
-ENEMY-632-55: 
+ENEMY-632-56: 
 //Bio-Bat
-ENEMY-633-56: Bio-Bat
+ENEMY-633-57: Bio-Bat
 //Stray Dog
-ENEMY-634-57: Stray Dog
+ENEMY-634-58: Stray Dog
 //Devil Car
-ENEMY-635-58: Devil Car
+ENEMY-635-59: Devil Car
 //Devil Truck
-ENEMY-636-59: Devil Truck
+ENEMY-636-5A: Devil Truck
 //Death Truck
-ENEMY-637-5A: Death Truck
+ENEMY-637-5B: Death Truck
 //Alarm Ghost
-ENEMY-638-5B: Alarm Ghost
+ENEMY-638-5C: Alarm Ghost
 //
-ENEMY-639-5C: 
+ENEMY-639-5D: 
 //Woosh Swoosh
-ENEMY-63A-5D: Woosh Swoosh
+ENEMY-63A-5E: Woosh Swoosh
 //Papa Swoosh
-ENEMY-63B-5E: Papa Swoosh
+ENEMY-63B-5F: Papa Swoosh
 //Swooshette
-ENEMY-63C-5F: Swooshette
+ENEMY-63C-60: Swooshette
 //
-ENEMY-63D-60: 
+ENEMY-63D-61: 
 //
-ENEMY-63E-61: 
+ENEMY-63E-62: 
 //Sky Yddet
-ENEMY-63F-62: Sky Yddet
+ENEMY-63F-63: Sky Yddet
 //
-ENEMY-640-63: 
+ENEMY-640-64: 
 //Giga-Borg
-ENEMY-641-64: Giga-Borg
+ENEMY-641-65: Giga-Borg
 //Last Borg
-ENEMY-642-65: Last Borg
+ENEMY-642-66: Last Borg
 //Scrapper
-ENEMY-643-66: Scrapper
+ENEMY-643-67: Scrapper
 //Death Barbot
-ENEMY-644-67: Death Barbot
+ENEMY-644-68: Death Barbot
 //Omega Saucer
-ENEMY-645-68: Omega Saucer
+ENEMY-645-69: Omega Saucer
 //Caroline
-ENEMY-646-69: Caroline
+ENEMY-646-6A: Caroline
 //Star Miner
-ENEMY-647-6A: Star Miner
+ENEMY-647-6B: Star Miner
 //NuclearRobot
-ENEMY-648-6B: NuclearRobot
+ENEMY-648-6C: NuclearRobot
 //Suzie
-ENEMY-649-6C: Suzie
+ENEMY-649-6D: Suzie
 //Blue Starman
-ENEMY-64A-6D: Blue Starman
+ENEMY-64A-6E: Blue Starman
 //Satania
-ENEMY-64B-6E: Satania
+ENEMY-64B-6F: Satania
 //Titanian
-ENEMY-64C-6F: Titanian
+ENEMY-64C-70: Titanian
 //Mook Senior
-ENEMY-64D-70: Mook Senior
+ENEMY-64D-71: Mook Senior
 //
-ENEMY-64E-71: 
+ENEMY-64E-72: 
 //Zombie
-ENEMY-64F-72: Zombie
+ENEMY-64F-73: Zombie
 //Mean Zombie
-ENEMY-650-73: Mean Zombie
+ENEMY-650-74: Mean Zombie
 //Silver Wolf
-ENEMY-651-74: Silver Wolf
+ENEMY-651-75: Silver Wolf
 //R-7037
-ENEMY-652-75: R-7037
+ENEMY-652-76: R-7037
 //Grizzly
-ENEMY-653-76: Grizzly
+ENEMY-653-77: Grizzly
 //R-7038XX
-ENEMY-654-77: R-7038XX
+ENEMY-654-78: R-7038XX
 //Last Starman
-ENEMY-655-78: Last Starman
+ENEMY-655-79: Last Starman
 //
-ENEMY-656-79: 
+ENEMY-656-7A: 
 //
-ENEMY-657-7A: 
+ENEMY-657-7B: 
 //
-ENEMY-658-7B: 
+ENEMY-658-7C: 
 //
-ENEMY-659-7C: 
+ENEMY-659-7D: 
 //
-ENEMY-65A-7D: 
+ENEMY-65A-7E: 
 //
-ENEMY-65B-7E: 
+ENEMY-65B-7F: 
