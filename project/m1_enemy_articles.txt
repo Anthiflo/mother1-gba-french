@@ -1,0 +1,256 @@
+//
+ENEMY-5DC-00: 00
+//Territ. Oak
+ENEMY-5DD-00: 00
+//Dragon
+ENEMY-5DE-01: 02
+//R-7038
+ENEMY-5DF-02: 06
+//Elephant
+ENEMY-5E0-03: 01
+//Bear
+ENEMY-5E1-04: 01
+//Bigfoot
+ENEMY-5E2-05: 06
+//Mad Truck
+ENEMY-5E3-06: 00
+//Old Robot
+ENEMY-5E4-07: 00
+//Mega-Borg
+ENEMY-5E5-08: 00
+//Gargoyle
+ENEMY-5E6-09: 08
+//Gabilan
+ENEMY-5E7-0A: 00
+//Gorilla
+ENEMY-5E8-0B: 00
+//Bison
+ENEMY-5E9-0C: 00
+//Tiger
+ENEMY-5EA-0D: 00
+//Mad Car
+ENEMY-5EB-0E: 08
+//Raeb Yddet
+ENEMY-5EC-0F: 00
+//Magisnail
+ENEMY-5ED-10: 00
+//Titany
+ENEMY-5EE-11: 08
+//Giygas
+ENEMY-5EF-12: 06
+//Eagle
+ENEMY-5F0-13: 01
+//Wolf
+ENEMY-5F1-14: 00
+//Gull Bandit
+ENEMY-5F2-15: 00
+//Crocodile
+ENEMY-5F3-16: 00
+//Atomic Robot
+ENEMY-5F4-17: 01
+//Cave Master
+ENEMY-5F5-18: 02
+//Fugitive
+ENEMY-5F6-19: 00
+//BB Gang Boss
+ENEMY-5F7-1A: 02
+//Barbot
+ENEMY-5F8-1B: 00
+//Jane
+ENEMY-5F9-1C: 0E
+//Starman
+ENEMY-5FA-1D: 00
+//Ulrich
+ENEMY-5FB-1E: 07
+//Brainger
+ENEMY-5FC-1F: 00
+//Mook
+ENEMY-5FD-20: 00
+//Armor
+ENEMY-5FE-21: 09
+//Oak
+ENEMY-5FF-22: 00
+//Redneck
+ENEMY-600-23: 00
+//Hippie
+ENEMY-601-24: 00
+//Bag Lady
+ENEMY-602-25: 09
+//Gang Member
+ENEMY-603-26: 00
+//Dr. Distorto
+ENEMY-604-27: 02
+//
+ENEMY-605-28: 00
+//Gang Zombie
+ENEMY-606-29: 00
+//PseudoZombie
+ENEMY-607-2A: 00
+//Crow
+ENEMY-608-2B: 00
+//Snake
+ENEMY-609-2C: 00
+//Hyena
+ENEMY-60A-2D: 08
+//Lynx
+ENEMY-60B-2E: 00
+//Centipede
+ENEMY-60C-2F: 00
+//Dust Ghost
+ENEMY-60D-30: 01
+//Fly
+ENEMY-60E-31: 08
+//Arachnid!
+ENEMY-60F-32: 00
+//Scorpion
+ENEMY-610-33: 00
+//Rope
+ENEMY-611-34: 08
+//Fireball
+ENEMY-612-35: 08
+//Swoosh
+ENEMY-613-36: 00
+//Bonus Swoosh
+ENEMY-614-37: 00
+//Ghost
+ENEMY-615-38: 00
+//Li'l Saucer
+ENEMY-616-39: 00
+//Mr. Batty
+ENEMY-617-3A: 06
+//Starman Jr.
+ENEMY-618-3B: 00
+//Skunk
+ENEMY-619-3C: 00
+//BloodyZombie
+ENEMY-61A-3D: 00
+//Rat
+ENEMY-61B-3E: 00
+//Bomber
+ENEMY-61C-3F: 00
+//
+ENEMY-61D-40: 00
+//Doll
+ENEMY-61E-41: 08
+//Lamp
+ENEMY-61F-42: 08
+//
+ENEMY-620-43: 00
+//
+ENEMY-621-44: 00
+//Biopede
+ENEMY-622-45: 00
+//Bio-Scorpion
+ENEMY-623-46: 00
+//
+ENEMY-624-47: 00
+//
+ENEMY-625-48: 00
+//Red Snake
+ENEMY-626-49: 00
+//Lone Wolf
+ENEMY-627-4A: 00
+//Polar Bear
+ENEMY-628-4B: 01
+//
+ENEMY-629-4C: 00
+//
+ENEMY-62A-4D: 00
+//
+ENEMY-62B-4E: 00
+//
+ENEMY-62C-4F: 00
+//Rattlesnake
+ENEMY-62D-50: 00
+//Tarantula
+ENEMY-62E-51: 08
+//Tough Croc
+ENEMY-62F-52: 00
+//
+ENEMY-630-53: 00
+//Buffalo
+ENEMY-631-54: 00
+//
+ENEMY-632-55: 00
+//Bio-Bat
+ENEMY-633-56: 00
+//Stray Dog
+ENEMY-634-57: 00
+//Devil Car
+ENEMY-635-58: 08
+//Devil Truck
+ENEMY-636-59: 00
+//Death Truck
+ENEMY-637-5A: 00
+//Alarm Ghost
+ENEMY-638-5B: 00
+//
+ENEMY-639-5C: 00
+//Woosh Swoosh
+ENEMY-63A-5D: 00
+//Papa Swoosh
+ENEMY-63B-5E: 00
+//Swooshette
+ENEMY-63C-5F: 08
+//
+ENEMY-63D-60: 00
+//
+ENEMY-63E-61: 00
+//Sky Yddet
+ENEMY-63F-62: 00
+//
+ENEMY-640-63: 00
+//Giga-Borg
+ENEMY-641-64: 00
+//Last Borg
+ENEMY-642-65: 00
+//Scrapper
+ENEMY-643-66: 00
+//Death Barbot
+ENEMY-644-67: 00
+//Omega Saucer
+ENEMY-645-68: 01
+//Caroline
+ENEMY-646-69: 0E
+//Star Miner
+ENEMY-647-6A: 08
+//NuclearRobot
+ENEMY-648-6B: 00
+//Suzie
+ENEMY-649-6C: 0E
+//Blue Starman
+ENEMY-64A-6D: 00
+//Satania
+ENEMY-64B-6E: 08
+//Titanian
+ENEMY-64C-6F: 00
+//Mook Senior
+ENEMY-64D-70: 00
+//
+ENEMY-64E-71: 00
+//Zombie
+ENEMY-64F-72: 00
+//Mean Zombie
+ENEMY-650-73: 00
+//Silver Wolf
+ENEMY-651-74: 00
+//R-7037
+ENEMY-652-75: 06
+//Grizzly
+ENEMY-653-76: 00
+//R-7038XX
+ENEMY-654-77: 06
+//Last Starman
+ENEMY-655-78: 00
+//
+ENEMY-656-79: 00
+//
+ENEMY-657-7A: 00
+//
+ENEMY-658-7B: 00
+//
+ENEMY-659-7C: 00
+//
+ENEMY-65A-7D: 00
+//
+ENEMY-65B-7E: 00

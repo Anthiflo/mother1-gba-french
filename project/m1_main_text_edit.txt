@@ -3540,7 +3540,7 @@
 6D0: @Some sort of force is[BREAK]pushing [03 16][03 17][BREAK]back.[BREAK]
 6D0-E: @Une sorte de force repousse[BREAK][03 16][03 17][BREAK]
 6D1: @The Repel Ring's mysterious[BREAK]power wore off.[BREAK]
-6D1-E: @Le mystérieux pouvoir de[BREAK]la Bague repousse s'est[BREAK]dissipé.[BREAK]
+6D1-E: @Le mystérieux pouvoir de[BREAK]la Bague répulsive s'est[BREAK]dissipé.[BREAK]
 6D2: 
 6D2-E: 
 6D3: 
@@ -3612,7 +3612,7 @@
 6F4: 
 6F4-E: 
 6F5: Copyrights of Game[03 3F] Scenario[03 3F][BREAK][BREAK]Music[03 3F] but excluding the[BREAK][BREAK]copyright of Music composed by[BREAK][BREAK]Keiichi Suzuki[03 3F] reserved by[BREAK][BREAK]SHIGESATO ITOI and NINTENDO.[BREAK][BREAK]Copyright of Program reserved[BREAK][BREAK]by NINTENDO.[BREAK]
-6F5-E: Les copyrights du Jeu[03 3F] du Scénario[03 3F][BREAK][BREAK]de la Musique[03 3F] à l'exception des[BREAK][BREAK]droits de la Musique composée[BREAK][BREAK]par Keiichi Suzuki[03 3F] sont réservés[BREAK][BREAK]à SHIGESATO ITOI et NINTENDO.[BREAK][BREAK]Les droits du Programme sont[BREAK][BREAK]réservés à NINTENDO.[BREAK]
+6F5-E: Les copyrights du jeu[03 3F] du scénario[03 3F][BREAK][BREAK]de la musique[03 3F] à l'exception du[BREAK][BREAK]copyright de la musique[BREAK][BREAK]composée par Keiichi Suzuki[03 3F] sont réservés[BREAK][BREAK]par SHIGESATO ITOI et NINTENDO.[BREAK][BREAK]Le copyright du programme[BREAK][BREAK]est réservé par NINTENDO.[BREAK]
 6F6: 
 6F6-E: 
 6F7: 
@@ -3646,7 +3646,7 @@
 705: Oh, a letter from [03 10].[BREAK]I miss him so much.[BREAK]I hope we can get together[BREAK]again soon...[BREAK]
 705-E: Oh, une lettre de [03 10].[BREAK]Il me manque tellement.[BREAK]J'espère que nous pourrons[BREAK]nous retrouver bientôt...[BREAK]
 706: Well, now that the Earth's[BREAK]crisis is finally over, I[BREAK]think I'll just lie down for[BREAK]a moment and... Zzzzzzz...
-706-E: Pfiou, maintenant que la[BREAK]crise est enfin terminée,[BREAK]je pense que je vais[BREAK]m'allonger et... Zzzzzz...
+706-E: Pfiou, maintenant que la[BREAK]Terre n'est plus en danger,[BREAK]je pense que je vais[BREAK]m'allonger et... Zzzzzz...
 707: Oh, this is your dad.[BREAK]I hate to wake you, but it[BREAK]might be just a little too[BREAK]soon to rest easy...
 707-E: Allô[4F]? C'est Papa. Désolé[BREAK]de te réveiller, mais il[BREAK]est peut-être encore un peu[BREAK]trop tôt pour se reposer...
 708: 

@@ -1,0 +1,112 @@
+//00. masculin singulier multiple dénombrable consonne initiale
+un 
+le 
+ce 
+
+
+
+//01. masculin singulier multiple dénombrable voyelle initiale
+un 
+l'
+cet 
+
+
+
+//02. masculin singulier multiple indénombrable consonne initiale
+du 
+le 
+ce 
+
+
+
+//03. masculin singulier multiple indénombrable voyelle initiale
+de l'
+l'
+cet 
+
+
+
+//04. féminin singulier multiple dénombrable consonne initiale
+une 
+la 
+cette 
+
+
+
+//05. féminin singulier multiple dénombrable voyelle initiale
+une 
+l'
+cette 
+
+
+
+//06. féminin singulier multiple indénombrable consonne initiale
+de la 
+la 
+cette 
+
+
+
+//07. féminin singulier multiple indénombrable voyelle initiale
+de l'
+l'
+cette 
+
+
+
+//08. masculin singulier unique consonne initiale
+le 
+le 
+ce 
+
+
+
+//09. masculin singulier unique voyelle initiale
+l'
+l'
+cet 
+
+
+
+//0A. masculin pluriel multiple
+des 
+les 
+ces 
+
+
+
+//0B. masculin pluriel unique
+les 
+les 
+ces 
+
+
+
+//0C. féminin singulier unique consonne initiale
+la 
+la 
+cette 
+
+
+
+//0D. féminin singulier unique voyelle initiale
+l'
+l'
+cette 
+
+
+
+//0E. féminin pluriel multiple
+des 
+les 
+ces 
+
+
+
+//0F. féminin pluriel unique
+les 
+les 
+ces 
+
+
+

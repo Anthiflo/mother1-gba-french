@@ -620,10 +620,14 @@ control_code_F0:
   add  r0,#0x1
   add  r0,r0,r5
   ldrb r0,[r0,#0x0]      // this now has the item number being used
-  lsl  r0,r0,#0x4
   ldr  r5,=#0x8FFE000
-  add  r0,r0,r5          // we now have the address of the custom article string to copy
-
+  ldrb r0,[r5,r0]        // we now have the item class
+  mov  r4,#6
+  mul  r0,r4             // 6 articles per class
+  lsl  r0,r0,#0x3        // 8 characters per article
+  ldr  r5,=#0x8FFE100
+  add  r0,r0,r5          //we now have the address of the custom article string to copy
+  
   bl   strcopy
   pop  {r0}
   add  r0,#0x2

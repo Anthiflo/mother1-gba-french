@@ -1,0 +1,112 @@
+//00: Masculin nom commun consonne initiale
+Un 
+un 
+Le 
+le 
+
+du 
+//01: Masculin nom commun voyelle initiale
+Un 
+un 
+L'
+l'
+
+de l'
+//02: Masculin nom propre consonne initiale
+Le 
+le 
+Le 
+le 
+
+du 
+//03: Masculin nom propre voyelle initiale
+L'
+l'
+L'
+l'
+
+du 
+//04:
+
+
+
+
+
+
+//05:
+
+
+
+
+
+
+//06: Masculin sans article consonne initiale
+
+
+
+
+
+de 
+//07: Masculin sans article voyelle initiale
+
+
+
+
+
+d'
+//08: Féminin nom commun consonne initiale
+Une 
+une 
+La 
+la 
+e
+de la 
+//09: Féminin nom commun voyelle initiale
+Une 
+une 
+L'
+l'
+e
+de l'
+//0A: Féminin nom propre consonne initiale
+La 
+la 
+La 
+la 
+e
+de la 
+//0B: Féminin nom propre voyelle initiale
+L'
+l'
+L'
+l'
+e
+de l'
+//0C:
+
+
+
+
+
+
+//0D:
+
+
+
+
+
+
+//0E: Féminin sans article consonne initiale
+
+
+
+
+e
+de 
+//0F: Féminin sans article voyelle initiale
+
+
+
+
+e
+d'

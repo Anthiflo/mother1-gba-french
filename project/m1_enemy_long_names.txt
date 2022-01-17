@@ -1,0 +1,256 @@
+//
+ENEMY-5DC-00: 
+//Territ. Oak
+ENEMY-5DD-00: Territ. Oak
+//Dragon
+ENEMY-5DE-01: Dragon
+//R-7038
+ENEMY-5DF-02: R-7038
+//Elephant
+ENEMY-5E0-03: Elephant
+//Bear
+ENEMY-5E1-04: Bear
+//Bigfoot
+ENEMY-5E2-05: Bigfoot
+//Mad Truck
+ENEMY-5E3-06: Mad Truck
+//Old Robot
+ENEMY-5E4-07: Old Robot
+//Mega-Borg
+ENEMY-5E5-08: Mega-Borg
+//Gargoyle
+ENEMY-5E6-09: Gargoyle
+//Gabilan
+ENEMY-5E7-0A: Gabilan
+//Gorilla
+ENEMY-5E8-0B: Gorilla
+//Bison
+ENEMY-5E9-0C: Bison
+//Tiger
+ENEMY-5EA-0D: Tiger
+//Mad Car
+ENEMY-5EB-0E: Mad Car
+//Raeb Yddet
+ENEMY-5EC-0F: Raeb Yddet
+//Magisnail
+ENEMY-5ED-10: Magisnail
+//Titany
+ENEMY-5EE-11: Titany
+//Giygas
+ENEMY-5EF-12: Giygas
+//Eagle
+ENEMY-5F0-13: Eagle
+//Wolf
+ENEMY-5F1-14: Wolf
+//Gull Bandit
+ENEMY-5F2-15: Gull Bandit
+//Crocodile
+ENEMY-5F3-16: Crocodile
+//Atomic Robot
+ENEMY-5F4-17: Atomic Robot
+//Cave Master
+ENEMY-5F5-18: Cave Master
+//Fugitive
+ENEMY-5F6-19: Fugitive
+//BB Gang Boss
+ENEMY-5F7-1A: BB Gang Boss
+//Barbot
+ENEMY-5F8-1B: Barbot
+//Jane
+ENEMY-5F9-1C: Jane
+//Starman
+ENEMY-5FA-1D: Starman
+//Ulrich
+ENEMY-5FB-1E: Ulrich
+//Brainger
+ENEMY-5FC-1F: Brainger
+//Mook
+ENEMY-5FD-20: Mook
+//Armor
+ENEMY-5FE-21: Armor
+//Oak
+ENEMY-5FF-22: Oak
+//Redneck
+ENEMY-600-23: Redneck
+//Hippie
+ENEMY-601-24: Hippie
+//Bag Lady
+ENEMY-602-25: Bag Lady
+//Gang Member
+ENEMY-603-26: Gang Member
+//Dr. Distorto
+ENEMY-604-27: Dr. Distorto
+//
+ENEMY-605-28: 
+//Gang Zombie
+ENEMY-606-29: Gang Zombie
+//PseudoZombie
+ENEMY-607-2A: PseudoZombie
+//Crow
+ENEMY-608-2B: Crow
+//Snake
+ENEMY-609-2C: Snake
+//Hyena
+ENEMY-60A-2D: Hyena
+//Lynx
+ENEMY-60B-2E: Lynx
+//Centipede
+ENEMY-60C-2F: Centipede
+//Dust Ghost
+ENEMY-60D-30: Dust Ghost
+//Fly
+ENEMY-60E-31: Fly
+//Arachnid!
+ENEMY-60F-32: Arachnid!
+//Scorpion
+ENEMY-610-33: Scorpion
+//Rope
+ENEMY-611-34: Rope
+//Fireball
+ENEMY-612-35: Fireball
+//Swoosh
+ENEMY-613-36: Swoosh
+//Bonus Swoosh
+ENEMY-614-37: Bonus Swoosh
+//Ghost
+ENEMY-615-38: Ghost
+//Li'l Saucer
+ENEMY-616-39: Li'l Saucer
+//Mr. Batty
+ENEMY-617-3A: Mr. Batty
+//Starman Jr.
+ENEMY-618-3B: Starman Jr.
+//Skunk
+ENEMY-619-3C: Skunk
+//BloodyZombie
+ENEMY-61A-3D: BloodyZombie
+//Rat
+ENEMY-61B-3E: Rat
+//Bomber
+ENEMY-61C-3F: Bomber
+//
+ENEMY-61D-40: 
+//Doll
+ENEMY-61E-41: Doll
+//Lamp
+ENEMY-61F-42: Lamp
+//
+ENEMY-620-43: 
+//
+ENEMY-621-44: 
+//Biopede
+ENEMY-622-45: Biopede
+//Bio-Scorpion
+ENEMY-623-46: Bio-Scorpion
+//
+ENEMY-624-47: 
+//
+ENEMY-625-48: 
+//Red Snake
+ENEMY-626-49: Red Snake
+//Lone Wolf
+ENEMY-627-4A: Lone Wolf
+//Polar Bear
+ENEMY-628-4B: Polar Bear
+//
+ENEMY-629-4C: 
+//
+ENEMY-62A-4D: 
+//
+ENEMY-62B-4E: 
+//
+ENEMY-62C-4F: 
+//Rattlesnake
+ENEMY-62D-50: Rattlesnake
+//Tarantula
+ENEMY-62E-51: Tarantula
+//Tough Croc
+ENEMY-62F-52: Tough Croc
+//
+ENEMY-630-53: 
+//Buffalo
+ENEMY-631-54: Buffalo
+//
+ENEMY-632-55: 
+//Bio-Bat
+ENEMY-633-56: Bio-Bat
+//Stray Dog
+ENEMY-634-57: Stray Dog
+//Devil Car
+ENEMY-635-58: Devil Car
+//Devil Truck
+ENEMY-636-59: Devil Truck
+//Death Truck
+ENEMY-637-5A: Death Truck
+//Alarm Ghost
+ENEMY-638-5B: Alarm Ghost
+//
+ENEMY-639-5C: 
+//Woosh Swoosh
+ENEMY-63A-5D: Woosh Swoosh
+//Papa Swoosh
+ENEMY-63B-5E: Papa Swoosh
+//Swooshette
+ENEMY-63C-5F: Swooshette
+//
+ENEMY-63D-60: 
+//
+ENEMY-63E-61: 
+//Sky Yddet
+ENEMY-63F-62: Sky Yddet
+//
+ENEMY-640-63: 
+//Giga-Borg
+ENEMY-641-64: Giga-Borg
+//Last Borg
+ENEMY-642-65: Last Borg
+//Scrapper
+ENEMY-643-66: Scrapper
+//Death Barbot
+ENEMY-644-67: Death Barbot
+//Omega Saucer
+ENEMY-645-68: Omega Saucer
+//Caroline
+ENEMY-646-69: Caroline
+//Star Miner
+ENEMY-647-6A: Star Miner
+//NuclearRobot
+ENEMY-648-6B: NuclearRobot
+//Suzie
+ENEMY-649-6C: Suzie
+//Blue Starman
+ENEMY-64A-6D: Blue Starman
+//Satania
+ENEMY-64B-6E: Satania
+//Titanian
+ENEMY-64C-6F: Titanian
+//Mook Senior
+ENEMY-64D-70: Mook Senior
+//
+ENEMY-64E-71: 
+//Zombie
+ENEMY-64F-72: Zombie
+//Mean Zombie
+ENEMY-650-73: Mean Zombie
+//Silver Wolf
+ENEMY-651-74: Silver Wolf
+//R-7037
+ENEMY-652-75: R-7037
+//Grizzly
+ENEMY-653-76: Grizzly
+//R-7038XX
+ENEMY-654-77: R-7038XX
+//Last Starman
+ENEMY-655-78: Last Starman
+//
+ENEMY-656-79: 
+//
+ENEMY-657-7A: 
+//
+ENEMY-658-7B: 
+//
+ENEMY-659-7C: 
+//
+ENEMY-65A-7D: 
+//
+ENEMY-65B-7E: 

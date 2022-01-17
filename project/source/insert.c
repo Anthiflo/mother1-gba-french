@@ -12,8 +12,8 @@ struct tableEntry
 	char str[500];
 };
 
-tableEntry table[500];
 int        tableLen = 0;
+struct tableEntry table[500];
 
 void 		  LoadTable(void);
 void          PrepString(char[], char[], int);
@@ -26,6 +26,10 @@ void          InsertMainStuff(void);
 void          InsertSpecialText(void);
 void          InsertAltWindowData(void);
 void          InsertItemArticles(void);
+void          InsertEnemyArticles(void);
+void          InsertItemClasses(void);
+void          InsertEnemyClasses(void);
+void          InsertEnemyLongNames(void);
 
 void          LoadM2Table(void);
 void          InsertM2WindowText(void);
@@ -55,6 +59,10 @@ int main(void)
 	InsertSpecialText();
 	InsertAltWindowData();
 	InsertItemArticles();
+    InsertEnemyArticles();
+    InsertItemClasses();
+    InsertEnemyClasses();
+    InsertEnemyLongNames();
 
 
 	printf("\r\n MOTHER 2 STUFF\r\n");
@@ -559,7 +567,7 @@ void InsertSpecialText(void)
 //    	fscanf(fin, "%s", str);
 	}
 
-    printf(" Misc. text:\tINSERTED\r\n");
+    printf(" Misc. text:\t\tINSERTED\r\n");
 
 	fclose(fout);
 	fclose(fin);
@@ -609,7 +617,7 @@ void InsertAltWindowData(void)
 	fclose(fout);
 	fclose(fin);
 
-    printf(" Alt. windows:\tINSERTED (Total: %d)\r\n", totalFound);
+    printf(" Alt. windows:\t\tINSERTED (Total: %d)\r\n", totalFound);
     return;
 }
 
@@ -640,26 +648,216 @@ void InsertItemArticles(void)
 	fgets(line, 1000, fin);
     while(!feof(fin))
     {
-		line[strlen(line) - 2] = '\0';
-		str = &line[13];
+        if (line[0] != '/') {
+            line[strcspn(line, "\n")] = '\0';
+            str = &line[13];
+            
+            fseek(fout, startLoc + lineNum, SEEK_SET);
+            fputc(hstrtoi(str), fout);
 
-		fseek(fout, startLoc + lineNum * 0x10, SEEK_SET);
-		for (i = 0; i < 0x10; i++)
-		   fputc(0, fout);
-
-		fseek(fout, startLoc + lineNum * 0x10, SEEK_SET);
-		for (i = 0; i < strlen(str); i++)
-		   fputc(ConvChar(str[i]), fout);
-
-        lineNum++;
-	    fgets(line, 1000, fin);
+            lineNum++;
+        }
+        fgets(line, 1000, fin);
 	}
 
-    printf(" Item articles:\tINSERTED\r\n");
+    printf(" Item articles:\t\tINSERTED\r\n");
 
 	fclose(fout);
 	return;
 }
+
+void InsertEnemyArticles(void)
+{
+	FILE* fin;
+	FILE* fout;
+	char  line[1000];
+	char* str;
+	int   lineNum = 0;
+	int   startLoc = 0xFFE080;
+	int   i;
+
+	fin = fopen("m1_enemy_articles.txt", "r");
+	if (!fin)
+	{
+		printf("Can't open m1_enemy_articles.txt, doh\r\n");
+		return;
+	}
+
+	fout = fopen("test.gba", "rb+");
+	if (!fout)
+	{
+		printf("Can't open test.gba, doh\r\n");
+		return;
+	}
+
+	fgets(line, 1000, fin);
+    while(!feof(fin))
+    {
+        if (line[0] != '/') {
+            line[strcspn(line, "\n")] = '\0';
+            str = &line[14];
+            
+            fseek(fout, startLoc + lineNum, SEEK_SET);
+            fputc(hstrtoi(str), fout);
+
+            lineNum++;
+        }
+	    fgets(line, 1000, fin);
+	}
+
+    printf(" Enemy articles:\tINSERTED\r\n");
+
+	fclose(fout);
+	return;
+}
+
+void InsertItemClasses(void)
+{
+	FILE* fin;
+	FILE* fout;
+	char  line[1000];
+	char* str;
+	int   lineNum = 0;
+	int   startLoc = 0xFFE100;
+	int   i;
+
+	fin = fopen("m1_item_classes.txt", "r");
+	if (!fin)
+	{
+		printf("Can't open m1_item_classes.txt, doh\r\n");
+		return;
+	}
+
+	fout = fopen("test.gba", "rb+");
+	if (!fout)
+	{
+		printf("Can't open test.gba, doh\r\n");
+		return;
+	}
+
+	fgets(line, 1000, fin);
+    while(!feof(fin))
+    {
+        line[strcspn(line, "\n")] = '\0';
+
+        if (line[0] != '/') {
+            fseek(fout, startLoc + lineNum * 0x8, SEEK_SET);
+            for (i = 0; i < 0x8; i++)
+               fputc(0, fout);
+
+            fseek(fout, startLoc + lineNum * 0x8, SEEK_SET);
+            for (i = 0; i < strlen(line); i++)
+               fputc(ConvChar(line[i]), fout);
+
+            lineNum++;
+        }
+	    fgets(line, 1000, fin);
+	}
+
+    printf(" Item classes:\t\tINSERTED\r\n");
+
+	fclose(fout);
+	return;
+}
+
+void InsertEnemyClasses(void)
+{
+	FILE* fin;
+	FILE* fout;
+	char  line[1000];
+	char* str;
+	int   lineNum = 0;
+	int   startLoc = 0xFFE400;
+	int   i;
+
+	fin = fopen("m1_enemy_classes.txt", "r");
+	if (!fin)
+	{
+		printf("Can't open m1_enemy_classes.txt, doh\r\n");
+		return;
+	}
+
+	fout = fopen("test.gba", "rb+");
+	if (!fout)
+	{
+		printf("Can't open test.gba, doh\r\n");
+		return;
+	}
+
+	fgets(line, 1000, fin);
+    while(!feof(fin))
+    {
+        line[strcspn(line, "\n")] = '\0';
+
+        if (line[0] != '/') {
+            fseek(fout, startLoc + lineNum * 0x8, SEEK_SET);
+            for (i = 0; i < 0x8; i++)
+               fputc(0, fout);
+
+            fseek(fout, startLoc + lineNum * 0x8, SEEK_SET);
+            for (i = 0; i < strlen(line); i++)
+               fputc(ConvChar(line[i]), fout);
+
+            lineNum++;
+        }
+	    fgets(line, 1000, fin);
+	}
+
+    printf(" Enemy classes:\t\tINSERTED\r\n");
+
+	fclose(fout);
+	return;
+}
+
+void InsertEnemyLongNames(void)
+{
+	FILE* fin;
+	FILE* fout;
+	char  line[1000];
+	char* str;
+	int   lineNum = 0;
+	int   startLoc = 0xFDF300;
+	int   i;
+
+	fin = fopen("m1_enemy_long_names.txt", "r");
+	if (!fin)
+	{
+		printf("Can't open m1_enemy_long_names.txt, doh\r\n");
+		return;
+	}
+
+	fout = fopen("test.gba", "rb+");
+	if (!fout)
+	{
+		printf("Can't open test.gba, doh\r\n");
+		return;
+	}
+
+	fgets(line, 1000, fin);
+    while(!feof(fin))
+    {
+        if (line[0] != '/') {
+            line[strcspn(line, "\n")] = '\0';
+            str = &line[14];
+            fseek(fout, startLoc + lineNum * 0x19, SEEK_SET);
+            for (i = 0; i < 0x19; i++)
+               fputc(0, fout);
+
+            fseek(fout, startLoc + lineNum * 0x19, SEEK_SET);
+            for (i = 0; i < strlen(str); i++)
+               fputc(ConvChar(str[i]), fout);
+
+            lineNum++;
+        }
+	    fgets(line, 1000, fin);
+	}
+
+    printf(" Enemy long names:\tINSERTED\r\n");
+
+	fclose(fout);
+	return;
+}
+
 
 //=================================================================================================
 //=================================================================================================
