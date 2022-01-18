@@ -7,7 +7,7 @@ ENEMY-5DE-02: Dragon
 //R-7038
 ENEMY-5DF-03: R-7038
 //Elephant
-ENEMY-5E0-04: Élephant
+ENEMY-5E0-04: Éléphant
 //Bear
 ENEMY-5E1-05: Ours
 //Bigfoot
@@ -29,7 +29,7 @@ ENEMY-5E9-0D: Bison
 //Tiger
 ENEMY-5EA-0E: Tigre
 //Mad Car
-ENEMY-5EB-0F: VoitureFolle
+ENEMY-5EB-0F: Voiture folle
 //Raeb Yddet
 ENEMY-5EC-10: Nounours
 //Magisnail
@@ -43,17 +43,17 @@ ENEMY-5F0-14: Aigle
 //Wolf
 ENEMY-5F1-15: Loup
 //Gull Bandit
-ENEMY-5F2-16: Goéland
+ENEMY-5F2-16: Goéland bandit
 //Crocodile
 ENEMY-5F3-17: Crocodile
 //Atomic Robot
-ENEMY-5F4-18: Atomirobot
+ENEMY-5F4-18: Robot atomique
 //Cave Master
-ENEMY-5F5-19: MaîtreGrotte
+ENEMY-5F5-19: Roi des profondeurs
 //Fugitive
 ENEMY-5F6-1A: Fugitif
 //BB Gang Boss
-ENEMY-5F7-1B: Chef BB Gang
+ENEMY-5F7-1B: Chef du BB Gang
 //Barbot
 ENEMY-5F8-1C: Barbot
 //Jane
@@ -77,15 +77,15 @@ ENEMY-601-25: Hippie
 //Bag Lady
 ENEMY-602-26: Excentrique
 //Gang Member
-ENEMY-603-27: Membre gang
+ENEMY-603-27: Membre du gang
 //Dr. Distorto
 ENEMY-604-28: Dr Distorto
 //
 ENEMY-605-29: 
 //Gang Zombie
-ENEMY-606-2A: Zombie mafia
+ENEMY-606-2A: Zombie mafieux
 //PseudoZombie
-ENEMY-607-2B: Similizombie
+ENEMY-607-2B: Pseudo zombie
 //Crow
 ENEMY-608-2C: Corbeau
 //Snake
@@ -123,7 +123,7 @@ ENEMY-618-3C: Starman Jr
 //Skunk
 ENEMY-619-3D: Putois
 //BloodyZombie
-ENEMY-61A-3E: Zombie sang.
+ENEMY-61A-3E: Zombie sanguinaire
 //Rat
 ENEMY-61B-3F: Rat
 //Bomber
@@ -139,17 +139,17 @@ ENEMY-620-44:
 //
 ENEMY-621-45: 
 //Biopede
-ENEMY-622-46: Bio-scolpdre
+ENEMY-622-46: Scolopendre bionique
 //Bio-Scorpion
-ENEMY-623-47: Bio-scorpion
+ENEMY-623-47: Scorpion bionique
 //
 ENEMY-624-48: 
 //
 ENEMY-625-49: 
 //Red Snake
-ENEMY-626-4A: SerpentRouge
+ENEMY-626-4A: Serpent rouge
 //Lone Wolf
-ENEMY-627-4B: Loup isolé
+ENEMY-627-4B: Loup solitaire
 //Polar Bear
 ENEMY-628-4C: Ours polaire
 //
@@ -165,7 +165,7 @@ ENEMY-62D-51: Crotale
 //Tarantula
 ENEMY-62E-52: Tarantule
 //Tough Croc
-ENEMY-62F-53: Croco tenace
+ENEMY-62F-53: Crocodile tenace
 //
 ENEMY-630-54: 
 //Buffalo
@@ -173,15 +173,15 @@ ENEMY-631-55: Buffle
 //
 ENEMY-632-56: 
 //Bio-Bat
-ENEMY-633-57: Bio-Batou
+ENEMY-633-57: Batou bionique
 //Stray Dog
 ENEMY-634-58: Chien errant
 //Devil Car
-ENEMY-635-59: VoitureDémon
+ENEMY-635-59: Voiture démoniaque
 //Devil Truck
-ENEMY-636-5A: Camion démon
+ENEMY-636-5A: Camion démoniaque
 //Death Truck
-ENEMY-637-5B: CamionMortel
+ENEMY-637-5B: Camion tueur
 //Alarm Ghost
 ENEMY-638-5C: Fantôme SOS
 //
@@ -197,7 +197,7 @@ ENEMY-63D-61:
 //
 ENEMY-63E-62: 
 //Sky Yddet
-ENEMY-63F-63: Nounourciel
+ENEMY-63F-63: Nounours du ciel
 //
 ENEMY-640-64: 
 //Giga-Borg
@@ -209,13 +209,13 @@ ENEMY-643-67: Ferrailleur
 //Death Barbot
 ENEMY-644-68: Barbot tueur
 //Omega Saucer
-ENEMY-645-69: OVNI oméga
+ENEMY-645-69: OVNI Oméga
 //Caroline
 ENEMY-646-6A: Caroline
 //Star Miner
 ENEMY-647-6B: Bombétoile
 //NuclearRobot
-ENEMY-648-6C: Nucléorobot
+ENEMY-648-6C: Robot nucléaire
 //Suzie
 ENEMY-649-6D: Suzie
 //Blue Starman
@@ -241,7 +241,7 @@ ENEMY-653-77: Grizzly
 //R-7038XX
 ENEMY-654-78: R-7038XX
 //Last Starman
-ENEMY-655-79: StarmnUltime
+ENEMY-655-79: Starman ultime
 //
 ENEMY-656-7A: 
 //

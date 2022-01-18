@@ -3094,13 +3094,13 @@
 5F1: Wolf
 5F1-E: Loup
 5F2: Gull Bandit
-5F2-E: Goéland
+5F2-E: GoélandBandt
 5F3: Crocodile
 5F3-E: Crocodile
 5F4: Atomic Robot
-5F4-E: Atomirobot
+5F4-E: RobotAtomiq.
 5F5: Cave Master
-5F5-E: MaîtreGrotte
+5F5-E: RoiProfondrs
 5F6: Fugitive
 5F6-E: Fugitif
 5F7: BB Gang Boss
@@ -3134,9 +3134,9 @@
 605: 
 605-E: 
 606: Gang Zombie
-606-E: Zombie mafia
+606-E: ZombiMafieux
 607: PseudoZombie
-607-E: Similizombie
+607-E: PseudoZombie
 608: Crow
 608-E: Corbeau
 609: Snake
@@ -3174,7 +3174,7 @@
 619: Skunk
 619-E: Putois
 61A: BloodyZombie
-61A-E: Zombie sang.
+61A-E: ZombieSang.
 61B: Rat
 61B-E: Rat
 61C: Bomber
@@ -3190,9 +3190,9 @@
 621: 
 621-E: 
 622: Biopede
-622-E: Bio-scolpdre
+622-E: ScolpdreBio.
 623: Bio-Scorpion
-623-E: Bio-scorpion
+623-E: ScorpionBio.
 624: 
 624-E: 
 625: 
@@ -3200,7 +3200,7 @@
 626: Red Snake
 626-E: SerpentRouge
 627: Lone Wolf
-627-E: Loup isolé
+627-E: LoupSoltaire
 628: Polar Bear
 628-E: Ours polaire
 629: 
@@ -3224,7 +3224,7 @@
 632: 
 632-E: 
 633: Bio-Bat
-633-E: Bio-Batou
+633-E: BatouBioniq.
 634: Stray Dog
 634-E: Chien errant
 635: Devil Car
@@ -3232,7 +3232,7 @@
 636: Devil Truck
 636-E: Camion démon
 637: Death Truck
-637-E: CamionMortel
+637-E: Camion tueur
 638: Alarm Ghost
 638-E: Fantôme SOS
 639: 
@@ -3260,13 +3260,13 @@
 644: Death Barbot
 644-E: Barbot tueur
 645: Omega Saucer
-645-E: OVNI oméga
+645-E: OVNI Oméga
 646: Caroline
 646-E: Caroline
 647: Star Miner
 647-E: Bombétoile
 648: NuclearRobot
-648-E: Nucléorobot
+648-E: RobotNuclre
 649: Suzie
 649-E: Suzie
 64A: Blue Starman
