@@ -73,7 +73,7 @@
 024: @You didn't come from the[BREAK]cemetery to the south, did[BREAK]you?[BREAK][PAUSE]Please tell me you didn't![BREAK]
 024-E: @Tu ne reviens pas du cime-[BREAK]tière au sud, quand même[4F]?[BREAK][PAUSE]Je t'en prie, dis-moi que[BREAK]tu n'as pas été là-bas ![BREAK]
 025: @You're really amazing.[BREAK]
-025-E: @Tu es vraiment fabuleux.[BREAK]
+025-E: @Tu es vraiment prodigieux.[BREAK]
 026: @Please tell me you're not a[BREAK]zombie![BREAK][PAUSE]...Are you?[BREAK]
 026-E: @Dis-moi que tu n'es pas un[BREAK]zombie[4F]![BREAK][PAUSE]... Quoi, tu es un zombie ?[BREAK]
 027: @Oh, yeah? W-w-well...[BREAK][PAUSE]You're a big stupid zombie[BREAK]head! Waaaah! Eek![BREAK]
@@ -321,7 +321,7 @@
 0A0: 
 0A0-E: 
 0A1: @If you pull out a Red Weed[BREAK]and put it in the fountain,[BREAK][PAUSE]it'll turn into a Magic[BREAK]Herb... just like magic![BREAK]
-0A1-E: @Si tu jettes une Pousse[BREAK]rouge dans la fontaine,[BREAK][PAUSE]elle se transformera en[BREAK]Herbe magique... comme par[BREAK]magie[4F]![BREAK]
+0A1-E: @Si tu jettes une Plante[BREAK]rouge dans la fontaine,[BREAK][PAUSE]elle se transformera en[BREAK]Herbe magique... comme par[BREAK]magie[4F]![BREAK]
 0A2: @Could I interest you in a[BREAK]Big Bag?[BREAK]
 0A2-E: @Serais-tu intéressé par un[BREAK]Grand sac[4F]?[BREAK]
 0A3: @In that case, could I[BREAK]borrow your ATM Card for a[BREAK]short while?[BREAK]
@@ -355,7 +355,7 @@
 0B1: @I'm so happy you came![BREAK][PAUSE]@I know just what you want.[BREAK][PAUSE]@Here you go![BREAK]
 0B1-E: @Je suis très heureux de te[BREAK]voir[4F]![BREAK][PAUSE]@Je sais exactement ce que[BREAK]tu veux.[BREAK][PAUSE]@Et voilà[4F]![BREAK]
 0B2: @I finally wrote a song![BREAK]Give it a listen, you[BREAK]music-loving adventurer![BREAK][PAUSE]@Oh, baby doll, why do you[BREAK]weep?[BREAK][PAUSE]The saddened canary won't[BREAK]utter a peep.[BREAK][PAUSE]The monkey can sing,[BREAK]the piano - it chimes.[BREAK][PAUSE]Though ghosts will play out[BREAK]on its keyboard sometimes.[BREAK][PAUSE]Each night in the desert,[BREAK]the lone cactus croons.[BREAK][PAUSE]The dragon, when beaten,[BREAK]will carry some tunes.[BREAK][PAUSE]While scaling the mountain,[BREAK]EVE sings along.[BREAK][PAUSE]Will Queen Mary ever hear[BREAK]the XX Stone's last song?[BREAK][PAUSE]Lalala, what a mysterious[BREAK]lullaby.[BREAK][PAUSE]Lullaby, bye-bye, and[BREAK]goodbye.[BREAK][PAUSE]@What do you think? Nice[BREAK]song, huh?[BREAK][PAUSE]@It is, isn't it?[BREAK]
-0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK][PAUSE]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]depuis longtemps s'est tu.[BREAK][PAUSE]Un singe qui sait chanter,[BREAK]patiente dans son enclos.[BREAK][PAUSE]De redoutables fantômes,[BREAK]parfois jouent du piano.[BREAK][PAUSE]Chaque nuit dans le désert,[BREAK]siffle le cactus solitaire.[BREAK][PAUSE]Le dragon, une fois rossé,[BREAK]fredonne un petit air.[BREAK][PAUSE]Sur la montagne escarpée,[BREAK]ÈVE pousse un faible cri.[BREAK][PAUSE]La tombe XX a l'ultime[BREAK]mélodie que cherche Mary.[BREAK][PAUSE]Lalala, étrange comptine,[BREAK]tu me fais bailler.[BREAK][PAUSE]Comptine, douce comptine,[BREAK]continue de me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est [BREAK]belle, non[4F]?[BREAK]
+0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK][PAUSE]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]depuis longtemps s'est tu.[BREAK][PAUSE]Un singe qui sait chanter,[BREAK]patiente dans son enclos.[BREAK][PAUSE]De redoutables fantômes,[BREAK]parfois jouent du piano.[BREAK][PAUSE]Chaque nuit dans le désert,[BREAK]siffle le cactus solitaire.[BREAK][PAUSE]Le dragon, une fois rossé,[BREAK]fredonne un petit air.[BREAK][PAUSE]Sur la montagne escarpée,[BREAK]ÈVE pousse un faible cri.[BREAK][PAUSE]La tombe XX a l'ultime[BREAK]mélodie que cherche Mary.[BREAK][PAUSE]Lalala, étrange comptine,[BREAK]tu me fais bâiller.[BREAK][PAUSE]Comptine, douce comptine,[BREAK]continue de me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est [BREAK]belle, non[4F]?[BREAK]
 0B3: @Deep in the forest is a[BREAK]guitar player who loves[BREAK]solitude.[BREAK][PAUSE]@He's kind of handsome...[BREAK]and a great poet, too.
 0B3-E: @Au cœur de la forêt se[BREAK]trouve un guitariste qui[BREAK]adore la solitude.[BREAK][PAUSE]@C'est un très bel homme...[BREAK]et un grand poète aussi.
 0B4: @I've heard about a man who[BREAK]was forgotten...[BREAK][PAUSE]@But I forget what his story[BREAK]was.[BREAK]
@@ -787,7 +787,7 @@
 17D: @Have you been to the[BREAK]haunted house in Halloween?[BREAK]
 17D-E: @Tu es déjà allé au manoir[BREAK]hanté d'Atrocity ?[BREAK]
 17E: @You HAVE to tell me all[BREAK]about it sometime.[BREAK][PAUSE]@I just love scary stories!
-17E-E: @Il faudra TROP que tu me[BREAK]racontes un jour.[BREAK][PAUSE]@J'adore les histoires qui[BREAK]font peur !
+17E-E: @Il faudra que tu me[BREAK]racontes tout un jour.[BREAK][PAUSE]@J'adore les histoires qui[BREAK]font peur !
 17F: @I don't wanna visit it,[BREAK]but you probably should.[BREAK]
 17F-E: @Je n'ai pas l'intention[BREAK]d'aller le visiter, mais[BREAK]toi, tu devrais.[BREAK]
 180: @It's freezing here in[BREAK]Snowman. Be careful not to[BREAK]catch a cold.[BREAK][PAUSE]@And be sure to brush your[BREAK]teeth, too.[BREAK][PAUSE]@(cough cough)[BREAK]
@@ -825,7 +825,7 @@
 190: @[03 10]...[BREAK]Please stay with me.[BREAK]
 190-E: @[03 10]...[BREAK]S'il te plaît, reste avec[BREAK]moi.[BREAK]
 191: @No! Stay with me...[BREAK][PAUSE]Please...[BREAK]
-191-E: @Non ! Reste avec moi...[BREAK][PAUSE]Je t'en prie...[BREAK]
+191-E: @Si ! Reste avec moi...[BREAK][PAUSE]Je t'en prie...[BREAK]
 192: @It's so quiet here.[BREAK][PAUSE]@Would you like to dance?[BREAK]
 192-E: @C'est tellement calme ici.[BREAK][PAUSE]@Voudrais-tu danser ?[BREAK]
 193: @...You're right. This isn't[BREAK]the time for that.[BREAK][PAUSE]I'm sorry for asking.[BREAK]
@@ -1078,7 +1078,7 @@
 20D: @Surely it must be[BREAK]hard carrying so[BREAK]much stuff...[BREAK]
 20D-E: @Ça doit être dur[BREAK]de porter autant[BREAK]d'affaires...[BREAK]
 20E: @[03 10]! [03 10]![BREAK][PAUSE]@It looks like you got your[BREAK]head handed to you.[BREAK][PAUSE]@So, how about giving it[BREAK]another shot?[BREAK]
-20E-E: @[03 10] ! [03 10] ![BREAK][PAUSE]@On dirait que tu as subi[BREAK]un échec cuisant.[BREAK][PAUSE]@Alors, que dirais-tu de[BREAK]tenter à nouveau ?[BREAK]
+20E-E: @[03 10] ! [03 10] ![BREAK][PAUSE]@On dirait que tu as subi[BREAK]un cuisant échec.[BREAK][PAUSE]@Alors, que dirais-tu de[BREAK]tenter à nouveau ?[BREAK]
 // line from EarthBound
 // line from EarthBound
 
@@ -1105,7 +1105,7 @@
 219: @I don't think[BREAK]there's anyone here[BREAK]by that name,[BREAK][PAUSE]but perhaps I'm[BREAK]mistaken...[BREAK]
 219-E: @Je ne crois pas[BREAK]qu'il y a quelqu'un[BREAK]de ce nom-là ici,[BREAK][PAUSE]mais je peux me[BREAK]tromper...[BREAK]
 21A: @After being placed in the[BREAK]fountain,[BREAK][PAUSE]the Red Weed turned into a[BREAK]very energizing Magic Herb.[BREAK]
-21A-E: @Après avoir été déposée[BREAK]dans la fontaine,[BREAK][PAUSE]la Pousse rouge se[BREAK]transforme en une Herbe[BREAK]magique très énergisante.[BREAK]
+21A-E: @Après avoir été déposée[BREAK]dans la fontaine,[BREAK][PAUSE]la Plante rouge se[BREAK]transforme en une Herbe[BREAK]magique très énergisante.[BREAK]
 21B: @There's no one like[BREAK]that here![BREAK]
 21B-E: @Il n'y a personne[BREAK]de ce nom-là ici ![BREAK]
 // possible hospital text?
@@ -1781,7 +1781,7 @@
 362: The world's only singing[BREAK]monkey![BREAK][PAUSE]Right here at Cream Puff[BREAK]Zoo![BREAK]
 362-E: Le seul et unique singe[BREAK]chantant ![BREAK][PAUSE]En exclusivité ici, au zoo[BREAK]Patachou ![BREAK]
 363: @There's a big lock on the[BREAK]door at the top of the[BREAK]stairs.[BREAK]
-363-E: @Il y a un gros cadena sur[BREAK]la porte en haut des[BREAK]escaliers.[BREAK]
+363-E: @Il y a un gros cadenas sur[BREAK]la porte en haut des[BREAK]escaliers.[BREAK]
 364: @I'm going to stay here and[BREAK]help the people of Snowman.[BREAK][PAUSE]Please be careful on your[BREAK]way...[BREAK]
 364-E: @Je vais rester ici et aider[BREAK]les habitants de Snowman.[BREAK][PAUSE]Soyez prudents durant votre[BREAK]voyage...[BREAK]
 365: @You don't have enough[BREAK]money.[BREAK]
@@ -2272,7 +2272,7 @@
 456: ATM Card
 456-E: CarteBanque
 457: Red Weed
-457-E: PousseRouge
+457-E: PlanteRouge
 458: Megaphone
 458-E: Mégaphone
 459: Map
@@ -2436,13 +2436,13 @@
 4A8: Uncon.
 4A8-E:     KO
 4A9:  Stone
-4A9-E: Pierre
+4A9-E: [5D][5E][5F][60][61][62]
 4AA: Paral.
 4AA-E: [55][56][57][58][59][5A]
 4AB: Asleep
 4AB-E:   Dort
 4AC: Flust.
-4AC-E:  Agit[2F]
+4AC-E:  [63][64][65][66][67]
 4AD: Confus
 4AD-E: Confus
 4AE: Poison
@@ -3058,7 +3058,7 @@
 5DF: R-7038
 5DF-E: R-7038
 5E0: Elephant
-5E0-E: Élephant
+5E0-E: Éléphant
 5E1: Bear
 5E1-E: Ours
 5E2: Bigfoot
@@ -3652,7 +3652,7 @@
 708: 
 708-E: 
 709: "Big Bag"[BREAK]@A bag filled with lots of[BREAK]Magic Herbs.
-709-E: "Grand sac"[BREAK]@Un sac rempli à ras bords[BREAK]d'Herbes magiques.
+709-E: "Grand sac"[BREAK]@Un sac rempli à ras bord[BREAK]d'Herbes magiques.
 70A: "Phone Card"[BREAK]@You can make 50 calls on[BREAK]public phones with this.
 70A-E: "Carte téléphonique"[BREAK]@Vous pouvez appeler[BREAK]gratuitement 50 fois sur[BREAK]des téléphones publics.
 70B: "Bread Crumbs"[BREAK]@With these, you can return[BREAK]to the exact spot where you[BREAK]began spreading crumbs.
@@ -3872,7 +3872,7 @@
 776: "ATM Card"[BREAK]@Use this to access your[BREAK]bank account and make[BREAK]deposits or withdrawals.
 776-E: "Carte bancaire"[BREAK]@Utilisez-la pour déposer ou[BREAK]retirer de l'argent de[BREAK]votre compte bancaire.
 777: "Red Weed"[BREAK]@At first glance, it looks[BREAK]like an ordinary weed,[BREAK]but...
-777-E: "Pousse rouge"[BREAK]@À première vue, cela[BREAK]ressemble à une herbe[BREAK]ordinaire, pourtant...
+777-E: "Plante rouge"[BREAK]@À première vue, cela[BREAK]ressemble à une herbe[BREAK]ordinaire, pourtant...
 778: "Magic Megaphone"[BREAK]@Use this to scare enemies[BREAK]with your loud voice.
 778-E: "Mégaphone magique"[BREAK]@Utilisez-le pour effrayer[BREAK]les ennemis avec votre voix[BREAK]puissante.
 779: 
@@ -4090,7 +4090,7 @@
 7E3: [03 20] went berserk!
 7E3-E: [03 E2][03 D0][03 C0] entre dans une rage folle[4F]!
 7E4: [03 20] ran out of strength!
-7E4-E: [03 E2][03 D0][03 C0] n'a plus de force[4F]!
+7E4-E: [03 E2][03 D0][03 C0] est à bout de force[4F]!
 7E5: [03 20]'s final desperation attack!!!
 7E5-E: [03 E2][03 D0][03 C0] lance une ultime attaque désespérée[4F]!!!
 7E6: You can't grasp the form of [03 20]'s attack!
@@ -4106,7 +4106,7 @@
 7EB: [03 21] was blinded!
 7EB-E: [03 EA][03 D8][03 C8] est aveuglé[03 EC][4F]!
 7EC: [03 20] is tied up...
-7EC-E: [03 E2][03 D0][03 C0] est ligoté...
+7EC-E: [03 E2][03 D0][03 C0] est ligoté[03 E4]...
 7ED: [03 20] let out a strange howl!
 7ED-E: [03 E2][03 D0][03 C0] pousse un hurlement étrange[4F]!
 7EE: [03 20] exploded!
@@ -4176,7 +4176,7 @@
 80E: [03 21] recovered [03 23] HP!
 80E-E: [03 EA][03 D8][03 C8] récupère [03 23] PV[4F]!
 80F: [03 20] replenished energy!
-80F-E: [03 E2][03 D0][03 C0] est réalimenté en énergie[4F]!
+80F-E: [03 E2][03 D0][03 C0] est réalimenté[03 E4] en énergie[4F]!
 810: But no one came.
 810-E: Mais personne ne vient.
 811: (silence...)
@@ -4192,7 +4192,7 @@
 816: [03 20] can't move...
 816-E: [03 E2][03 D0][03 C0] ne peut pas bouger...
 817: [03 20] has been petrified...
-817-E: [03 E2][03 D0][03 C0] se change en pierre...
+817-E: [03 E2][03 D0][03 C0] a été pétrifié[03 E4]...
 818: Stole [03 23] PP from [03 21]!
 818-E: [03 23] PP [03 ED][03 D8][03 C8] volés[4F]!
 819: [03 21] is immobilized!
@@ -4276,7 +4276,7 @@
 840: [03 21]'s asthma attack went away!
 840-E: La crise d'asthme [03 ED][03 D8][03 C8] s'est arrêtée[4F]!
 841: [03 21] softened!
-841-E: Le corps [03 ED][03 D8][03 C8] n'est plus pétrifié[4F]!
+841-E: [03 EA][03 D8][03 C8] n'est plus pétrifié[03 EC][4F]!
 842: "I like you!"
 842-E: "Je t'aime très fort[4F]!"
 843: "I hate you!"
@@ -4332,7 +4332,7 @@
 85C: Picked up [03 F1][03 1D]![BREAK][PAUSE][03 01]
 85C-E: Vous ramassez [03 F8][03 1D]![BREAK][PAUSE][03 01]
 85D: [03 21]'s confusion went away!
-85D-E: La confusion [03 ED][03 D8][03 C8] a disparue[4F]!
+85D-E: La confusion [03 ED][03 D8][03 C8] s'est dissipée[4F]!
 85E: [03 20] woke up!
 85E-E: [03 E2][03 D0][03 C0] se réveille[4F]!
 85F: [03 20] tore a hole through space![BREAK]
