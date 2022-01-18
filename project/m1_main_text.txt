@@ -2322,9 +2322,9 @@
 46F: 
 46F-E: 
 470: Lifeup [ALPHA]
-470-E: Soin [ALPHA]
+470-E: Soin[4F][ALPHA]
 471: Lifeup [BETA]
-471-E: Soin [BETA]
+471-E: Soin[4F][BETA]
 472: Lifeup [GAMMA]
 472-E: Soin [GAMMA]
 473: Lifeup [PIZ]
@@ -2338,9 +2338,9 @@
 477: 
 477-E: 
 478: Healing [ALPHA]
-478-E: Guérison [ALPHA]
+478-E: Guérison[4F][ALPHA]
 479: Healing [BETA]
-479-E: Guérison [BETA]
+479-E: Guérison[4F][BETA]
 47A: Healing [GAMMA]
 47A-E: Guérison [GAMMA]
 47B: Healing [PIZ]
@@ -2348,9 +2348,9 @@
 47C: Super Heal
 47C-E: Réanimation
 47D: PSI Shield[ALPHA]
-47D-E: Bouclier [ALPHA]
+47D-E: Bouclier[4F][ALPHA]
 47E: PSI Shield[BETA]
-47E-E: Bouclier [BETA]
+47E-E: Bouclier[4F][BETA]
 47F: PowerShield
 47F-E: SuperContre
 480: Brainshock
@@ -2370,49 +2370,49 @@
 487: PSI Block
 487-E: Blocage PSI
 488: Offense Up
-488-E: Attaque [50]
+488-E: Attaque[4F][50]
 489: Def. Up [ALPHA]
-489-E: Défense [50] [ALPHA]
+489-E: Défense[4F][50][4F][ALPHA]
 48A: Def. Up [BETA]
-48A-E: Défense [50] [BETA]
+48A-E: Défense[4F][50][4F][BETA]
 48B: Quick Up
 48B-E: Hâte
 48C: Def. Down [ALPHA]
-48C-E: Défense - [ALPHA]
+48C-E: Défense[4F]-[4F][ALPHA]
 48D: Def. Down [BETA]
-48D-E: Défense - [BETA]
+48D-E: Défense[4F]-[4F][BETA]
 48E: Dimens.Warp
 48E-E: SautDimensl
 48F: Hypnosis
 48F-E: Hypnose
 490: PK Freeze [ALPHA]
-490-E: PK Glace [ALPHA]
+490-E: PK Glace[4F][ALPHA]
 491: PK Freeze [BETA]
-491-E: PK Glace [BETA]
+491-E: PK Glace[4F][BETA]
 492: PK Freeze [GAMMA]
 492-E: PK Glace [GAMMA]
 493: PK Freeze [OMEGA]
 493-E: PK Glace [OMEGA]
 494: PK Fire [ALPHA]
-494-E: PK Feu [ALPHA]
+494-E: PK Feu[4F][ALPHA]
 495: PK Fire [BETA]
-495-E: PK Feu [BETA]
+495-E: PK Feu[4F][BETA]
 496: PK Fire [GAMMA]
 496-E: PK Feu [GAMMA]
 497: PK Fire [OMEGA]
 497-E: PK Feu [OMEGA]
 498: PK Beam [ALPHA]
-498-E: PK Rayon [ALPHA]
+498-E: PK Rayon[4F][ALPHA]
 499: PK Beam [BETA]
-499-E: PK Rayon [BETA]
+499-E: PK Rayon[4F][BETA]
 49A: PK Beam [GAMMA]
 49A-E: PK Rayon [GAMMA]
 49B: PK Beam [OMEGA]
 49B-E: PK Rayon [OMEGA]
 49C: PK Thunder[ALPHA]
-49C-E: PK Foudre [ALPHA]
+49C-E: PK Foudre[4F][ALPHA]
 49D: PK Thunder[BETA]
-49D-E: PK Foudre [BETA]
+49D-E: PK Foudre[4F][BETA]
 49E: PK Thunder[GAMMA]
 49E-E: PK Foudre [GAMMA]
 49F: 
