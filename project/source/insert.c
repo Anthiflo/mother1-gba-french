@@ -833,7 +833,6 @@ void InsertEnemyLongNames(void)
     while(!feof(fin))
     {
         if (line[0] != '/') {
-            line[strcspn(line, "\n")] = '\0';
             str = &line[14];
             StartWritingInRom(startLoc + lineNum * 0x19);
             for (i = 0; i < 0x19; i++)
