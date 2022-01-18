@@ -12,8 +12,14 @@ struct tableEntry
 	char str[500];
 };
 
+struct romArea
+{
+	int  address;
+	int  size;
+};
+
 int        tableLen = 0;
-struct tableEntry table[500];
+struct 	   tableEntry table[500];
 
 void 		  LoadTable(void);
 void          PrepString(char[], char[], int);
@@ -22,6 +28,9 @@ void          ConvComplexString(char[], int&);
 void          CompileCC(char[], int&, unsigned char[], int&);
 int           CharToHex(char);
 unsigned int  hstrtoi(char*);
+void          StartWritingInRom(int address);
+void          WriteInRom(int character);
+void          WriteReport();
 void          InsertMainStuff(void);
 void          InsertSpecialText(void);
 void          InsertAltWindowData(void);
@@ -48,10 +57,24 @@ void          ConvComplexMenuString(char[], int&);
 
 int quoteCount = 0;
 
+struct romArea writtenAreas[10000];
+int writtenAreasCount = 0;
+int currentWrittenArea = 0;
+
+FILE* romStream;
+
 //=================================================================================================
 
-int main(void)
+int main(int argc, char *argv[])
 {
+	romStream = fopen("test.gba", "rb+");
+	if (romStream == NULL)
+	{
+		printf("Can't open test.gba\n");
+		fclose(romStream);
+		return -1;
+	}
+	
 	printf("\r\n MOTHER 1 STUFF\r\n");
 	printf("=====================================\r\n");
 	LoadTable();
@@ -75,7 +98,14 @@ int main(void)
 	InsertM2Locations();
 	InsertM2MiscText();
 
+	fclose(romStream);
+
     printf("\r\nDone!\r\n");
+	printf("\r\n%d areas written\r\n",writtenAreasCount);
+	
+	if (argc > 1) {
+		WriteReport();
+	}
 
 	return 0;
 }
@@ -123,6 +153,40 @@ void ConvComplexString(char str[5000], int& newLen)
 	   str[i] = newStr[i];
 }
 
+void StartWritingInRom(int address) {
+	//printf("Write in ROM at 0x8%06X\n", address);
+	int i;
+	int foundArea = 0;
+	for (i = 0; i < writtenAreasCount; i++) {
+		if (writtenAreas[i].address + writtenAreas[i].size == address) {
+			currentWrittenArea = i;
+			foundArea = 1;
+			break;
+		}
+	}
+	if (!foundArea) {
+		currentWrittenArea = writtenAreasCount;
+		writtenAreasCount++;
+	}
+	writtenAreas[currentWrittenArea].address = address;
+	writtenAreas[currentWrittenArea].size = 0;
+	fseek(romStream, address, SEEK_SET);
+}
+
+void WriteInRom(int character) {
+	writtenAreas[currentWrittenArea].size++;
+	fputc(character, romStream);
+}
+
+void WriteReport() {
+	FILE* reportStream;
+	reportStream = fopen("insert_report.txt", "w+");
+	int i;
+	for (i = 0; i < writtenAreasCount; i++) {
+		fprintf(reportStream, "0x8%06X:0x%X\n", writtenAreas[i].address, writtenAreas[i].size); 
+	}
+	fclose(reportStream);
+}
 
 //=================================================================================================
 
@@ -431,11 +495,10 @@ void PrepString(char str[5000], char str2[5000], int startPoint)
 void InsertMainStuff(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  str[5000];
 	char  str2[5000];
 	int   lineNum = 0;
-        int   loc = 0xF7EA00;
+    int   loc = 0xF7EA00;
 	int   ptrLoc;
 	int   temp;
 	int   len;
@@ -447,15 +510,6 @@ void InsertMainStuff(void)
 		printf("Can't open m1_main_text.txt\n");
 		return;
 	}
-
-	fout = fopen("test.gba", "rb+");
-	if (fout == NULL)
-	{
-		printf("Can't open test.gba\n");
-		fclose(fin);
-		return;
-	}
-
 
 	fgets(str, 5000, fin);
 	while(strstr(str, "-E: ") == NULL)
@@ -471,23 +525,23 @@ void InsertMainStuff(void)
 			//printf("%d", str2[0]);
 //                       printf("%X %s\n", loc, str);
 			ptrLoc = 0xF27A90 + lineNum * 4;
-			fseek(fout, ptrLoc, SEEK_SET);
+			StartWritingInRom(ptrLoc);
 
 			temp = loc + 0x8000000;
-	        fputc(temp & 0x000000FF, fout);
-            fputc((temp & 0x0000FF00) >> 8, fout);
-	        fputc((temp & 0x00FF0000) >> 16, fout);
-            fputc(temp >> 24, fout);
+	        WriteInRom(temp & 0x000000FF);
+            WriteInRom((temp & 0x0000FF00) >> 8);
+	        WriteInRom((temp & 0x00FF0000) >> 16);
+            WriteInRom(temp >> 24);
 
 			ConvComplexString(str2, len);
 			str2[len] = 0x00;
 			len++;
 
-            fseek(fout, loc, SEEK_SET);
+            StartWritingInRom(loc);
             for (i = 0; i < len; i++)
             {
 			   //printf("%02X ", str2[i]);
-               fputc(str2[i], fout);
+               WriteInRom(str2[i]);
 			}
 			//printf("\n");
 
@@ -506,7 +560,6 @@ void InsertMainStuff(void)
 
     printf(" Main text:\tINSERTED\r\n");
 
-    fclose(fout);
 	fclose(fin);
 }
 
@@ -515,7 +568,6 @@ void InsertMainStuff(void)
 void InsertSpecialText(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  str[5000];
 	char  str2[5000];
 	char  line[5000];
@@ -529,14 +581,6 @@ void InsertSpecialText(void)
     if (fin == NULL)
     {
 		printf("Can't open m1_misc_text.txt");
-		return;
-	}
-
-	fout = fopen("test.gba", "rb+");
-	if (fout == NULL)
-	{
-		printf("Can't open test.gba");
-		fclose(fin);
 		return;
 	}
 
@@ -555,9 +599,9 @@ void InsertSpecialText(void)
      	   PrepString(str, str2, 0);
 		   ConvComplexString(str2, len);
 
-           fseek(fout, loc, SEEK_SET);
+           StartWritingInRom(loc);
            for (i = 0; i < len; i++)
-	          fputc(str2[i], fout);
+	          WriteInRom(str2[i]);
 	    }
 
 	    //fscanf(fin, "%s", line);
@@ -569,14 +613,12 @@ void InsertSpecialText(void)
 
     printf(" Misc. text:\t\tINSERTED\r\n");
 
-	fclose(fout);
 	fclose(fin);
 }
 
 void InsertAltWindowData(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  str[1000];
 	int   lineNum;
 	int   insertLoc = 0xFED000;
@@ -590,31 +632,23 @@ void InsertAltWindowData(void)
 		return;
 	}
 
-	fout = fopen("test.gba", "rb+");
-	if (!fout)
-	{
-		printf("Can't open test.gba, doh\r\n");
-		return;
-	}
-
-	fseek(fout, insertLoc, SEEK_SET);
+	StartWritingInRom(insertLoc);
 	for (int i = 0; i < totalSize; i++)
-	   fputc(0, fout);
+	   WriteInRom(0);
 
 	fscanf(fin, "%x", &lineNum);
     while(!feof(fin))
     {
 		if (lineNum < totalSize)
 		{
-			fseek(fout, insertLoc + lineNum, SEEK_SET);
-			fputc(1, fout);
+			StartWritingInRom(insertLoc + lineNum);
+			WriteInRom(1);
 			totalFound++;
 		}
 
 	   fscanf(fin, "%x", &lineNum);
 	}
 
-	fclose(fout);
 	fclose(fin);
 
     printf(" Alt. windows:\t\tINSERTED (Total: %d)\r\n", totalFound);
@@ -624,7 +658,6 @@ void InsertAltWindowData(void)
 void InsertItemArticles(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  line[1000];
 	char* str;
 	int   lineNum = 0;
@@ -638,22 +671,15 @@ void InsertItemArticles(void)
 		return;
 	}
 
-	fout = fopen("test.gba", "rb+");
-	if (!fout)
-	{
-		printf("Can't open test.gba, doh\r\n");
-		return;
-	}
-
 	fgets(line, 1000, fin);
     while(!feof(fin))
     {
+		line[strcspn(line, "\n")] = '\0';
         if (line[0] != '/') {
-            line[strcspn(line, "\n")] = '\0';
             str = &line[13];
             
-            fseek(fout, startLoc + lineNum, SEEK_SET);
-            fputc(hstrtoi(str), fout);
+            StartWritingInRom(startLoc + lineNum);
+            WriteInRom(hstrtoi(str));
 
             lineNum++;
         }
@@ -662,14 +688,12 @@ void InsertItemArticles(void)
 
     printf(" Item articles:\t\tINSERTED\r\n");
 
-	fclose(fout);
 	return;
 }
 
 void InsertEnemyArticles(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  line[1000];
 	char* str;
 	int   lineNum = 0;
@@ -683,22 +707,15 @@ void InsertEnemyArticles(void)
 		return;
 	}
 
-	fout = fopen("test.gba", "rb+");
-	if (!fout)
-	{
-		printf("Can't open test.gba, doh\r\n");
-		return;
-	}
-
 	fgets(line, 1000, fin);
     while(!feof(fin))
     {
+		line[strcspn(line, "\n")] = '\0';
         if (line[0] != '/') {
-            line[strcspn(line, "\n")] = '\0';
             str = &line[14];
             
-            fseek(fout, startLoc + lineNum, SEEK_SET);
-            fputc(hstrtoi(str), fout);
+            StartWritingInRom(startLoc + lineNum);
+            WriteInRom(hstrtoi(str));
 
             lineNum++;
         }
@@ -707,14 +724,12 @@ void InsertEnemyArticles(void)
 
     printf(" Enemy articles:\tINSERTED\r\n");
 
-	fclose(fout);
 	return;
 }
 
 void InsertItemClasses(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  line[1000];
 	char* str;
 	int   lineNum = 0;
@@ -728,26 +743,21 @@ void InsertItemClasses(void)
 		return;
 	}
 
-	fout = fopen("test.gba", "rb+");
-	if (!fout)
-	{
-		printf("Can't open test.gba, doh\r\n");
-		return;
-	}
-
 	fgets(line, 1000, fin);
     while(!feof(fin))
     {
         line[strcspn(line, "\n")] = '\0';
 
         if (line[0] != '/') {
-            fseek(fout, startLoc + lineNum * 0x8, SEEK_SET);
+            StartWritingInRom(startLoc + lineNum * 0x8);
             for (i = 0; i < 0x8; i++)
-               fputc(0, fout);
+               WriteInRom(0);
 
-            fseek(fout, startLoc + lineNum * 0x8, SEEK_SET);
-            for (i = 0; i < strlen(line); i++)
-               fputc(ConvChar(line[i]), fout);
+			if (strlen(line) > 0) {
+				StartWritingInRom(startLoc + lineNum * 0x8);
+				for (i = 0; i < strlen(line); i++)
+				   WriteInRom(ConvChar(line[i]));
+		    }
 
             lineNum++;
         }
@@ -756,14 +766,12 @@ void InsertItemClasses(void)
 
     printf(" Item classes:\t\tINSERTED\r\n");
 
-	fclose(fout);
 	return;
 }
 
 void InsertEnemyClasses(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  line[1000];
 	char* str;
 	int   lineNum = 0;
@@ -777,26 +785,21 @@ void InsertEnemyClasses(void)
 		return;
 	}
 
-	fout = fopen("test.gba", "rb+");
-	if (!fout)
-	{
-		printf("Can't open test.gba, doh\r\n");
-		return;
-	}
-
 	fgets(line, 1000, fin);
     while(!feof(fin))
     {
         line[strcspn(line, "\n")] = '\0';
 
         if (line[0] != '/') {
-            fseek(fout, startLoc + lineNum * 0x8, SEEK_SET);
+            StartWritingInRom(startLoc + lineNum * 0x8);
             for (i = 0; i < 0x8; i++)
-               fputc(0, fout);
+               WriteInRom(0);
 
-            fseek(fout, startLoc + lineNum * 0x8, SEEK_SET);
-            for (i = 0; i < strlen(line); i++)
-               fputc(ConvChar(line[i]), fout);
+			if (strlen(line) > 0) {
+				StartWritingInRom(startLoc + lineNum * 0x8);
+				for (i = 0; i < strlen(line); i++)
+				   WriteInRom(ConvChar(line[i]));
+		    }
 
             lineNum++;
         }
@@ -805,16 +808,16 @@ void InsertEnemyClasses(void)
 
     printf(" Enemy classes:\t\tINSERTED\r\n");
 
-	fclose(fout);
 	return;
 }
 
 void InsertEnemyLongNames(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  line[1000];
 	char* str;
+	char  str2[5000];
+	int   len;
 	int   lineNum = 0;
 	int   startLoc = 0xFDF300;
 	int   i;
@@ -826,26 +829,22 @@ void InsertEnemyLongNames(void)
 		return;
 	}
 
-	fout = fopen("test.gba", "rb+");
-	if (!fout)
-	{
-		printf("Can't open test.gba, doh\r\n");
-		return;
-	}
-
 	fgets(line, 1000, fin);
     while(!feof(fin))
     {
         if (line[0] != '/') {
             line[strcspn(line, "\n")] = '\0';
             str = &line[14];
-            fseek(fout, startLoc + lineNum * 0x19, SEEK_SET);
+            StartWritingInRom(startLoc + lineNum * 0x19);
             for (i = 0; i < 0x19; i++)
-               fputc(0, fout);
-
-            fseek(fout, startLoc + lineNum * 0x19, SEEK_SET);
-            for (i = 0; i < strlen(str); i++)
-               fputc(ConvChar(str[i]), fout);
+               WriteInRom(0);
+			if (strlen(str) > 0) {
+				PrepString(str,str2,0);
+				ConvComplexString(str2,len);
+				StartWritingInRom(startLoc + lineNum * 0x19);
+				for (i = 0; i < len; i++)
+				   WriteInRom(str2[i]);
+			}
 
             lineNum++;
         }
@@ -854,7 +853,6 @@ void InsertEnemyLongNames(void)
 
     printf(" Enemy long names:\tINSERTED\r\n");
 
-	fclose(fout);
 	return;
 }
 
@@ -906,7 +904,6 @@ void LoadM2Table(void)
 void InsertM2WindowText(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  str[5000];
 	char  str2[5000];
 	char  line[5000];
@@ -920,14 +917,6 @@ void InsertM2WindowText(void)
     if (fin == NULL)
     {
 		printf("Can't open m1_window_text.txt");
-		return;
-	}
-
-	fout = fopen("test.gba", "rb+");
-	if (fout == NULL)
-	{
-		printf("Can't open test.gba");
-		fclose(fin);
 		return;
 	}
 
@@ -946,9 +935,9 @@ void InsertM2WindowText(void)
      	   PrepString(str, str2, 0);
 		   ConvComplexMenuString(str2, len);
 
-           fseek(fout, loc, SEEK_SET);
+           StartWritingInRom(loc);
            for (i = 0; i < len; i++)
-	          fputc(str2[i], fout);
+	          WriteInRom(str2[i]);
 	    }
 
 	    //fscanf(fin, "%s", line);
@@ -960,7 +949,6 @@ void InsertM2WindowText(void)
 
     printf(" Misc. text:\tINSERTED\r\n");
 
-	fclose(fout);
 	fclose(fin);
 }
 
@@ -969,7 +957,6 @@ void InsertM2WindowText(void)
 void InsertM2Items(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  str[5000];
 	char  str2[5000];
 	int   lineNum = 0;
@@ -986,15 +973,6 @@ void InsertM2Items(void)
 		return;
 	}
 
-	fout = fopen("test.gba", "rb+");
-	if (fout == NULL)
-	{
-		printf("Can't open test.gba\n");
-		fclose(fin);
-		return;
-	}
-
-
 	fgets(str, 5000, fin);
 	while(strstr(str, "-E: ") == NULL)
 	{
@@ -1010,23 +988,23 @@ void InsertM2Items(void)
 			//printf(str2);
 //                       printf("%X %s\n", loc, str);
 			ptrLoc = 0xb1af94 + lineNum * 4;
-			fseek(fout, ptrLoc, SEEK_SET);
+			StartWritingInRom(ptrLoc);
 
 			temp = (loc - 0xb1a694);
-	        fputc(temp & 0x000000FF, fout);
-            fputc((temp & 0x0000FF00) >> 8, fout);
-	        fputc((temp & 0x00FF0000) >> 16, fout);
-            fputc(temp >> 24, fout);
+	        WriteInRom(temp & 0x000000FF);
+            WriteInRom((temp & 0x0000FF00) >> 8);
+	        WriteInRom((temp & 0x00FF0000) >> 16);
+            WriteInRom(temp >> 24);
 
 			ConvComplexString(str2, len);
             str2[len++] = 0x00;
 			str2[len++] = 0xFF;
 
-            fseek(fout, loc, SEEK_SET);
+            StartWritingInRom(loc);
             for (i = 0; i < len; i++)
             {
 			   //printf("%02X ", str2[i]);
-               fputc(str2[i], fout);
+               WriteInRom(str2[i]);
 			}
 			//printf("\n");
 
@@ -1045,7 +1023,6 @@ void InsertM2Items(void)
 
     printf(" Item names:\tINSERTED\r\n");
 
-    fclose(fout);
 	fclose(fin);
 }
 
@@ -1054,7 +1031,6 @@ void InsertM2Items(void)
 void InsertM2Enemies(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  str[5000];
 	char  str2[5000];
 	int   lineNum = 0;
@@ -1071,15 +1047,6 @@ void InsertM2Enemies(void)
 		return;
 	}
 
-	fout = fopen("test.gba", "rb+");
-	if (fout == NULL)
-	{
-		printf("Can't open test.gba\n");
-		fclose(fin);
-		return;
-	}
-
-
 	fgets(str, 5000, fin);
 	while(strstr(str, "-E: ") == NULL)
 	{
@@ -1095,23 +1062,23 @@ void InsertM2Enemies(void)
 //			printf(str2);
 //                       printf("%X %s\n", loc, str);
 			ptrLoc = 0xb1a2f0 + lineNum * 4;
-			fseek(fout, ptrLoc, SEEK_SET);
+			StartWritingInRom(ptrLoc);
 
 			temp = (loc - 0xb19ad0);
-	        fputc(temp & 0x000000FF, fout);
-            fputc((temp & 0x0000FF00) >> 8, fout);
-	        fputc((temp & 0x00FF0000) >> 16, fout);
-            fputc(temp >> 24, fout);
+	        WriteInRom(temp & 0x000000FF);
+            WriteInRom((temp & 0x0000FF00) >> 8);
+	        WriteInRom((temp & 0x00FF0000) >> 16);
+            WriteInRom(temp >> 24);
 
 			ConvComplexString(str2, len);
             str2[len++] = 0x00;
 			str2[len++] = 0xFF;
 
-            fseek(fout, loc, SEEK_SET);
+            StartWritingInRom(loc);
             for (i = 0; i < len; i++)
             {
 			   //printf("%02X ", str2[i]);
-               fputc(str2[i], fout);
+               WriteInRom(str2[i]);
 			}
 			//printf("\n");
 
@@ -1130,7 +1097,6 @@ void InsertM2Enemies(void)
 
     printf(" Enemy names:\tINSERTED\r\n");
 
-    fclose(fout);
 	fclose(fin);
 }
 
@@ -1140,7 +1106,6 @@ void InsertM2Enemies(void)
 void InsertM2MiscText(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  str[5000];
 	char  str2[5000];
 	char  line[5000];
@@ -1157,14 +1122,6 @@ void InsertM2MiscText(void)
 		return;
 	}
 
-	fout = fopen("test.gba", "rb+");
-	if (fout == NULL)
-	{
-		printf("Can't open test.gba");
-		fclose(fin);
-		return;
-	}
-
     fgets(line, 5000, fin);
     while(!feof(fin))
     {
@@ -1177,9 +1134,9 @@ void InsertM2MiscText(void)
      	   PrepString(str, str2, 0);
 		   ConvComplexString(str2, len);
 
-           fseek(fout, loc, SEEK_SET);
+           StartWritingInRom(loc);
            for (i = 0; i < len; i++)
-	          fputc(str2[i], fout);
+	          WriteInRom(str2[i]);
 	    }
 
 	    //fscanf(fin, "%s", line);
@@ -1191,7 +1148,6 @@ void InsertM2MiscText(void)
 
     printf(" Misc. text:\tINSERTED\r\n");
 
-	fclose(fout);
 	fclose(fin);
 }
 
@@ -1243,7 +1199,6 @@ void ConvComplexMenuString(char str[5000], int& newLen)
 void InsertM2PSI1(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  str[5000];
 	char  str2[5000];
 	int   lineNum = 0;
@@ -1259,15 +1214,6 @@ void InsertM2PSI1(void)
 		printf("Can't open m2_psi.txt\n");
 		return;
 	}
-
-	fout = fopen("test.gba", "rb+");
-	if (fout == NULL)
-	{
-		printf("Can't open test.gba\n");
-		fclose(fin);
-		return;
-	}
-
 
 	fgets(str, 5000, fin);
 	while(strstr(str, "-E: ") == NULL)
@@ -1287,11 +1233,11 @@ void InsertM2PSI1(void)
             str2[len++] = 0x00;
 			str2[len++] = 0xFF;
 
-			fseek(fout, ptrLoc, SEEK_SET);
+			StartWritingInRom(ptrLoc);
             for (i = 0; i < len; i++)
             {
 			   //printf("%02X ", str2[i]);
-               fputc(str2[i], fout);
+               WriteInRom(str2[i]);
 			}
 			//printf("\n");
 
@@ -1310,7 +1256,6 @@ void InsertM2PSI1(void)
 
     printf(" PSI, etc. #1:\tINSERTED\r\n");
 
-    fclose(fout);
 	fclose(fin);
 }
 
@@ -1319,7 +1264,6 @@ void InsertM2PSI1(void)
 void InsertM2Locations(void)
 {
 	FILE* fin;
-	FILE* fout;
 	char  str[5000];
 	char  str2[5000];
 	int   lineNum = 0;
@@ -1335,15 +1279,6 @@ void InsertM2Locations(void)
 		printf("Can't open m2_locations.txt\n");
 		return;
 	}
-
-	fout = fopen("test.gba", "rb+");
-	if (fout == NULL)
-	{
-		printf("Can't open test.gba\n");
-		fclose(fin);
-		return;
-	}
-
 
 	fgets(str, 5000, fin);
 	while(strstr(str, "-E: ") == NULL)
@@ -1363,11 +1298,11 @@ void InsertM2Locations(void)
             str2[len++] = 0x00;
 			str2[len++] = 0xFF;
 
-			fseek(fout, ptrLoc, SEEK_SET);
+			StartWritingInRom(ptrLoc);
             for (i = 0; i < len; i++)
             {
 			   //printf("%02X ", str2[i]);
-               fputc(str2[i], fout);
+               WriteInRom(str2[i]);
 			}
 			//printf("\n");
 
@@ -1386,6 +1321,5 @@ void InsertM2Locations(void)
 
     printf(" Loc. names:\tINSERTED\r\n");
 
-    fclose(fout);
 	fclose(fin);
 }

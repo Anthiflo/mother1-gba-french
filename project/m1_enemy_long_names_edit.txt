@@ -1,13 +1,13 @@
 //
 ENEMY-5DC-00: 
 //Territ. Oak
-ENEMY-5DD-01: Ch[30]ne territorial
+ENEMY-5DD-01: Chêne territorial
 //Dragon
 ENEMY-5DE-02: Dragon
 //R-7038
 ENEMY-5DF-03: R-7038
 //Elephant
-ENEMY-5E0-04: [10]l[2F]phant
+ENEMY-5E0-04: Éléphant
 //Bear
 ENEMY-5E1-05: Bear
 //Bigfoot
