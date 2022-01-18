@@ -32,6 +32,6 @@ def convert(input_file, output_file, table_file):
         file.truncate()
         file.write(file_contents)
         
-convert("m1_main_text_edit.txt","m1_main_text.txt","eng_table.txt")
-convert("m1_enemy_long_names_edit.txt", "m1_enemy_long_names.txt", "eng_table.txt")
+convert("m1_main_text.txt","m1_main_text_converted.txt","eng_table.txt")
+convert("m1_enemy_long_names.txt", "m1_enemy_long_names_converted.txt", "eng_table.txt")
 

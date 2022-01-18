@@ -5,5 +5,6 @@ copy m12.gba test.gba
 @echo  Inserting new code
 @xkas test.gba m12.asm
 @insert.exe
-@del m1_main_text.txt
+@del m1_main_text_converted.txt
+@del m1_enemy_long_names_converted.txt
 pause

@@ -504,10 +504,10 @@ void InsertMainStuff(void)
 	int   len;
 	int   i;
 
-	fin = fopen("m1_main_text.txt", "r");
+	fin = fopen("m1_main_text_converted.txt", "r");
 	if (fin == NULL)
 	{
-		printf("Can't open m1_main_text.txt\n");
+		printf("Can't open m1_main_text_converted.txt\n");
 		return;
 	}
 
@@ -558,7 +558,7 @@ void InsertMainStuff(void)
 
 	}
 
-    printf(" Main text:\tINSERTED\r\n");
+    printf(" Main text:\t\tINSERTED\r\n");
 
 	fclose(fin);
 }
@@ -822,10 +822,10 @@ void InsertEnemyLongNames(void)
 	int   startLoc = 0xFDF300;
 	int   i;
 
-	fin = fopen("m1_enemy_long_names.txt", "r");
+	fin = fopen("m1_enemy_long_names_converted.txt", "r");
 	if (!fin)
 	{
-		printf("Can't open m1_enemy_long_names.txt, doh\r\n");
+		printf("Can't open m1_enemy_long_names_converted.txt, doh\r\n");
 		return;
 	}
 
