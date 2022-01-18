@@ -175,6 +175,17 @@ org $8F0F2DA; bl add_space_to_enemy_name
 // only undo auto-indenting if it's battle text
 org $8F0C088; bl possibly_ignore_auto_indents
 
+// string used to determine if elision is needed before writing the favorite food
+// À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Œ Ò Ó Ô Õ Ö Ø Ù Ú Û Ü à á â ã ä å æ è é ê ë ì í î ï œ ò ó ô õ ö ø ù ú û ü A E I O U a e i o u
+org $8FFE700
+vowelstring:
+db $07,$08,$09,$0A,$0B,$0C,$0D,$0E,$0F,$10,$11,$12,$13,$15,$16,$17,$19,$1A,$1B,$1C,$1D,$1E,$1F,$20,$21,$22,$23,$26,$27,$28,$29,$2A,$2B,$2C,$2E,$2F,$30,$31,$32,$33,$34,$35,$37,$38,$39,$3A,$3B,$3C,$3D,$3E,$3F,$40,$41,$C1,$C5,$C9,$CF,$D5,$E1,$E5,$E9,$EF,$F5,$FF
+
+// letters for long enemy names
+org $8FFE780
+enemyletters:
+db $00,$00,$00,$00,$4F,$C1,$00,$00,$4F,$C2,$00,$00,$4F,$C3,$00,$00,$4F,$C4,$00,$00
+
 
 //========================================================================================
 //                              MOTHER 1 OVERWORLD HACKS

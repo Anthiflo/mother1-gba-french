@@ -320,6 +320,10 @@ parsecopy:
   + 
   cmp  r3,#0xE0; blt +; bl control_code_enemy; b .loop_start
   + 
+  cmp  r3,#0xD0; blt +; bl control_code_long_enemy; b .loop_start
+  + 
+  cmp  r3,#0xC0; blt +; bl control_code_enemy_letter; b .loop_start
+  + 
 
   .copy_control_code:
   mov  r3,#0x3
@@ -671,7 +675,7 @@ control_code_won_item:
   pop  {pc}
 
 //----------------------------------------------------------------------------------------
-// this is a custom battle control code that selects a/an/the for when an item is used
+// this is a custom battle control code that selects a/an/the for the actor/target enemy
 
 control_code_enemy:
   push {lr}
@@ -692,26 +696,37 @@ control_code_enemy:
   and  r0,r5             // r0 now knows if the character is a party member (0) or an enemy (4)
   
   
-  ldr  r4,=#0x3003500    // unless...
+  ldr  r4,=#0x3003500    // let’s check the actual id of this character
   add  r4,#0x18
   lsl  r5,r5,#0x5
   ldrb r4,[r4,r5]        // r4 now has the character id
   
-  cmp  r0,#0             // but, is the character a party member?
-  bne +                  // if not, skip
+  cmp  r0,#0             // but, is the character a party member? if not, skip
+  bne .battle_after_party_members
 
   mov  r0,r4
-  mov  r4,#0x7C           // 7C is character id for "male party member without elision"
+  mov  r4,#0x7C          // 7C is character id for "male party member without elision"
   
-  cmp  r0,#1
-  bne  .battle_id_not_ana
+  cmp  r0,#1             // add 2 if Ana...
+  bne  +
   add  r4,#2
-  
-  .battle_id_not_ana:
+  +
     
-  
+  cmp  r0,#4             // if Pippi...
+  bne  +
+  add  r4,#2
+  +
+
+  cmp  r0,#5             // or if EVE...
+  bne  +
+  add  r4,#2
   +
   
+  bl   general.has_elision
+  add  r4,r4,r0          // add 1 if elision
+  
+  .battle_after_party_members:
+                         // r4 now has the character id, including the special case of party members
   ldr  r5,=#0x8FFE080    // article classes per enemy
   ldrb r0,[r5,r4]        // r0 now has the article class
 
@@ -733,7 +748,149 @@ control_code_enemy:
 
   pop  {r2-r7}
   pop  {pc}
+ 
+
+// this is a custom battle control code to display an enemy’s long name
+
+control_code_long_enemy:
+  push {lr}
+  push {r2-r7}
+  push {r0}
+
+  ldr  r5,=#0x3003700
+
+  mov  r0,#0x8
+  and  r0,r3
+  cmp  r0,#0             // actor or target?
+  beq  + 
+  sub  r5,#0x14
+  +
+  ldrb r5,[r5,#0x0]      // r5 now has the index of the relevant actor or target in battle
   
+  mov  r0,#0x4
+  and  r0,r5             // r0 now knows if the character is a party member (0) or an enemy (4)
+  
+  
+  ldr  r4,=#0x3003500    // let’s check the actual id of this character
+  add  r4,#0x18
+  lsl  r5,r5,#0x5
+  ldrb r4,[r4,r5]        // r4 now has the character id
+  
+  cmp  r0,#0             // but, is the character a party member? if so, skip
+  beq  +
+  
+  ldr  r5,=#0x8FDF300    // long enemy names
+  mov  r0,#0x19
+  mul  r0,r4             // r5 has the starting point, r0 has the offset...
+  
+  b  .long_enemy_end
+  +
+  
+  ldr  r5,=#0x3003208
+  lsl  r0,r4,#0x6        // r5 has the starting point, r0 has the offset...
+  
+  .long_enemy_end:
+  
+  add  r0,r0,r5
+  
+  bl   strcopy
+  pop  {r0}
+  add  r0,#0x2
+  sub  r1,#1
+
+  pop  {r2-r7}
+  pop  {pc}
+
+
+
+// this is a custom battle control code to display the letter (A/B/C/D) after an enemy name
+
+control_code_enemy_letter:
+  push {lr}
+  push {r2-r7}
+  push {r0}
+
+  ldr  r5,=#0x3003700
+
+  mov  r0,#0x8
+  and  r0,r3
+  cmp  r0,#0             // actor or target?
+  beq  +    
+  sub  r5,#0x14
+  +
+  ldrb r5,[r5,#0x0]      // r5 now KEEPS the index of the relevant actor or target in battle
+  
+  mov  r0,#0x4
+  and  r0,r5             // r0 now knows if the character is a party member (0) or an enemy (4)
+
+  cmp  r0,#0             // if the character is a party member, skip
+  beq  .enemy_letter_end
+  
+  ldr  r4,=#0x3003500    // if it’s an enemy, let’s check its actual id
+  add  r4,#0x18
+  
+  lsl  r2,r5,#0x5
+  ldrb r2,[r4,r2]        // r2 now KEEPS the character id
+  
+  mov  r0,#0             // initial value for the result
+  mov  r3,#3             // r3 COUNTS the enemy indexes in the loop
+                         // r4 KEEPS TRACK of the address in RAM
+  ldr  r4,=#0x3003578    // 0x3003500 + 0x18 + 3*0x20 (character index 3 = just before 1st enemy in the battle)
+  
+  -
+  
+  add  r3,r3,#1          // loop increments
+  add  r4,#0x20
+  
+  cmp  r3,r5             // skip if same enemy as current one
+  beq  +
+  
+  ldrb r7,[r4,#0]
+  cmp  r2,r7             // compare the enemy id to the current one
+  bne  +                 // if equal...
+  
+  mov  r7,#8
+  orr  r0,r7             // store the fact we actually need a letter for this enemy (bit 3 set to 1)
+  
+  cmp  r3,r5             // if it’s before the current enemy
+  bge  +
+  
+  add  r0,r0,#1          // enemy letter increases from A to B or such
+  
+  +
+  
+  cmp  r3,#7             // if last enemy
+  bge  .enemy_letter_end
+  
+  b -
+  
+  .enemy_letter_end:
+  
+  mov  r4,#8             // check bit 3 of r0
+  and  r4,r0
+  
+  cmp  r4,#0
+  beq  +
+
+  mov  r5,#7             // remove bit 3 of r0
+  and  r0,r5
+  
+  add  r0,r0,#1          // r0++ if bit 2 was 1
+  
+  +
+  
+  ldr  r5,=#enemyletters
+  lsl  r0,r0,#2
+  add  r0,r0,r5
+  
+  bl   strcopy
+  pop  {r0}
+  add  r0,#0x2
+  sub  r1,#1
+
+  pop  {r2-r7}
+  pop  {pc}
+
 //----------------------------------------------------------------------------------------
 // this is used to display numbers
 
@@ -940,6 +1097,66 @@ add     sp,#0x18
 pop     {r4,r5}
 pop     {r1}
 bx      r1
+
+
+//------------------------------------------------------------------------------------------------------------------------------
+// Jumpman’s function for French elision.
+// Input parameter: r0
+// r0 values from 0 to D: 0 Ninten, 1 Ana, 2 Lloyd, 3 Teddy, 4 Pippi, 5 EVE, 6 Garuda
+// r0 = E => current party leader
+// r0 = F => favorite food
+// Returns 1 in r0 if the fav food or character name starts with a vowel, 0 otherwise.
+//------------------------------------------------------------------------------------------------------------------------------
+
+general:
+.has_elision:                      // debug: 8125374
+push {r1-r4}
+
+mov  r1,r0
+
+cmp  r1,#0xF                       // if parameter is F => favfood
+beq  .elision_favfood
+
+//cmp  r1,#0xE                       // if parameter is E => party leader
+//bne +
+//ldr  r2,=#0x2004860              // where the current party leader is stored
+//ldrb r1,[r2,#0]
+//sub  r1,#1                       // r1 now contains the character id
+//+
+                                   // if any other parameter => other characters names
+ldr  r3,=#0x3003208                // starting point for character names
+lsl  r1,r1,#0x6                    // r5 has the starting point, r0 has the offset...
+add  r3,r3,r1
+
+b +
+
+.elision_favfood:
+//ldr  r3,=#0x2004F02              // favorite food in memory
+
++
+
+mov  r0,#1
+ldr  r4,=#vowelstring
+ldrb r1,[r3,#0]
+
+ldrb r2,[r4,#0]
+cmp  r1,r2
+beq .end_elision
+
+.elision_loop:
+add  r4,#1
+ldrb r2,[r4,#0]
+cmp  r1,r2
+beq .end_elision
+cmp  r2,#0xFF
+bne  .elision_loop
+
+mov  r0,#0
+
+.end_elision:
+pop  {r1-r4}
+bx   lr
+
 
 
 
