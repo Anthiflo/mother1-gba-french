@@ -129,7 +129,7 @@
 040: @I don't know, this task[BREAK]might be too much for you[BREAK]to handle,[BREAK][PAUSE]but I still have high hopes[BREAK]for you anyway.[BREAK]
 040-E: @Je ne sais pas, cette tâche[BREAK]est peut-être un peu trop[BREAK]difficile,[BREAK][PAUSE]mais quoi qu'il en soit, je[BREAK]place de grands espoirs en[BREAK]toi.[BREAK]
 041: @Well, you see...[BREAK][PAUSE]@A child has strayed into[BREAK]the cemetery.[BREAK][PAUSE]@And, as luck would have it,[BREAK]I'm up for re-election[BREAK]soon.[BREAK][PAUSE]@So... please help me![BREAK]
-041-E: @Bien, tu vois...[BREAK][PAUSE]@Une enfant s'est égarée[BREAK]dans le cimetière.[BREAK][PAUSE]@Et les élections auxquelles[BREAK]je me représente sont pour[BREAK]bientot, comme par hasard.[BREAK][PAUSE]@Alors... aide-moi, je t'en[BREAK]prie[4F]![BREAK]
+041-E: @Bien, tu vois...[BREAK][PAUSE]@Une enfant s'est égarée[BREAK]dans le cimetière.[BREAK][PAUSE]@Et les élections auxquelles[BREAK]je me représente sont pour[BREAK]bientôt, comme par hasard.[BREAK][PAUSE]@Alors... aide-moi, je t'en[BREAK]prie[4F]![BREAK]
 042: @Oh! You'll do it?![BREAK][PAUSE]@You'll go and rescue her?![BREAK]
 042-E: @Oh[4F]! C'est vrai[4F]?![BREAK][PAUSE]@Tu vas aller la sauver[4F]?![BREAK]
 043: @Oh, is this Pippi, the girl[BREAK]who got lost?[BREAK][PAUSE]@Stunning work, lad![BREAK][PAUSE]@I knew from the start that[BREAK]you showed promise![BREAK][PAUSE](clap clap applause)[BREAK][PAUSE]@You're so lucky, Pippi.[BREAK]Adorable, too.[BREAK][PAUSE]@Now remember to tell your[BREAK]mother that the mayor[BREAK]rescued you.[BREAK][PAUSE]@And for you, [03 16]...[BREAK]A $[03 1E] reward. Here.[BREAK]
@@ -353,9 +353,9 @@
 0B0: @You tried to ignore me,[BREAK]didn't you?[BREAK][PAUSE]@I get so lonely, being out[BREAK]here all by myself.[BREAK][PAUSE]@If there's anything I can[BREAK]do, I'll do it.[BREAK][PAUSE]@Here![BREAK]
 0B0-E: @Tu as essayé de m'ignorer,[BREAK]pas vrai[4F]?[BREAK][PAUSE]@Qu'est-ce que je peux[BREAK]m'ennuyer, ici, tout seul.[BREAK][PAUSE]@Si je peux faire quoi que[BREAK]ce soit, je le ferai.[BREAK][PAUSE]@Tiens[4F]![BREAK]
 0B1: @I'm so happy you came![BREAK][PAUSE]@I know just what you want.[BREAK][PAUSE]@Here you go![BREAK]
-0B1-E: @Que je suis heureux de te[BREAK]revoir[4F]![BREAK][PAUSE]@Je sais exactement ce que[BREAK]tu veux.[BREAK][PAUSE]@Voilà pour toi[4F]![BREAK]
+0B1-E: @Je suis très heureux de te[BREAK]voir[4F]![BREAK][PAUSE]@Je sais exactement ce que[BREAK]tu veux.[BREAK][PAUSE]@Et voilà[4F]![BREAK]
 0B2: @I finally wrote a song![BREAK]Give it a listen, you[BREAK]music-loving adventurer![BREAK][PAUSE]@Oh, baby doll, why do you[BREAK]weep?[BREAK][PAUSE]The saddened canary won't[BREAK]utter a peep.[BREAK][PAUSE]The monkey can sing,[BREAK]the piano - it chimes.[BREAK][PAUSE]Though ghosts will play out[BREAK]on its keyboard sometimes.[BREAK][PAUSE]Each night in the desert,[BREAK]the lone cactus croons.[BREAK][PAUSE]The dragon, when beaten,[BREAK]will carry some tunes.[BREAK][PAUSE]While scaling the mountain,[BREAK]EVE sings along.[BREAK][PAUSE]Will Queen Mary ever hear[BREAK]the XX Stone's last song?[BREAK][PAUSE]Lalala, what a mysterious[BREAK]lullaby.[BREAK][PAUSE]Lullaby, bye-bye, and[BREAK]goodbye.[BREAK][PAUSE]@What do you think? Nice[BREAK]song, huh?[BREAK][PAUSE]@It is, isn't it?[BREAK]
-0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]depuis longtemps s'est tu.[BREAK][PAUSE]Un singe qui sait chanter,[BREAK]patiente dans son enclos.[BREAK][PAUSE]De redoutables fantômes,[BREAK]parfois jouent du piano.[BREAK][PAUSE]Chaque nuit dans le désert,[BREAK]siffle le cactus solitaire.[BREAK][PAUSE]Le dragon, une fois rossé,[BREAK]fredonne un petit air.[BREAK][PAUSE]Sur la montagne escarpée,[BREAK]ÈVE pousse un faible cri.[BREAK][PAUSE]La tombe XX a l'ultime[BREAK]mélodie que cherche Mary.[BREAK][PAUSE]Lalala, étrange comptine,[BREAK]tu me fais bailler.[BREAK][PAUSE]Comptine, douce comptine,[BREAK]continue de me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est [BREAK]belle, non[4F]?[BREAK]
+0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK][PAUSE]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]depuis longtemps s'est tu.[BREAK][PAUSE]Un singe qui sait chanter,[BREAK]patiente dans son enclos.[BREAK][PAUSE]De redoutables fantômes,[BREAK]parfois jouent du piano.[BREAK][PAUSE]Chaque nuit dans le désert,[BREAK]siffle le cactus solitaire.[BREAK][PAUSE]Le dragon, une fois rossé,[BREAK]fredonne un petit air.[BREAK][PAUSE]Sur la montagne escarpée,[BREAK]ÈVE pousse un faible cri.[BREAK][PAUSE]La tombe XX a l'ultime[BREAK]mélodie que cherche Mary.[BREAK][PAUSE]Lalala, étrange comptine,[BREAK]tu me fais bailler.[BREAK][PAUSE]Comptine, douce comptine,[BREAK]continue de me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est [BREAK]belle, non[4F]?[BREAK]
 0B3: @Deep in the forest is a[BREAK]guitar player who loves[BREAK]solitude.[BREAK][PAUSE]@He's kind of handsome...[BREAK]and a great poet, too.
 0B3-E: @Au cœur de la forêt se[BREAK]trouve un guitariste qui[BREAK]adore la solitude.[BREAK][PAUSE]@C'est un très bel homme...[BREAK]et un grand poète aussi.
 0B4: @I've heard about a man who[BREAK]was forgotten...[BREAK][PAUSE]@But I forget what his story[BREAK]was.[BREAK]
@@ -606,7 +606,7 @@
 124: @[03 11]: OK! Now I just flip[BREAK]this switch and... Oh!
 124-E: @[03 11] : OK ! Maintenant[BREAK]j'appuie sur ce bouton[BREAK]et... Oh !
 125: @[03 11]: I may be a wimp,[BREAK]but now it's my turn to[BREAK]fight![BREAK][PAUSE]@[03 13]! You can take it[BREAK]easy in here.[BREAK]
-125-E: @[03 11] : Je suis peut-être[BREAK]une crevette,[BREAK][PAUSE]mais c'est à mon tour de[BREAK]me battre maintenant ![BREAK][PAUSE]@[03 13] ! Tu peux te reposer[BREAK]tranquillement.[BREAK]
+125-E: @[03 11] : Je suis peut-être[BREAK]une crevette,[BREAK][PAUSE]mais c'est à mon tour de me[BREAK]battre maintenant ![BREAK][PAUSE]@[03 13] ! Tu peux te reposer[BREAK]tranquillement.[BREAK]
 126: @I'm a weird teacher who[BREAK]secretly lives in this[BREAK]school.[BREAK][PAUSE]Yes, I admit I'm weird.[BREAK][PAUSE]@I need funding for my[BREAK]research.[BREAK][PAUSE]@Would you be willing to buy[BREAK]one of my inventions?[BREAK]
 126-E: @Je suis un prof bizarre qui[BREAK]vit secrètement dans cette[BREAK]école.[BREAK][PAUSE]Oui, j'avoue être bizarre.[BREAK][PAUSE]@J'ai besoin de fonds pour[BREAK]financer mes recherches.[BREAK][PAUSE]@Ça te dirait d'acheter une[BREAK]une de mes inventions ?[BREAK]
 127: 
@@ -1032,9 +1032,9 @@
 1F6: 
 1F6-E: 
 1F7: @There's no way we can beat[BREAK]'em with brute strength[BREAK]alone.[BREAK][PAUSE]@But we CAN bring peace back[BREAK]to the world.[BREAK][PAUSE]@I just know it.[BREAK]
-1F7-E: @On n'arrivera pas à les[BREAK]battre rien que par la[BREAK]force brute.[BREAK][PAUSE]@Mais on est CAPABLES de[BREAK]ramener la paix dans ce[BREAK]monde.[BREAK][PAUSE]@J'en suis certain.[BREAK]
+1F7-E: @C'est pas en bourrinant[BREAK]qu'on va réussir à les[BREAK]battre, ces types-là.[BREAK][PAUSE]@Mais on est CAPABLES de[BREAK]ramener la paix dans ce[BREAK]monde.[BREAK][PAUSE]@J'en suis certain.[BREAK]
 1F8: @[03 13]: What're you two[BREAK]blushin' for?[BREAK][PAUSE]@Let's get goin' already!
-1F8-E: @[03 13] : Qu'est-ce que vous[BREAK]avez à rougir, tous les[BREAK]deux ?[BREAK][PAUSE]@Dépêchons-nous de nous[BREAK]mettre en route !
+1F8-E: @[03 13] : Qu'est-ce que vous[BREAK]avez à rougir, tous les[BREAK]deux ?[BREAK][PAUSE]@On y va là ou quoi ?
 1F9: @I'm changing my clothes![BREAK]You pervert![BREAK]
 1F9-E: @Je suis en train de me [BREAK]changer ! Sale pervers ![BREAK]
 1FA: @I'm [03 11]'s father.[BREAK][PAUSE]@[03 10]'s dad asked for your[BREAK]name earlier. Did you give[BREAK]him the right name?[BREAK]
@@ -1206,7 +1206,7 @@
 24A: @You can't carry any more[BREAK]stuff?[BREAK][PAUSE]@That's too bad.[BREAK]
 24A-E: @Tu ne peux rien porter de[BREAK]plus[4F]?[BREAK][PAUSE]@Quel dommage.[BREAK]
 24B: @Looks like you can't carry[BREAK]any. Come by later when you[BREAK]can.[BREAK]
-24B-E: @On dirait que tu ne peux[BREAK]pas en transporter.[BREAK][PAUSE]Reviens plus tard quand tu[BREAK]auras de la place.[BREAK]
+24B-E: @On dirait que tu n'as pas[BREAK]la place pour porter ça.[BREAK][PAUSE]Reviens quand tu pourras.[BREAK]
 24C: 
 24C-E: 
 24D: @Which course would you[BREAK]like?[BREAK]
@@ -1974,7 +1974,7 @@
 3C1: @...I'm so glad.[BREAK]
 3C1-E: @... Je suis tellement[BREAK]contente.[BREAK]
 3C2: @[03 13]: Whoa! What the heck[BREAK]was that sound?![BREAK]
-3C2-E: @[03 13] : Ouah ! Bon sang,[BREAK]c'était quoi ce bruit ?![BREAK]
+3C2-E: @[03 13] : Ouah ! Purée,[BREAK]c'était quoi ce bruit ?![BREAK]
 3C3: @[03 13] : You gotta be kiddin'[BREAK]me![BREAK]
 3C3-E: @[03 13] : Non mais c'est une[BREAK]blague ?![BREAK]
 3C4: @The boat's engine seems to[BREAK]be in poor condition.[BREAK]
@@ -2670,7 +2670,7 @@
 51D: It's wearing special armor to protect itself from PSI attacks.
 51D-E: Il porte une armure spéciale qui le protège des attaques PSI.
 51E: This has the power to turn people into stone.
-51E-E: Il a le pouvoir de changer les gens en pierre.
+51E-E: Elle a le pouvoir de changer les gens en pierre.
 51F: Creatures like this shouldn't exist on Earth, but...
 51F-E: Ce genre de créatures ne devrait pas exister sur Terre, et pourtant...
 520: This is no time to be getting caught up with a punk ape like this!
@@ -2876,7 +2876,7 @@
 584: If you can beat this thing, you're incredible.
 584-E: Si vous parvenez à vaincre cette chose, vous êtes incroyable.
 585: It doesn't just use PSI - it also likes to steal things!
-585-E: Il ne se contente pas d'utiliser la PSI - il aime aussi voler des choses[4F]!
+585-E: Il ne se contente pas d'utiliser la PSI, il aime aussi voler des choses[4F]!
 586: 
 586-E: 
 587: Watch out for its Brainshock attacks!
@@ -3524,7 +3524,7 @@
 6C8: @You don't have enough power[BREAK]left to try that.[BREAK]
 6C8-E: @Vous n'avez plus assez de[BREAK]puissance pour tenter ça.[BREAK]
 6C9: @[03 1A] was revived![BREAK]
-6C9-E: @[03 1A] a été ranimé ![BREAK]
+6C9-E: @[03 1A] revient à la vie ![BREAK]
 6CA: @Most of the diary is[BREAK]unreadable, but one part[BREAK]did stand out:[BREAK][PAUSE]@"The password...[BREAK][PAUSE]Where is the god's tail,[BREAK][PAUSE]that which was left behind[BREAK]by the ship that soars[BREAK]the heavens?"[BREAK]
 6CA-E: @La plupart du journal est[BREAK]illisible, mais une partie[BREAK]se détache du lot :[BREAK][PAUSE]@"Le mot de passe...[BREAK][PAUSE]Où se trouve la queue de[BREAK]l'esprit, qu'a laissée[BREAK]derrière lui le vaisseau[BREAK]s'élevant dans les cieux ?"[BREAK]
 6CB: @[03 1A]'s body became soft[BREAK]again.[BREAK]
@@ -3726,7 +3726,7 @@
 72D: "Laser Beam"[BREAK]@If that weakling [03 11][BREAK]were to wield this...
 72D-E: "Rayon laser"[BREAK]@Si jamais cette mauviette[BREAK]de [03 11] venait à l'avoir[BREAK]entre les mains...
 72E: "Death Beam"[BREAK]@If that cowardly [03 11][BREAK]were to wield this, he'd[BREAK]really be something.
-72E-E: "Rayon de la mort"[BREAK]@Si ce lâche de [03 11][BREAK]venait à l'utliser, il[BREAK]serait vraiment bluffant.
+72E-E: "Rayon de la mort"[BREAK]@Si ce lâche de [03 11] en[BREAK]venait à l'utiliser, il[BREAK]serait vraiment épatant.
 72F: 
 72F-E: 
 730: "Rope"[BREAK]@Use this to tie up the[BREAK]enemy.
@@ -4096,7 +4096,7 @@
 7E6: You can't grasp the form of [03 20]'s attack!
 7E6-E: Vous ne parvenez pas à saisir la nature de l'attaque [03 E5][03 20][4F]!
 7E7: [03 21] was enveloped in a barrier!
-7E7-E: [03 EA][03 21] est protégé par une barrière[4F]!
+7E7-E: [03 EA][03 21] est enveloppé[03 EC] d'une barrière[4F]!
 7E8: "You're a disgrace to your mom!"
 7E8-E: "Tu fais honte à ta mère!"
 7E9: [03 21] turned to stone!
@@ -4194,7 +4194,7 @@
 817: [03 20] has been petrified...
 817-E: [03 E2][03 20] se change en pierre...
 818: Stole [03 23] PP from [03 21]!
-818-E: [03 23] PP volés à [03 21][4F]!
+818-E: [03 23] PP [03 ED][03 21] volés[4F]!
 819: [03 21] is immobilized!
 819-E: [03 EA][03 21] est immobilisé[03 EC][4F]!
 81A: [03 20] vented exhaust fumes!
@@ -4296,9 +4296,9 @@
 84A: [03 21] became tame!
 84A-E: [03 EA][03 21] a été maîtrisé[03 EC][4F]!
 84B: [03 21] was defeated!
-84B-E: Vous avez vaincu [03 EB][03 21][4F]!
+84B-E: [03 EA][03 21] a été vaincu[03 EC][4F]!
 84C: [03 21] was destroyed!
-84C-E: [03 EA][03 21] s'est fait détruire[4F]!
+84C-E: [03 EA][03 21] a été détruit[03 EC][4F]!
 84D: [03 21] returned to the dust of the earth!
 84D-E: [03 EA][03 21] retourne à la terre[4F]!
 84E: [03 21] stopped moving!
@@ -4308,7 +4308,7 @@
 850: [03 21] disappeared into thin air!
 850-E: [03 EA][03 21] s'est volatilisé[03 EC][4F]!
 851: [03 20] stole [03 21]'s [03 22]!
-851-E: [03 E2][03 20] vole [03 22] de [03 21][4F]!
+851-E: [03 E2][03 20] vole [03 F1][03 22] [03 ED][03 21][4F]!
 852: [03 20] leveled up![BREAK][PAUSE][03 01]
 852-E: [03 E2][03 20] gagne un niveau[4F]![BREAK][PAUSE][03 01]
 853: [03 20] learned a new PSI in battle![BREAK][PAUSE][03 01]
