@@ -4,5 +4,7 @@
 *.gba.bak
 *.sav.bak
 *.sgm
-m1_main_text.txt
+m1_main_text_converted.txt
+m1_enemy_long_names_converted.txt
+
 *.bak
