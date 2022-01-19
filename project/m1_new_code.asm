@@ -827,57 +827,22 @@ control_code_enemy_letter:
   beq  .enemy_letter_end
   
   ldr  r4,=#0x3003500    // if it’s an enemy, let’s check its actual id
-  add  r4,#0x18
   
-  lsl  r2,r5,#0x5
-  ldrb r2,[r4,r2]        // r2 now KEEPS the character id
-  
-  mov  r0,#0             // initial value for the result
-  mov  r3,#3             // r3 COUNTS the enemy indexes in the loop
-                         // r4 KEEPS TRACK of the address in RAM
-  ldr  r4,=#0x3003578    // 0x3003500 + 0x18 + 3*0x20 (character index 3 = just before 1st enemy in the battle)
-  
-  -
-  
-  add  r3,r3,#1          // loop increments
-  add  r4,#0x20
-  
-  cmp  r3,r5             // skip if same enemy as current one
-  beq  +
-  
-  ldrb r7,[r4,#0]
-  cmp  r2,r7             // compare the enemy id to the current one
-  bne  +                 // if equal...
-  
-  mov  r7,#8
-  orr  r0,r7             // store the fact we actually need a letter for this enemy (bit 3 set to 1)
-  
-  cmp  r3,r5             // if it’s before the current enemy
-  bge  +
-  
-  add  r0,r0,#1          // enemy letter increases from A to B or such
-  
-  +
-  
-  cmp  r3,#7             // if last enemy
-  bge  .enemy_letter_end
-  
-  b -
-  
-  .enemy_letter_end:
-  
-  mov  r4,#8             // check bit 3 of r0
-  and  r4,r0
-  
-  cmp  r4,#0
-  beq  +
+  lsl  r0,r5,#0x5
+  add  r0,r0,r4
 
-  mov  r5,#7             // remove bit 3 of r0
+  mov  r5,#0x1C
+  ldrb r0,[r0,#0x1A]
   and  r0,r5
   
-  add  r0,r0,#1          // r0++ if bit 2 was 1
+  lsl  r0,r0,#0x18
   
-  +
+  cmp  r0,#0
+  beq  .enemy_letter_end
+  
+  lsr  r0,r0,#0x1A
+  
+  .enemy_letter_end:
   
   ldr  r5,=#enemyletters
   lsl  r0,r0,#2
