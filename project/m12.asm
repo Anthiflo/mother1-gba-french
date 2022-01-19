@@ -186,6 +186,11 @@ org $8FFE780
 enemyletters:
 db $00,$00,$00,$00,$4F,$C1,$00,$00,$4F,$C2,$00,$00,$4F,$C3,$00,$00,$4F,$C4,$00,$00
 
+// elision strings: "e " and "'"
+org $8FFE7A0
+elision_strings:
+db $E5,$01,$00,$00,$A9,$00,$00,$00
+
 
 //========================================================================================
 //                              MOTHER 1 OVERWORLD HACKS
@@ -257,6 +262,9 @@ org $8F0BAD8; bl change_dollar_sign_pos_shop; nop; nop; nop; nop
 org $8F05A6A; bl yes_no_cursor
 org $8F04FD8; bl yes_no_cursor
 org $8F07FCE; bl yes_no_cursor
+
+org $8F0C100; cmp r0,#0x7F
+org $8F0C106; bl more_field_control_codes; nop; nop
 
 //========================================================================================
 //                  FIXES TO BUGS IN THE ORIGINAL MOTHER 1 PROGRAMMING

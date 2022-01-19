@@ -68,7 +68,7 @@
 0F0B33E [0B]
 
 // Used when 1 or more party members are in your team
-0F7E600 Le groupe de [END]
+0F7E600 L'équipe de [END]
 0F0C3A0 [00][E6][F7][08]
 
 

@@ -1064,6 +1064,68 @@ pop     {r1}
 bx      r1
 
 
+more_field_control_codes:
+push    {lr}
+
+cmp     r0,#0x40
+bge     +
+
+lsl     r0,r0,#2
+ldr     r1,=#0x8F0C114
+add     r0,r0,r1
+ldr     r0,[r0,#0]
+b       .field_cc_return
+
++
+mov  r1,r0
+cmp  r1,#0x4F; bgt +; ldr r0,=#.field_cc_item_articles; b .field_cc_return
++
+cmp  r1,#0x5F; bgt +; ldr r0,=#.field_cc_food_elision; b .field_cc_return
++ 
+
+ldr r0,=#.field_cc_default
+
+.field_cc_return:
+pop     {pc}
+
+
+.field_cc_item_articles:
+ldr     r0,=#0x8FFE7A6    // same as default for now
+bl      0x8F0C058
+b       .field_cc_next
+
+
+.field_cc_food_elision:
+mov     r0,#0x0F
+and     r1,r0
+bl      general.has_elision
+lsl     r0,r0,#2
+ldr     r1,=#0x8FFE7A0
+add     r0,r0,r1
+bl      0x8F0C058
+b       .field_cc_next
+
+
+.field_cc_default:
+ldr     r0,=#0x8FFE7A6    // default is empty string
+bl      0x8F0C058
+b       .field_cc_next
+
+
+.field_cc_next:
+add     r6,#1
+ldrb    r1,[r6,#0]
+cmp     r1,#0
+beq     +
+bl      0x8F0C060
++
+ldr     r1,=#0x30034BC
+mov     r0,#0
+strb    r0,[r1,#0]
+pop     {r4-r7}
+pop     {r0}
+bx      r0
+
 //------------------------------------------------------------------------------------------------------------------------------
 // Jumpman’s function for French elision.
 // Input parameter: r0
@@ -1082,7 +1144,7 @@ mov  r1,r0
 cmp  r1,#0xF                       // if parameter is F => favfood
 beq  .elision_favfood
 
-//cmp  r1,#0xE                       // if parameter is E => party leader
+//cmp  r1,#0xE                     // if parameter is E => party leader
 //bne +
 //ldr  r2,=#0x2004860              // where the current party leader is stored
 //ldrb r1,[r2,#0]
@@ -1096,7 +1158,7 @@ add  r3,r3,r1
 b +
 
 .elision_favfood:
-//ldr  r3,=#0x2004F02              // favorite food in memory
+ldr  r3,=#0x3003419                // favorite food in memory
 
 +
 
