@@ -3452,17 +3452,17 @@
 6A4: 
 6A4-E: 
 6A5: @[03 1A] decided not to hand[BREAK]over any items.[BREAK]
-6A5-E: @[03 1A] decided not to hand[BREAK]over any items.[BREAK]
+6A5-E: @[03 1A] décide de ne céder[BREAK]aucun objet.[BREAK]
 6A6: @[03 1A] gave the [03 1C][BREAK]to [03 1B].[BREAK]
-6A6-E: @[03 1A] gave the [03 1C][BREAK]to [03 1B].[BREAK]
+6A6-E: @[03 1A] donne [03 1C][BREAK]à [03 1B].[BREAK]
 6A7: @[03 1A] put the [03 1C][BREAK]in [03 1B]'s bag.[BREAK]
-6A7-E: @[03 1A] put the [03 1C][BREAK]in [03 1B]'s bag.[BREAK]
+6A7-E: @[03 1A] met [03 1C][BREAK]dans le sac de [03 1B].[BREAK]
 6A8: @[03 1B] took the [03 1C][BREAK]from [03 1A]'s bag.[BREAK]
-6A8-E: @[03 1B] took the [03 1C][BREAK]from [03 1A]'s bag.[BREAK]
+6A8-E: @[03 1B] prend [03 1C][BREAK]du sac de [03 1A].[BREAK]
 6A9: @[03 3E] threw out the[BREAK][03 1C] that was in[BREAK][03 1A]'s bag.[BREAK]
-6A9-E: @[03 3E] threw out the[BREAK][03 1C] that was in[BREAK][03 1A]'s bag.[BREAK]
+6A9-E: @[03 3E] jette [03 1C][BREAK]qui était dans le sac[BREAK]de [03 1A].[BREAK]
 6AA: @[03 3E] took the [03 1C][BREAK]out of [03 1A]'s bag[BREAK][PAUSE]and put it in [03 1B]'s bag.[BREAK]
-6AA-E: @[03 3E] took the [03 1C][BREAK]out of [03 1A]'s bag[BREAK][PAUSE]and put it in [03 1B]'s bag.[BREAK]
+6AA-E: @[03 3E] sort [03 1C][BREAK]du sac de [03 1A][BREAK][PAUSE]et le met dans le sac[BREAK]de [03 1B].[BREAK]
 6AB: 
 6AB-E: 
 6AC: 
