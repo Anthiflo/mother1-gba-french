@@ -1,112 +1,112 @@
-//00. masculin singulier multiple dénombrable consonne initiale
+//00. masculin singulier multiple dénombrable consonne initiale 
 un 
-le 
+e 
 ce 
-
-
-
-//01. masculin singulier multiple dénombrable voyelle initiale
+ton 
+le 
+de 
+//01. masculin singulier multiple dénombrable voyelle initiale 
 un 
-l'
+'
 cet 
-
-
-
-//02. masculin singulier multiple indénombrable consonne initiale
+ton 
+le 
+d'
+//02. masculin singulier multiple indénombrable consonne initiale 
 du 
-le 
+e 
 ce 
-
-
-
-//03. masculin singulier multiple indénombrable voyelle initiale
+ton 
+le 
+de 
+//03. masculin singulier multiple indénombrable voyelle initiale 
 de l'
-l'
+'
 cet 
-
-
-
-//04. féminin singulier multiple dénombrable consonne initiale
+ton 
+le 
+d'
+//04. féminin singulier multiple dénombrable consonne initiale 
 une 
+a 
+cette 
+ta 
 la 
-cette 
-
-
-
-//05. féminin singulier multiple dénombrable voyelle initiale
+de 
+//05. féminin singulier multiple dénombrable voyelle initiale 
 une 
-l'
+'
 cette 
-
-
-
-//06. féminin singulier multiple indénombrable consonne initiale
+ta 
+la 
+de 
+//06. féminin singulier multiple indénombrable consonne initiale 
 de la 
-la 
+a 
 cette 
-
-
-
-//07. féminin singulier multiple indénombrable voyelle initiale
+ta 
+la 
+de 
+//07. féminin singulier multiple indénombrable voyelle initiale 
 de l'
-l'
+'
 cette 
-
-
-
-//08. masculin singulier unique consonne initiale
+ta 
+la 
+d'
+//08. masculin singulier unique consonne initiale 
 le 
-le 
+e 
 ce 
-
-
-
-//09. masculin singulier unique voyelle initiale
+ton 
+le 
+de 
+//09. masculin singulier unique voyelle initiale 
 l'
-l'
+'
 cet 
-
-
-
-//0A. masculin pluriel multiple
+ton 
+le 
+d'
+//0A. masculin pluriel multiple 
 des 
-les 
+es 
 ces 
-
-
-
-//0B. masculin pluriel unique
+tes 
 les 
+de 
+//0B. masculin pluriel unique 
 les 
+es 
 ces 
-
-
-
-//0C. féminin singulier unique consonne initiale
+tes 
+les 
+de 
+//0C. féminin singulier unique consonne initiale 
 la 
+a 
+cette 
+ta 
 la 
-cette 
-
-
-
-//0D. féminin singulier unique voyelle initiale
+de 
+//0D. féminin singulier unique voyelle initiale 
 l'
-l'
+'
 cette 
-
-
-
-//0E. féminin pluriel multiple
+ta 
+la 
+d'
+//0E. féminin pluriel multiple 
 des 
-les 
+es 
 ces 
-
-
-
-//0F. féminin pluriel unique
+tes 
 les 
+de 
+//0F. féminin pluriel unique 
 les 
+es 
 ces 
-
-
-
+tes 
+les 
+de 

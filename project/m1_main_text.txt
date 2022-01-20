@@ -25,7 +25,7 @@
 00C: @Let's see... To get to the[BREAK]next level, you need...[BREAK]
 00C-E: @Voyons voir... Pour[BREAK]atteindre le prochain[BREAK]niveau, il te faut...[BREAK]
 00D: @Come back home whenever you[BREAK]want some more [03 15].[BREAK]
-00D-E: @Reviens à la maison dès[BREAK]que tu auras une envie[BREAK]d[03 5E][03 15].[BREAK]
+00D-E: @Reviens à la maison dès[BREAK]que tu auras une envie[BREAK]d[03 5F][03 15].[BREAK]
 00E: @Hmm, I see. Sounds like it[BREAK]must be a poltergeist of[BREAK]some sort.[BREAK][PAUSE]@I'm not sure what to do[BREAK]about it, either.[BREAK][PAUSE]@But your great-grandfather[BREAK]did study PSI at one point.[BREAK][PAUSE]@Perhaps there's something[BREAK]in the basement that could[BREAK]help make sense of things.[BREAK][PAUSE]@I know I put the basement[BREAK]key somewhere...[BREAK][PAUSE]but I can't remember where.[BREAK][PAUSE]@Anyway, you're our only[BREAK]hope. Now is the time for[BREAK]an adventure.[BREAK][PAUSE]Go forth, [03 10]![BREAK]Protect us all![BREAK]
 00E-E: @Hmm, je vois. Ça ressemble[BREAK]à une sorte d'esprit[BREAK]frappeur.[BREAK][PAUSE]@Je ne vois pas vraiment[BREAK]quoi faire à ce sujet.[BREAK][PAUSE]@Mais ton arrière-grand-père[BREAK]a étudié la PSI à une[BREAK]époque.[BREAK][PAUSE]@Il y a probablement quelque[BREAK]chose à la cave qui pourra[BREAK]t'aider à en savoir plus.[BREAK][PAUSE]@J'ai d[40] ranger la clé de[BREAK]la cave quelque part...[BREAK][PAUSE]mais je ne sais plus où.[BREAK][PAUSE]@En tout cas, tu es notre[BREAK]seul espoir. L'heure de[BREAK]l'aventure a sonné.[BREAK][PAUSE]Va, [03 10] ![BREAK]Protège-nous tous[4F]![BREAK]
 00F: 
@@ -177,7 +177,7 @@
 058: @Welcome! Do you need to[BREAK]return any items?[BREAK]
 058-E: @Bonjour[4F]! As-tu besoin[BREAK]de retourner un article[4F]?[BREAK]
 059: @Something is speaking into[BREAK][03 16]'s mind.[BREAK]
-059-E: @Une voix résonne dans[BREAK]l'esprit de [03 16].[BREAK]
+059-E: @Une voix résonne dans[BREAK]l'esprit d[03 5E][03 16].[BREAK]
 05A: @Whew, what a relief.[BREAK]
 05A-E: @Pfiou, quel soulagement.[BREAK]
 05B: @Please visit us again for[BREAK]all your shopping needs![BREAK](giggle)[BREAK]
@@ -279,7 +279,7 @@
 08B: @Huh? Why can't you tell?[BREAK]You're really suspicious![BREAK]
 08B-E: @Hein[4F]? Tu n'arrives pas à[BREAK]trouver[4F]?[BREAK]Tu es vraiment suspect[4F]![BREAK]
 08C: @That's right, [03 15].[BREAK][PAUSE]@I read your mind and[BREAK]decided to make [03 15].[BREAK][PAUSE]@How does it taste? Do you[BREAK]like it?[BREAK]
-08C-E: @C'est ça, un plat[BREAK]d[03 5E][03 15].[BREAK][PAUSE]@J'ai lu dans ton esprit et[BREAK]j'ai décidé de préparer un[BREAK]peu d[03 5E][03 15].[BREAK][PAUSE]@Alors, ça te plaît ?[BREAK]
+08C-E: @C'est ça, un plat[BREAK]d[03 5F][03 15].[BREAK][PAUSE]@J'ai lu dans ton esprit et[BREAK]j'ai décidé de préparer un[BREAK]peu d[03 5F][03 15].[BREAK][PAUSE]@Alors, ça te plaît ?[BREAK]
 08D: 
 08D-E: 
 08E: 
@@ -628,7 +628,7 @@
 12F: @I can't guarantee this[BREAK]train'll go very far, but[BREAK]you'll still need to pay.[BREAK][PAUSE]@Are you gonna ride the[BREAK]train?[BREAK]
 12F-E: @Je ne sais pas si ce train[BREAK]ira très loin, mais tu dois[BREAK]quand même payer le billet.[BREAK][PAUSE]@Veux-tu embarquer à bord du[BREAK]train[4F]?[BREAK]
 130: @([03 16]'s weapon was[BREAK]confiscated.)[BREAK]
-130-E: @(L'arsenal de [03 16] a été[BREAK]confisqué.)[BREAK]
+130-E: @(L'arsenal d[03 5E][03 16] a été[BREAK]confisqué.)[BREAK]
 131: 
 131-E: 
 132: 
@@ -672,7 +672,7 @@
 145: @Looks like he got away.[BREAK][PAUSE]@Guess I'll just go and[BREAK]catch some speeders then...[BREAK]
 145-E: @Il a sûrement dû s'enfuir.[BREAK][PAUSE]@Je vais devoir me contenter[BREAK]d'arrêter des voitures qui[BREAK]roulent 1 km/h trop vite...[BREAK]
 146: @He ate five orders of[BREAK][03 15] and then ran off[BREAK]without paying.[BREAK][PAUSE]@If you see him, let me know[BREAK]immediately![BREAK]
-146-E: @Il a mangé cinq assiettes[BREAK]d[03 5E][03 15] et s'est enfui[BREAK]sans payer.[BREAK][PAUSE]@Si tu le vois, préviens-moi[BREAK]immédiatemment ![BREAK]
+146-E: @Il a mangé cinq assiettes[BREAK]d[03 5F][03 15] et s'est enfui[BREAK]sans payer.[BREAK][PAUSE]@Si tu le vois, préviens-moi[BREAK]immédiatemment ![BREAK]
 147: @Oof, my stomach's so full.[BREAK](belch)
 147-E: @Pfiou, j'ai le ventre bien[BREAK]rempli. (rote)
 148: @Things've gotten mighty[BREAK]dangerous in this town.[BREAK][PAUSE]@But it's still a whole lot[BREAK]better than the city of[BREAK]Valentine, that's for sure.[BREAK]
@@ -837,7 +837,7 @@
 196: @The dragon is asleep.[BREAK][PAUSE]@[03 16] can't wake it up[BREAK]just yet.[BREAK]
 196-E: @Le dragon est endormi.[BREAK][PAUSE]@[03 16] ne peut pas le[BREAK]réveiller pour le moment.[BREAK]
 197: @The dragon sensed [03 16]'s[BREAK]presence and awoke.[BREAK][PAUSE]@"NO ONE WEAKER THAN ME CAN[BREAK]HAVE THIS SHEET MUSIC."[BREAK]
-197-E: @Le dragon sent la présence[BREAK]de [03 16] et se réveille.[BREAK][PAUSE]@"LES ÊTRES PLUS FAIBLES QUE[BREAK]MOI NE SONT PAS DIGNES[BREAK]D'ENTENDRE MA BERCEUSE."[BREAK]
+197-E: @Le dragon sent la présence[BREAK]d[03 5E][03 16] et se réveille.[BREAK][PAUSE]@"LES ÊTRES PLUS FAIBLES QUE[BREAK]MOI NE SONT PAS DIGNES[BREAK]D'ENTENDRE MA BERCEUSE."[BREAK]
 198: 
 198-E: 
 199: @My daughter [03 12] is[BREAK]timid, but she has a kind[BREAK]heart and mysterious power.[BREAK]
@@ -984,7 +984,7 @@
 1DE: @Then you can spend another[BREAK]day in there to cool off.[BREAK]
 1DE-E: @Dans ce cas tu peux rester[BREAK]là-dedans un jour de plus[BREAK]histoire de te calmer.[BREAK]
 1DF: @Heheheh.[BREAK][PAUSE]@I got my hands on some[BREAK][03 1D]s the other day.[BREAK][PAUSE]@Want one for $[03 1E]?[BREAK]
-1DF-E: @Hé hé hé.[BREAK][PAUSE]@J'ai dégoté un superbe[BREAK]modèle de [03 1D][BREAK]l'autre jour.[BREAK][PAUSE]@Tu veux l'acheter pour[BREAK][03 1E]$ ?[BREAK]
+1DF-E: @Hé hé hé.[BREAK][PAUSE]@J'ai réussi à mettre la[BREAK]main sur [03 48][03 1D][BREAK]l'autre jour.[BREAK][PAUSE]@Tu veux l'acheter pour[BREAK][03 1E]$ ?[BREAK]
 1E0: @You don't got enough money.[BREAK][PAUSE]@Grrrr...[BREAK]
 1E0-E: @Tu n'as pas assez d'argent.[BREAK][PAUSE]@Grrrr...[BREAK]
 1E1: @[03 13]'s parents were[BREAK]killed by monsters in the[BREAK]mountains.[BREAK][PAUSE]@He had always been such a[BREAK]nice boy before then.[BREAK]
@@ -1128,7 +1128,7 @@
 223: @Listen closely, now. I'm[BREAK]going to explain how to use[BREAK]this.[BREAK][PAUSE]@All right. Whatever you do,[BREAK]don't press...[BREAK][PAUSE]@Oh, crap! I pressed it![BREAK]
 223-E: @Écoute attentivement.[BREAK]Je vais t'expliquer comment[BREAK]l'utiliser.[BREAK][PAUSE]@Très bien. Quoi que tu[BREAK]fasses, n'appuie pas...[BREAK][PAUSE]@Oh zut[4F]! J'ai appuyé[BREAK]dessus[4F]![BREAK]
 224: @I'll make you some [03 15],[BREAK][03 10].[BREAK][PAUSE]@Eat some and scoot up to[BREAK]bed.[BREAK]
-224-E: @Je vais te préparer un peu[BREAK]d[03 5E][03 15], [03 10].[BREAK][PAUSE]@Mange et file au lit.[BREAK]
+224-E: @Je vais te préparer un peu[BREAK]d[03 5F][03 15], [03 10].[BREAK][PAUSE]@Mange et file au lit.[BREAK]
 225: 
 225-E: 
 226: 
@@ -1140,7 +1140,7 @@
 229: @What would you like to[BREAK]sell?[BREAK]
 229-E: @Que souhaites-tu vendre[4F]?[BREAK]
 22A: @I can buy your [03 1D][BREAK]for $[03 1E].[BREAK][PAUSE]@Is that okay with you?[BREAK]
-22A-E: @[03 1D][4F]? Je peux[BREAK]racheter ça pour [03 1E]$.[BREAK][PAUSE]@Ça te va[4F]?[BREAK]
+22A-E: @Je peux te racheter [03 4B][BREAK][03 1D] pour [03 1E]$.[BREAK][PAUSE]@Ça te va[4F]?[BREAK]
 22B: @[03 3E] took out his[BREAK]great-grandfather's diary[BREAK]and read these words aloud:[BREAK][PAUSE]"...That which was left[BREAK]behind by the ship that[BREAK]soars the heavens."[BREAK]
 22B-E: @[03 3E] sort le journal de[BREAK]son arrière-grand-père et[BREAK]prononce à voix haute :[BREAK][PAUSE]"... Qu'a laissée[BREAK]derrière lui le vaisseau[BREAK]s'élevant dans les cieux.[BREAK]
 22C: 
@@ -1164,15 +1164,15 @@
 235: 
 235-E: 
 236: @Your [03 1D]?[BREAK][PAUSE]@I'll take good[BREAK]care of it.[BREAK][PAUSE]@Do you want me to[BREAK]hold on to anything[BREAK]else?[BREAK]
-236-E: @[03 1D][4F]?[BREAK][PAUSE]@J'en prendrai bien[BREAK]soin.[BREAK][PAUSE]@Tu veux que je[BREAK]garde autre chose[4F]?[BREAK]
+236-E: @[03 4B][03 1D][4F]?[BREAK][PAUSE]@J'en prendrai bien[BREAK]soin.[BREAK][PAUSE]@Tu veux que je[BREAK]garde autre chose[4F]?[BREAK]
 237: @Okay, then. Be[BREAK]careful out there.[BREAK]
 237-E: @Compris. Fais[BREAK]attention à toi.[BREAK]
 238: @Your [03 1D]?[BREAK][PAUSE]@Sure thing. Take[BREAK]good care of it,[BREAK]okay?[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]take with you?[BREAK]
-238-E: @[03 1D][4F]?[BREAK][PAUSE]@Ça marche.[BREAK]Prends-en bien[BREAK]soin, d'accord[4F]?[BREAK][PAUSE]@Est-ce que tu veux[BREAK]récupérer autre[BREAK]chose[4F]?[BREAK]
+238-E: @[03 4B][03 1D][4F]?[BREAK][PAUSE]@Ça marche.[BREAK]Prends-en bien[BREAK]soin, d'accord[4F]?[BREAK][PAUSE]@Est-ce que tu veux[BREAK]récupérer autre[BREAK]chose[4F]?[BREAK]
 239: @There was a landslide up by[BREAK]Santa Claus Station, so the[BREAK]train can't get through.[BREAK]
 239-E: @Il y a eu un éboulement[BREAK]près de la gare de l'Union,[BREAK]de ce fait le train ne peut[BREAK]plus passer.[BREAK]
 23A: @The [03 1D], yes?[BREAK]
-23A-E: @[03 1D], c'est ça[4F]?[BREAK]
+23A-E: @L[03 4C][03 1D], c'est ça[4F]?[BREAK]
 23B: @It looks you can't hold any[BREAK]more items.[BREAK]
 23B-E: @On dirait que tu ne peux[BREAK]pas porter plus d'objets.[BREAK]
 23C: 
@@ -1410,7 +1410,7 @@
 2AA: @Are restaurant owners[BREAK]everywhere so musical, I[BREAK]wonder?[BREAK]
 2AA-E: @Est-ce que tous les[BREAK]restaurateurs chantent[BREAK]comme ça ?[BREAK]
 2AB: @I think [03 15] is great,[BREAK]too.[BREAK]
-2AB-E: @Je suis un grand amateur[BREAK]d[03 5E][03 15], moi aussi.[BREAK]
+2AB-E: @Je suis un grand amateur[BREAK]d[03 5F][03 15], moi aussi.[BREAK]
 2AC: @The hotels around here are[BREAK]really no different from[BREAK]the ones in Mother's Day,[BREAK][PAUSE]yet they cost so much more.[BREAK][PAUSE](mutter grumble)[BREAK]
 2AC-E: @Les hôtels par ici n'ont[BREAK]vraiment aucune différence[BREAK]avec ceux de Podunk,[BREAK][PAUSE]et pourtant ils coûtent[BREAK]plus cher.[BREAK][PAUSE](murmure ronchonne)[BREAK]
 2AD: @This hotel is cheap.[BREAK][PAUSE]@But that's about the only[BREAK]thing it has going for it.[BREAK]
@@ -1427,7 +1427,7 @@
 2B1: @Welcome![BREAK][PAUSE]Please have a look at our[BREAK]menu.[BREAK]
 2B1-E: @Bienvenue[4F]![BREAK][PAUSE]Je t'en prie, regarde[BREAK]notre menu.[BREAK]
 2B2: @Thank you.[BREAK][PAUSE]One order of [03 1D] to[BREAK]go![BREAK]
-2B2-E: @Merci.[BREAK][PAUSE]Et une commande[BREAK]de [03 1D] à emporter[4F]![BREAK]
+2B2-E: @Merci.[BREAK][PAUSE]Et une commande[BREAK][03 4D][03 1D] à emporter[4F]![BREAK]
 2B3: 
 2B3-E: 
 2B4: 
@@ -1439,7 +1439,7 @@
 2B7: @Hey, waiter![BREAK]Where's the wine list I[BREAK]asked for?[BREAK]
 2B7-E: @Hé, garçon[4F]![BREAK]Où est la carte des vins[BREAK]que j'ai demandée[4F]?[BREAK]
 2B8: @I want to try some [03 15].[BREAK]
-2B8-E: @J'aimerais goûter un peu[BREAK]d[03 5E][03 15].[BREAK]
+2B8-E: @J'aimerais goûter un peu[BREAK]d[03 5F][03 15].[BREAK]
 2B9: 
 2B9-E: 
 2BA: 
@@ -1681,7 +1681,7 @@
 330: 
 330-E: 
 331: @[03 16]'s party won the[BREAK]battle.[BREAK]
-331-E: @L'équipe de [03 16][BREAK]remporte le combat.[BREAK]
+331-E: @L'équipe d[03 5E][03 16][BREAK]remporte le combat.[BREAK]
 332:   WITHDRAW  DEPOSIT
 332-E:   RETIRER  DÉPOSER
 333: @CURRENT BALANCE: $[03 19][DOUBLEZERO][BREAK]
@@ -1707,7 +1707,7 @@
 33D: @Okay! All better![BREAK][PAUSE]@Amazing, huh?[BREAK]
 33D-E: @Voilà[4F]! C'est tout[BREAK]bon[4F]![BREAK][PAUSE]@Incroyable, hein[4F]?[BREAK]
 33E: @I'm very sorry. I can't buy[BREAK]your [03 1D].[BREAK]
-33E-E: @Je suis vraiment navrée. Je[BREAK]ne peux pas racheter[BREAK][03 1D].
+33E-E: @Je suis vraiment navrée. Je[BREAK]ne peux pas te racheter[BREAK][03 4B][03 1D].
 33F: @Laura the songbird was so[BREAK]happy to see her baby again[BREAK]that she began singing.[BREAK]
 33F-E: @Laura l'oiseau chanteur[BREAK]est tellement contente de[BREAK]revoir son bébé qu'elle se[BREAK]met à chanter.[BREAK]
 340: @[03 16] learned the melody.[BREAK]
@@ -1795,7 +1795,7 @@
 369: @You better hurry and get[BREAK][03 13] back on his feet![BREAK]
 369-E: @Tu ferais mieux de te[BREAK]grouiller de remettre[BREAK][03 13] sur pied ![BREAK]
 36A: @Oh, whoops.[BREAK][PAUSE]@I can't hold on to your[BREAK][03 1D].[BREAK][PAUSE]@I'm selfish like that.[BREAK]
-36A-E: @Ah, oups.[BREAK][PAUSE]@Je ne peux pas[BREAK]garder cet objet.[BREAK][PAUSE]@Je suis un peu[BREAK]égoïste.[BREAK]
+36A-E: @Ah, oups.[BREAK][PAUSE]@Je ne peux pas[BREAK]garder [03 4B][BREAK][03 1D].[BREAK][PAUSE]@Je suis un peu[BREAK]égoïste, tu vois.[BREAK]
 36B: Here rests Flying Man, the[BREAK]courageous warrior and[BREAK]eternal servant to [03 10].[BREAK]
 36B-E: Ici repose Garuda, guerrier[BREAK]courageux et serviteur[BREAK]éternel d[03 50][03 10].[BREAK]
 36C: Here rests Flying Man, the[BREAK]courageous warrior and[BREAK]inner strength of [03 10].[BREAK]
@@ -1867,23 +1867,23 @@
 38D: 
 38D-E: 
 38E: @[03 1A] used the[BREAK][03 1C].[BREAK]
-38E-E: @[03 1A] utilise [03 1C].[BREAK]
+38E-E: @[03 1A] utilise[BREAK]l[03 41][03 1C].[BREAK]
 38F: @[03 1A] can't use the[BREAK][03 1C].[BREAK]
-38F-E: @[03 1A] ne peut pas utiliser[BREAK]ça.[BREAK]
+38F-E: @[03 1A] ne peut pas utiliser[BREAK]l[03 41][03 1C].[BREAK]
 390: @Please don't do that.[BREAK]
 390-E: @Merci de ne pas faire ça.[BREAK]
 391: @[03 1A] equipped the[BREAK][03 1C].[BREAK]
-391-E: @[03 1A] équipe [03 1C].[BREAK]
+391-E: @[03 1A] équipe[BREAK]l[03 41][03 1C].[BREAK]
 392: @[03 1A] can't equip the[BREAK][03 1C].[BREAK]
-392-E: @[03 1A] ne peut pas équiper[BREAK]ça.[BREAK]
+392-E: @[03 1A] ne peut pas équiper[BREAK]l[03 41][03 1C].[BREAK]
 393: @[03 1A] threw away the[BREAK][03 1C].[BREAK]
-393-E: @[03 1A] jette [03 1C].[BREAK]
+393-E: @[03 1A] jette[BREAK]l[03 41][03 1C].[BREAK]
 394: @You shouldn't throw away[BREAK]the [03 1C].[BREAK]
-394-E: @Vous ne devriez pas jeter[BREAK]ça.[BREAK]
+394-E: @Vous ne devriez pas jeter[BREAK]l[03 41][03 1C].[BREAK]
 395: @[03 1A] gave the[BREAK][03 1C] to [03 1B].[BREAK]
-395-E: @[03 1A] donne [03 1C][BREAK]à [03 1B].[BREAK]
+395-E: @[03 1A] donne[BREAK]l[03 41][03 1C] à [03 1B].[BREAK]
 396: @The [03 1C] can't be[BREAK]given away.[BREAK]
-396-E: @[03 1C] ne peut pas être[BREAK]donné.[BREAK]
+396-E: @Vous ne pouvez pas donner[BREAK]l[03 41][03 1C].[BREAK]
 397: @[03 1B] can't hold any[BREAK]more stuff.[BREAK]
 397-E: @[03 1B] ne peut rien[BREAK]porter de plus.[BREAK]
 398: @Nothing happened.[BREAK]
@@ -1891,9 +1891,9 @@
 399: @[03 3E] opened the present.[BREAK]
 399-E: @[03 3E] ouvre le paquet.[BREAK]
 39A: @Found [03 1D].[BREAK]
-39A-E: @Trouvé : [03 1D].[BREAK]
+39A-E: @Vous trouvez[BREAK][03 48][03 1D].[BREAK]
 39B: @[03 16][03 17] took the[BREAK][03 1D].[BREAK]
-39B-E: @[03 17][03 16] s'en[BREAK]empare.[BREAK]
+39B-E: @[03 17][03 16] prend[BREAK]l[03 49][03 1D].[BREAK]
 39C: 
 39C-E: 
 39D: @But you can't hold any[BREAK]more stuff.[BREAK]
@@ -1984,7 +1984,7 @@
 3C6: @But [03 11] managed to get[BREAK]it running.[BREAK]
 3C6-E: @Mais [03 11] parvient à le[BREAK]mettre en route.[BREAK]
 3C7: @The [03 1D],[BREAK]right?[BREAK][PAUSE]@I'll be sure to[BREAK]send it to [03 10]'s[BREAK]house.[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]store?[BREAK]
-3C7-E: @[03 1D],[BREAK]c'est ça ?[BREAK][PAUSE]@Je m'assurerai de[BREAK]l'envoyer chez[BREAK][03 10].[BREAK][PAUSE]@Y a-t-il autre[BREAK]chose que tu veux[BREAK]que je stocke ?[BREAK]
+3C7-E: @L[03 4C][03 1D],[BREAK]c'est ça ?[BREAK][PAUSE]@Je m'assurerai de[BREAK]l'envoyer chez[BREAK][03 10].[BREAK][PAUSE]@Y a-t-il autre[BREAK]chose que tu veux[BREAK]que je stocke ?[BREAK]
 3C8: @What are we trapped inside[BREAK]these cramped things for?[BREAK][PAUSE]@What's going to happen to[BREAK]us?[BREAK]
 3C8-E: @Pourquoi sommes-nous[BREAK]enfermés dans ces machins[BREAK]étroits ?[BREAK][PAUSE]@Qu'est-ce qui va nous[BREAK]arriver?[BREAK]
 3C9: Sweet Little Factory[BREAK]
@@ -2026,7 +2026,7 @@
 3DB: @You don't have any[BREAK]friends to give[BREAK]items to yet.[BREAK]
 3DB-E: @Tu n'as pas encore[BREAK]d'amis à qui donner[BREAK]des objets.[BREAK]
 3DC: @Oh, the[BREAK][03 1D]?[BREAK][PAUSE]@Here you go. Take[BREAK]good care of it.[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]take with you?[BREAK]
-3DC-E: @Oh, [03 1D] ?[BREAK][PAUSE]@Tiens. Prends-en[BREAK]bien soin.[BREAK][PAUSE]@Je peux faire[BREAK]quelque chose[BREAK]d'autre pour toi ?[BREAK]
+3DC-E: @L[03 4C][03 1D] ?[BREAK][PAUSE]@Tiens. Prends-en[BREAK]bien soin.[BREAK][PAUSE]@Je peux faire autre[BREAK]chose pour toi ?[BREAK]
 3DD: @It looks like you[BREAK]can't carry any[BREAK]more stuff.[BREAK][PAUSE]@Should I give this[BREAK]to someone else?[BREAK]
 3DD-E: @On dirait que tu[BREAK]ne peux rien[BREAK]porter de plus.[BREAK][PAUSE]@Dois-je donner[BREAK]ceci à quelqu'un[BREAK]d'autre ?[BREAK]
 3DE: @The storeroom is[BREAK]full.[BREAK]
@@ -3454,15 +3454,15 @@
 6A5: @[03 1A] decided not to hand[BREAK]over any items.[BREAK]
 6A5-E: @[03 1A] décide de ne céder[BREAK]aucun objet.[BREAK]
 6A6: @[03 1A] gave the [03 1C][BREAK]to [03 1B].[BREAK]
-6A6-E: @[03 1A] donne [03 1C][BREAK]à [03 1B].[BREAK]
+6A6-E: @[03 1A] donne[BREAK]l[03 41][03 1C] à [03 1B].[BREAK]
 6A7: @[03 1A] put the [03 1C][BREAK]in [03 1B]'s bag.[BREAK]
-6A7-E: @[03 1A] met [03 1C][BREAK]dans le sac de [03 1B].[BREAK]
+6A7-E: @[03 1A] met l[03 41][03 1C][BREAK]dans le sac d[03 5B][03 1B].[BREAK]
 6A8: @[03 1B] took the [03 1C][BREAK]from [03 1A]'s bag.[BREAK]
-6A8-E: @[03 1B] prend [03 1C][BREAK]du sac de [03 1A].[BREAK]
+6A8-E: @[03 1B] prend[BREAK]l[03 41][03 1C] dans le sac[BREAK]d[03 5A][03 1A].[BREAK]
 6A9: @[03 3E] threw out the[BREAK][03 1C] that was in[BREAK][03 1A]'s bag.[BREAK]
-6A9-E: @[03 3E] jette [03 1C][BREAK]qui était dans le sac[BREAK]de [03 1A].[BREAK]
+6A9-E: @[03 3E] sort l[03 41][03 1C][BREAK]du sac d[03 5A][03 1A] et [03 44][BREAK]jette.[BREAK]
 6AA: @[03 3E] took the [03 1C][BREAK]out of [03 1A]'s bag[BREAK][PAUSE]and put it in [03 1B]'s bag.[BREAK]
-6AA-E: @[03 3E] sort [03 1C][BREAK]du sac de [03 1A][BREAK][PAUSE]et le met dans le sac[BREAK]de [03 1B].[BREAK]
+6AA-E: @[03 3E] sort l[03 41][03 1C][BREAK]du sac d[03 5A][03 1A][BREAK][PAUSE]et [03 44]met dans le sac[BREAK]d[03 5B][03 1B].[BREAK]
 6AB: 
 6AB-E: 
 6AC: 
@@ -3470,29 +3470,29 @@
 6AD: 
 6AD-E: 
 6AE: @[03 1A] swallowed the[BREAK][03 1C].[BREAK]
-6AE-E: @[03 1A] avale [03 1C].[BREAK]
+6AE-E: @[03 1A] avale[BREAK]l[03 41][03 1C].[BREAK]
 6AF: @[03 1A] ate the [03 1C].[BREAK]
-6AF-E: @[03 1A] mange [03 1C].[BREAK]
+6AF-E: @[03 1A] mange[BREAK]l[03 41][03 1C].[BREAK]
 6B0: @[03 1A] drank the[BREAK][03 1C].[BREAK]
-6B0-E: @[03 1A] boit [03 1C].[BREAK]
+6B0-E: @[03 1A] boit[BREAK]l[03 41][03 1C].[BREAK]
 6B1: was recovered by [03 1E].[BREAK]
 6B1-E: remontent de [03 1E].[BREAK]
 6B2: went up [03 1E].[BREAK]
 6B2-E: augmente de [03 1E].[BREAK]
 6B3: @[03 1A]'s HP[BREAK]
-6B3-E: @Les PV de [03 1A][BREAK]
+6B3-E: @Les PV d[03 5A][03 1A][BREAK]
 6B4: @[03 1A]'s PP[BREAK]
-6B4-E: @Les PP de [03 1A][BREAK]
+6B4-E: @Les PP d[03 5A][03 1A][BREAK]
 6B5: @[03 1A]'s Fight[BREAK]
-6B5-E: @La fougue de [03 1A][BREAK]
+6B5-E: @La fougue d[03 5A][03 1A][BREAK]
 6B6: @[03 1A]'s Speed[BREAK]
-6B6-E: @La vitesse de [03 1A][BREAK]
+6B6-E: @La vitesse d[03 5A][03 1A][BREAK]
 6B7: @[03 1A]'s Wisdom[BREAK]
-6B7-E: @La sagesse de [03 1A][BREAK]
+6B7-E: @La sagesse d[03 5A][03 1A][BREAK]
 6B8: @[03 1A]'s Strength[BREAK]
-6B8-E: @La vigueur de [03 1A][BREAK]
+6B8-E: @La vigueur d[03 5A][03 1A][BREAK]
 6B9: @[03 1A]'s Force[BREAK]
-6B9-E: @La force de [03 1A][BREAK]
+6B9-E: @La force d[03 5A][03 1A][BREAK]
 6BA: @[03 1A] took a Magic Herb[BREAK]from the Big Bag and used[BREAK]it.[BREAK]
 6BA-E: @[03 1A] prend une Herbe[BREAK]magique du Grand sac et[BREAK]l'utilise.[BREAK]
 6BB: @[03 1A] broke the bread into[BREAK]crumbs and started a trail[BREAK]out of them.[BREAK]
@@ -3512,9 +3512,9 @@
 6C2: @You used up all the calls[BREAK]on your Phone Card.[BREAK]
 6C2-E: @Vous avez utilisé tous les[BREAK]appels de votre Carte[BREAK]téléphonique.[BREAK]
 6C3: @The poison was removed from[BREAK][03 1A]'s body.[BREAK]
-6C3-E: @Le poison a été éliminé du[BREAK]corps de [03 1A].[BREAK]
+6C3-E: @Le poison a été éliminé du[BREAK]corps d[03 5A][03 1A].[BREAK]
 6C4: @[03 1A]'s cold went away.[BREAK]
-6C4-E: @Le rhume de [03 1A] a[BREAK]disparu.[BREAK]
+6C4-E: @Le rhume d[03 5A][03 1A] a[BREAK]disparu.[BREAK]
 6C5: @[03 1A] gripped the[BREAK]PSI Stone.[BREAK]
 6C5-E: @[03 1A] saisit la Pierre[BREAK]PSI.[BREAK]
 6C6: @The PSI Stone turned into[BREAK]an ordinary rock.[BREAK]
@@ -3528,7 +3528,7 @@
 6CA: @Most of the diary is[BREAK]unreadable, but one part[BREAK]did stand out:[BREAK][PAUSE]@"The password...[BREAK][PAUSE]Where is the god's tail,[BREAK][PAUSE]that which was left behind[BREAK]by the ship that soars[BREAK]the heavens?"[BREAK]
 6CA-E: @La plupart du journal est[BREAK]illisible, mais une partie[BREAK]se détache du lot :[BREAK][PAUSE]@"Le mot de passe...[BREAK][PAUSE]Où se trouve la queue de[BREAK]l'esprit, qu'a laissée[BREAK]derrière lui le vaisseau[BREAK]s'élevant dans les cieux ?"[BREAK]
 6CB: @[03 1A]'s body became soft[BREAK]again.[BREAK]
-6CB-E: @Le corps de [03 1A] n'est[BREAK]plus pétrifié.[BREAK]
+6CB-E: @Le corps d[03 5A][03 1A] n'est[BREAK]plus pétrifié.[BREAK]
 6CC: @You played the Ocarina of[BREAK]Hope.[BREAK]
 6CC-E: @Vous jouez de l'Ocarina de[BREAK]l'espoir.[BREAK]
 6CD: @Did you catch that?[BREAK]
@@ -3550,7 +3550,7 @@
 6D5: 
 6D5-E: 
 6D6: @[03 1A] took out the[BREAK][03 1C] and then put it[BREAK]away again.[BREAK]
-6D6-E: @[03 1A] sort l'objet[BREAK][03 1C] puis le range[BREAK]immédiatement.[BREAK]
+6D6-E: @[03 1A] sort l[03 41][03 1C][BREAK]puis [03 44]range[BREAK]immédiatement.[BREAK]
 6D7: @[03 1A] is unconcious.[BREAK]
 6D7-E: @[03 1A] est inconscient.[BREAK]
 6D8: @The entire party was[BREAK]healed![BREAK]

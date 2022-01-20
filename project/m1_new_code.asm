@@ -1065,73 +1065,102 @@ bx      r1
 
 
 more_field_control_codes:
-push    {lr}
+    push    {lr}
 
-cmp     r0,#0x40
-bge     +
+    cmp     r0,#0x40
+    bge     +
 
-lsl     r0,r0,#2
-ldr     r1,=#0x8F0C114
-add     r0,r0,r1
-ldr     r0,[r0,#0]
-b       .field_cc_return
+    lsl     r0,r0,#2
+    ldr     r1,=#0x8F0C114
+    add     r0,r0,r1
+    ldr     r0,[r0,#0]
+    b       .field_cc_return
 
-+
-mov  r1,r0
-cmp  r1,#0x4F; bgt +; ldr r0,=#.field_cc_item_articles; b .field_cc_return
-+
-cmp  r1,#0x5F; bgt +; ldr r0,=#.field_cc_food_elision; b .field_cc_return
-+ 
+    +
+    mov  r1,r0
+    cmp  r1,#0x4F; bgt +; ldr r0,=#.field_cc_item_articles; b .field_cc_return
+    +
+    cmp  r1,#0x5F; bgt +; ldr r0,=#.field_cc_elision; b .field_cc_return
+    + 
 
-ldr r0,=#.field_cc_default
+    ldr r0,=#.field_cc_default
 
-.field_cc_return:
-pop     {pc}
+    .field_cc_return:
+    pop     {pc}
 
 
 .field_cc_item_articles:
-ldr     r0,=#0x8FFE7A6    // same as default for now
-bl      0x8F0C058
-b       .field_cc_next
+
+  // here, we have the cc argument in r1 and we’re looking for the item id
+  // could be at a different address depending on the control code (2 possibilites, to be defined)
+  // ...
+  
+  mov  r2,#0x8
+  and  r2,r1
+  cmp  r0,#0
+  bne  +    
+  ldr  r0,=#0x3003188 
+  b    .field_cc_item_art_next 
+  +
+  ldr  r0,=#0x30007D4
+  
+  .field_cc_item_art_next:
+  
+  ldrb r0,[r0,#0]        // r0 has the item id now
+
+  mov  r2,#0x7           // we’ll have to make sure r2 is safe to use here 
+  and  r1,r2             // isolating the parameter (which article)
+  
+  ldr  r2,=#0x8FFE000
+  ldrb r0,[r2,r0]        // we now have the item class
+  mov  r2,#6
+  mul  r0,r2             // 6 articles per class
+  add  r0,r0,r1
+  lsl  r0,r0,#0x3        // 8 characters per article
+  ldr  r2,=#0x8FFE100
+  add  r0,r0,r2          // we now have the address of the custom article string to copy
+  
+  bl   0x8F0C058
+  b    .field_cc_next
 
 
-.field_cc_food_elision:
-mov     r0,#0x0F
-and     r1,r0
-bl      general.has_elision
-lsl     r0,r0,#2
-ldr     r1,=#0x8FFE7A0
-add     r0,r0,r1
-bl      0x8F0C058
-b       .field_cc_next
+.field_cc_elision:
+    mov     r0,#0x0F
+    and     r0,r1
+    bl      general.has_elision
+    lsl     r0,r0,#2
+    ldr     r1,=#0x8FFE7A0    // strings for "e " / "’"
+    add     r0,r0,r1
+    bl      0x8F0C058
+    b       .field_cc_next
 
 
 .field_cc_default:
-ldr     r0,=#0x8FFE7A6    // default is empty string
-bl      0x8F0C058
-b       .field_cc_next
+    ldr     r0,=#0x8FFE7A6    // default is empty string
+    bl      0x8F0C058
+    b       .field_cc_next
 
 
 .field_cc_next:
-add     r6,#1
-ldrb    r1,[r6,#0]
-cmp     r1,#0
-beq     +
-bl      0x8F0C060
-+
-ldr     r1,=#0x30034BC
-mov     r0,#0
-strb    r0,[r1,#0]
-pop     {r4-r7}
-pop     {r0}
-bx      r0
+    add     r6,#1
+    ldrb    r1,[r6,#0]
+    cmp     r1,#0
+    beq     +
+    bl      0x8F0C060
+    +
+    ldr     r1,=#0x30034BC
+    mov     r0,#0
+    strb    r0,[r1,#0]
+    pop     {r4-r7}
+    pop     {r0}
+    bx      r0
 
 //------------------------------------------------------------------------------------------------------------------------------
 // Jumpman’s function for French elision.
 // Input parameter: r0
 // r0 values from 0 to D: 0 Ninten, 1 Ana, 2 Lloyd, 3 Teddy, 4 Pippi, 5 EVE, 6 Garuda
-// r0 = E => current party leader
-// r0 = F => favorite food
+// r0 = E => current party leader (matches control code [03 16])
+// r0 = F => favorite food (matches control code [03 15])
 // Returns 1 in r0 if the fav food or character name starts with a vowel, 0 otherwise.
 //------------------------------------------------------------------------------------------------------------------------------
 
@@ -1144,12 +1173,27 @@ mov  r1,r0
 cmp  r1,#0xF                       // if parameter is F => favfood
 beq  .elision_favfood
 
-//cmp  r1,#0xE                     // if parameter is E => party leader
-//bne +
-//ldr  r2,=#0x2004860              // where the current party leader is stored
-//ldrb r1,[r2,#0]
-//sub  r1,#1                       // r1 now contains the character id
-//+
+cmp  r1,#0xE                       // if parameter is E => party leader
+bne +
+ldr  r2,=#0x3003190                // where the current party leader is stored
+ldrb r1,[r2,#8]
+sub  r1,#1                         // r1 now contains the character id
++                                   
+                                   
+cmp  r1,#0xA                       // if parameter is A => agent in menus
+bne +
+ldr  r2,=#0x3003174                // where the agent is stored
+ldrb r1,[r2,#0]
+sub  r1,#1                         // r1 now contains the character id
++
+
+cmp  r1,#0xB                       // if parameter is A => target in menus
+bne +
+ldr  r2,=#0x300084C                // where the target is stored
+ldrb r1,[r2,#0]
+sub  r1,#1                         // r1 now contains the character id
++
+
                                    // if any other parameter => other characters names
 ldr  r3,=#0x3003208                // starting point for character names
 lsl  r1,r1,#0x6                    // r5 has the starting point, r0 has the offset...
