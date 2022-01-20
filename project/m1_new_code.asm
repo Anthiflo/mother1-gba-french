@@ -614,6 +614,7 @@ control_code_22:
 
 //----------------------------------------------------------------------------------------
 // this is a custom battle control code that selects a/an/the for when an item is used
+// ([03 E0-7] item)
 
 cc_item_article:
   push {lr}
@@ -647,6 +648,7 @@ cc_item_article:
 
 //----------------------------------------------------------------------------------------
 // this is a custom battle control code that selects a/an/the when an item is won in battle
+// ([03 E8-F] won item)
 
 cc_won_item_article:
   push {lr}
@@ -676,6 +678,7 @@ cc_won_item_article:
 
 //----------------------------------------------------------------------------------------
 // this is a custom battle control code that selects a/an/the for the actor/target enemy
+// ([03 E0-7] actor / [03 E8-F] target)
 
 cc_enemy_article:
   push {lr}
@@ -751,6 +754,7 @@ cc_enemy_article:
  
 
 // this is a custom battle control code to display an enemy’s long name
+// ([03 D0] actor / [03 D8] target)
 
 cc_long_enemy:
   push {lr}
@@ -804,6 +808,7 @@ cc_long_enemy:
 
 
 // this is a custom battle control code to display the letter (A/B/C/D) after an enemy name
+// ([03 C0] actor / [03 C8] target)
 
 cc_enemy_letter:
   push {lr}
@@ -1177,6 +1182,8 @@ more_field_control_codes:
 // Jumpman’s function for French elision.
 // Input parameter: r0
 // r0 values from 0 to D: 0 Ninten, 1 Ana, 2 Lloyd, 3 Teddy, 4 Pippi, 5 EVE, 6 Garuda
+// r0 = A => actor in menus (matches control code [03 16])
+// r0 = B => target in menus (matches control code [03 1B])
 // r0 = E => current party leader (matches control code [03 16])
 // r0 = F => favorite food (matches control code [03 15])
 // Returns 1 in r0 if the fav food or character name starts with a vowel, 0 otherwise.
@@ -1205,7 +1212,7 @@ ldrb r1,[r2,#0]
 sub  r1,#1                         // r1 now contains the character id
 +
 
-cmp  r1,#0xB                       // if parameter is A => target in menus
+cmp  r1,#0xB                       // if parameter is B => target in menus
 bne +
 ldr  r2,=#0x300084C                // where the target is stored
 ldrb r1,[r2,#0]
