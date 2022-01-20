@@ -4252,7 +4252,7 @@
 834: [03 20] tried [03 22]!
 834-E: [03 E2][03 D0][03 C0] tente [03 22][4F]!
 835: [03 20] can't use [03 22]!
-835-E: [03 E2][03 D0][03 C0] ne peut pas utiliser [03 22]!
+835-E: [03 E2][03 D0][03 C0] ne peut pas utiliser [03 F1][03 22]!
 836: [03 20] is sizing up the situation...
 836-E: [03 E2][03 D0][03 C0] prend la mesure de la situation...
 837: [03 20] did something strange!
@@ -4284,7 +4284,8 @@
 844: [03 21] had an asthma attack!
 844-E: [03 EA][03 D8][03 C8] est pris d'une crise d'asthme[4F]!
 845: The [03 22] broke...
-845-E: [03 22] s'est cassé...
+845-E: Le [03 22] s'est cassé...
+// Used for when the beams break (maybe also the slime generator)
 846: [03 20] used a Demon Seed!
 846-E: [03 E2][03 D0][03 C0] utilise une Graine de démon[4F]!
 847: [03 20] used paralysis gas!
@@ -4341,6 +4342,7 @@
 860-E: Mais ça n'a aucun effet[4F]!
 861: The [03 22] was fully emptied...
 861-E: Le [03 22] a été complètement vidé...
+// Used for the big bag when empty
 862: [BREAK]No end to the battle is in sight...[BREAK]
 862-E: [BREAK]Le combat n'a pas de fin en vue...[BREAK]
 863: (From somewhere,[BREAK][PAUSE][03 16] heard Queen Mary's voice...)[BREAK][PAUSE]You can't beat Giygas with brute strength...[BREAK][PAUSE]I doubt any weapon can defeat him...[BREAK][PAUSE]But the lullaby...[BREAK][PAUSE]Maybe the song I used to sing to him can stop him![BREAK][PAUSE][03 01]
