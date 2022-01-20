@@ -39,7 +39,7 @@
 013: @(Click! Beep-beep-beep...)[BREAK]
 013-E: @(Clic[4F]! Bip-bip-bip...)[BREAK]
 014: @[03 10][4F]? It's your dad.[BREAK]
-014-E: @All[3A], [03 10][4F]? C'est Papa.[BREAK]
+014-E: @Allô, [03 10][4F]? C'est Papa.[BREAK]
 015: @I've deposited $[03 18][BREAK]into your bank account.[BREAK][PAUSE]@Taking away what you've[BREAK]spent, you should now have[BREAK]$[03 19] in the bank.[BREAK][PAUSE]@Use it wisely.[BREAK]
 015-E: @J'ai déposé [03 18]$[BREAK]sur ton compte bancaire.[BREAK][PAUSE]@En enlevant ce que tu as[BREAK]dépensé, tu devrais avoir [BREAK][03 19]$ sur ton compte.[BREAK][PAUSE]@Fais-en bon usage.[BREAK]
 016: @I realize this isn't any of[BREAK]my business, but why don't[BREAK]you take a little break?[BREAK]
@@ -4346,7 +4346,7 @@
 863: (From somewhere,[BREAK][PAUSE][03 16] heard Queen Mary's voice...)[BREAK][PAUSE]You can't beat Giygas with brute strength...[BREAK][PAUSE]I doubt any weapon can defeat him...[BREAK][PAUSE]But the lullaby...[BREAK][PAUSE]Maybe the song I used to sing to him can stop him![BREAK][PAUSE][03 01]
 863-E: (Depuis quelque part,[BREAK][PAUSE][03 16] entend la voix de la reine Mary...)[BREAK][PAUSE]Vous ne pouvez pas battre Giygas par la force brute...[BREAK][PAUSE]Je doute que des armes puissent en venir à bout...[BREAK][PAUSE]Mais la berceuse...[BREAK][PAUSE]La chanson que je lui chantait tous les soirs,[BREAK][PAUSE] elle pourrait peut-être l'arrêter[4F]![BREAK][PAUSE][03 01]
 864: [03 21] recovered completely!
-864-E: [03 EA][03 D8][03 C8] est totalement rétabli[4F]!
+864-E: [03 EA][03 D8][03 C8] est totalement rétabli[03 EC][4F]!
 865: 
 865-E: 
 866: "[03 10]! I owe a great deal to your family line!"[BREAK][PAUSE][03 01]
