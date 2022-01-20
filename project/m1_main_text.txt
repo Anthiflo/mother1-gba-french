@@ -2794,7 +2794,7 @@
 553: A big rat with a long tail.
 553-E: Un gros rat avec une longue queue.
 554: It looks like an egg but is harder than one.
-554-E: Elle ressemble à un [37]uf, mais en plus dur.
+554-E: Elle ressemble à un [37]uf, mais en plus dure.
 555: 
 555-E: 
 556: It glares at you from afar...
