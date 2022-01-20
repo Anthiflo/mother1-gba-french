@@ -314,15 +314,15 @@ parsecopy:
   + 
   cmp  r3,#0x23; bne +; bl control_code_23; b .loop_start
   + 
-  cmp  r3,#0xF8; blt +; bl control_code_won_item; b .loop_start
+  cmp  r3,#0xF8; blt +; bl cc_won_item_article; b .loop_start
   + 
-  cmp  r3,#0xF0; blt +; bl control_code_item; b .loop_start
+  cmp  r3,#0xF0; blt +; bl cc_item_article; b .loop_start
   + 
-  cmp  r3,#0xE0; blt +; bl control_code_enemy; b .loop_start
+  cmp  r3,#0xE0; blt +; bl cc_enemy_article; b .loop_start
   + 
-  cmp  r3,#0xD0; blt +; bl control_code_long_enemy; b .loop_start
+  cmp  r3,#0xD0; blt +; bl cc_long_enemy; b .loop_start
   + 
-  cmp  r3,#0xC0; blt +; bl control_code_enemy_letter; b .loop_start
+  cmp  r3,#0xC0; blt +; bl cc_enemy_letter; b .loop_start
   + 
 
   .copy_control_code:
@@ -615,7 +615,7 @@ control_code_22:
 //----------------------------------------------------------------------------------------
 // this is a custom battle control code that selects a/an/the for when an item is used
 
-control_code_item:
+cc_item_article:
   push {lr}
   push {r2-r7}
   push {r0}
@@ -648,7 +648,7 @@ control_code_item:
 //----------------------------------------------------------------------------------------
 // this is a custom battle control code that selects a/an/the when an item is won in battle
 
-control_code_won_item:
+cc_won_item_article:
   push {lr}
   push {r2-r7}
   push {r0}
@@ -677,7 +677,7 @@ control_code_won_item:
 //----------------------------------------------------------------------------------------
 // this is a custom battle control code that selects a/an/the for the actor/target enemy
 
-control_code_enemy:
+cc_enemy_article:
   push {lr}
   push {r2-r7}
   push {r0}
@@ -752,7 +752,7 @@ control_code_enemy:
 
 // this is a custom battle control code to display an enemy’s long name
 
-control_code_long_enemy:
+cc_long_enemy:
   push {lr}
   push {r2-r7}
   push {r0}
@@ -805,7 +805,7 @@ control_code_long_enemy:
 
 // this is a custom battle control code to display the letter (A/B/C/D) after an enemy name
 
-control_code_enemy_letter:
+cc_enemy_letter:
   push {lr}
   push {r2-r7}
   push {r0}
@@ -843,8 +843,8 @@ control_code_enemy_letter:
   lsr  r0,r0,#0x1A
   
   .enemy_letter_end:
-  
-  ldr  r5,=#enemyletters
+
+  ldr  r5,=#0x8FFE780
   lsl  r0,r0,#2
   add  r0,r0,r5
   
@@ -1082,6 +1082,8 @@ more_field_control_codes:
     +
     cmp  r1,#0x5F; bgt +; ldr r0,=#.field_cc_elision; b .field_cc_return
     + 
+    cmp  r1,#0x6F; bgt +; ldr r0,=#.field_cc_party; b .field_cc_return
+    + 
 
     ldr r0,=#.field_cc_default
 
@@ -1089,12 +1091,8 @@ more_field_control_codes:
     pop     {pc}
 
 
-.field_cc_item_articles:
+.field_cc_item_articles: // cc argument in r1
 
-  // here, we have the cc argument in r1 and we’re looking for the item id
-  // could be at a different address depending on the control code (2 possibilites, to be defined)
-  // ...
-  
   mov  r2,#0x8
   and  r2,r1
   cmp  r0,#0
@@ -1108,7 +1106,7 @@ more_field_control_codes:
   
   ldrb r0,[r0,#0]        // r0 has the item id now
 
-  mov  r2,#0x7           // we’ll have to make sure r2 is safe to use here 
+  mov  r2,#0x7           // let’s hope r2 is safe to use here 
   and  r1,r2             // isolating the parameter (which article)
   
   ldr  r2,=#0x8FFE000
@@ -1120,11 +1118,11 @@ more_field_control_codes:
   ldr  r2,=#0x8FFE100
   add  r0,r0,r2          // we now have the address of the custom article string to copy
   
-  bl   0x8F0C058
+  bl   0x8F0CB3C
   b    .field_cc_next
 
 
-.field_cc_elision:
+.field_cc_elision:            // cc argument in r1
     mov     r0,#0x0F
     and     r0,r1
     bl      general.has_elision
@@ -1132,6 +1130,26 @@ more_field_control_codes:
     ldr     r1,=#0x8FFE7A0    // strings for "e " / "’"
     add     r0,r0,r1
     bl      0x8F0C058
+    b       .field_cc_next
+    
+    
+.field_cc_party:
+    ldr     r0,=#0x3003190    // cc argument in r1
+    ldrb    r0,[r0,#0x9]
+    cmp     r0,#0x0           // is there a party or a single character?
+    beq     +                 // in the second case, just return with 0x0
+    
+    mov     r0,#0x0F
+    and     r1,r0
+    
+    cmp     r1,#0xF           // what is the cc argument
+    bne     .field_cc_elision // other than 0xF => check elision
+    
+    ldr     r0,=#0x8FFE7A0    // strings for "e " / "’"
+    add     r0,#8
+    
+    bl      0x8F0C058
+    +
     b       .field_cc_next
 
 
@@ -1207,7 +1225,7 @@ ldr  r3,=#0x3003419                // favorite food in memory
 +
 
 mov  r0,#1
-ldr  r4,=#vowelstring
+ldr  r4,=#0x8FFE700
 ldrb r1,[r3,#0]
 
 ldrb r2,[r4,#0]
@@ -1219,7 +1237,7 @@ add  r4,#1
 ldrb r2,[r4,#0]
 cmp  r1,r2
 beq .end_elision
-cmp  r2,#0xFF
+cmp  r2,#0x00
 bne  .elision_loop
 
 mov  r0,#0

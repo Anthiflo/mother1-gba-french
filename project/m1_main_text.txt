@@ -847,7 +847,7 @@
 19B: @[03 3E] found a pass that[BREAK]someone dropped.[BREAK]
 19B-E: @[03 3E] trouve un passe que[BREAK]quelqu'un a laissé tomber.[BREAK]
 19C: @[03 16][03 17] climbed[BREAK]into the rocket.[BREAK]
-19C-E: @[03 17][03 16] monte[BREAK]dans la fusée.[BREAK]
+19C-E: @[03 17][03 6E][03 16] monte[BREAK]dans la fusée.[BREAK]
 19D: @My grandpa lives in the[BREAK]Advent Desert.[BREAK][PAUSE]@If you see him, tell him I[BREAK]say hi.[BREAK]
 19D-E: @Mon papy vit dans le désert[BREAK]Yucca.[BREAK][PAUSE]@Si vous le croisez, passez-[BREAK]lui le bonjour.[BREAK]
 19E: @I'm a nice guy's corpse.[BREAK][PAUSE]@So don't worry, I won't[BREAK]attack you or anything like[BREAK]that.[BREAK]
@@ -1691,7 +1691,7 @@
 335: @The key doesn't fit.[BREAK]
 335-E: @La clé ne rentre pas.[BREAK]
 336: @[03 16][03 17] unlocked[BREAK]the door and went inside.[BREAK]
-336-E: @[03 17][03 16][BREAK]déverrouille la porte et[BREAK]pénètre à l'intérieur.[BREAK]
+336-E: @[03 17][03 6E][03 16][BREAK]déverrouille la porte et[BREAK]pénètre à l'intérieur.[BREAK]
 337:   Save      Nothing
 337-E:   Sauvegarder  Rien
 338:   Continue  End
@@ -1893,7 +1893,7 @@
 39A: @Found [03 1D].[BREAK]
 39A-E: @Vous trouvez[BREAK][03 48][03 1D].[BREAK]
 39B: @[03 16][03 17] took the[BREAK][03 1D].[BREAK]
-39B-E: @[03 17][03 16] prend[BREAK]l[03 49][03 1D].[BREAK]
+39B-E: @[03 17][03 6E][03 16] prend[BREAK]l[03 49][03 1D].[BREAK]
 39C: 
 39C-E: 
 39D: @But you can't hold any[BREAK]more stuff.[BREAK]
@@ -3538,7 +3538,7 @@
 6CF: @[03 1A] checked the map.[BREAK]
 6CF-E: @[03 1A] consulte la carte.[BREAK]
 6D0: @Some sort of force is[BREAK]pushing [03 16][03 17][BREAK]back.[BREAK]
-6D0-E: @Une sorte de force repousse[BREAK][03 16][03 17][BREAK]
+6D0-E: @Une sorte de force repousse[BREAK][03 17][03 6E][03 16].[BREAK]
 6D1: @The Repel Ring's mysterious[BREAK]power wore off.[BREAK]
 6D1-E: @Le mystérieux pouvoir de[BREAK]la Bague répulsive s'est[BREAK]dissipé.[BREAK]
 6D2: 
@@ -4078,7 +4078,7 @@
 7DD: [BREAK]         YOU WON![BREAK]
 7DD-E: [BREAK]        VICTOIRE[4F]![BREAK]
 7DE: [BREAK][03 16][03 17] was defeated...[BREAK]
-7DE-E: [BREAK][03 17][03 16] a été vaincu...[BREAK]
+7DE-E: [BREAK][03 17][03 6E][03 16] a été vaincu[03 6F]...[BREAK]
 7DF: Defeated the [03 21]!
 7DF-E: Vous avez vaincu [03 EB][03 D8][03 C8][4F]!
 7E0: [03 21] got tired and collapsed...
