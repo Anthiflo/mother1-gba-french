@@ -113,13 +113,13 @@
 0F2770A Options
 
 // If you try to use a weird item in battle (change the address to move the text left or right)
-0F2780D Pas utilisable ici
+0FE78C2 Ne peut être utilisé ici
 
 // If you try to equip an item during battle
-0F2783A Pas utilisable ici
+0FE7922 Ne peut être équipé ici
 
 // If a character tries to use an item they can't use in battle (like Ninten using a Bomb) edit m1_window_cant_use_item.bin for placement
-0FE78C2 Pas utilisable par [03][20]
+0FE7982 Pas utilisable par [03][20]
 
 // If you use the Setup option in battle
 F2789D Vitesse du texte
@@ -432,7 +432,7 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 0F2A590 [01]
 0F2A594 [01]
 
-0FE7900 Plat  [END]
+0FE79E0 Plat  [END]
 // this is the X coordinate of this line
 0F0DB3C [09]
 

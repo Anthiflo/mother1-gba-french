@@ -14,3 +14,5 @@ Then there are:
 01 which is the blank space (a totally black tile);
 02, the control code for new line;
 00, the control code that ends this block of code.
+03 03 XX YY, indicate that the next two octets are the X and Y position of what comes next
+03 04 ZZ TT, indicate that the next tile (TT) will be displayed (ZZ) times in a line

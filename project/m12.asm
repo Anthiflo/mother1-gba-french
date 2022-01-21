@@ -98,7 +98,7 @@ org $8FE7200; incbin m1_window_name_not_allowed.bin
 org $8F0DDE0; db $10
 
 // repoint "Fav. Food" text on confirmation screen to allow longer text
-org $8F0DBF0; dd $8FE7900
+org $8F0DBF0; dd $8FE79E0
 
 // clear out the "Is this OK?" confirmation window
 org $8F2742C; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01
@@ -136,15 +136,17 @@ org $8F27610; db $1A
 org $8F2761A; db $1A
 org $8F27616; db $02
 
-// clear out "can't use that in battle" text
-org $8F2780D; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01
+// repoint and set up "Can't use this" battle text
+org $8F29F40; dd $8FE78A0
+org $8FE78A0; incbin m1_window_cant_use_item.bin
 
-// clear out "can't equip in battle" text
-org $8F2783A; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01
+// repoint and set up "Can't equip this" battle text
+org $8F29F44; dd $8FE7900
+org $8FE7900; incbin m1_window_cant_equip_item.bin
 
 // repoint and set up "??? can't use this" battle text
-org $8F29F50; dd $8FE78A0
-org $8FE78A0; incbin m1_window_cant_use_item.bin
+org $8F29F50; dd $8FE7960
+org $8FE7960; incbin m1_window_cant_use_other_item.bin
 
 // clear out text speed box
 org $8F2789C; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01
