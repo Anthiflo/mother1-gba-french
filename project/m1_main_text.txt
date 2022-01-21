@@ -1191,7 +1191,7 @@
 239: @There was a landslide up by[BREAK]Santa Claus Station, so the[BREAK]train can't get through.[BREAK]
 239-E: @Il y a eu un éboulement[BREAK]près de la gare de l'Union,[BREAK]de ce fait le train ne peut[BREAK]plus passer.[BREAK]
 23A: @The [03 1D], yes?[BREAK]
-23A-E: @L[03 4C][03 1D], c'est ça[4F]?[BREAK]
+23A-E: @L[03 49][03 1D], c'est ça[4F]?[BREAK]
 23B: @It looks you can't hold any[BREAK]more items.[BREAK]
 23B-E: @On dirait que tu ne peux[BREAK]pas porter plus d'objets.[BREAK]
 23C: 
@@ -2003,7 +2003,7 @@
 3C6: @But [03 11] managed to get[BREAK]it running.[BREAK]
 3C6-E: @Mais [03 11] parvient à le[BREAK]mettre en route.[BREAK]
 3C7: @The [03 1D],[BREAK]right?[BREAK][PAUSE]@I'll be sure to[BREAK]send it to [03 10]'s[BREAK]house.[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]store?[BREAK]
-3C7-E: @L[03 4C][03 1D],[BREAK]c'est ça ?[BREAK][PAUSE]@Je m'assurerai de[BREAK]l'envoyer chez[BREAK][03 10].[BREAK][PAUSE]@Y a-t-il autre[BREAK]chose que tu veux[BREAK]que je stocke ?[BREAK]
+3C7-E: @L[03 49][03 1D],[BREAK]c'est ça ?[BREAK][PAUSE]@Je m'assurerai de[BREAK]l'envoyer chez[BREAK][03 10].[BREAK][PAUSE]@Y a-t-il autre[BREAK]chose que tu veux[BREAK]que je stocke ?[BREAK]
 3C8: @What are we trapped inside[BREAK]these cramped things for?[BREAK][PAUSE]@What's going to happen to[BREAK]us?[BREAK]
 3C8-E: @Pourquoi sommes-nous[BREAK]enfermés dans ces machins[BREAK]étroits ?[BREAK][PAUSE]@Qu'est-ce qui va nous[BREAK]arriver?[BREAK]
 3C9: Sweet Little Factory[BREAK]
@@ -2045,7 +2045,7 @@
 3DB: @You don't have any[BREAK]friends to give[BREAK]items to yet.[BREAK]
 3DB-E: @Tu n'as pas encore[BREAK]d'amis à qui donner[BREAK]des objets.[BREAK]
 3DC: @Oh, the[BREAK][03 1D]?[BREAK][PAUSE]@Here you go. Take[BREAK]good care of it.[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]take with you?[BREAK]
-3DC-E: @L[03 4C][03 1D] ?[BREAK][PAUSE]@Tiens. Prends-en[BREAK]bien soin.[BREAK][PAUSE]@Je peux faire autre[BREAK]chose pour toi ?[BREAK]
+3DC-E: @L[03 49][03 1D] ?[BREAK][PAUSE]@Tiens. Prends-en[BREAK]bien soin.[BREAK][PAUSE]@Je peux faire autre[BREAK]chose pour toi ?[BREAK]
 3DD: @It looks like you[BREAK]can't carry any[BREAK]more stuff.[BREAK][PAUSE]@Should I give this[BREAK]to someone else?[BREAK]
 3DD-E: @On dirait que tu[BREAK]ne peux rien[BREAK]porter de plus.[BREAK][PAUSE]@Dois-je donner[BREAK]ceci à quelqu'un[BREAK]d'autre ?[BREAK]
 3DE: @The storeroom is[BREAK]full.[BREAK]
@@ -2671,9 +2671,9 @@
 514: 
 514-E: 
 515: Should you fight it?[BREAK]Or should you run from it?
-515-E: Devriez-vous l'affronter[4F]?[BREAK]Ou devriez-vous le fuir[4F]?[PAUSE]
+515-E: Devriez-vous l'affronter[4F]? Ou devriez-vous le fuir[4F]?
 516: It appears to be holding a very important secret.
-516-E: Elle semble garder un secret d'une grande importance.[PAUSE]
+516-E: Il semble garder un secret d'une grande importance.
 517: Is there actually any way to defeat this thing?
 517-E: Existe-il réellement un moyen de vaincre cette chose[4F]?
 518: Sometimes it'll slam you with its heavy body or attack with its long trunk!
@@ -2683,7 +2683,7 @@
 51A: Shocked? It really does exist!
 51A-E: Surpris[4F]? Il existe vraiment[4F]!
 51B: Watch out for its exhaust! It can cause an asthma attack!
-51B-E: Attention à ses gaz d'échappement[4F]! Ils peuvent provoquer une crise d'asthme[4F]!
+51B-E: Ses gaz d'échappement peuvent provoquer une crise d'asthme[4F]!
 51C: Hypnosis probably doesn't work on robots, does it?
 51C-E: L'hypnose ne fonctionne probablement pas sur les robots, si[4F]?
 51D: It's wearing special armor to protect itself from PSI attacks.
@@ -2703,7 +2703,7 @@
 524: He has strong friends.
 524-E: Il a des amis puissants.
 525: This thing's shell is unbelievably hard.
-525-E: La coquille de cette chose est incroyablement dure.
+525-E: La coquille de cette bestiole est incroyablement dure.
 526: Watch out. It'll use hypnosis on you.
 526-E: Attention. Elle peut utiliser l'hypnose sur vous.
 527: 
@@ -2723,7 +2723,7 @@
 52E: This guy is at the very top of the FBI's most-wanted list.
 52E-E: Ce type est tout en haut de la liste des gens les plus recherchés par le FBI.
 52F: Deep down, he might actually be a nice guy.
-52F-E: Au fond, c'est peut-être réellement un gars gentil.
+52F-E: Au fond, c'est peut-être vraiment un type sympa.
 530: A malnourished robot?
 530-E: Un robot sous-alimenté[4F]?
 531: Don't be fooled by her smile!
@@ -2737,7 +2737,7 @@
 535: This creature is a master of many kinds of PSI.
 535-E: Cette créature maîtrise toutes sortes de PSI.
 536: It'd be nice to have some armor of your own.
-536-E: [0E]a doit être sympa d'avoir sa propre armure.
+536-E: Ça doit être sympa d'avoir sa propre armure.
 537: A strange, mobile tree.
 537-E: Un étrange arbre qui marche.
 538: He looks bad-tempered, so be careful.
@@ -2777,7 +2777,7 @@
 549: Try not to get tied up.
 549-E: Essayez de ne pas vous faire ligoter.
 54A: It's almost like this guy escaped from a comic book or something.
-54A-E: C'est presque comme si ce type sortait d'une BD ou un truc du genre.
+54A-E: C'est presque comme si cet ennemi sortait d'une BD ou un truc du genre.
 54B: This guy's face is the easiest to draw.
 54B-E: Son visage est super facile à dessiner.
 54C: If this guy put a mask on, it'd be impossible to tell who he is.
@@ -2797,7 +2797,7 @@
 553: A big rat with a long tail.
 553-E: Un gros rat avec une longue queue.
 554: It looks like an egg but is harder than one.
-554-E: Il ressemble à un [37]uf, mais en plus dur.
+554-E: Elle ressemble à un [37]uf, mais en plus dure.
 555: 
 555-E: 
 556: It glares at you from afar...
@@ -2817,7 +2817,7 @@
 55D: 
 55D-E: 
 55E: Don't let it get away! It's a good source of experience points!
-55E-E: Ne le laissez pas s'échapper[4F]! C'est une bonne source de points d'expérience[4F]!
+55E-E: Ne le laissez pas fuir[4F]! C'est une bonne source de points d'expérience[4F]!
 55F: It apparently doesn't have any friends at all.
 55F-E: Il n'a apparemment aucun ami.
 560: @Its chair broke and now it's in a REALLY bad mood!
@@ -2883,7 +2883,7 @@
 57E: Don't let her beauty fool you...
 57E-E: Ne vous laissez pas duper par sa beauté...
 57F: It carries bombs... and often uses them.
-57F-E: Il transporte des bombes... et les utilise souvent.
+57F-E: Elle transporte des bombes... et les utilise souvent.
 580: This robot has large amounts of fuel stored inside its body.
 580-E: Ce robot stocke une grande quantité de carburant à l'intérieur de son corps.
 581: Watch out! She won't hesitate to use powerful PSI attacks!
@@ -4267,11 +4267,11 @@
 832: [03 21] was revived!!!
 832-E: [03 EA][03 D8][03 C8] revient à la vie[4F]!!!
 833: [03 20] used [03 F0][03 22]!
-833-E: [03 E2][03 D0][03 C0] utilise [03 F1][03 22][4F]!
+833-E: [03 E2][03 D0][03 C0] utilise l[03 F1][03 22][4F]!
 834: [03 20] tried [03 22]!
 834-E: [03 E2][03 D0][03 C0] tente [03 22][4F]!
 835: [03 20] can't use [03 22]!
-835-E: [03 E2][03 D0][03 C0] ne peut pas utiliser [03 F1][03 22]!
+835-E: [03 E2][03 D0][03 C0] ne peut pas utiliser l[03 F1][03 22]!
 836: [03 20] is sizing up the situation...
 836-E: [03 E2][03 D0][03 C0] prend la mesure de la situation...
 837: [03 20] did something strange!
@@ -4328,7 +4328,7 @@
 850: [03 21] disappeared into thin air!
 850-E: [03 EA][03 D8][03 C8] s'est volatilisé[03 EC][4F]!
 851: [03 20] stole [03 21]'s [03 22]!
-851-E: [03 E2][03 D0][03 C0] vole [03 F1][03 22] [03 ED][03 D8][03 C8][4F]!
+851-E: [03 E2][03 D0][03 C0] vole l[03 F1][03 22] [03 ED][03 D8][03 C8][4F]!
 852: [03 20] leveled up![BREAK][PAUSE][03 01]
 852-E: [03 E2][03 D0][03 C0] gagne un niveau[4F]![BREAK][PAUSE][03 01]
 853: [03 20] learned a new PSI in battle![BREAK][PAUSE][03 01]

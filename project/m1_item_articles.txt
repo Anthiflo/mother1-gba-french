@@ -45,7 +45,7 @@ ITEM-3FD-14: 04
 //Best Frypan
 ITEM-3FE-15: 04
 //Slingshot
-ITEM-3FF-16: 04
+ITEM-3FF-16: 00
 //Boomerang
 ITEM-400-17: 00
 //Bug Spray
