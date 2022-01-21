@@ -116,7 +116,7 @@
 0F2780D Pas utilisable ici
 
 // If you try to equip an item during battle
-0F2783B Pas utilisable ici
+0F2783A Pas utilisable ici
 
 // If a character tries to use an item they can't use in battle (like Ninten using a Bomb) edit m1_window_cant_use_item.bin for placement
 0FE78C2 Pas utilisable par [03][20]
