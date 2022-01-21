@@ -1,18 +1,21 @@
 // Fresh French-made control codes!
-// 
+//
+// CODE			SIGNIFICATION			PARAMÈTRE										CC ASSOCIÉS
+//
 // OVERWORLD
-// 
-// CODE			SIGNIFICATION				PARAMÈTRE																	CC ASSOCIÉS
-// [03 4X]		articles objets				0-7 type d’article, +8 si le code de l’objet est 1D							[03 1C] (objet 1), [03 1D] (objet 2)
-// [03 5X]		élision persos / plat		0-7 persos principaux / F plat / E party leader / A-B acteur ou cible		[03 10-13], [03 15], [03 16]
-// [03 6X]		"l’équipe de"				E pour l’élision, F pour l’accord féminin si "l’équipe" s’affiche			[03 16], [03 17]
+// [03 4X]		articles objets			0-7 type d’article,					 			[03 1C] (objet 1), [03 1D] (objet 2)
+//										+8 si le code de l’objet est 1D
+// [03 5X]		élision persos/plat		0-7 persos principaux / F plat					[03 10-13], [03 15], [03 16]
+//										/ E party leader / A-B acteur ou cible
+// [03 6X]		"l’équipe de"			E pour l’élision, F pour l’accord féminin		[03 16], [03 17]
+//										s'affiche seulement en cas d’équipe
 // 
 // 
 // COMBAT
-// [03 CX]		lettre nom combattant		0 pour l’acteur, 8 pour la cible											[03 20] (acteur), [03 21] (cible)
-// [03 DX]		nom long combattant			0 pour l’acteur, 8 pour la cible											[03 20] (acteur), [03 21] (cible)
-// [03 EX]		article combattant			0-7 type d’article, +8 pour la cible										[03 20] (acteur), [03 21] (cible)
-// [03 FX]		article objets				0-7 type d’article, +8 si objet												[03 22], [03 1D]
+// [03 CX]		lettre nom combattant	0 pour l’acteur, 8 pour la cible				[03 20] (acteur), [03 21] (cible)
+// [03 DX]		nom long combattant		0 pour l’acteur, 8 pour la cible				[03 20] (acteur), [03 21] (cible)
+// [03 EX]		article combattant		0-7 type d’article, +8 pour la cible			[03 20] (acteur), [03 21] (cible)
+// [03 FX]		article objets			0-7 type d’article, +8 si objet					[03 22], [03 1D]
 
 000: System Error![BREAK]
 000-E: Erreur système[4F]![BREAK]
