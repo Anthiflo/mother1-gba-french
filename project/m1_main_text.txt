@@ -1188,7 +1188,7 @@
 239: @There was a landslide up by[BREAK]Santa Claus Station, so the[BREAK]train can't get through.[BREAK]
 239-E: @Il y a eu un éboulement[BREAK]près de la gare de l'Union,[BREAK]de ce fait le train ne peut[BREAK]plus passer.[BREAK]
 23A: @The [03 1D], yes?[BREAK]
-23A-E: @L[03 4C][03 1D], c'est ça[4F]?[BREAK]
+23A-E: @L[03 49][03 1D], c'est ça[4F]?[BREAK]
 23B: @It looks you can't hold any[BREAK]more items.[BREAK]
 23B-E: @On dirait que tu ne peux[BREAK]pas porter plus d'objets.[BREAK]
 23C: 
@@ -2000,7 +2000,7 @@
 3C6: @But [03 11] managed to get[BREAK]it running.[BREAK]
 3C6-E: @Mais [03 11] parvient à le[BREAK]mettre en route.[BREAK]
 3C7: @The [03 1D],[BREAK]right?[BREAK][PAUSE]@I'll be sure to[BREAK]send it to [03 10]'s[BREAK]house.[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]store?[BREAK]
-3C7-E: @L[03 4C][03 1D],[BREAK]c'est ça ?[BREAK][PAUSE]@Je m'assurerai de[BREAK]l'envoyer chez[BREAK][03 10].[BREAK][PAUSE]@Y a-t-il autre[BREAK]chose que tu veux[BREAK]que je stocke ?[BREAK]
+3C7-E: @L[03 49][03 1D],[BREAK]c'est ça ?[BREAK][PAUSE]@Je m'assurerai de[BREAK]l'envoyer chez[BREAK][03 10].[BREAK][PAUSE]@Y a-t-il autre[BREAK]chose que tu veux[BREAK]que je stocke ?[BREAK]
 3C8: @What are we trapped inside[BREAK]these cramped things for?[BREAK][PAUSE]@What's going to happen to[BREAK]us?[BREAK]
 3C8-E: @Pourquoi sommes-nous[BREAK]enfermés dans ces machins[BREAK]étroits ?[BREAK][PAUSE]@Qu'est-ce qui va nous[BREAK]arriver?[BREAK]
 3C9: Sweet Little Factory[BREAK]
@@ -2042,7 +2042,7 @@
 3DB: @You don't have any[BREAK]friends to give[BREAK]items to yet.[BREAK]
 3DB-E: @Tu n'as pas encore[BREAK]d'amis à qui donner[BREAK]des objets.[BREAK]
 3DC: @Oh, the[BREAK][03 1D]?[BREAK][PAUSE]@Here you go. Take[BREAK]good care of it.[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]take with you?[BREAK]
-3DC-E: @L[03 4C][03 1D] ?[BREAK][PAUSE]@Tiens. Prends-en[BREAK]bien soin.[BREAK][PAUSE]@Je peux faire autre[BREAK]chose pour toi ?[BREAK]
+3DC-E: @L[03 49][03 1D] ?[BREAK][PAUSE]@Tiens. Prends-en[BREAK]bien soin.[BREAK][PAUSE]@Je peux faire autre[BREAK]chose pour toi ?[BREAK]
 3DD: @It looks like you[BREAK]can't carry any[BREAK]more stuff.[BREAK][PAUSE]@Should I give this[BREAK]to someone else?[BREAK]
 3DD-E: @On dirait que tu[BREAK]ne peux rien[BREAK]porter de plus.[BREAK][PAUSE]@Dois-je donner[BREAK]ceci à quelqu'un[BREAK]d'autre ?[BREAK]
 3DE: @The storeroom is[BREAK]full.[BREAK]
@@ -4264,11 +4264,11 @@
 832: [03 21] was revived!!!
 832-E: [03 EA][03 D8][03 C8] revient à la vie[4F]!!!
 833: [03 20] used [03 F0][03 22]!
-833-E: [03 E2][03 D0][03 C0] utilise [03 F1][03 22][4F]!
+833-E: [03 E2][03 D0][03 C0] utilise l[03 F1][03 22][4F]!
 834: [03 20] tried [03 22]!
 834-E: [03 E2][03 D0][03 C0] tente [03 22][4F]!
 835: [03 20] can't use [03 22]!
-835-E: [03 E2][03 D0][03 C0] ne peut pas utiliser [03 F1][03 22]!
+835-E: [03 E2][03 D0][03 C0] ne peut pas utiliser l[03 F1][03 22]!
 836: [03 20] is sizing up the situation...
 836-E: [03 E2][03 D0][03 C0] prend la mesure de la situation...
 837: [03 20] did something strange!
@@ -4325,7 +4325,7 @@
 850: [03 21] disappeared into thin air!
 850-E: [03 EA][03 D8][03 C8] s'est volatilisé[03 EC][4F]!
 851: [03 20] stole [03 21]'s [03 22]!
-851-E: [03 E2][03 D0][03 C0] vole [03 F1][03 22] [03 ED][03 D8][03 C8][4F]!
+851-E: [03 E2][03 D0][03 C0] vole l[03 F1][03 22] [03 ED][03 D8][03 C8][4F]!
 852: [03 20] leveled up![BREAK][PAUSE][03 01]
 852-E: [03 E2][03 D0][03 C0] gagne un niveau[4F]![BREAK][PAUSE][03 01]
 853: [03 20] learned a new PSI in battle![BREAK][PAUSE][03 01]

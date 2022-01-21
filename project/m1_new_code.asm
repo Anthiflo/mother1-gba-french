@@ -1123,7 +1123,7 @@ more_field_control_codes:
   ldr  r2,=#0x8FFE100
   add  r0,r0,r2          // we now have the address of the custom article string to copy
   
-  bl   0x8F0CB3C
+  bl   0x8F0C058
   b    .field_cc_next
 
 
