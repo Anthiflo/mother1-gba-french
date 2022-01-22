@@ -90,7 +90,7 @@
 023: @Hello.[BREAK][PAUSE]Pippi and I are feeling[BREAK]just dandy now![BREAK]
 023-E: @Bonjour.[BREAK][PAUSE]Fifi et moi, on a la[BREAK]pêche en ce moment[4F]![BREAK]
 024: @You didn't come from the[BREAK]cemetery to the south, did[BREAK]you?[BREAK][PAUSE]Please tell me you didn't![BREAK]
-024-E: @Tu ne reviens pas du cime-[BREAK]tière au sud, quand même[4F]?[BREAK][PAUSE]Je t'en prie, dis-moi que[BREAK]tu n'as pas été là-bas ![BREAK]
+024-E: @Tu ne reviens pas du cime-[BREAK]tière au sud, quand même[4F]?[BREAK][PAUSE]Non, dis-moi que tu n'as[BREAK]pas été là-bas ![BREAK]
 025: @You're really amazing.[BREAK]
 025-E: @Tu es vraiment prodigieux.[BREAK]
 026: @Please tell me you're not a[BREAK]zombie![BREAK][PAUSE]...Are you?[BREAK]
@@ -268,7 +268,7 @@
 07C: @I agree with him, actually.[BREAK]
 07C-E: @Je suis d'accord avec lui,[BREAK]pour tout te dire.[BREAK]
 07D: @You really should meet him.[BREAK]You'll be a better person[BREAK]for it![BREAK]
-07D-E: @Tu devrais vraiment le[BREAK]rencontrer. Tu deviendras[BREAK]une meilleure personne[4F]![BREAK]
+07D-E: @Tu devrais vraiment le[BREAK]rencontrer. Tu deviendrais[BREAK]une meilleure personne[4F]![BREAK]
 07E: @I feel completely refreshed[BREAK]after stopping by Queen[BREAK]Mary's fountain![BREAK]
 07E-E: @Je me sens complètement[BREAK]revigoré après m'être[BREAK]arrêté à la fontaine de la[BREAK]reine Mary![BREAK]
 07F: @Gettng to Queen Mary's[BREAK]fountain is really tough.[BREAK][PAUSE]Not only is it far away,[BREAK]but it's hard to find, too.[BREAK]
@@ -282,7 +282,7 @@
 083: 
 083-E: 
 084: @I bent my spoon, and now[BREAK]it's hard to eat with.[BREAK][PAUSE]@Can you bend it back for[BREAK]me?[BREAK]
-084-E: @J'ai tordu ma cuillère et[BREAK]maintenant j'ai du mal à[BREAK]manger avec.[BREAK][PAUSE]@Peux-tu la redresser comme[BREAK]avant pour moi[4F]?[BREAK]
+084-E: @J'ai tordu ma cuillère et[BREAK]maintenant j'ai du mal à[BREAK]manger avec.[BREAK][PAUSE]@Peux-tu la redresser pour[BREAK]moi ?[BREAK]
 085: @Please hurry.[BREAK][PAUSE]@([03 10] used the power of[BREAK]PSI to fix the spoon.)[BREAK][PAUSE]@Thanks![BREAK](munch munch chomp chomp)[BREAK][PAUSE]@Do you wanna stay the night[BREAK]here tonight?[BREAK]
 085-E: @Je t'en prie, fais vite.[BREAK][PAUSE]@([03 10] utilise le pouvoir[BREAK]de la PSI pour réparer la[BREAK]cuillère.)[BREAK][PAUSE]@Merci[4F]![BREAK](scrunch scrunch miam miam)[BREAK][PAUSE]@Veux-tu rester dormir ici[BREAK]cette nuit[4F]?[BREAK]
 086: @Why not?![BREAK]
@@ -786,7 +786,7 @@
 173: 
 173-E: 
 174: @It's too dark to see much,[BREAK]but aren't you that girl[BREAK]from the church in Snowman?[BREAK][PAUSE]@[03 12], was it?[BREAK][PAUSE]@Your mom is being held in a[BREAK]room in the back.[BREAK][PAUSE]@But you can't save us right[BREAK]now.[BREAK][PAUSE]@You gotta find a way to[BREAK]deal with the mothership[BREAK]first...[BREAK]
-174-E: @Il fait bien trop sombre...[BREAK]Je ne vois pas grand-chose.[BREAK][PAUSE]Mais, ne serais-tu pas la[BREAK]petite fille de l'église de[BREAK]Snowman ?[BREAK][PAUSE]@[03 12], c'est bien ça ?[BREAK][PAUSE]@Ta mère est retenue dans[BREAK]une salle au fond.[BREAK][PAUSE]@Vous ne pouvez pas nous[BREAK]sauver pour l'instant.[BREAK][PAUSE]@Vous devez d'abord trouver[BREAK]un moyen de vous débarras-[BREAK]ser du vaisseau-mère...[BREAK]
+174-E: @Il fait bien trop sombre et[BREAK]je peine à te distinguer,[BREAK][PAUSE]mais ne serais-tu pas la[BREAK]petite fille de l'église de[BREAK]Snowman ?[BREAK][PAUSE]@[03 12], c'est bien ça ?[BREAK][PAUSE]@Ta mère est retenue dans[BREAK]une salle au fond.[BREAK][PAUSE]@Vous ne pouvez pas nous[BREAK]sauver pour l'instant.[BREAK][PAUSE]@Vous devez d'abord trouver[BREAK]un moyen de vous occuper du[BREAK]vaisseau-mère...[BREAK]
 175: @Oh! It flew off into outer[BREAK]space.[BREAK][PAUSE]@A great success... sort of.[BREAK]
 175-E: @Ah ! Il s'est envolé dans[BREAK]l'espace.[BREAK][PAUSE]@Vous avez réussi... en[BREAK]quelque sorte.[BREAK]
 176: @Oh! You're such a charming[BREAK]boy![BREAK][PAUSE]@Why, I could just gaze at[BREAK]you forever...[BREAK][PAUSE]@If anyone can turn our[BREAK]mansion back to normal, I'm[BREAK]sure it's you.[BREAK][PAUSE]@Here. This is the key to[BREAK]get in.[BREAK][PAUSE](giggle)[BREAK]
@@ -923,9 +923,9 @@
 1B6: @Daddy! I miss you![BREAK]
 1B6-E: @Papa ! Tu me manques ![BREAK]
 1B7: @A big flying ship took all[BREAK]the grownups away.[BREAK]
-1B7-E: @Un grand vaisseau volant a[BREAK]enlevé tous les adultes.[BREAK]
+1B7-E: @Un grand vaisseau volant a[BREAK]enlevé tous les grands.[BREAK]
 1B8: @It's great having no[BREAK]grownups around![BREAK][PAUSE](sniffle sob)[BREAK]
-1B8-E: @C'est super sans les[BREAK]adultes dans les parages ![BREAK][PAUSE](snif sanglote)[BREAK]
+1B8-E: @C'est super sans les[BREAK]grands dans les parages ![BREAK][PAUSE](snif sanglote)[BREAK]
 1B9: @I want milk![BREAK]
 1B9-E: @Je veux du lait ![BREAK]
 1BA: @I want milk, too![BREAK]
@@ -1015,7 +1015,7 @@
 1E4: @All right! Do something[BREAK]with lots of pizzaz![BREAK]
 1E4-E: @Ça roule ! Allez, mettez le[BREAK]feu à la scène ![BREAK]
 1E5: @I guess you're a shy kid,[BREAK]huh?[BREAK]
-1E5-E: @T'es plutôt timide comme[BREAK]gamin, hein ?[BREAK]
+1E5-E: @Bah alors, vous êtes[BREAK]timides les mômes ?[BREAK]
 1E6: 
 1E6-E: 
 1E7: @[03 12]![BREAK][PAUSE]@Oh, nothing. I saw your[BREAK]name written on your hat,[BREAK]that's all.[BREAK]
@@ -1175,7 +1175,7 @@
 231: 
 231-E: 
 232: @The dragon was in a very[BREAK]deep sleep.[BREAK]
-232-E: @Le dragon dormait très[BREAK]profondément.[BREAK]
+232-E: @Le dragon dort très[BREAK]profondément.[BREAK]
 233: @([03 3E] looked over the[BREAK]sheet music.)[BREAK]
 233-E: @([03 3E] jette un coup[BREAK]d'œil à la partition.)[BREAK]
 234: @Can I help you?[BREAK]
@@ -1278,7 +1278,7 @@
 263: @I realize I look like[BREAK]Assistant A, but I'm[BREAK]actually Assistant B.[BREAK][PAUSE]@I really, truly want to try[BREAK]strawberry-flavored tofu[BREAK]too.[BREAK]
 263-E: @J'ai bien conscience que je[BREAK]ressemble à l'assistant A,[BREAK]mais je suis l'assistant B.[BREAK][PAUSE]@J'ai vraiment, énormément[BREAK]envie de goûter du tofu à[BREAK]la fraise.[BREAK]
 264: @Oh! Oh! I'm so happy![BREAK][PAUSE]@Please, take these Curse[BREAK]Words with you.[BREAK]
-264-E: @Oh ! Oh ! Quelle joie ![BREAK][PAUSE]@Je t'en prie, prends ces[BREAK]Mots amers avec toi.[BREAK]
+264-E: @Oh ! Oh ! Quelle joie ![BREAK][PAUSE]@Prends donc ces Mots amers.[BREAK]
 265:   Medicine  Sleep
 265-E:   Remède   Dormir
 266: @You can't hold any more[BREAK]stuff...[BREAK][PAUSE]@Come get it later, then.[BREAK]Don't forget![BREAK]
@@ -1391,7 +1391,7 @@
 29A: 
 29A-E: 
 29B: @I have faith that [03 12] is[BREAK]doing well somewhere out[BREAK]there.
-29B-E: @Je suis convaincu[BREAK]qu[03 51][03 12] est en sécurité[BREAK]dehors, quelque part.
+29B-E: @Je suis convaincu[BREAK]qu[03 51][03 12] est en sécurité[BREAK]quelque part.
 29C: @Hey, you're underage. I'm[BREAK]taking you into custody.[BREAK]
 29C-E: @Hé, tu es mineur. Je vais[BREAK]devoir te placer en garde[BREAK]à vue.[BREAK]
 29D: 
@@ -1444,7 +1444,7 @@
 // from eb, possible hospital text?
 
 2B1: @Welcome![BREAK][PAUSE]Please have a look at our[BREAK]menu.[BREAK]
-2B1-E: @Bienvenue[4F]![BREAK][PAUSE]Je t'en prie, regarde[BREAK]notre menu.[BREAK]
+2B1-E: @Bienvenue[4F]![BREAK][PAUSE]Jette un œil à notre menu.[BREAK]
 2B2: @Thank you.[BREAK][PAUSE]One order of [03 1D] to[BREAK]go![BREAK]
 2B2-E: @Merci.[BREAK][PAUSE]Et une commande[BREAK][03 4D][03 1D] à emporter[4F]![BREAK]
 2B3: 
@@ -2029,7 +2029,7 @@
 3D3: @I had loved him as if he[BREAK]were my own child, too...[BREAK]
 3D3-E: @Je l'ai aimé comme mon[BREAK]propre enfant...[BREAK]
 3D4: @He would always wag his[BREAK]tail as a baby...[BREAK][PAUSE]@I would sing him a lullaby,[BREAK]but then...[BREAK]
-3D4-E: @Il remuait toujours la[BREAK]queue lorsqu'il était bébé,[BREAK]comme un petit chien...[BREAK][PAUSE]@Je lui chantais alors une[BREAK]berceuse, mais...[BREAK]
+3D4-E: @Il remuait toujours la[BREAK]queue comme un petit chien[BREAK]lorsqu'il était bébé...[BREAK][PAUSE]@Je lui chantais alors une[BREAK]berceuse, mais...[BREAK]
 3D5: @Oh, George![BREAK][PAUSE]This is your wife, Maria.[BREAK][PAUSE]@I know you've been[BREAK]waiting...[BREAK][PAUSE]I'm on my way to join you[BREAK]in heaven now...[BREAK]
 3D5-E: @Oh, George ![BREAK][PAUSE]C'est moi, ta femme, Maria.[BREAK][PAUSE]@Désolée de t'avoir fait[BREAK]attendre tout ce temps...[BREAK][PAUSE]Je viens maintenant te[BREAK]rejoindre au paradis...[BREAK]
 3D6: @PLEASE INSERT ATM CARD[BREAK]
@@ -2045,13 +2045,13 @@
 3DB: @You don't have any[BREAK]friends to give[BREAK]items to yet.[BREAK]
 3DB-E: @Tu n'as pas encore[BREAK]d'amis à qui donner[BREAK]des objets.[BREAK]
 3DC: @Oh, the[BREAK][03 1D]?[BREAK][PAUSE]@Here you go. Take[BREAK]good care of it.[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]take with you?[BREAK]
-3DC-E: @L[03 49][03 1D] ?[BREAK][PAUSE]@Tiens. Prends-en[BREAK]bien soin.[BREAK][PAUSE]@Je peux faire autre[BREAK]chose pour toi ?[BREAK]
+3DC-E: @L[03 49][03 1D] ?[BREAK][PAUSE]@Tiens. Prends-en[BREAK]bien soin.[BREAK][PAUSE]@Tu veux reprendre[BREAK]autre chose ?[BREAK]
 3DD: @It looks like you[BREAK]can't carry any[BREAK]more stuff.[BREAK][PAUSE]@Should I give this[BREAK]to someone else?[BREAK]
 3DD-E: @On dirait que tu[BREAK]ne peux rien[BREAK]porter de plus.[BREAK][PAUSE]@Dois-je donner[BREAK]ceci à quelqu'un[BREAK]d'autre ?[BREAK]
 3DE: @The storeroom is[BREAK]full.[BREAK]
 3DE-E: @La réserve est[BREAK]pleine.[BREAK]
 3DF: @Once Queen Mary finished[BREAK]speaking to [03 10], she[BREAK]disappeared into the wind.[BREAK][PAUSE]And then the land of[BREAK]Magicant itself vanished[BREAK]without a trace.[BREAK][PAUSE]@Magicant had actually been[BREAK]an illusion born of Mary's[BREAK]conciousness.[BREAK]
-3DF-E: @Une fois son dicours à[BREAK][03 10] terminé, la reine[BREAK]Mary se volatisa.[BREAK][PAUSE]Puis le monde de Magicant[BREAK]tout entier disparut sans[BREAK]laisser de trace.[BREAK][PAUSE]@Magicant était en réalité[BREAK]une illusion née de la[BREAK]conscience de Mary.[BREAK]
+3DF-E: @Une fois son discours à[BREAK][03 10] terminé, la reine[BREAK]Mary se volatisa.[BREAK][PAUSE]Puis le monde de Magicant[BREAK]tout entier disparut sans[BREAK]laisser de trace.[BREAK][PAUSE]@Magicant était en réalité[BREAK]une illusion née de la[BREAK]conscience de Mary.[BREAK]
 3E0: @It was I who called you[BREAK]here.[BREAK][PAUSE]@[03 10]![BREAK][PAUSE][03 12]![BREAK][PAUSE][03 11]![BREAK][PAUSE][03 13]![BREAK][PAUSE]@And all courageous children[BREAK]out there...[BREAK][PAUSE]@The time is now![BREAK]
 3E0-E: @C'est moi qui vous ai[BREAK]amenés ici.[BREAK][PAUSE]@[03 10] ![BREAK][PAUSE][03 12] ![BREAK][PAUSE][03 11] ![BREAK][PAUSE][03 13] ![BREAK][PAUSE]@Et tous les courageux[BREAK]enfants du monde...[BREAK][PAUSE]@Le moment est venu ![BREAK]
 3E1: @Shh! I'm just like you![BREAK]I'm from the other world![BREAK][PAUSE]@For some money, I'll share[BREAK]some souvenirs of Magicant[BREAK]with you.[BREAK][PAUSE]@Hee hee hee![BREAK]
@@ -2887,7 +2887,7 @@
 580: This robot has large amounts of fuel stored inside its body.
 580-E: Ce robot stocke une grande quantité de carburant à l'intérieur de son corps.
 581: Watch out! She won't hesitate to use powerful PSI attacks!
-581-E: Prenez garde[4F]! Elle n'hésitera pas à utiliser de puissantes attaques PSI[4F]!
+581-E: Prenez garde[4F]! Elle n'hésite pas à utiliser de puissantes attaques PSI[4F]!
 582: His mission is to keep anyone from getting through the caves...
 582-E: Sa mission est d'empêcher quiconque de traverser la grotte...
 583: Prefers to use PK Freeze.
@@ -2909,7 +2909,7 @@
 58B: Don't ever sleep in this guy's bed, no matter how tired you are!
 58B-E: Ne dormez jamais sur le lit de ce type, même si vous êtes exténué[4F]!
 58C: This robot has been remodeled to be even stronger now!
-58C-E: Ce robot a été remanié et est désormais encore plus puissant!
+58C-E: Ce robot a été remanié et est désormais encore plus puissant[4F]!
 58D: The strongest Starman of all.
 58D-E: Le Starman le plus puissant qui existe.
 58E: 
@@ -3577,7 +3577,7 @@
 6D9: @[03 10] sensed a faint[BREAK]memory of his[BREAK]great-grandfather![BREAK]
 6D9-E: @[03 10] détecte un faible[BREAK]souvenir de son arrière-[BREAK]grand-père[4F]![BREAK]
 6DA: @Huh? There still seems to[BREAK]be something inside EVE's[BREAK]body...[BREAK]
-6DA-E: @Hein[4F]? Il semble rester[BREAK]quelque chose dans le[BREAK]corps de ÈVE...[BREAK]
+6DA-E: @Hein[4F]? Il semble rester[BREAK]quelque chose dans le[BREAK]corps d'ÈVE...[BREAK]
 6DB: @I found your ATM Card on[BREAK]the floor in your room.[BREAK]
 6DB-E: @J'ai retrouvé ta Carte[BREAK]bancaire sur le sol de ta[BREAK]chambre.[BREAK]
 6DC: @Oh, it looks like you can't[BREAK]carry any more stuff.[BREAK]
@@ -3631,7 +3631,7 @@
 6F4: 
 6F4-E: 
 6F5: Copyrights of Game[03 3F] Scenario[03 3F][BREAK][BREAK]Music[03 3F] but excluding the[BREAK][BREAK]copyright of Music composed by[BREAK][BREAK]Keiichi Suzuki[03 3F] reserved by[BREAK][BREAK]SHIGESATO ITOI and NINTENDO.[BREAK][BREAK]Copyright of Program reserved[BREAK][BREAK]by NINTENDO.[BREAK]
-6F5-E: Les copyrights du jeu[03 3F] du scénario[03 3F][BREAK][BREAK]de la musique[03 3F] à l'exception du[BREAK][BREAK]copyright de la musique[BREAK][BREAK]composée par Keiichi Suzuki[03 3F] sont réservés[BREAK][BREAK]par SHIGESATO ITOI et NINTENDO.[BREAK][BREAK]Le copyright du programme[BREAK][BREAK]est réservé par NINTENDO.[BREAK]
+6F5-E:  [BREAK][BREAK]  Les copyrights du jeu[03 3F] du[BREAK]  scénario[03 3F] de la musique[03 3F] à[BREAK]  l'exception du copyright[BREAK]  de la musique composée[BREAK]  par Keiichi Suzuki[03 3F] sont[BREAK]  réservés par SHIGESATO[BREAK]  ITOI et NINTENDO.[BREAK][BREAK]  Le copyright du programme[BREAK]  est réservé par NINTENDO.[BREAK]
 6F6: 
 6F6-E: 
 6F7: 
@@ -3661,13 +3661,13 @@
 703: [03 11] returns to a hero's[BREAK]welcome at Twinkle[BREAK]Elementary School.[BREAK]
 703-E: [03 11] retourne à l'école[BREAK]primaire Léclat où il est[BREAK]acclamé en héros.[BREAK]
 704: Welcome home, [03 10]![BREAK]We're so glad you made it[BREAK]back safe and sound.[BREAK]You must be famished![BREAK]
-704-E: Bon retour, [03 10]! Nous[BREAK]sommes tellement heureuses[BREAK]que tu sois sain et sauf.[BREAK]Tu dois être affamé[4F]![BREAK]
+704-E: Bon retour, [03 10] ! Nous[BREAK]sommes tellement heureuses[BREAK]que tu sois sain et sauf.[BREAK]Tu dois être affamé[4F]![BREAK]
 705: Oh, a letter from [03 10].[BREAK]I miss him so much.[BREAK]I hope we can get together[BREAK]again soon...[BREAK]
 705-E: Oh, une lettre d[03 50][03 10].[BREAK]Il me manque tellement.[BREAK]J'espère que nous pourrons[BREAK]nous retrouver bientôt...[BREAK]
 706: Well, now that the Earth's[BREAK]crisis is finally over, I[BREAK]think I'll just lie down for[BREAK]a moment and... Zzzzzzz...
 706-E: Pfiou, maintenant que la[BREAK]Terre n'est plus en danger,[BREAK]je pense que je vais[BREAK]m'allonger et... Zzzzzz...
 707: Oh, this is your dad.[BREAK]I hate to wake you, but it[BREAK]might be just a little too[BREAK]soon to rest easy...
-707-E: Allô[4F]? C'est Papa. Désolé[BREAK]de te réveiller, mais il[BREAK]est peut-être encore un peu[BREAK]trop tôt pour se reposer...
+707-E: Allô[4F]? C'est Papa. Désolé de[BREAK]te réveiller, mais il est[BREAK]peut-être encore un peu[BREAK]trop tôt pour se reposer...
 708: 
 708-E: 
 709: "Big Bag"[BREAK]@A bag filled with lots of[BREAK]Magic Herbs.
@@ -4239,7 +4239,7 @@
 824: Not enough PP!
 824-E: Pas assez de PP[4F]!
 825: There was no effect on [03 21]!
-825-E: Ça n'a pas d'effet sur [03 EB][03 D8][03 C8]!
+825-E: Ça n'a pas d'effet sur [03 EB][03 D8][03 C8] !
 826: [03 20] had an asthma attack![BREAK]... (cough cough cough)
 826-E: [03 E2][03 D0][03 C0] est pris d'une crise d'asthme[4F]![BREAK]... (kof kof kof)
 827: [03 20] is praying!
@@ -4365,7 +4365,7 @@
 862: [BREAK]No end to the battle is in sight...[BREAK]
 862-E: [BREAK]Le combat n'a pas de fin en vue...[BREAK]
 863: (From somewhere,[BREAK][PAUSE][03 16] heard Queen Mary's voice...)[BREAK][PAUSE]You can't beat Giygas with brute strength...[BREAK][PAUSE]I doubt any weapon can defeat him...[BREAK][PAUSE]But the lullaby...[BREAK][PAUSE]Maybe the song I used to sing to him can stop him![BREAK][PAUSE][03 01]
-863-E: (Depuis quelque part,[BREAK][PAUSE][03 16] entend la voix de la reine Mary...)[BREAK][PAUSE]Vous ne pouvez pas battre Giygas par la force brute...[BREAK][PAUSE]Je doute que des armes puissent en venir à bout...[BREAK][PAUSE]Mais la berceuse...[BREAK][PAUSE]La chanson que je lui chantait tous les soirs,[BREAK][PAUSE] elle pourrait peut-être l'arrêter[4F]![BREAK][PAUSE][03 01]
+863-E: (D'on ne sait où,[BREAK][PAUSE][03 16] entend la voix de la reine Mary...)[BREAK][PAUSE]Vous ne pouvez pas battre Giygas[PAUSE] rien que par la force...[BREAK][PAUSE]Je doute qu'une arme puisse en venir à bout...[BREAK][PAUSE]Mais la berceuse...[BREAK][PAUSE]La chanson que je lui chantais tous les soirs,[BREAK][PAUSE]elle pourrait peut-être l'arrêter[4F]![BREAK][PAUSE][03 01]
 864: [03 21] recovered completely!
 864-E: [03 EA][03 D8][03 C8] est totalement rétabli[03 EC][4F]!
 865: 
@@ -4373,17 +4373,17 @@
 866: "[03 10]! I owe a great deal to your family line!"[BREAK][PAUSE][03 01]
 866-E: "[03 10][4F]! Je dois beaucoup à tes ancêtres[4F]!"[BREAK][PAUSE][03 01]
 867: "Maria, George's wife, raised me[BREAK][PAUSE]when I was very young..."[BREAK][PAUSE][03 01]
-867-E: "Maria, la femme de George, m'a élevé[BREAK][PAUSE]quand j'étais tout petit..."[BREAK][PAUSE][03 01]
+867-E: "Maria, l'épouse de George,[BREAK][PAUSE]m'a élevé lorsque j'étais tout jeune..."[BREAK][PAUSE][03 01]
 868: "While George himself stole vital information[BREAK][PAUSE]from our planet and tried to turn against us..."[BREAK][PAUSE][03 01]
-868-E: "Alors que George, de son côté a volé des informations vitales[BREAK][PAUSE]de notre planète et a tenté de se retourner contre nous..."[BREAK][PAUSE][03 01]
+868-E: "George, de son côté,[BREAK][PAUSE]a volé des informations vitales de notre planète[BREAK][PAUSE]et a tenté de se retourner contre nous..."[BREAK][PAUSE][03 01]
 869: "And now their descendant[BREAK][PAUSE]is bent on hindering our plan again...[BREAK][PAUSE][03 10]! I am referring to you!"[BREAK][PAUSE][03 01]
-869-E: "Et maintenant leur descendant[BREAK][PAUSE]est déterminé à entraver notre plan à nouveau...[BREAK][PAUSE][03 10][4F]! C'est de toi dont je parle[4F]!"[BREAK][PAUSE][03 01]
+869-E: "Et maintenant leur descendant[BREAK][PAUSE]est déterminé à entraver notre plan à nouveau...[BREAK][PAUSE][03 10][4F]! C'est de toi que je parle[4F]!"[BREAK][PAUSE][03 01]
 86A: "Now leave![BREAK][PAUSE]May you be destroyed[BREAK][PAUSE]with the rest of the disgusting Earth people!"[BREAK][PAUSE][03 01]
 86A-E: "Maintenant partez[4F]![BREAK][PAUSE]Puissiez-vous être anéantis[BREAK][PAUSE]avec le reste des immondes habitants de la Terre[4F]!"[BREAK][PAUSE][03 01]
 86B: "You are too weak to do anything![BREAK][PAUSE]You are mere insects to me!"[BREAK][PAUSE][03 01]
-86B-E: "Vous êtes trop faibles pour faire quoi que ce soit[4F]![BREAK][PAUSE]Pour moi, vous n'êtes que des insectes[4F]!"[BREAK][PAUSE][03 01]
+86B-E: "Vous êtes trop faibles,[BREAK][PAUSE]vous ne pouvez rien contre moi[4F]![BREAK][PAUSE]À mes yeux, vous n'êtes que des insectes[4F]!"[BREAK][PAUSE][03 01]
 86C: "[03 10]...[BREAK][PAUSE]I'm willing to let you, and only you, live.[BREAK][PAUSE]Board the mothership with me."[BREAK][PAUSE][03 01]
-86C-E: "[03 10]...[BREAK][PAUSE]Je suis prêt à te laisser vivre, toi, et seulement toi.[BREAK][PAUSE]Embarque sur le vaisseau-mère avec moi."[BREAK][PAUSE][03 01]
+86C-E: "[03 10]...[BREAK][PAUSE]Je suis prêt à te laisser vivre, toi,[BREAK][PAUSE]et seulement toi.[BREAK][PAUSE]Embarque sur le vaisseau-mère avec moi."[BREAK][PAUSE][03 01]
 86D: "...Then you can perish here with your friends[BREAK][PAUSE]and all the other hideous Earth people!"[BREAK][PAUSE][03 01]
 86D-E: "... Dans ce cas, tu peux périr ici avec tes amis[BREAK][PAUSE]et tous les autres affreux habitants de la Terre[4F]!"[BREAK][PAUSE][03 01]
 86E: "Stop singing!"
@@ -4395,7 +4395,7 @@
 871: "Stop singing!"
 871-E: "Arrêtez de chanter[4F]!"
 872: "You Earth insects![BREAK]Shut up! Stop singing!"
-872-E: "Misérables insectes terriens![BREAK]Fermez-la[4F]! Arrêtez de chanter[4F]!"
+872-E: "Misérables insectes terriens![BREAK][PAUSE]Silence[4F]! Arrêtez de chanter[4F]!"
 873: "Stop..."
 873-E: "Arrêtez..."
 874: "...singing!"
@@ -4409,7 +4409,7 @@
 878: "........."
 878-E: "........."
 879: "HOW COULD I BE DEFEATED BY THIS SONG...?"[BREAK][PAUSE][03 01]
-879-E: "COMMENT AI-JE PU ÊTRE VAINCU PAR CETTE CHANSON...?"[BREAK][PAUSE][03 01]
+879-E: "COMMENT AI-JE PU...[PAUSE][BREAK]ÊTRE VAINCU PAR CETTE CHANSON...[4F]?"[BREAK][PAUSE][03 01]
 87A: "SOMEDAY I WILL RETURN... AND... MAKE YOU..."[BREAK][PAUSE][03 01]
 87A-E: "UN JOUR JE REVIENDRAI... ET... JE VOUS FERAI..."[BREAK][PAUSE][03 01]
 87B: "[03 10]! We will meet again!"[BREAK][PAUSE][03 01]
