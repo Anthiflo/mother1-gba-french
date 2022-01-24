@@ -252,6 +252,9 @@ org $8F07FCE; bl yes_no_cursor
 org $8F0C100; cmp r0,#0x7F
 org $8F0C106; bl more_field_control_codes; nop; nop
 
+// change position of status ailment info
+org $8F0AF86; mov r0,#0
+
 //========================================================================================
 //                  FIXES TO BUGS IN THE ORIGINAL MOTHER 1 PROGRAMMING
 //========================================================================================

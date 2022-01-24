@@ -2453,21 +2453,21 @@
 4A7: 
 4A7-E: 
 4A8: Uncon.
-4A8-E:     KO
+4A8-E:  Évanoui
 4A9:  Stone
-4A9-E: [5D][5E][5F][60][61][62]
+4A9-E:  [5E][5F][60][61][62][63][64]
 4AA: Paral.
-4AA-E: [55][56][57][58][59][5A]
+4AA-E:  [66][67][68][69][6A][6B][6C]
 4AB: Asleep
-4AB-E:   Dort
+4AB-E:  Endormi
 4AC: Flust.
-4AC-E:  [63][64][65][66][67]
+4AC-E:  Troublé
 4AD: Confus
-4AD-E: Confus
+4AD-E:   Confus
 4AE: Poison
-4AE-E: Poison
+4AE-E:  Poison
 4AF:   Cold
-4AF-E:  Rhume
+4AF-E:  Enrhumé
 4B0: 
 4B0-E: 
 4B1: Course A

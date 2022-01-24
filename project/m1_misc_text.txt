@@ -89,7 +89,7 @@
 0FE7403 Nom
 0FE740C PV
 0FE7410 PP
-0FE7414 Nv
+0FE7413 Niv
 0FE741B Exp
 
 // This is the main battle menu
@@ -148,7 +148,7 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 0FE602A [01][01][01][01][01][01]Nouvelle partie
 
 // Text used at the top of the save slot windows
-0FE500C Nv.
+0FE500B Niv.
 0FE6003 FICHIER ( )
 0FE5015 Vitesse
 
@@ -187,7 +187,7 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 // Displayed when erasing a file
 // These first two numbers are the X coordinates of the name and level number
 0F0D396 [05]
-0FE8017 Nv.
+0FE8016 Niv.
 0FE802B Effacer ce fichier ?
 0FE8049 Oui   Non
 0F2A0C6 [07]
