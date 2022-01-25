@@ -101,7 +101,7 @@ ENEMY-60D-31: 01
 //Fly
 ENEMY-60E-32: 08
 //Arachnid!
-ENEMY-60F-33: 00
+ENEMY-60F-33: 09
 //Scorpion
 ENEMY-610-34: 00
 //Rope

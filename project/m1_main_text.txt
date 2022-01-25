@@ -3141,7 +3141,7 @@
 5FF: Oak
 5FF-E: Chêne
 600: Redneck
-600-E: Redneck
+600-E: Péquenaud
 601: Hippie
 601-E: Hippie
 602: Bag Lady
@@ -3171,7 +3171,7 @@
 60E: Fly
 60E-E: Mouche
 60F: Arachnid!
-60F-E: Mégarachnide
+60F-E: Araignée
 610: Scorpion
 610-E: Scorpion
 611: Rope
@@ -3275,7 +3275,7 @@
 642: Last Borg
 642-E: Borg ultime
 643: Scrapper
-643-E: Ferrailleur
+643-E: Robot cassé
 644: Death Barbot
 644-E: Barbot tueur
 645: Omega Saucer
@@ -3285,7 +3285,7 @@
 647: Star Miner
 647-E: Bombétoile
 648: NuclearRobot
-648-E: RobotNuclre
+648-E: SprRobotAtom
 649: Suzie
 649-E: Suzie
 64A: Blue Starman

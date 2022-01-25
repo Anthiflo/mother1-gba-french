@@ -71,7 +71,7 @@ ENEMY-5FE-22: Armure
 //Oak
 ENEMY-5FF-23: Chêne
 //Redneck
-ENEMY-600-24: Redneck
+ENEMY-600-24: Péquenaud
 //Hippie
 ENEMY-601-25: Hippie
 //Bag Lady
@@ -101,7 +101,7 @@ ENEMY-60D-31: Esprit crado
 //Fly
 ENEMY-60E-32: Mouche
 //Arachnid!
-ENEMY-60F-33: Mégarachnide
+ENEMY-60F-33: Araignée
 //Scorpion
 ENEMY-610-34: Scorpion
 //Rope
@@ -205,7 +205,7 @@ ENEMY-641-65: Giga-Borg
 //Last Borg
 ENEMY-642-66: Borg ultime
 //Scrapper
-ENEMY-643-67: Ferrailleur
+ENEMY-643-67: Robot cassé
 //Death Barbot
 ENEMY-644-68: Barbot tueur
 //Omega Saucer
@@ -215,7 +215,7 @@ ENEMY-646-6A: Caroline
 //Star Miner
 ENEMY-647-6B: Bombétoile
 //NuclearRobot
-ENEMY-648-6C: Robot nucléaire
+ENEMY-648-6C: Super robot atomique
 //Suzie
 ENEMY-649-6D: Suzie
 //Blue Starman
