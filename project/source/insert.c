@@ -4,7 +4,12 @@
 
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 #include <ctype.h>
+
+const int WRITE_FLAG_NORMAL = 0;
+const int WRITE_FLAG_PREFILL = 1;
+const int WRITE_FLAG_AFTER_PREFILL = 2;
 
 struct tableEntry
 {
@@ -16,6 +21,10 @@ struct romArea
 {
 	int  address;
 	int  size;
+	int  flag;
+	const char* comment;
+	int  isAllowed;
+	int  isReported;
 };
 
 int        tableLen = 0;
@@ -28,9 +37,10 @@ void          ConvComplexString(char[], int&);
 void          CompileCC(char[], int&, unsigned char[], int&);
 int           CharToHex(char);
 unsigned int  hstrtoi(char*);
-void          StartWritingInRom(int address);
+void          StartWritingInRom(int address, int flag, const char * comment);
 void          WriteInRom(int character);
 void          WriteReport();
+int           PostProcessWriteAreas();
 void          InsertMainStuff(void);
 void          InsertSpecialText(void);
 void          InsertAltWindowData(void);
@@ -101,7 +111,9 @@ int main(int argc, char *argv[])
 	fclose(romStream);
 
     printf("\r\nDone!\r\n");
-	printf("\r\n%d areas written\r\n",writtenAreasCount);
+	
+	int countReportedAreas = PostProcessWriteAreas();
+	printf("\r\n%d areas written\r\n", countReportedAreas);
 	
 	if (argc > 1) {
 		WriteReport();
@@ -153,12 +165,12 @@ void ConvComplexString(char str[5000], int& newLen)
 	   str[i] = newStr[i];
 }
 
-void StartWritingInRom(int address) {
-	//printf("Write in ROM at 0x8%06X\n", address);
+void StartWritingInRom(int address, int flag, const char * comment) {
 	int i;
 	int foundArea = 0;
 	for (i = 0; i < writtenAreasCount; i++) {
-		if (writtenAreas[i].address + writtenAreas[i].size == address) {
+		if (writtenAreas[i].address + writtenAreas[i].size == address
+		&& strcmp(writtenAreas[i].comment, comment) == 0 && writtenAreas[i].flag == flag) {
 			currentWrittenArea = i;
 			foundArea = 1;
 			break;
@@ -166,10 +178,13 @@ void StartWritingInRom(int address) {
 	}
 	if (!foundArea) {
 		currentWrittenArea = writtenAreasCount;
+		writtenAreas[currentWrittenArea].address = address;
+		writtenAreas[currentWrittenArea].size = 0;
+		writtenAreas[currentWrittenArea].comment = comment;
+		writtenAreas[currentWrittenArea].flag = flag;
 		writtenAreasCount++;
 	}
-	writtenAreas[currentWrittenArea].address = address;
-	writtenAreas[currentWrittenArea].size = 0;
+		
 	fseek(romStream, address, SEEK_SET);
 }
 
@@ -178,12 +193,43 @@ void WriteInRom(int character) {
 	fputc(character, romStream);
 }
 
+int PostProcessWriteAreas() {
+	int countReportedAreas = 0;
+	int i;
+	for (i = 0; i < writtenAreasCount; i++) {		
+		writtenAreas[i].isReported = 1;
+		if (writtenAreas[i].flag == WRITE_FLAG_AFTER_PREFILL) {
+			int j;
+			for (j = 0; j < writtenAreasCount; j++) {
+				if (writtenAreas[j].flag == WRITE_FLAG_PREFILL
+				&& writtenAreas[j].address <= writtenAreas[i].address
+				&& writtenAreas[j].address + writtenAreas[j].size >= writtenAreas[i].address + writtenAreas[i].size) {
+					writtenAreas[i].isAllowed = 1;
+					writtenAreas[i].isReported = 0;
+					break;
+				}
+			}
+		} else {
+			writtenAreas[i].isAllowed = 1;
+		}
+		countReportedAreas += writtenAreas[i].isReported;
+	}
+	return countReportedAreas;
+}
+
 void WriteReport() {
 	FILE* reportStream;
 	reportStream = fopen("insert_report.txt", "w+");
+	
 	int i;
 	for (i = 0; i < writtenAreasCount; i++) {
-		fprintf(reportStream, "0x8%06X:0x%X\n", writtenAreas[i].address, writtenAreas[i].size); 
+		if (writtenAreas[i].isReported) {
+			const char * warningStr = "";
+			if (!writtenAreas[i].isAllowed) {
+				warningStr = " FORBIDDEN";
+			}
+			fprintf(reportStream, "org $8%06X; fill $%02X // %s%s\n", writtenAreas[i].address, writtenAreas[i].size, warningStr, writtenAreas[i].comment); 
+		}
 	}
 	fclose(reportStream);
 }
@@ -525,7 +571,7 @@ void InsertMainStuff(void)
 			//printf("%d", str2[0]);
 //                       printf("%X %s\n", loc, str);
 			ptrLoc = 0xF27A90 + lineNum * 4;
-			StartWritingInRom(ptrLoc);
+			StartWritingInRom(ptrLoc, WRITE_FLAG_NORMAL, "Insert M1 main text pointer");
 
 			temp = loc + 0x8000000;
 	        WriteInRom(temp & 0x000000FF);
@@ -537,7 +583,7 @@ void InsertMainStuff(void)
 			str2[len] = 0x00;
 			len++;
 
-            StartWritingInRom(loc);
+            StartWritingInRom(loc, WRITE_FLAG_NORMAL, "Insert M1 main text");
             for (i = 0; i < len; i++)
             {
 			   //printf("%02X ", str2[i]);
@@ -599,7 +645,7 @@ void InsertSpecialText(void)
      	   PrepString(str, str2, 0);
 		   ConvComplexString(str2, len);
 
-           StartWritingInRom(loc);
+           StartWritingInRom(loc, WRITE_FLAG_NORMAL, "Insert M1 misc text");
            for (i = 0; i < len; i++)
 	          WriteInRom(str2[i]);
 	    }
@@ -632,7 +678,7 @@ void InsertAltWindowData(void)
 		return;
 	}
 
-	StartWritingInRom(insertLoc);
+	StartWritingInRom(insertLoc, WRITE_FLAG_PREFILL, "Insert M1 alt window data");
 	for (int i = 0; i < totalSize; i++)
 	   WriteInRom(0);
 
@@ -641,7 +687,7 @@ void InsertAltWindowData(void)
     {
 		if (lineNum < totalSize)
 		{
-			StartWritingInRom(insertLoc + lineNum);
+			StartWritingInRom(insertLoc + lineNum, WRITE_FLAG_AFTER_PREFILL, "Insert M1 alt window data");
 			WriteInRom(1);
 			totalFound++;
 		}
@@ -678,7 +724,7 @@ void InsertItemArticles(void)
         if (line[0] != '/') {
             str = &line[13];
             
-            StartWritingInRom(startLoc + lineNum);
+            StartWritingInRom(startLoc + lineNum, WRITE_FLAG_NORMAL, "Insert M1 item articles");
             WriteInRom(hstrtoi(str));
 
             lineNum++;
@@ -714,7 +760,7 @@ void InsertEnemyArticles(void)
         if (line[0] != '/') {
             str = &line[14];
             
-            StartWritingInRom(startLoc + lineNum);
+            StartWritingInRom(startLoc + lineNum, WRITE_FLAG_NORMAL, "Insert M1 enemy articles");
             WriteInRom(hstrtoi(str));
 
             lineNum++;
@@ -749,12 +795,12 @@ void InsertItemClasses(void)
         line[strcspn(line, "\n")] = '\0';
 
         if (line[0] != '/') {
-            StartWritingInRom(startLoc + lineNum * 0x8);
+            StartWritingInRom(startLoc + lineNum * 0x8, WRITE_FLAG_PREFILL, "Insert M1 item classes");
             for (i = 0; i < 0x8; i++)
                WriteInRom(0);
 
 			if (strlen(line) > 0) {
-				StartWritingInRom(startLoc + lineNum * 0x8);
+				StartWritingInRom(startLoc + lineNum * 0x8, WRITE_FLAG_AFTER_PREFILL, "Insert M1 item classes");
 				for (i = 0; i < strlen(line); i++)
 				   WriteInRom(ConvChar(line[i]));
 		    }
@@ -791,12 +837,12 @@ void InsertEnemyClasses(void)
         line[strcspn(line, "\n")] = '\0';
 
         if (line[0] != '/') {
-            StartWritingInRom(startLoc + lineNum * 0x8);
+            StartWritingInRom(startLoc + lineNum * 0x8, WRITE_FLAG_PREFILL, "Insert M1 enemy classes");
             for (i = 0; i < 0x8; i++)
                WriteInRom(0);
 
 			if (strlen(line) > 0) {
-				StartWritingInRom(startLoc + lineNum * 0x8);
+				StartWritingInRom(startLoc + lineNum * 0x8, WRITE_FLAG_AFTER_PREFILL, "Insert M1 enemy classes");
 				for (i = 0; i < strlen(line); i++)
 				   WriteInRom(ConvChar(line[i]));
 		    }
@@ -834,13 +880,13 @@ void InsertEnemyLongNames(void)
     {
         if (line[0] != '/') {
             str = &line[14];
-            StartWritingInRom(startLoc + lineNum * 0x19);
+            StartWritingInRom(startLoc + lineNum * 0x19, WRITE_FLAG_PREFILL, "Insert M1 long enemy names");
             for (i = 0; i < 0x19; i++)
                WriteInRom(0);
 			if (strlen(str) > 0) {
 				PrepString(str,str2,0);
 				ConvComplexString(str2,len);
-				StartWritingInRom(startLoc + lineNum * 0x19);
+				StartWritingInRom(startLoc + lineNum * 0x19, WRITE_FLAG_AFTER_PREFILL, "Insert M1 long enemy names");
 				for (i = 0; i < len; i++)
 				   WriteInRom(str2[i]);
 			}
@@ -934,7 +980,7 @@ void InsertM2WindowText(void)
      	   PrepString(str, str2, 0);
 		   ConvComplexMenuString(str2, len);
 
-           StartWritingInRom(loc);
+           StartWritingInRom(loc, WRITE_FLAG_NORMAL, "Insert M2 window text");
            for (i = 0; i < len; i++)
 	          WriteInRom(str2[i]);
 	    }
@@ -987,7 +1033,7 @@ void InsertM2Items(void)
 			//printf(str2);
 //                       printf("%X %s\n", loc, str);
 			ptrLoc = 0xb1af94 + lineNum * 4;
-			StartWritingInRom(ptrLoc);
+			StartWritingInRom(ptrLoc, WRITE_FLAG_NORMAL, "Insert M2 items pointers");
 
 			temp = (loc - 0xb1a694);
 	        WriteInRom(temp & 0x000000FF);
@@ -999,7 +1045,7 @@ void InsertM2Items(void)
             str2[len++] = 0x00;
 			str2[len++] = 0xFF;
 
-            StartWritingInRom(loc);
+            StartWritingInRom(loc, WRITE_FLAG_NORMAL, "Insert M2 items");
             for (i = 0; i < len; i++)
             {
 			   //printf("%02X ", str2[i]);
@@ -1061,7 +1107,7 @@ void InsertM2Enemies(void)
 //			printf(str2);
 //                       printf("%X %s\n", loc, str);
 			ptrLoc = 0xb1a2f0 + lineNum * 4;
-			StartWritingInRom(ptrLoc);
+			StartWritingInRom(ptrLoc, WRITE_FLAG_NORMAL, "Insert M2 enemies pointers");
 
 			temp = (loc - 0xb19ad0);
 	        WriteInRom(temp & 0x000000FF);
@@ -1073,7 +1119,7 @@ void InsertM2Enemies(void)
             str2[len++] = 0x00;
 			str2[len++] = 0xFF;
 
-            StartWritingInRom(loc);
+            StartWritingInRom(loc, WRITE_FLAG_NORMAL, "Insert M2 enemies");
             for (i = 0; i < len; i++)
             {
 			   //printf("%02X ", str2[i]);
@@ -1133,7 +1179,7 @@ void InsertM2MiscText(void)
      	   PrepString(str, str2, 0);
 		   ConvComplexString(str2, len);
 
-           StartWritingInRom(loc);
+           StartWritingInRom(loc, WRITE_FLAG_NORMAL, "Insert M2 misc text");
            for (i = 0; i < len; i++)
 	          WriteInRom(str2[i]);
 	    }
@@ -1232,7 +1278,7 @@ void InsertM2PSI1(void)
             str2[len++] = 0x00;
 			str2[len++] = 0xFF;
 
-			StartWritingInRom(ptrLoc);
+			StartWritingInRom(ptrLoc, WRITE_FLAG_NORMAL, "Insert M2 PSI pointers");
             for (i = 0; i < len; i++)
             {
 			   //printf("%02X ", str2[i]);
@@ -1297,7 +1343,7 @@ void InsertM2Locations(void)
             str2[len++] = 0x00;
 			str2[len++] = 0xFF;
 
-			StartWritingInRom(ptrLoc);
+			StartWritingInRom(ptrLoc, WRITE_FLAG_NORMAL, "Insert M2 locations");
             for (i = 0; i < len; i++)
             {
 			   //printf("%02X ", str2[i]);

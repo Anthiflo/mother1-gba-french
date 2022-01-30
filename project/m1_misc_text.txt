@@ -9,7 +9,7 @@
 0F64354 Teddy
 0F64394 Fifi
 0F643D4 ÈVE
-0F64414 Garuda
+0F64414 Garuda[END]
 
 // Vowels for elision
 0FFE700 AEIOUaeiouÈÉÊËŒèéêëœÀÁÂÃÄÅÆÌÍÎÏÒÓÔÕÖÙÚÛÜàáâãäåæìíîïòóôõöùúûü[END]

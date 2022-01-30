@@ -1,10 +1,11 @@
 # ignore all roms and save files
 *.gba
-*.sav
 *.gba.bak
 *.sav.bak
 *.sgm
 m1_main_text_converted.txt
 m1_enemy_long_names_converted.txt
+insert_report.txt
 
 *.bak
+project/Thumbs.db
