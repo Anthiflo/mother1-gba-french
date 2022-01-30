@@ -19,14 +19,14 @@
 // OVERWORLD MENU STUFF
 //==========================================================================================================
 
-// Main menu - if you want to resize this, you'll have to manually hex edit the command menu .bin file
+// Main menu - if you want to resize this, you'll have to manually hex edit the command menu .bin file #OVERRIDE
 0FE4006 Commandes
 0FE4015 Parler
 0FE4023 Examiner
 0FE4031 PSI
 0FE403F Objets
 
-// Action menu
+// Action menu #OVERRIDE
 0FE4B15 Utiliser
 0FE4B23 Manger
 0FE4B31 Donner
@@ -39,10 +39,10 @@
 // Displayed when taking an item out of storage from your sister
 0FE7CE0 Objets stockés[END]
 
-// Displayed when using a PSI on someone or when choosing someone from the bottom-left name list
+// Displayed when using a PSI on someone or when choosing someone from the bottom-left name list #OVERRIDE
 0FE756E Qui ?
 
-// Stats/equipment menu
+// Stats/equipment menu #OVERRIDE
 0FE482A Statut
 0FE483C PSI
 0FE48E4 Équipement
@@ -58,7 +58,7 @@
 0FE4959 Force
 0FE498D Exp.
 
-// Used when displaying yes/no questions in main script
+// Used when displaying yes/no questions in main script #OVERRIDE
 0FE7102 Oui
 0FE710B Non
 0FE7142 Oui
@@ -85,7 +85,7 @@
 // BATTLE STUFF
 //==========================================================================================================
 
-// This is displayed at the top of the battle menus and in the mini status windows outside
+// This is displayed at the top of the battle menus and in the mini status windows outside #OVERRIDE
 0FE7403 Nom
 0FE740C PV
 0FE7410 PP
@@ -112,16 +112,16 @@
 0F27701 Analyser
 0F2770A Options
 
-// If you try to use a weird item in battle (change the address to move the text left or right)
+// If you try to use a weird item in battle (change the address to move the text left or right) #OVERRIDE
 0FE78C2 Ne peut être utilisé ici
 
-// If you try to equip an item during battle
+// If you try to equip an item during battle #OVERRIDE
 0FE7922 Ne peut être équipé ici
 
-// If a character tries to use an item they can't use in battle (like Ninten using a Bomb) edit m1_window_cant_use_item.bin for placement
+// If a character tries to use an item they can't use in battle (like Ninten using a Bomb) edit m1_window_cant_use_item.bin for placement #OVERRIDE
 0FE7982 Pas utilisable par [03][20]
 
-// If you use the Setup option in battle
+// If you use the Setup option in battle #OVERRIDE
 F2789D Vitesse du texte
 F278B3 (Lent)[01][01][01][01](Rapide)
 
@@ -141,30 +141,30 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 //       of 0FE5017, making it 0FE5016
 //==========================================================================================================
 
-// Text used for blank save slots - the first three numbers are the X coordinate for the cursor
+// Text used for blank save slots - the first three numbers are the X coordinate for the cursor #OVERRIDE
 0F2A076 [07]
 0F2A08A [07]
 0F2A09E [07]
 0FE602A [01][01][01][01][01][01]Nouvelle partie
 
-// Text used at the top of the save slot windows
+// Text used at the top of the save slot windows #OVERRIDE
 0FE500B Niv.
 0FE6003 FICHIER ( )
 0FE5015 Vitesse
 
-// The first three numbers are the X coordinate for the cursor for each save slot window
+// The first three numbers are the X coordinate for the cursor for each save slot window #OVERRIDE
 0F2A07A [02]
 0F2A08E [02]
 0F2A0A2 [02]
 0FE502B Jouer
 
-// The first three numbers are the X coordinate for the cursor for each save slot window
+// The first three numbers are the X coordinate for the cursor for each save slot window #OVERRIDE
 0F2A07E [08]
 0F2A092 [08]
 0F2A0A6 [08]
 0FE5031 Copier
 
-// The first three numbers are the X coordinate for the cursor for each save slot window
+// The first three numbers are the X coordinate for the cursor for each save slot window #OVERRIDE
 0F2A082 [0F]
 0F2A096 [0F]
 0F2A0AA [0F]
@@ -181,11 +181,11 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 0F2712E [01]4/5[END]
 0F27134 [01]5/5[END]
 
-// Displayed when copying a save file from one slot to another
+// Displayed when copying a save file from one slot to another #OVERRIDE
 0FE7010 Vers quel fichier ?
 
 // Displayed when erasing a file
-// These first two numbers are the X coordinates of the name and level number
+// These first two numbers are the X coordinates of the name and level number #OVERRIDE
 0F0D396 [05]
 0FE8016 Niv.
 0FE802B Effacer ce fichier ?
@@ -204,12 +204,12 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 0FE7C90 Nommez cet autre ami.[END]
 0FE7CC0 Votre plat favori ?[END]
 
-// unallowed names (separate them with [02], end with [END])
+// unallowed names (separate them with [02], end with [END]) #OVERRIDE
 0FE80C0 ABC[02]George[02]Mimmie[02]Minnie[02]Fifi[02]Duncan[02]Suzy[02]Abbé[02]Laura[02]Gyiyg[02]Giegue[02]Giygas[02]Mary[02]Maria[02]EVE[02]ÈVE[02]Eve[02]Ève[02] [02]  [02]   [02]    [02]     [02]      [02][END]
 
 0FE7211 Nom non autorisé
 
-// This changes the initial graphical layout of the naming screen, note you'll need to change the "actual table" below too
+// This changes the initial graphical layout of the naming screen, note you'll need to change the "actual table" below too #OVERRIDE
 0FE7A4C ABCDE abcde ÀÁÂÃÄ àáâãä 
 0FE7A6B FGHIJ fghij ÅÆÇÈÉ åæçèé 
 0FE7A8A KLMNO klmno ÊËÌÍÎ êëìíî 
@@ -436,6 +436,7 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 // this is the X coordinate of this line
 0F0DB3C [09]
 
+// #OVERRIDE
 0F2742D Tout est OK ?
 0F27442 Oui
 0F27447 Non

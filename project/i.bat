@@ -3,11 +3,9 @@ copy m12.gba test.gba
 @introconv.exe
 @echo  Inserting new code
 @xkas test.gba m12.asm
-@insert.exe %1
-@if "%1"=="" goto next
+@insert.exe 1
 @echo.
 @python check_overlap.py m12.asm insert_report.txt
-:next
 @del m1_main_text_converted.txt
 @del m1_enemy_long_names_converted.txt
 @echo off

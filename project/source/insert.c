@@ -621,7 +621,8 @@ void InsertSpecialText(void)
 	int   temp;
 	int   len;
 	int   i;
-
+	
+	char*  commentStr = (char*) "Insert M1 misc text";
 
     fin = fopen("m1_misc_text.txt", "r");
     if (fin == NULL)
@@ -644,11 +645,19 @@ void InsertSpecialText(void)
            //printf("%2d %X - %s\n", line[0], loc, str);
      	   PrepString(str, str2, 0);
 		   ConvComplexString(str2, len);
+		   
+		   StartWritingInRom(loc, WRITE_FLAG_NORMAL, commentStr);
 
-           StartWritingInRom(loc, WRITE_FLAG_NORMAL, "Insert M1 misc text");
            for (i = 0; i < len; i++)
 	          WriteInRom(str2[i]);
-	    }
+		  
+	    } else {
+			if (line[0] == '/' && line[1] == '/' && line[2] != '=') {
+				commentStr = (char*) malloc(strlen(line) - 1);
+				strcpy(commentStr, line + 2);
+				commentStr[strlen(commentStr)-1] = '\0';
+			}
+		}
 
 	    //fscanf(fin, "%s", line);
 	    fgets(line, 5000, fin);

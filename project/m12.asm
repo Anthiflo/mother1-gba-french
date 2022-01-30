@@ -26,7 +26,7 @@ org $80DC2AC; lsl r1,r2,#0x4; nop
 //========================================================================================
 
 // Alter the file select menus
-org $8FE5000; incbin m1_window_file_menu_1.bin
+org $8FE5000; incbin m1_window_file_menu_1.bin // #OVERRIDDEN
 org $8F0D208; dd $8FE5000
 
 // move character info positions
@@ -34,13 +34,13 @@ org $8F0D138; db $03
 // Level position
 org $8F0D148; db $0F
 org $8F0D162; db $17
-org $8FE6000; incbin m1_window_file_menu_2.bin
+org $8FE6000; incbin m1_window_file_menu_2.bin // #OVERRIDDEN
 org $8F0D2A4; dd $8FE6000
 // File number position
 org $8F0D236; db $0C
 
 // "Copy to where?" window
-org $8FE7000; incbin m1_window_file_menu_3.bin
+org $8FE7000; incbin m1_window_file_menu_3.bin // #OVERRIDDEN
 org $8F0D37C; dd $8FE7000
 // move "copy to" cursor when selecting a slot
 org $8F2A0B6; db $00
@@ -48,7 +48,7 @@ org $8F2A0BA; db $00
 org $8F2A0BE; db $00
 
 // "Delete this file?" window
-org $8FE8000; incbin m1_window_file_menu_4.bin
+org $8FE8000; incbin m1_window_file_menu_4.bin // #OVERRIDDEN
 org $8F0D3DC; dd $8FE8000
 
 // lower box erasing stuff
@@ -66,7 +66,7 @@ org $8F27155; db $1C
 
 // alter naming windows
 org $8F0DE4C; dd $8FE7A00
-org $8FE7A00; incbin m1_window_naming.bin
+org $8FE7A00; incbin m1_window_naming.bin // #OVERRIDDEN
 org $8F0DDA8; db $02  // move desc. text up one row
 org $8F0DDB4; db $05  // move name to be below the text
 org $8F0DF7E; db $05
@@ -92,7 +92,7 @@ org $8F0E2A0; dd $8FE80C0
 
 // repoint "name not allowed" window
 org $8F0E2A4; dd $8FE7200
-org $8FE7200; incbin m1_window_name_not_allowed.bin
+org $8FE7200; incbin m1_window_name_not_allowed.bin // #OVERRIDDEN
 
 // move the naming screen sprites up a few pixels
 org $8F0DDE0; db $10
@@ -101,8 +101,8 @@ org $8F0DDE0; db $10
 org $8F0DBF0; dd $8FE79E0
 
 // clear out the "Is this OK?" confirmation window
-org $8F2742C; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01
-org $8F2743F; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01
+org $8F2742C; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01	// #OVERRIDDEN
+org $8F2743F; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01	// #OVERRIDDEN
 
 
 //========================================================================================
@@ -121,7 +121,7 @@ org $8F0BF88; db $FC
 
 // alter character stats window in battle
 org $8F0AEFC; dd $8FE7400
-org $8FE7400; incbin m1_window_char_stats.bin
+org $8FE7400; incbin m1_window_char_stats.bin // #OVERRIDDEN
 
 // alter main battle text box design
 org $8F275E6; db $01
@@ -135,19 +135,19 @@ org $8F27616; db $02
 
 // repoint and set up "Can't use this" battle text
 org $8F29F40; dd $8FE78A0
-org $8FE78A0; incbin m1_window_cant_use_item.bin
+org $8FE78A0; incbin m1_window_cant_use_item.bin // #OVERRIDDEN
 
 // repoint and set up "Can't equip this" battle text
 org $8F29F44; dd $8FE7900
-org $8FE7900; incbin m1_window_cant_equip_item.bin
+org $8FE7900; incbin m1_window_cant_equip_item.bin // #OVERRIDDEN
 
 // repoint and set up "??? can't use this" battle text
 org $8F29F50; dd $8FE7960
-org $8FE7960; incbin m1_window_cant_use_other_item.bin
+org $8FE7960; incbin m1_window_cant_use_other_item.bin // #OVERRIDDEN
 
 // clear out text speed box
-org $8F2789C; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01
-org $8F278B3; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01
+org $8F2789C; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01	//#OVERRIDDEN
+org $8F278B3; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01	//#OVERRIDDEN
 
 org $8F2761F; db $01   // make the game delete the battle box properly
 org $8F27623; db $1C
@@ -181,11 +181,11 @@ org $8F0C088; bl possibly_ignore_auto_indents
 
 // Alter the Command menu
 org $8F0B290; dd $8FE4000
-org $8FE4000; incbin m1_window_command_menu.bin
+org $8FE4000; incbin m1_window_command_menu.bin // #OVERRIDDEN
 
 // Alter the Status menu
 org $8F0B188; dd $8FE4800
-org $8FE4800; incbin m1_window_status_menu.bin
+org $8FE4800; incbin m1_window_status_menu.bin // #OVERRIDDEN
 org $8F0C6B4; db $04   // fix status menu number alignment
 
 // alter main dialogue box
@@ -206,13 +206,13 @@ org $8F085A6; bl swallow_item
 org $8F085B6; bl swallow_item
 
 // repoint yes/no main dialog options, make the game know when to choose which one
-org $8FE7100; incbin m1_window_yes_no.bin
-org $8FE7140; incbin m1_window_yes_no_small.bin
+org $8FE7100; incbin m1_window_yes_no.bin // #OVERRIDDEN
+org $8FE7140; incbin m1_window_yes_no_small.bin // #OVERRIDDEN
 org $8F04FCE; bl choose_yes_no_size
 
 // alter the item action menus
 org $8F0B7C4; dd $8FE4B00
-org $8FE4B00; incbin m1_window_item_action_menu.bin
+org $8FE4B00; incbin m1_window_item_action_menu.bin // #OVERRIDDEN
 org $8F29FB6; db $14
 org $8F29FBA; db $14
 org $8F29FBE; db $14
@@ -229,7 +229,7 @@ org $8F0BAD8; db $0E
 
 // repoint and expand the "Who?" window
 org $8F0B9F4; dd $8FE7560
-org $8FE7560; incbin m1_window_who.bin
+org $8FE7560; incbin m1_window_who.bin // #OVERRIDDEN
 // delete expanded "Who?" window properly
 org $8F0B9B8; db $08
 org $8F0B9CC; db $08
@@ -285,19 +285,19 @@ org $8F09698; bl lowerencounterrate
 //========================================================================================
 
 // the ending runs via one long continuous script, need to repoint it so we can fix stuff
-org $8FEA400; incbin m1_data_ending_script.bin
+org $8FEA400; incbin m1_data_ending_script.bin // #OVERRIDDEN
 org $8F0A500; dd $8FEA400
-org $8FEBDB8; db $01,$02,$03,$04,$05,$00,$00,$00,$00,$00,$00,$00  // DIRECTOR
-org $8FEBDE4; db $06,$07,$08,$09,$0A,$0B,$0C,$0D,$00,$00,$00,$00  // GAME DESIGNERS
-org $8FEBE05; db $0E,$0F,$10,$11,$12,$13,$14,$15,$16,$00,$00,$00  // MUSIC PRODUCERS
-org $8FEBE26; db $0E,$0F,$17,$18,$19,$1A,$1B,$1C,$00,$00,$00,$00  // MUSICAL EFFECTS
-org $8FEBE47; db $1D,$1E,$1F,$03,$0C,$20,$21,$22,$23,$15,$16,$00  // CHARACTER DESIGNERS
-org $8FEBE68; db $24,$25,$26,$27,$28,$09,$29,$2A,$00,$00,$00,$00  // FIGURE MODELING
-org $8FEBE84; db $11,$2B,$2C,$2D,$2E,$2F,$30,$00,$00,$00,$00,$00  // PROGRAMMERS
-org $8FEBEAA; db $31,$32,$1E,$33,$34,$35,$36,$37,$38,$1C,$00,$00  // SCENARIO ASSISTANTS
-org $8FEBED5; db $39,$3A,$3B,$3C,$3D,$04,$3E,$00,$00,$00,$00,$00  // COORDINATORS
-org $8FEBF0C; db $11,$12,$13,$14,$3F,$00,$00,$00,$00,$00,$00,$00  // PRODUCER
-org $8FEBF28; db $40,$41,$42,$43,$44,$45,$46,$47,$48,$49,$00,$00  // EXECUTIVE PRODUCER
+org $8FEBDB8; db $01,$02,$03,$04,$05,$00,$00,$00,$00,$00,$00,$00  // DIRECTOR 			#OVERRIDE
+org $8FEBDE4; db $06,$07,$08,$09,$0A,$0B,$0C,$0D,$00,$00,$00,$00  // GAME DESIGNERS		#OVERRIDE
+org $8FEBE05; db $0E,$0F,$10,$11,$12,$13,$14,$15,$16,$00,$00,$00  // MUSIC PRODUCERS	#OVERRIDE
+org $8FEBE26; db $0E,$0F,$17,$18,$19,$1A,$1B,$1C,$00,$00,$00,$00  // MUSICAL EFFECTS	#OVERRIDE
+org $8FEBE47; db $1D,$1E,$1F,$03,$0C,$20,$21,$22,$23,$15,$16,$00  // CHARACTER DESIGNERS#OVERRIDE
+org $8FEBE68; db $24,$25,$26,$27,$28,$09,$29,$2A,$00,$00,$00,$00  // FIGURE MODELING	#OVERRIDE
+org $8FEBE84; db $11,$2B,$2C,$2D,$2E,$2F,$30,$00,$00,$00,$00,$00  // PROGRAMMERS		#OVERRIDE
+org $8FEBEAA; db $31,$32,$1E,$33,$34,$35,$36,$37,$38,$1C,$00,$00  // SCENARIO ASSISTANTS#OVERRIDE
+org $8FEBED5; db $39,$3A,$3B,$3C,$3D,$04,$3E,$00,$00,$00,$00,$00  // COORDINATORS		#OVERRIDE
+org $8FEBF0C; db $11,$12,$13,$14,$3F,$00,$00,$00,$00,$00,$00,$00  // PRODUCER			#OVERRIDE
+org $8FEBF28; db $40,$41,$42,$43,$44,$45,$46,$47,$48,$49,$00,$00  // EXECUTIVE PRODUCER	#OVERRIDE
 //org $8FEBDA9; db $1E // change music played here
 
 

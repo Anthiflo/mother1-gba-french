@@ -39,9 +39,10 @@ def occupied_check(addr, old_str, str, other_str):
     '''
     Prints info on overlaps.
     '''
-    if not old_str in other_str:
+    if not old_str in other_str and not (old_str.endswith("#OVERRIDDEN") and str.endswith("#OVERRIDE")):
         print("WARNING! FOUND OVERLAP IN " + hex(addr).upper() + "!" \
-              " - CONFLICTING STRINGS:\n" + old_str + "\n" + str + "\n")
+              " - CONFLICTING STRINGS:\n" + old_str + "\n" + str)
+        print("\n")
         other_str.add(old_str)
     return other_str
 
@@ -145,6 +146,6 @@ occupied_array = [None]*0x2000000
 defines_dict = dict()
 for i in range(1, len(sys.argv)):
     read_xkas_asm_file(sys.argv[i], occupied_array, defines_dict)
-    print("Overlap check for " + sys.argv[i] + " done!")
+    print("Overlap check for " + sys.argv[i] + " done!\n")
 if(len(sys.argv) <= 1):
     print("Too few parameters!")
