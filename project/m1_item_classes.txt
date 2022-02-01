@@ -1,112 +1,120 @@
+//==Types d'articles== 
+//(0/8) indéfini sans majuscule 
+//(1/9) défini sans lettre initiale 
+//(2/A) indéfini avec majuscule 
+//(3/B) possessif sans lettre initiale 
+//(4/C) COD 
+//(5/D) de 
+// 
 //00. masculin singulier multiple dénombrable consonne initiale 
 un 
 e 
-ce 
-ton 
+Un 
+on 
 le 
 de 
 //01. masculin singulier multiple dénombrable voyelle initiale 
 un 
 '
-cet 
-ton 
+Un 
+on 
 le 
 d'
 //02. masculin singulier multiple indénombrable consonne initiale 
 du 
 e 
-ce 
-ton 
+Du 
+on 
 le 
 de 
 //03. masculin singulier multiple indénombrable voyelle initiale 
 de l'
 '
-cet 
-ton 
+De l'
+on 
 le 
 d'
 //04. féminin singulier multiple dénombrable consonne initiale 
 une 
 a 
-cette 
-ta 
+Une 
+a 
 la 
 de 
 //05. féminin singulier multiple dénombrable voyelle initiale 
 une 
 '
-cette 
-ta 
+Une 
+a 
 la 
 de 
 //06. féminin singulier multiple indénombrable consonne initiale 
 de la 
 a 
-cette 
-ta 
+De la 
+a 
 la 
 de 
 //07. féminin singulier multiple indénombrable voyelle initiale 
 de l'
 '
-cette 
-ta 
+De l'
+a 
 la 
 d'
 //08. masculin singulier unique consonne initiale 
 le 
 e 
-ce 
-ton 
+Le 
+on 
 le 
 de 
 //09. masculin singulier unique voyelle initiale 
 l'
 '
-cet 
-ton 
+L'
+on 
 le 
 d'
 //0A. masculin pluriel multiple 
 des 
 es 
-ces 
-tes 
+Des 
+es 
 les 
 de 
 //0B. masculin pluriel unique 
 les 
 es 
-ces 
-tes 
+Les 
+es 
 les 
 de 
 //0C. féminin singulier unique consonne initiale 
 la 
 a 
-cette 
-ta 
+La 
+a 
 la 
 de 
 //0D. féminin singulier unique voyelle initiale 
 l'
 '
-cette 
-ta 
+L'
+a 
 la 
 d'
 //0E. féminin pluriel multiple 
 des 
 es 
-ces 
-tes 
+Des 
+es 
 les 
 de 
 //0F. féminin pluriel unique 
 les 
 es 
-ces 
-tes 
+Les 
+es 
 les 
 de 

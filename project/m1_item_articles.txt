@@ -7,7 +7,7 @@ ITEM-3EA-01: 04
 //BreadCrumbs
 ITEM-3EB-02: 0E
 //Repel Ring
-ITEM-3EC-03: 00
+ITEM-3EC-03: 04
 //ITEM 05
 ITEM-3ED-04: 00
 //Memory Chip
@@ -109,7 +109,7 @@ ITEM-41D-34: 00
 //Sea Pendant
 ITEM-41E-35: 00
 //Easy Ring
-ITEM-41F-36: 00
+ITEM-41F-36: 04
 //Item 56
 ITEM-420-37: 00
 //Item 57
@@ -209,7 +209,7 @@ ITEM-44F-66: 00
 //Frank.Badge
 ITEM-450-67: 00
 //Friend Ring
-ITEM-451-68: 00
+ITEM-451-68: 04
 //Item 106
 ITEM-452-69: 00
 //Onyx Hook

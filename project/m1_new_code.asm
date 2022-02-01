@@ -1089,6 +1089,8 @@ more_field_control_codes:
     + 
     cmp  r1,#0x6F; bgt +; ldr r0,=#.field_cc_party; b .field_cc_return
     + 
+    cmp  r1,#0x7F; bgt +; ldr r0,=#.field_cc_gender; b .field_cc_return
+    + 
 
     ldr r0,=#.field_cc_default
 
@@ -1100,7 +1102,7 @@ more_field_control_codes:
 
   mov  r2,#0x8
   and  r2,r1
-  cmp  r0,#0
+  cmp  r2,#0
   bne  +    
   ldr  r0,=#0x3003188 
   b    .field_cc_item_art_next 
@@ -1156,6 +1158,43 @@ more_field_control_codes:
     bl      0x8F0C058
     +
     b       .field_cc_next
+
+
+.field_cc_gender: // cc argument in r1
+  mov  r2,#0x8
+  and  r2,r1
+  cmp  r2,#0
+  bne  +    
+  ldr  r0,=#0x3003174 
+  b    .field_cc_gender_next 
+  +
+  ldr  r0,=#0x300084C
+  
+  .field_cc_gender_next:
+  
+  ldrb r1,[r0,#0]
+  sub  r1,#1             // r1 now contains the character id
+  
+  ldr  r0,=#0x8FFE7A0    // strings for "e " / "’"
+  add  r0,#9
+  
+  cmp  r1,#1             // if Ana...
+  bne  +
+  sub  r0,#1
+  +
+    
+  cmp  r1,#4             // if Pippi...
+  bne  +
+  sub  r0,#1
+  +
+
+  cmp  r1,#5             // or if EVE...
+  bne  +
+  sub  r0,#1
+  +
+
+  bl      0x8F0C058
+  b       .field_cc_next
 
 
 .field_cc_default:

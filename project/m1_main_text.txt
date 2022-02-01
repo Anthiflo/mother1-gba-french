@@ -9,6 +9,7 @@
 //										/ E party leader / A-B acteur ou cible
 // [03 6X]		"l’équipe de"			E pour l’élision, F pour l’accord féminin		[03 16], [03 17]
 //										s'affiche seulement en cas d’équipe
+// [03 7X]		genre persos			0 si perso source (A), 8 si perso cible (B)		[03 1A], [03 1B]
 // 
 // 
 // COMBAT
@@ -1159,7 +1160,7 @@
 229: @What would you like to[BREAK]sell?[BREAK]
 229-E: @Que souhaites-tu vendre[4F]?[BREAK]
 22A: @I can buy your [03 1D][BREAK]for $[03 1E].[BREAK][PAUSE]@Is that okay with you?[BREAK]
-22A-E: @Je peux te racheter [03 4B][BREAK][03 1D] pour [03 1E]$.[BREAK][PAUSE]@Ça te va[4F]?[BREAK]
+22A-E: @Je peux te racheter t[03 4B][BREAK][03 1D] pour [03 1E]$.[BREAK][PAUSE]@Ça te va[4F]?[BREAK]
 22B: @[03 3E] took out his[BREAK]great-grandfather's diary[BREAK]and read these words aloud:[BREAK][PAUSE]"...That which was left[BREAK]behind by the ship that[BREAK]soars the heavens."[BREAK]
 22B-E: @[03 3E] sort le journal de[BREAK]son arrière-grand-père et[BREAK]prononce à voix haute :[BREAK][PAUSE]"... Qu'a laissée[BREAK]derrière lui le vaisseau[BREAK]s'élevant dans les cieux.[BREAK]
 22C: 
@@ -1183,15 +1184,15 @@
 235: 
 235-E: 
 236: @Your [03 1D]?[BREAK][PAUSE]@I'll take good[BREAK]care of it.[BREAK][PAUSE]@Do you want me to[BREAK]hold on to anything[BREAK]else?[BREAK]
-236-E: @[03 4B][03 1D][4F]?[BREAK][PAUSE]@J'en prendrai bien[BREAK]soin.[BREAK][PAUSE]@Tu veux que je[BREAK]garde autre chose[4F]?[BREAK]
+236-E: @T[03 4B][03 1D][4F]?[BREAK][PAUSE]@J'en prendrai bien[BREAK]soin.[BREAK][PAUSE]@Tu veux que je[BREAK]garde autre chose[4F]?[BREAK]
 237: @Okay, then. Be[BREAK]careful out there.[BREAK]
 237-E: @Compris. Fais[BREAK]attention à toi.[BREAK]
 238: @Your [03 1D]?[BREAK][PAUSE]@Sure thing. Take[BREAK]good care of it,[BREAK]okay?[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]take with you?[BREAK]
-238-E: @[03 4B][03 1D][4F]?[BREAK][PAUSE]@Ça marche.[BREAK]Prends-en bien[BREAK]soin, d'accord[4F]?[BREAK][PAUSE]@Est-ce que tu veux[BREAK]récupérer autre[BREAK]chose[4F]?[BREAK]
+238-E: @T[03 4B][03 1D][4F]?[BREAK][PAUSE]@Ça marche.[BREAK]Prends-en bien[BREAK]soin, d'accord[4F]?[BREAK][PAUSE]@Est-ce que tu veux[BREAK]récupérer autre[BREAK]chose[4F]?[BREAK]
 239: @There was a landslide up by[BREAK]Santa Claus Station, so the[BREAK]train can't get through.[BREAK]
 239-E: @Il y a eu un éboulement[BREAK]près de la gare de l'Union,[BREAK]de ce fait le train ne peut[BREAK]plus passer.[BREAK]
 23A: @The [03 1D], yes?[BREAK]
-23A-E: @L[03 49][03 1D], c'est ça[4F]?[BREAK]
+23A-E: @[03 4A][03 1D], c'est ça[4F]?[BREAK]
 23B: @It looks you can't hold any[BREAK]more items.[BREAK]
 23B-E: @On dirait que tu ne peux[BREAK]pas porter plus d'objets.[BREAK]
 23C: 
@@ -1726,7 +1727,7 @@
 33D: @Okay! All better![BREAK][PAUSE]@Amazing, huh?[BREAK]
 33D-E: @Voilà[4F]! C'est tout[BREAK]bon[4F]![BREAK][PAUSE]@Incroyable, hein[4F]?[BREAK]
 33E: @I'm very sorry. I can't buy[BREAK]your [03 1D].[BREAK]
-33E-E: @Je suis vraiment navrée. Je[BREAK]ne peux pas te racheter[BREAK][03 4B][03 1D].
+33E-E: @Je suis vraiment navrée. Je[BREAK]ne peux pas te racheter[BREAK]t[03 4B][03 1D].
 33F: @Laura the songbird was so[BREAK]happy to see her baby again[BREAK]that she began singing.[BREAK]
 33F-E: @Laura l'oiseau chanteur[BREAK]est tellement contente de[BREAK]revoir son bébé qu'elle se[BREAK]met à chanter.[BREAK]
 340: @[03 16] learned the melody.[BREAK]
@@ -1814,7 +1815,7 @@
 369: @You better hurry and get[BREAK][03 13] back on his feet![BREAK]
 369-E: @Tu ferais mieux de te[BREAK]grouiller de remettre[BREAK][03 13] sur pied ![BREAK]
 36A: @Oh, whoops.[BREAK][PAUSE]@I can't hold on to your[BREAK][03 1D].[BREAK][PAUSE]@I'm selfish like that.[BREAK]
-36A-E: @Ah, oups.[BREAK][PAUSE]@Je ne peux pas[BREAK]garder [03 4B][BREAK][03 1D].[BREAK][PAUSE]@Je suis un peu[BREAK]égoïste, tu vois.[BREAK]
+36A-E: @Ah, oups.[BREAK][PAUSE]@Je ne peux pas[BREAK]garder t[03 4B][BREAK][03 1D].[BREAK][PAUSE]@Je suis un peu[BREAK]égoïste, tu vois.[BREAK]
 36B: Here rests Flying Man, the[BREAK]courageous warrior and[BREAK]eternal servant to [03 10].[BREAK]
 36B-E: Ici repose Garuda, guerrier[BREAK]courageux et serviteur[BREAK]éternel d[03 50][03 10].[BREAK]
 36C: Here rests Flying Man, the[BREAK]courageous warrior and[BREAK]inner strength of [03 10].[BREAK]
@@ -3571,7 +3572,7 @@
 6D6: @[03 1A] took out the[BREAK][03 1C] and then put it[BREAK]away again.[BREAK]
 6D6-E: @[03 1A] sort l[03 41][03 1C][BREAK]puis [03 44]range[BREAK]immédiatement.[BREAK]
 6D7: @[03 1A] is unconcious.[BREAK]
-6D7-E: @[03 1A] est inconscient.[BREAK]
+6D7-E: @[03 1A] est évanoui[03 70].[BREAK]
 6D8: @The entire party was[BREAK]healed![BREAK]
 6D8-E: @L'équipe tout entière est[BREAK]soigné[4F]![BREAK]
 6D9: @[03 10] sensed a faint[BREAK]memory of his[BREAK]great-grandfather![BREAK]
