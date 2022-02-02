@@ -1,255 +1,382 @@
 //  
 ITEM-3E8-00: 00
+
 //Big Bag
 ITEM-3E9-00: 08
+
 //Phone Card
 ITEM-3EA-01: 04
+
 //BreadCrumbs
 ITEM-3EB-02: 0E
+
 //Repel Ring
 ITEM-3EC-03: 04
+
 //ITEM 05
 ITEM-3ED-04: 00
+
 //Memory Chip
 ITEM-3EE-05: 04
+
 //
 ITEM-3EF-06: 00
+
 //
 ITEM-3F0-07: 00
+
 //
 ITEM-3F1-08: 00
+
 //Knife
 ITEM-3F2-09: 00
+
 //Surv. Knife
 ITEM-3F3-0A: 00
+
 //Basic Sword
 ITEM-3F4-0B: 05
+
 //Katana
 ITEM-3F5-0C: 00
+
 //Stun Gun
 ITEM-3F6-0D: 00
+
 //Toy Air Gun
 ITEM-3F7-0E: 00
+
 //Cracked Bat
 ITEM-3F8-0F: 04
+
 //Teeball Bat
 ITEM-3F9-10: 04
+
 //Sandlot Bat
 ITEM-3FA-11: 04
+
 //HallFameBat
 ITEM-3FB-12: 04
+
 //Frypan
 ITEM-3FC-13: 04
+
 //DX Frypan
 ITEM-3FD-14: 04
+
 //Best Frypan
 ITEM-3FE-15: 04
+
 //Slingshot
 ITEM-3FF-16: 00
+
 //Boomerang
 ITEM-400-17: 00
+
 //Bug Spray
 ITEM-401-18: 01
+
 //Super Spray
 ITEM-402-19: 00
+
 //Flea Bomb
 ITEM-403-1A: 04
+
 //Love Words
 ITEM-404-1B: 0A
+
 //Curse Words
 ITEM-405-1C: 0A
+
 //Slime Gen.
 ITEM-406-1D: 00
+
 //Flashdark
 ITEM-407-1E: 05
+
 //Stone Spray
 ITEM-408-1F: 00
+
 //Stinger
 ITEM-409-20: 00
+
 //Flamethrowr
 ITEM-40A-21: 00
+
 //Bomb
 ITEM-40B-22: 04
+
 //Super Bomb
 ITEM-40C-23: 04
+
 //Laser Beam
 ITEM-40D-24: 00
+
 //Death Beam
 ITEM-40E-25: 00
+
 //ITEM 39
 ITEM-40F-26: 00
+
 //Rope
 ITEM-410-27: 04
+
 //
 ITEM-411-28: 00
+
 //
 ITEM-412-29: 00
+
 //
 ITEM-413-2A: 00
+
 //
 ITEM-414-2B: 00
+
 //Peace Coin
 ITEM-415-2C: 04
+
 //ProtectCoin
 ITEM-416-2D: 04
+
 //Magic Coin
 ITEM-417-2E: 04
+
 //Fairy Brace
 ITEM-418-2F: 00
+
 //Angel Brace
 ITEM-419-30: 00
+
 //GoddessBrac
 ITEM-41A-31: 00
+
 //RainPendant
 ITEM-41B-32: 00
+
 //FlamePendnt
 ITEM-41C-33: 00
+
 //EarthPendnt
 ITEM-41D-34: 00
+
 //Sea Pendant
 ITEM-41E-35: 00
+
 //Easy Ring
 ITEM-41F-36: 04
+
 //Item 56
 ITEM-420-37: 00
+
 //Item 57
 ITEM-421-38: 00
+
 //
 ITEM-422-39: 00
+
 //
 ITEM-423-3A: 00
+
 //OrangeJuice
 ITEM-424-3B: 02
+
 //FrenchFries
 ITEM-425-3C: 0E
+
 //Magic Herb
 ITEM-426-3D: 05
+
 //Hamburger
 ITEM-427-3E: 00
+
 //SportsDrink
 ITEM-428-3F: 01
+
 //Medicine
 ITEM-429-40: 00
+
 //AsthmaSpray
 ITEM-42A-41: 01
+
 //Antidote
 ITEM-42B-42: 01
+
 //Mouthwash
 ITEM-42C-43: 00
+
 //Berry Tofu
 ITEM-42D-44: 00
+
 //Item 70
 ITEM-42E-45: 00
+
 //Bread
 ITEM-42F-46: 02
+
 //Angel Seed
 ITEM-430-47: 00
+
 //PSI Stone
 ITEM-431-48: 04
+
 //
 ITEM-432-49: 00
+
 //MagicRibbon
 ITEM-433-4A: 00
+
 //Magic Candy
 ITEM-434-4B: 00
+
 //Item 77
 ITEM-435-4C: 00
+
 //SpeedCapsul
 ITEM-436-4D: 04
+
 //Wis.Capsule
 ITEM-437-4E: 04
+
 //Str.Capsule
 ITEM-438-4F: 04
+
 //ForceCapsul
 ITEM-439-50: 04
+
 //FightCapsul
 ITEM-43A-51: 04
+
 //
 ITEM-43B-52: 00
+
 //
 ITEM-43C-53: 00
+
 //BasementKey
 ITEM-43D-54: 0C
+
 //Zoo Key
 ITEM-43E-55: 0C
+
 //Haunted Key
 ITEM-43F-56: 0C
+
 //GGF's Diary
 ITEM-440-57: 08
+
 //Pass
 ITEM-441-58: 08
+
 //Show Ticket
 ITEM-442-59: 00
+
 //
 ITEM-443-5A: 00
+
 //
 ITEM-444-5B: 00
+
 //
 ITEM-445-5C: 00
+
 //
 ITEM-446-5D: 00
+
 //Baby Canary
 ITEM-447-5E: 00
+
 //ITEM 96
 ITEM-448-5F: 00
+
 //BottlRocket
 ITEM-449-60: 04
+
 //Hat
 ITEM-44A-61: 00
+
 //Dentures
 ITEM-44B-62: 00
+
 //Ticket Stub
 ITEM-44C-63: 00
+
 //IC Chip
 ITEM-44D-64: 04
+
 //Ocarina
 ITEM-44E-65: 09
+
 //Item 103
 ITEM-44F-66: 00
+
 //Frank.Badge
 ITEM-450-67: 00
+
 //Friend Ring
 ITEM-451-68: 04
+
 //Item 106
 ITEM-452-69: 00
+
 //Onyx Hook
 ITEM-453-6A: 08
+
 //Ult. Weapon
 ITEM-454-6B: 0D
+
 //Ruler
 ITEM-455-6C: 04
+
 //ATM Card
 ITEM-456-6D: 0C
+
 //Red Weed
 ITEM-457-6E: 04
+
 //Megaphone
 ITEM-458-6F: 00
+
 //Map
 ITEM-459-70: 04
+
 //
 ITEM-45A-71: 00
+
 //
 ITEM-45B-72: 00
+
 //
 ITEM-45C-73: 00
+
 //
 ITEM-45D-74: 00
+
 //
 ITEM-45E-75: 00
+
 //
 ITEM-45F-76: 00
+
 //
 ITEM-460-77: 00
+
 //
 ITEM-461-78: 00
+
 //
 ITEM-462-79: 00
+
 //
 ITEM-463-7A: 00
+
 //
 ITEM-464-7B: 00
+
 //
 ITEM-465-7C: 00
+
 //
 ITEM-466-7D: 00
+
 //

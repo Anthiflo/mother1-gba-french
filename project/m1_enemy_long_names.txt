@@ -1,256 +1,383 @@
 //
 ENEMY-5DC-00: 
+
 //Territ. Oak
 ENEMY-5DD-01: Chêne territorial
+
 //Dragon
 ENEMY-5DE-02: Dragon
+
 //R-7038
 ENEMY-5DF-03: R-7038
+
 //Elephant
 ENEMY-5E0-04: Éléphant
+
 //Bear
 ENEMY-5E1-05: Ours
+
 //Bigfoot
 ENEMY-5E2-06: Bigfoot
+
 //Mad Truck
 ENEMY-5E3-07: Camion fou
+
 //Old Robot
 ENEMY-5E4-08: Vieux robot
+
 //Mega-Borg
 ENEMY-5E5-09: Méga-Borg
+
 //Gargoyle
 ENEMY-5E6-0A: Gargouille
+
 //Gabilan
 ENEMY-5E7-0B: Gabilan
+
 //Gorilla
 ENEMY-5E8-0C: Gorille
+
 //Bison
 ENEMY-5E9-0D: Bison
+
 //Tiger
 ENEMY-5EA-0E: Tigre
+
 //Mad Car
 ENEMY-5EB-0F: Voiture folle
+
 //Raeb Yddet
 ENEMY-5EC-10: Nounours
+
 //Magisnail
 ENEMY-5ED-11: Magiscargot
+
 //Titany
 ENEMY-5EE-12: Titanie
+
 //Giygas
 ENEMY-5EF-13: Giygas
+
 //Eagle
 ENEMY-5F0-14: Aigle
+
 //Wolf
 ENEMY-5F1-15: Loup
+
 //Gull Bandit
 ENEMY-5F2-16: Goéland bandit
+
 //Crocodile
 ENEMY-5F3-17: Crocodile
+
 //Atomic Robot
 ENEMY-5F4-18: Robot atomique
+
 //Cave Master
 ENEMY-5F5-19: Roi des profondeurs
+
 //Fugitive
 ENEMY-5F6-1A: Fugitif
+
 //BB Gang Boss
 ENEMY-5F7-1B: Chef du BB Gang
+
 //Barbot
 ENEMY-5F8-1C: Barbot
+
 //Jane
 ENEMY-5F9-1D: Jane
+
 //Starman
 ENEMY-5FA-1E: Starman
+
 //Ulrich
 ENEMY-5FB-1F: Ulrich
+
 //Brainger
 ENEMY-5FC-20: Cerebrum
+
 //Mook
 ENEMY-5FD-21: Mook
+
 //Armor
 ENEMY-5FE-22: Armure
+
 //Oak
 ENEMY-5FF-23: Chêne
+
 //Redneck
 ENEMY-600-24: Péquenaud
+
 //Hippie
 ENEMY-601-25: Hippie
+
 //Bag Lady
 ENEMY-602-26: Excentrique
+
 //Gang Member
 ENEMY-603-27: Membre du gang
+
 //Dr. Distorto
 ENEMY-604-28: Dr Distorto
+
 //
 ENEMY-605-29: 
+
 //Gang Zombie
 ENEMY-606-2A: Zombie mafieux
+
 //PseudoZombie
 ENEMY-607-2B: Pseudo zombie
+
 //Crow
 ENEMY-608-2C: Corbeau
+
 //Snake
 ENEMY-609-2D: Serpent
+
 //Hyena
 ENEMY-60A-2E: Hyène
+
 //Lynx
 ENEMY-60B-2F: Lynx
+
 //Centipede
 ENEMY-60C-30: Scolopendre
+
 //Dust Ghost
 ENEMY-60D-31: Esprit crado
+
 //Fly
 ENEMY-60E-32: Mouche
+
 //Arachnid!
 ENEMY-60F-33: Araignée
+
 //Scorpion
 ENEMY-610-34: Scorpion
+
 //Rope
 ENEMY-611-35: Corde
+
 //Fireball
 ENEMY-612-36: Boule de feu
+
 //Swoosh
 ENEMY-613-37: Zieux
+
 //Bonus Swoosh
 ENEMY-614-38: Zieux Bonus
+
 //Ghost
 ENEMY-615-39: Fantôme
+
 //Li'l Saucer
 ENEMY-616-3A: P'tit OVNI
+
 //Mr. Batty
 ENEMY-617-3B: M. Batou
+
 //Starman Jr.
 ENEMY-618-3C: Starman Jr
+
 //Skunk
 ENEMY-619-3D: Putois
+
 //BloodyZombie
 ENEMY-61A-3E: Zombie sanguinaire
+
 //Rat
 ENEMY-61B-3F: Rat
+
 //Bomber
 ENEMY-61C-40: Bombœuf
+
 //
 ENEMY-61D-41: 
+
 //Doll
 ENEMY-61E-42: Poupée
+
 //Lamp
 ENEMY-61F-43: Lampe
+
 //
 ENEMY-620-44: 
+
 //
 ENEMY-621-45: 
+
 //Biopede
 ENEMY-622-46: Scolopendre bionique
+
 //Bio-Scorpion
 ENEMY-623-47: Scorpion bionique
+
 //
 ENEMY-624-48: 
+
 //
 ENEMY-625-49: 
+
 //Red Snake
 ENEMY-626-4A: Serpent rouge
+
 //Lone Wolf
 ENEMY-627-4B: Loup solitaire
+
 //Polar Bear
 ENEMY-628-4C: Ours polaire
+
 //
 ENEMY-629-4D: 
+
 //
 ENEMY-62A-4E: 
+
 //
 ENEMY-62B-4F: 
+
 //
 ENEMY-62C-50: 
+
 //Rattlesnake
 ENEMY-62D-51: Crotale
+
 //Tarantula
 ENEMY-62E-52: Tarantule
+
 //Tough Croc
 ENEMY-62F-53: Crocodile tenace
+
 //
 ENEMY-630-54: 
+
 //Buffalo
 ENEMY-631-55: Buffle
+
 //
 ENEMY-632-56: 
+
 //Bio-Bat
 ENEMY-633-57: Batou bionique
+
 //Stray Dog
 ENEMY-634-58: Chien errant
+
 //Devil Car
 ENEMY-635-59: Voiture démoniaque
+
 //Devil Truck
 ENEMY-636-5A: Camion démoniaque
+
 //Death Truck
 ENEMY-637-5B: Camion tueur
+
 //Alarm Ghost
 ENEMY-638-5C: Fantôme SOS
+
 //
 ENEMY-639-5D: 
+
 //Woosh Swoosh
 ENEMY-63A-5E: Katzieux
+
 //Papa Swoosh
 ENEMY-63B-5F: Papa Zieux
+
 //Swooshette
 ENEMY-63C-60: Maman Zieux
+
 //
 ENEMY-63D-61: 
+
 //
 ENEMY-63E-62: 
+
 //Sky Yddet
 ENEMY-63F-63: Nounours du ciel
+
 //
 ENEMY-640-64: 
+
 //Giga-Borg
 ENEMY-641-65: Giga-Borg
+
 //Last Borg
 ENEMY-642-66: Borg ultime
+
 //Scrapper
 ENEMY-643-67: Robot cassé
+
 //Death Barbot
 ENEMY-644-68: Barbot tueur
+
 //Omega Saucer
 ENEMY-645-69: OVNI Oméga
+
 //Caroline
 ENEMY-646-6A: Caroline
+
 //Star Miner
 ENEMY-647-6B: Bombétoile
+
 //NuclearRobot
 ENEMY-648-6C: Super robot atomique
+
 //Suzie
 ENEMY-649-6D: Suzie
+
 //Blue Starman
 ENEMY-64A-6E: Starman bleu
+
 //Satania
 ENEMY-64B-6F: Satanie
+
 //Titanian
 ENEMY-64C-70: Titanien
+
 //Mook Senior
 ENEMY-64D-71: Mook senior
+
 //
 ENEMY-64E-72: 
+
 //Zombie
 ENEMY-64F-73: Zombie
+
 //Mean Zombie
 ENEMY-650-74: Zombie cruel
+
 //Silver Wolf
 ENEMY-651-75: Loup argenté
+
 //R-7037
 ENEMY-652-76: R-7037
+
 //Grizzly
 ENEMY-653-77: Grizzly
+
 //R-7038XX
 ENEMY-654-78: R-7038XX
+
 //Last Starman
 ENEMY-655-79: Starman ultime
+
 //
 ENEMY-656-7A: 
+
 //
 ENEMY-657-7B: 
+
 //
 ENEMY-658-7C: 
+
 //
 ENEMY-659-7D: 
+
 //
 ENEMY-65A-7E: 
+
 //
 ENEMY-65B-7F: 

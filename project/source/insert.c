@@ -730,7 +730,7 @@ void InsertItemArticles(void)
     while(!feof(fin))
     {
 		line[strcspn(line, "\n")] = '\0';
-        if (line[0] != '/') {
+        if (line[0] != '/' && line[0] != '\0') {
             str = &line[13];
             
             StartWritingInRom(startLoc + lineNum, WRITE_FLAG_NORMAL, "Insert M1 item articles");
@@ -766,7 +766,7 @@ void InsertEnemyArticles(void)
     while(!feof(fin))
     {
 		line[strcspn(line, "\n")] = '\0';
-        if (line[0] != '/') {
+        if (line[0] != '/' && line[0] != '\0') {
             str = &line[14];
             
             StartWritingInRom(startLoc + lineNum, WRITE_FLAG_NORMAL, "Insert M1 enemy articles");
@@ -887,7 +887,7 @@ void InsertEnemyLongNames(void)
 	fgets(line, 1000, fin);
     while(!feof(fin))
     {
-        if (line[0] != '/') {
+        if (line[0] != '/' && line[0] != '\n'&& line[0] != '\r') {
             str = &line[14];
             StartWritingInRom(startLoc + lineNum * 0x19, WRITE_FLAG_PREFILL, "Insert M1 long enemy names");
             for (i = 0; i < 0x19; i++)

@@ -16,7 +16,7 @@
 // [03 CX]		lettre nom combattant	0 pour l’acteur, 8 pour la cible				[03 20] (acteur), [03 21] (cible)
 // [03 DX]		nom long combattant		0 pour l’acteur, 8 pour la cible				[03 20] (acteur), [03 21] (cible)
 // [03 EX]		article combattant		0-7 type d’article, +8 pour la cible			[03 20] (acteur), [03 21] (cible)
-// [03 FX]		article objets			0-7 type d’article, +8 si objet					[03 22], [03 1D]
+// [03 FX]		article objets			0-7 type d’article, +8 si objet gagné au combat	[03 22], [03 1D]
 
 000: System Error![BREAK]
 000-E: Erreur système[4F]![BREAK]
