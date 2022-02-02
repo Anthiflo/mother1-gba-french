@@ -1162,7 +1162,7 @@
 22A: @I can buy your [03 1D][BREAK]for $[03 1E].[BREAK][PAUSE]@Is that okay with you?[BREAK]
 22A-E: @Je peux te racheter t[03 4B][BREAK][03 1D] pour [03 1E]$.[BREAK][PAUSE]@Ça te va[4F]?[BREAK]
 22B: @[03 3E] took out his[BREAK]great-grandfather's diary[BREAK]and read these words aloud:[BREAK][PAUSE]"...That which was left[BREAK]behind by the ship that[BREAK]soars the heavens."[BREAK]
-22B-E: @[03 3E] sort le journal de[BREAK]son arrière-grand-père et[BREAK]prononce à voix haute :[BREAK][PAUSE]"... Qu'a laissée[BREAK]derrière lui le vaisseau[BREAK]s'élevant dans les cieux.[BREAK]
+22B-E: @[03 3E] sort le journal de[BREAK]son arrière-grand-père et[BREAK]prononce à voix haute :[BREAK][PAUSE]"... Qu'a laissée[BREAK]derrière lui le vaisseau[BREAK]s'élevant dans les cieux."[BREAK]
 22C: 
 22C-E: 
 22D: 
