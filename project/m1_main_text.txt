@@ -61,11 +61,11 @@
 014: @[03 10][4F]? It's your dad.[BREAK]
 014-E: @Allô, [03 10][4F]? C'est Papa.[BREAK]
 015: @I've deposited $[03 18][BREAK]into your bank account.[BREAK][PAUSE]@Taking away what you've[BREAK]spent, you should now have[BREAK]$[03 19] in the bank.[BREAK][PAUSE]@Use it wisely.[BREAK]
-015-E: @J'ai déposé [03 18]$[BREAK]sur ton compte bancaire.[BREAK][PAUSE]@En enlevant ce que tu as[BREAK]dépensé, tu devrais avoir [BREAK][03 19]$ sur ton compte.[BREAK][PAUSE]@Fais-en bon usage.[BREAK]
+015-E: @J'ai déposé [03 18]$[BREAK]sur ton compte bancaire.[BREAK][PAUSE]@En enlevant ce que tu as[BREAK]dépensé, tu devrais avoir[BREAK][03 19]$ sur ton compte.[BREAK][PAUSE]@Fais-en bon usage.[BREAK]
 016: @I realize this isn't any of[BREAK]my business, but why don't[BREAK]you take a little break?[BREAK]
 016-E: @Je sais que ce ne sont pas[BREAK]mes affaires, mais...[BREAK][PAUSE]Pourquoi ne prendrais-tu[BREAK]pas une petite pause[4F]?[BREAK]
 017: @I see. Then I'll make a[BREAK]record of your progress.[BREAK]
-017-E: @Je vois. Dans ce cas je vais[BREAK]enregistrer ta progression.[BREAK]
+017-E: @Je vois. Dans ce cas, je[BREAK]vais enregistrer ta[BREAK]progression.[BREAK]
 018: @I see. Well, I guess the[BREAK]Earth IS in danger and all.[BREAK]
 018-E: @Je vois. Bon, c'est vrai[BREAK]que la Terre est en danger[BREAK]et tout ça...[BREAK]
 019: 
@@ -215,7 +215,7 @@
 061: @Now where did I last see[BREAK]Laura...?[BREAK]
 061-E: @Où ai-je vu Laura pour la[BREAK]dernière fois, déjà... ?[BREAK]
 062: @It sounds like Laura the[BREAK]songbird has remembered her[BREAK]song.[BREAK][PAUSE]@Have you learned her[BREAK]melody, too?[BREAK]
-062-E: @On dirait que Laura[BREAK]l'oiseau chanteur se souvient[BREAK]de sa chanson.[BREAK][PAUSE]@As-tu également appris[BREAK]sa mélodie[4F]?[BREAK]
+062-E: @On dirait que Laura[BREAK]l'oiseau chanteur se[BREAK]souvient de sa chanson.[BREAK][PAUSE]@As-tu également appris[BREAK]sa mélodie[4F]?[BREAK]
 063: @Well, that's no good.[BREAK]
 063-E: @Eh bien, ça ne va pas, ça.[BREAK]
 064: @In song there is strength.[BREAK][PAUSE]True words, indeed.[BREAK]
@@ -273,7 +273,7 @@
 07E: @I feel completely refreshed[BREAK]after stopping by Queen[BREAK]Mary's fountain![BREAK]
 07E-E: @Je me sens complètement[BREAK]revigoré après m'être[BREAK]arrêté à la fontaine de la[BREAK]reine Mary[4F]![BREAK]
 07F: @Gettng to Queen Mary's[BREAK]fountain is really tough.[BREAK][PAUSE]Not only is it far away,[BREAK]but it's hard to find, too.[BREAK]
-07F-E: @Pas facile d'aller jusqu'à[BREAK]la fontaine de la reine[BREAK]Mary.[BREAK][PAUSE]Non seulement c'est loin,[BREAK]mais c'est aussi difficile à[BREAK]trouver.[BREAK]
+07F-E: @Pas facile d'aller jusqu'à[BREAK]la fontaine de la reine[BREAK]Mary.[BREAK][PAUSE]Non seulement c'est loin,[BREAK]mais c'est aussi difficile[BREAK]à trouver.[BREAK]
 080: @I'm going to take this[BREAK]broken earring to the[BREAK]fountain to turn it into a[BREAK]magic earring.[BREAK]
 080-E: @Je vais porter cette boucle[BREAK]d'oreille cassée à la[BREAK]fontaine pour la changer en[BREAK]boucle magique.[BREAK]
 081: @I feel so relaxed just[BREAK]listening to the mysterious[BREAK]sound of the fountain.[BREAK]
@@ -375,13 +375,13 @@
 0B1: @I'm so happy you came![BREAK][PAUSE]@I know just what you want.[BREAK][PAUSE]@Here you go![BREAK]
 0B1-E: @Je suis très heureux de te[BREAK]voir[4F]![BREAK][PAUSE]@Je sais exactement ce que[BREAK]tu veux.[BREAK][PAUSE]@Et voilà[4F]![BREAK]
 0B2: @I finally wrote a song![BREAK]Give it a listen, you[BREAK]music-loving adventurer![BREAK][PAUSE]@Oh, baby doll, why do you[BREAK]weep?[BREAK][PAUSE]The saddened canary won't[BREAK]utter a peep.[BREAK][PAUSE]The monkey can sing,[BREAK]the piano - it chimes.[BREAK][PAUSE]Though ghosts will play out[BREAK]on its keyboard sometimes.[BREAK][PAUSE]Each night in the desert,[BREAK]the lone cactus croons.[BREAK][PAUSE]The dragon, when beaten,[BREAK]will carry some tunes.[BREAK][PAUSE]While scaling the mountain,[BREAK]EVE sings along.[BREAK][PAUSE]Will Queen Mary ever hear[BREAK]the XX Stone's last song?[BREAK][PAUSE]Lalala, what a mysterious[BREAK]lullaby.[BREAK][PAUSE]Lullaby, bye-bye, and[BREAK]goodbye.[BREAK][PAUSE]@What do you think? Nice[BREAK]song, huh?[BREAK][PAUSE]@It is, isn't it?[BREAK]
-0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK][PAUSE]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]depuis longtemps s'est tu.[BREAK][PAUSE]Un singe qui sait chanter,[BREAK]patiente dans son enclos.[BREAK][PAUSE]De redoutables fantômes,[BREAK]parfois jouent du piano.[BREAK][PAUSE]Chaque nuit dans le désert,[BREAK]siffle le cactus solitaire.[BREAK][PAUSE]Le dragon, une fois rossé,[BREAK]fredonne un petit air.[BREAK][PAUSE]Sur la montagne escarpée,[BREAK]ÈVE pousse un faible cri.[BREAK][PAUSE]La tombe XX a l'ultime[BREAK]mélodie que cherche Mary.[BREAK][PAUSE]Lalala, étrange comptine,[BREAK]tu me fais bâiller.[BREAK][PAUSE]Comptine, douce comptine,[BREAK]continue de me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est [BREAK]belle, non[4F]?[BREAK]
+0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK][PAUSE]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]depuis longtemps s'est tu.[BREAK][PAUSE]Un singe qui sait chanter,[BREAK]patiente dans son enclos.[BREAK][PAUSE]De redoutables fantômes,[BREAK]parfois jouent du piano.[BREAK][PAUSE]Chaque nuit dans le désert,[BREAK]siffle le cactus solitaire.[BREAK][PAUSE]Le dragon, une fois rossé,[BREAK]fredonne un petit air.[BREAK][PAUSE]Sur la montagne escarpée,[BREAK]ÈVE pousse un faible cri.[BREAK][PAUSE]La tombe XX a l'ultime[BREAK]mélodie que cherche Mary.[BREAK][PAUSE]Lalala, étrange comptine,[BREAK]tu me fais bâiller.[BREAK][PAUSE]Comptine, douce comptine,[BREAK]continue de me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est[BREAK]belle, non[4F]?[BREAK]
 0B3: @Deep in the forest is a[BREAK]guitar player who loves[BREAK]solitude.[BREAK][PAUSE]@He's kind of handsome...[BREAK]and a great poet, too.
 0B3-E: @Au cœur de la forêt se[BREAK]trouve un guitariste qui[BREAK]adore la solitude.[BREAK][PAUSE]@C'est un très bel homme...[BREAK]et un grand poète aussi.
 0B4: @I've heard about a man who[BREAK]was forgotten...[BREAK][PAUSE]@But I forget what his story[BREAK]was.[BREAK]
 0B4-E: @J'ai entendu parler d'un[BREAK]homme que tout le monde a[BREAK]oublié...[BREAK][PAUSE]@Je te raconterais bien son[BREAK]histoire, mais je l'ai[BREAK]oubliée.[BREAK]
 0B5: @Though you may not[BREAK]believe it, I'm a[BREAK]healer.[BREAK][PAUSE]@I can restore your[BREAK]PP or heal friends[BREAK]turned to stone.[BREAK][PAUSE]@So, what can I do[BREAK]for you?[BREAK]
-0B5-E: @Crois-le ou non,[BREAK]mais je suis un[BREAK]guérisseur.[BREAK][PAUSE]@Je peux restaurer[BREAK]les PP,[PAUSE]ou guérir un ami[BREAK]transformé en pierre.[BREAK][PAUSE]@Alors, que puis-je[BREAK]faire pour toi[4F]?[BREAK]
+0B5-E: @Crois-le ou non,[BREAK]mais je suis un[BREAK]guérisseur.[BREAK][PAUSE]@Je peux restaurer[BREAK]les PP,[BREAK][PAUSE]ou guérir les amis[BREAK]transformés en[BREAK]pierre.[BREAK][PAUSE]@Alors, que puis-je[BREAK]faire pour toi[4F]?[BREAK]
 0B6: @...That's what I figured.[BREAK]
 0B6-E: @... C'est bien ce[BREAK]que je pensais.
 0B7: @Don't carry so much cash[BREAK]with you.[BREAK][PAUSE]@Go think things over.[BREAK]See you later.[BREAK]
@@ -502,7 +502,7 @@
 0EC: @I heard some really weird[BREAK]stuff is happening over in[BREAK]Mother's Day...?[BREAK]
 0EC-E: @Il paraît qu'il se passe[BREAK]des choses super bizarres[BREAK]à Podunk...[4F]?[BREAK]
 0ED: @Something about a kidnapped[BREAK]zombie and animals doing[BREAK]something or other...[BREAK][PAUSE]It sounds absolutely nuts.[BREAK]
-0ED-E: @Un zombie qui se serait[BREAK]fait enlever et des machins[BREAK]à propos d'animaux...[BREAK][PAUSE]Ça a l'air complètement fou.[BREAK]
+0ED-E: @Un zombie qui se serait[BREAK]fait enlever et des machins[BREAK]à propos d'animaux...[BREAK][PAUSE]Ça a l'air complètement[BREAK]fou.[BREAK]
 0EE: Welcome to the town of[BREAK]Thanksgiving!![BREAK][PAUSE][BREAK]Advertisement: Cheap, fast,[BREAK]and handsome![BREAK][PAUSE]Big Ben Casey can heal what[BREAK]ails you![BREAK][PAUSE]Visit now for a[BREAK]super-discount checkup![BREAK][PAUSE]Protect your life... to the[BREAK]death![BREAK]
 0EE-E: Bienvenue à Merrysville[4F]!![BREAK][PAUSE][BREAK]Publicité : Rapide, pas[BREAK]cher, et séduisant[4F]![BREAK][PAUSE]Le Dr Maison peut guérir[BREAK]tous vos maux[4F]![BREAK][PAUSE]Venez dès maintenant et[BREAK]profitez d'une promotion[BREAK]exceptionnelle[4F]![BREAK][PAUSE]Protégez votre vie...[BREAK]jusqu'à la mort[4F]![BREAK]
 // this is a reference to the Ben Casey American TV drama from the 1960s
@@ -1056,7 +1056,7 @@
 1F8: @[03 13]: What're you two[BREAK]blushin' for?[BREAK][PAUSE]@Let's get goin' already!
 1F8-E: @[03 13] : Qu'est-ce que vous[BREAK]avez à rougir, tous les[BREAK]deux ?[BREAK][PAUSE]@On y va là ou quoi ?
 1F9: @I'm changing my clothes![BREAK]You pervert![BREAK]
-1F9-E: @Je suis en train de me [BREAK]changer ! Sale pervers ![BREAK]
+1F9-E: @Je suis en train de me[BREAK]changer ! Sale pervers ![BREAK]
 1FA: @I'm [03 11]'s father.[BREAK][PAUSE]@[03 10]'s dad asked for your[BREAK]name earlier. Did you give[BREAK]him the right name?[BREAK]
 1FA-E: @Je suis le père d[03 52][03 11].[BREAK][PAUSE]@Le père d[03 50][03 10] vous a[BREAK]déjà demandé votre nom. Ce[BREAK]nom était-il correct ?[BREAK]
 1FB: @Okay, great.[BREAK][PAUSE]@Please keep [03 11] safe,[BREAK]okay?[BREAK][PAUSE]@He IS a weakling, after[BREAK]all...[BREAK]
@@ -1613,7 +1613,7 @@
 304: @Did you see a strange[BREAK]teacher in the science lab?[BREAK][PAUSE]@...Because I did.
 304-E: @Est-ce que t'as vu un[BREAK]prof chelou au labo de[BREAK]sciences ?[BREAK][PAUSE]@... Moi oui.
 305: @Have you played Dragon[BREAK]Quest 4?[BREAK][PAUSE]@I'm still having a hard[BREAK]time with the third one.[BREAK]
-305-E: @T'as déjà joué à Super Mario[BREAK]Bros. 7 ?[BREAK][PAUSE]@Moi j'ai déjà du mal à[BREAK]finir le 3.[BREAK]
+305-E: @T'as déjà joué à Super[BREAK]Mario Bros. 7 ?[BREAK][PAUSE]@Moi j'ai déjà du mal à[BREAK]finir le 3.[BREAK]
 306: @Welcome.[BREAK][PAUSE]@What can I get you?[BREAK]
 306-E: @Bienvenue.[BREAK][PAUSE]@Que puis-je faire pour[BREAK]toi ?[BREAK]
 307: @I'm very sorry. That item[BREAK]is currently sold out.[BREAK]
@@ -1769,7 +1769,7 @@
 352: @Okay, I unlocked the door.[BREAK][PAUSE]@The view from the roof is[BREAK]really nice, by the way.[BREAK]
 352-E: @Voilà, j'ai déverrouillé la[BREAK]porte.[BREAK][PAUSE]@La vue depuis le toit est[BREAK]très agréable, tu verras.[BREAK]
 353: @Let's go visit Duncan's[BREAK]Factory later.[BREAK][PAUSE]@I hear there's a really[BREAK]incredible rocket there.[BREAK]
-353-E: @Allons visiter l'usine de[BREAK]Duncan plus tard.[BREAK][PAUSE]@Il paraît qu'il y a une [BREAK]fusée super géniale là-bas.[BREAK]
+353-E: @Allons visiter l'usine de[BREAK]Duncan plus tard.[BREAK][PAUSE]@Il paraît qu'il y a une[BREAK]fusée super géniale là-bas.[BREAK]
 354: @I bet people have been[BREAK]spreading rumors about how[BREAK]I'm a "weakling stinkling"[BREAK]or a "stupid head"...[BREAK]
 354-E: @Tu as dû entendre tout le[BREAK]monde dire que je suis une[BREAK]"mauviette à grosse tête"[BREAK]ou une "andouille"...[BREAK]
 355: @Oh... It's morning now.[BREAK]
@@ -1929,7 +1929,7 @@
 3A2: Cure Poison   Soften
 3A2-E:   Guérir   Dépétrifier
 3A3: South: Mother's Day[BREAK]North: Cream Puff Zoo [BREAK]
-3A3-E: Sud : Podunk[BREAK]Nord : Zoo Patachou [BREAK]
+3A3-E: Sud : Podunk[BREAK]Nord : Zoo Patachou[BREAK]
 3A4: Canary Village ahead[BREAK][BREAK]Let's nurture nature[BREAK]together![BREAK]
 3A4-E: Vers le village Canari[BREAK][BREAK]Ensemble, prenons soin de[BREAK]la nature[4F]![BREAK]
 3A5: Mother's Day Town Hall[BREAK]
