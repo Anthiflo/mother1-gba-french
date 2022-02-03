@@ -271,7 +271,7 @@
 07D: @You really should meet him.[BREAK]You'll be a better person[BREAK]for it![BREAK]
 07D-E: @Tu devrais vraiment le[BREAK]rencontrer. Tu deviendrais[BREAK]une meilleure personne[4F]![BREAK]
 07E: @I feel completely refreshed[BREAK]after stopping by Queen[BREAK]Mary's fountain![BREAK]
-07E-E: @Je me sens complètement[BREAK]revigoré après m'être[BREAK]arrêté à la fontaine de la[BREAK]reine Mary![BREAK]
+07E-E: @Je me sens complètement[BREAK]revigoré après m'être[BREAK]arrêté à la fontaine de la[BREAK]reine Mary[4F]![BREAK]
 07F: @Gettng to Queen Mary's[BREAK]fountain is really tough.[BREAK][PAUSE]Not only is it far away,[BREAK]but it's hard to find, too.[BREAK]
 07F-E: @Pas facile d'aller jusqu'à[BREAK]la fontaine de la reine[BREAK]Mary.[BREAK][PAUSE]Non seulement c'est loin,[BREAK]mais c'est aussi difficile à[BREAK]trouver.[BREAK]
 080: @I'm going to take this[BREAK]broken earring to the[BREAK]fountain to turn it into a[BREAK]magic earring.[BREAK]
@@ -602,7 +602,7 @@
 118: @No running in the halls![BREAK]
 118-E: @On ne court pas dans les[BREAK]couloirs[4F]![BREAK]
 119: @Hey! I haven't seen you[BREAK]before, kid![BREAK][PAUSE]@Do you even go to this[BREAK]school?[BREAK]
-119-E: @Hé! Je ne t'avais jamais vu[BREAK]avant, petit[4F]![BREAK][PAUSE]@Tu es bien un élève de[BREAK]cette école[4F]?[BREAK]
+119-E: @Hé[4F]! Je ne t'avais jamais[BREAK]vu avant, petit[4F]![BREAK][PAUSE]@Tu es bien un élève de[BREAK]cette école[4F]?[BREAK]
 11A: @Oh, okay. Just don't run in[BREAK]the halls.[BREAK]
 11A-E: @Oh, d'accord. Fais juste[BREAK]attention à ne pas courir[BREAK]dans les couloirs.[BREAK]
 11B: @Show me what you have.[BREAK][PAUSE]@You better not be carrying[BREAK]anything dangerous...[BREAK]
@@ -759,9 +759,9 @@
 165: @Gyaaaa![BREAK]
 165-E: @Gyaaah ![BREAK]
 166: @[03 16].[BREAK][PAUSE]@You're going to die.[BREAK][PAUSE]@Heeheehee hehehe![BREAK][PAUSE]...Keeheeheehee![BREAK]
-166-E: @[03 16].[BREAK][PAUSE]@Tu vas mourir.[BREAK][PAUSE]@Hiihiihii héhéhé![BREAK][PAUSE]... Kiihiihihii ![BREAK]
+166-E: @[03 16].[BREAK][PAUSE]@Tu vas mourir.[BREAK][PAUSE]@Hiihiihii héhéhé[4F]![BREAK][PAUSE]... Kiihiihihii ![BREAK]
 167: @A suspicious rat... I am[BREAK]not.[BREAK][PAUSE]@The room with the piano...[BREAK][PAUSE]@Heheheh...![BREAK]
-167-E: @Je suis... une souris tout[BREAK]à fait normale.[BREAK][PAUSE]@La salle avec le piano...[BREAK][PAUSE]@Hé hé hé...![BREAK]
+167-E: @Je suis... une souris tout[BREAK]à fait normale.[BREAK][PAUSE]@La salle avec le piano...[BREAK][PAUSE]@Hé hé hé...[4F]![BREAK]
 168: @The haunted house belongs[BREAK]to the Rosemarys.[BREAK]
 168-E: @La maison hantée appartient[BREAK]aux Rosemary.[BREAK]
 169: @A ghost started showing up[BREAK]at my house, too.[BREAK][PAUSE]@It finally left 'cause it[BREAK]hated how cramped it was.[BREAK]
@@ -853,7 +853,7 @@
 194: @[03 10]...[BREAK][PAUSE]@Do you like me?[BREAK]
 194-E: @[03 10]...[BREAK][PAUSE]@Est-ce que tu m'aimes ?[BREAK]
 195: @What's wrong, [03 11]?[BREAK]
-195-E: @Qu'est-ce qui ne va pas,[BREAK][03 11]?[BREAK]
+195-E: @Qu'est-ce qui ne va pas,[BREAK][03 11][4F]?[BREAK]
 196: @The dragon is asleep.[BREAK][PAUSE]@[03 16] can't wake it up[BREAK]just yet.[BREAK]
 196-E: @Le dragon est endormi.[BREAK][PAUSE]@[03 16] ne peut pas le[BREAK]réveiller pour le moment.[BREAK]
 197: @The dragon sensed [03 16]'s[BREAK]presence and awoke.[BREAK][PAUSE]@"NO ONE WEAKER THAN ME CAN[BREAK]HAVE THIS SHEET MUSIC."[BREAK]
@@ -2006,7 +2006,7 @@
 3C7: @The [03 1D],[BREAK]right?[BREAK][PAUSE]@I'll be sure to[BREAK]send it to [03 10]'s[BREAK]house.[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]store?[BREAK]
 3C7-E: @L[03 49][03 1D],[BREAK]c'est ça ?[BREAK][PAUSE]@Je m'assurerai de[BREAK]l'envoyer chez[BREAK][03 10].[BREAK][PAUSE]@Y a-t-il autre[BREAK]chose que tu veux[BREAK]que je stocke ?[BREAK]
 3C8: @What are we trapped inside[BREAK]these cramped things for?[BREAK][PAUSE]@What's going to happen to[BREAK]us?[BREAK]
-3C8-E: @Pourquoi sommes-nous[BREAK]enfermés dans ces machins[BREAK]étroits ?[BREAK][PAUSE]@Qu'est-ce qui va nous[BREAK]arriver?[BREAK]
+3C8-E: @Pourquoi sommes-nous[BREAK]enfermés dans ces machins[BREAK]étroits ?[BREAK][PAUSE]@Qu'est-ce qui va nous[BREAK]arriver[4F]?[BREAK]
 3C9: Sweet Little Factory[BREAK]
 3C9-E: Usine Minimimi[BREAK]
 3CA: @The mothership brought us[BREAK]to the top of the mountain,[BREAK][PAUSE]and when we came to, we[BREAK]were stuck in these[BREAK]things...[BREAK][PAUSE]@Please, do something![BREAK]
@@ -3850,7 +3850,7 @@
 761: "Pass"[BREAK]@"Duncan Factory Employee"[BREAK]is written on it.
 761-E: "Passe"[BREAK]@"Employé Usine Duncan"[BREAK]est écrit dessus.
 762: "Show Ticket"[BREAK]@"Every Day All Night[BREAK]Rock 'n' Roll Live Show"[BREAK]is written on it.
-762-E: "Billet de spectacle"[BREAK]@Il est écrit : "Spectacle[BREAK]live de  rock 'n' roll[BREAK]tous les soirs".
+762-E: "Billet de spectacle"[BREAK]@Il est écrit : "Spectacle[BREAK]live de rock 'n' roll[BREAK]tous les soirs".
 763: 
 763-E: 
 764: 
@@ -4118,7 +4118,7 @@
 7E7: [03 21] was enveloped in a barrier!
 7E7-E: [03 EA][03 D8][03 C8] est enveloppé[03 EC] d'une barrière[4F]!
 7E8: "You're a disgrace to your mom!"
-7E8-E: "Tu fais honte à ta mère!"
+7E8-E: "Tu fais honte à ta mère[4F]!"
 7E9: [03 21] turned to stone!
 7E9-E: [03 EA][03 D8][03 C8] se transforme en pierre[4F]!
 7EA: [03 20] spewed a a sticky substance!
@@ -4240,7 +4240,7 @@
 824: Not enough PP!
 824-E: Pas assez de PP[4F]!
 825: There was no effect on [03 21]!
-825-E: Ça n'a pas d'effet sur [03 EB][03 D8][03 C8] !
+825-E: Ça n'a pas d'effet sur [03 EB][03 D8][03 C8][4F]!
 826: [03 20] had an asthma attack![BREAK]... (cough cough cough)
 826-E: [03 E2][03 D0][03 C0] est pris d'une crise d'asthme[4F]![BREAK]... (kof kof kof)
 827: [03 20] is praying!
@@ -4272,7 +4272,7 @@
 834: [03 20] tried [03 22]!
 834-E: [03 E2][03 D0][03 C0] tente [03 22][4F]!
 835: [03 20] can't use [03 22]!
-835-E: [03 E2][03 D0][03 C0] ne peut pas utiliser l[03 F1][03 22]!
+835-E: [03 E2][03 D0][03 C0] ne peut pas utiliser l[03 F1][03 22][4F]!
 836: [03 20] is sizing up the situation...
 836-E: [03 E2][03 D0][03 C0] prend la mesure de la situation...
 837: [03 20] did something strange!
@@ -4351,7 +4351,7 @@
 85B: [03 20] escaped from the rope!
 85B-E: [03 E2][03 D0][03 C0] s'est défait de ses liens[4F]!
 85C: Picked up [03 F1][03 1D]![BREAK][PAUSE][03 01]
-85C-E: Vous ramassez [03 F8][03 1D]![BREAK][PAUSE][03 01]
+85C-E: Vous ramassez [03 F8][03 1D][4F]![BREAK][PAUSE][03 01]
 85D: [03 21]'s confusion went away!
 85D-E: La confusion [03 ED][03 D8][03 C8] s'est dissipée[4F]!
 85E: [03 20] woke up!
@@ -4396,7 +4396,7 @@
 871: "Stop singing!"
 871-E: "Arrêtez de chanter[4F]!"
 872: "You Earth insects![BREAK]Shut up! Stop singing!"
-872-E: "Misérables insectes terriens![BREAK][PAUSE]Silence[4F]! Arrêtez de chanter[4F]!"
+872-E: "Misérables insectes terriens[4F]![BREAK][PAUSE]Silence[4F]! Arrêtez de chanter[4F]!"
 873: "Stop..."
 873-E: "Arrêtez..."
 874: "...singing!"
