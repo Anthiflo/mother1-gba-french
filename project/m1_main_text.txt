@@ -101,7 +101,7 @@
 028: @Are you really a human?[BREAK]
 028-E: @Tu es vraiment humain[4F]?[BREAK]
 029: @I'm amazed you made it this[BREAK]far.[BREAK]
-029-E: @Je suis impressioné que tu[BREAK]sois arrivé jusqu'ici.[BREAK]
+029-E: @Je suis impressionné que tu[BREAK]sois arrivé jusqu'ici.[BREAK]
 02A: @I knew it...[BREAK]
 02A-E: @Je le savais...[BREAK]
 02B: @I'm so scared I'm about to[BREAK]wet my pants...[BREAK]
@@ -410,7 +410,7 @@
 0C1: @You rotten liar![BREAK]
 0C1-E: @Espèce de sale menteur[4F]![BREAK]
 0C2: @We all know you're not from[BREAK]here, but we consider you[BREAK]one of us just the same.[BREAK][PAUSE]@With the Onyx Hook, you can[BREAK]come back here any time.[BREAK]
-0C2-E: @Nous savons que tu n'es pas[BREAK]d'ici mais nous te considé-[BREAK]rons comme l'un des nôtres.[BREAK][PAUSE]@Avec ce Crochet d'Onyx, tu[BREAK]pourras revenir ici quand[BREAK]tu le voudras.[BREAK]
+0C2-E: @Nous savons que tu n'es pas[BREAK]d'ici mais nous te considé-[BREAK]rons comme l'un des nôtres.[BREAK][PAUSE]@Avec ce Crochet d'onyx, tu[BREAK]pourras revenir ici quand[BREAK]tu le voudras.[BREAK]
 0C3: @Don't hesitate to come[BREAK]visit us again whenever[BREAK]you're having a hard time.[BREAK][PAUSE]@Everyone here loves you.[BREAK]
 0C3-E: @N'hésite pas à venir nous[BREAK]rendre visite dès que tu[BREAK]ne te sens pas bien.[BREAK][PAUSE]@Ici, tout le monde t'aime.[BREAK]
 0C4: @Welcome, [03 16].[BREAK][PAUSE]@Here in the land of[BREAK]Magicant, everyone is your[BREAK]friend[BREAK][PAUSE]and you can have as much as[BREAK]you like of whatever you[BREAK]want.[BREAK][PAUSE]@Oh? You want to hear my[BREAK]song?[BREAK][PAUSE]@I'm sorry. I don't know[BREAK]why, but I just can't seem[BREAK]to remember it.[BREAK][PAUSE]@I'm sure I'll be able to[BREAK]remember it someday...[BREAK][PAUSE]@If I can just sing it[BREAK]again, something will[BREAK]happen...[BREAK][PAUSE]I just know it.[BREAK]
@@ -692,7 +692,7 @@
 145: @Looks like he got away.[BREAK][PAUSE]@Guess I'll just go and[BREAK]catch some speeders then...[BREAK]
 145-E: @Il a sûrement dû s'enfuir.[BREAK][PAUSE]@Je vais devoir me contenter[BREAK]d'arrêter des voitures qui[BREAK]roulent 1 km/h trop vite...[BREAK]
 146: @He ate five orders of[BREAK][03 15] and then ran off[BREAK]without paying.[BREAK][PAUSE]@If you see him, let me know[BREAK]immediately![BREAK]
-146-E: @Il a mangé cinq assiettes[BREAK]d[03 5F][03 15] et s'est enfui[BREAK]sans payer.[BREAK][PAUSE]@Si tu le vois, préviens-moi[BREAK]immédiatemment ![BREAK]
+146-E: @Il a mangé cinq assiettes[BREAK]d[03 5F][03 15] et s'est enfui[BREAK]sans payer.[BREAK][PAUSE]@Si tu le vois, préviens-moi[BREAK]immédiatement ![BREAK]
 147: @Oof, my stomach's so full.[BREAK](belch)
 147-E: @Pfiou, j'ai le ventre bien[BREAK]rempli. (rote)
 148: @Things've gotten mighty[BREAK]dangerous in this town.[BREAK][PAUSE]@But it's still a whole lot[BREAK]better than the city of[BREAK]Valentine, that's for sure.[BREAK]
@@ -1438,7 +1438,7 @@
 2AE: @There was a landslide and[BREAK]now big rocks are blocking[BREAK]the railroad tracks.[BREAK][PAUSE]@The train can't get[BREAK]through.[BREAK]
 2AE-E: @Il y a eu un éboulement et[BREAK]maintenant de gros rochers[BREAK]bloquent les rails.[BREAK][PAUSE]@Le train de peut pas[BREAK]passer.[BREAK]
 2AF: @You understand animal talk,[BREAK]right?[BREAK][PAUSE]@Then I'll give you a hint:[BREAK]try checking me.[BREAK][PAUSE]@Woof![BREAK]
-2AF-E: @Tu comprends le language[BREAK]animal, pas vrai ?[BREAK][PAUSE]@Alors voici un indice :[BREAK]essaie de m'examiner.[BREAK][PAUSE]@Ouaf ![BREAK]
+2AF-E: @Tu comprends le langage[BREAK]animal, pas vrai ?[BREAK][PAUSE]@Alors voici un indice :[BREAK]essaie de m'examiner.[BREAK][PAUSE]@Ouaf ![BREAK]
 2B0: @You don't have enough[BREAK]money. That's too bad.[BREAK][PAUSE]@Please come again some[BREAK]other time.[BREAK]
 2B0-E: @Tu n'as pas assez d'argent.[BREAK]Quel dommage.[BREAK][PAUSE]@Reviens une autre fois.[BREAK]
 // from eb, possible hospital text?
@@ -1547,7 +1547,7 @@
 2E3: @If you have really strong[BREAK]cold medicine, they'll buy[BREAK]it for a lot at the store.[BREAK]
 2E3-E: @Si tu as un remède efficace[BREAK]contre le rhume, ce magasin[BREAK]te le rachètera à prix[BREAK]d'or.
 2E4: @I'm a cheery mailman,[BREAK]la-la-la![BREAK][PAUSE]@Do you know where the[BREAK]Rosemarys moved to,[BREAK]la-la-la?[BREAK]
-2E4-E: @Je suis un facteur jovial,[BREAK]la-la-la ![BREAK][PAUSE]@Sais-tu où les Rosemary ont[BREAK]emmenagé, la-la-la ?[BREAK]
+2E4-E: @Je suis un facteur jovial,[BREAK]la-la-la ![BREAK][PAUSE]@Sais-tu où les Rosemary ont[BREAK]emménagé, la-la-la ?[BREAK]
 2E5: @The mailman's trying to[BREAK]find the Rosemarys' new[BREAK]address.[BREAK][PAUSE]@If you see him, tell them[BREAK]they live much further to[BREAK]the east.[BREAK][PAUSE]@La-la-la![BREAK]
 2E5-E: @Le facteur cherche la[BREAK]nouvelle adresse des[BREAK]Rosemary.[BREAK][PAUSE]@Si tu le croises, dis-lui[BREAK]qu'ils habitent désormais[BREAK]bien plus à l'est.[BREAK][PAUSE]@La-la-la ![BREAK]
 2E6: @That Rosemary girl gives me[BREAK]the creeps![BREAK]
@@ -1651,7 +1651,7 @@
 317: @Pleasant dreams![BREAK]
 317-E: @Bonne nuit ![BREAK]
 318: @Good morning.[BREAK][PAUSE]@Please come back again.[BREAK]We look forward to it.[BREAK]
-318-E: @Bonnne journée.[BREAK][PAUSE]@Nous nous réjouissons de ta[BREAK]prochaine visite.[BREAK]
+318-E: @Bonne journée.[BREAK][PAUSE]@Nous nous réjouissons de ta[BREAK]prochaine visite.[BREAK]
 319: @[03 1B] was just[BREAK]brought in, and is[BREAK]still unconscious.[BREAK][PAUSE]@Please pay $[03 1E][BREAK]for the doctor's[BREAK]fee.[BREAK]
 319-E: @On a pris en charge[BREAK][03 1B], toujours[BREAK]sans connaissance.[BREAK][PAUSE]@Les honoraires du[BREAK]médecin s'élèvent[BREAK]à [03 1E]$[BREAK]
 31A: @Who are you here to[BREAK]see?[BREAK]
@@ -1739,7 +1739,7 @@
 343: @The robot is old and[BREAK]rusted.[BREAK]
 343-E: @Le robot est vieux et[BREAK]rouillé.[BREAK]
 344: @The instant it sensed[BREAK][03 10], the robot sprang to[BREAK]life.[BREAK]
-344-E: @Sentant le présence[BREAK]d[03 50][03 10], le robot se met[BREAK]en marche.[BREAK]
+344-E: @Sentant la présence[BREAK]d[03 50][03 10], le robot se met[BREAK]en marche.[BREAK]
 345: @[03 1B]: [03 1E] EXP.[BREAK]
 345-E: @[03 1B] : [03 1E] EXP.[BREAK]
 346: @Good luck.[BREAK]
@@ -1779,7 +1779,7 @@
 357: @Hey, pipsqueak![BREAK][PAUSE]Who said you could talk to[BREAK]me?![BREAK]
 357-E: @Hé, avorton[4F]![BREAK][PAUSE]Qui a dit que tu pouvais[BREAK]m'adresser la parole[4F]?![BREAK]
 358: @I heard there's a Famicom[BREAK]game called "MOTHER" now.[BREAK][PAUSE]@They totally copied that[BREAK]from John Lennon, didn't[BREAK]they?[BREAK]
-358-E: @Il paraît qu'il y un jeu[BREAK]vidéo appelé "MOTHER".[BREAK][PAUSE]@Ils ont carrément pompé sur[BREAK]John Lennon, non[4F]?[BREAK]
+358-E: @Il paraît qu'il y a un jeu[BREAK]vidéo appelé "MOTHER".[BREAK][PAUSE]@Ils ont carrément pompé sur[BREAK]John Lennon, non[4F]?[BREAK]
 359: 
 359-E: 
 35A: @An old lady at the Reindeer[BREAK]train station has something[BREAK]very important to give you.[BREAK][PAUSE]@Have you met her yet?[BREAK]
@@ -1955,7 +1955,7 @@
 3AF: Welcome to Thanksgiving![BREAK][BREAK]West:  Mother's Day[BREAK]North: Santa Claus Station[BREAK]
 3AF-E: Bienvenue à Merrysville[4F]![BREAK][BREAK]Ouest : Podunk[BREAK]Nord : Gare de l'Union[BREAK]
 3B0: West:  Healer's House[BREAK]East:  Reindeer Station[BREAK]South: Reindeer[BREAK]
-3B0-E: Ouest : Chez le guériseur[BREAK]Est : Gare de Reindeer[BREAK]Sud : Reindeer[BREAK]
+3B0-E: Ouest : Chez le guérisseur[BREAK]Est : Gare de Reindeer[BREAK]Sud : Reindeer[BREAK]
 3B1: West: Downtown Halloween[BREAK]East: Halloween residential[BREAK]      area[BREAK]
 3B1-E: Ouest : Atrocity centre[BREAK]Est : Quartier résidentiel[BREAK]      d'Atrocity[BREAK]
 3B2: East: Swamp[BREAK]
@@ -2040,7 +2040,7 @@
 3D8: @This'll return you back to[BREAK]your previous save data.[BREAK]Is that all right?[BREAK]
 3D8-E: @Tu reprendras la partie à[BREAK]ta dernière sauvegarde.[BREAK]Cela te convient ?[BREAK]
 3D9: @You said yes, but you don't[BREAK]have a save file![BREAK][PAUSE]Ahahaha![BREAK]
-3D9-E: @Tu as dis oui, mais tu n'as[BREAK]aucune partie enregistrée ![BREAK][PAUSE]Ha ha ha ha ![BREAK]
+3D9-E: @Tu as dit oui, mais tu n'as[BREAK]aucune partie enregistrée ![BREAK][PAUSE]Ha ha ha ha ![BREAK]
 3DA: @His breathing is rough. He[BREAK]looks like he's in pain.[BREAK]
 3DA-E: @Il respire difficilement.[BREAK]Il semble souffrir.[BREAK]
 3DB: @You don't have any[BREAK]friends to give[BREAK]items to yet.[BREAK]
@@ -2052,7 +2052,7 @@
 3DE: @The storeroom is[BREAK]full.[BREAK]
 3DE-E: @La réserve est[BREAK]pleine.[BREAK]
 3DF: @Once Queen Mary finished[BREAK]speaking to [03 10], she[BREAK]disappeared into the wind.[BREAK][PAUSE]And then the land of[BREAK]Magicant itself vanished[BREAK]without a trace.[BREAK][PAUSE]@Magicant had actually been[BREAK]an illusion born of Mary's[BREAK]conciousness.[BREAK]
-3DF-E: @Une fois son discours à[BREAK][03 10] terminé, la reine[BREAK]Mary se volatisa.[BREAK][PAUSE]Puis le monde de Magicant[BREAK]tout entier disparut sans[BREAK]laisser de trace.[BREAK][PAUSE]@Magicant était en réalité[BREAK]une illusion née de la[BREAK]conscience de Mary.[BREAK]
+3DF-E: @Une fois son discours à[BREAK][03 10] terminé, la reine[BREAK]Mary se volatilisa.[BREAK][PAUSE]Puis le monde de Magicant[BREAK]tout entier disparut sans[BREAK]laisser de trace.[BREAK][PAUSE]@Magicant était en réalité[BREAK]une illusion née de la[BREAK]conscience de Mary.[BREAK]
 3E0: @It was I who called you[BREAK]here.[BREAK][PAUSE]@[03 10]![BREAK][PAUSE][03 12]![BREAK][PAUSE][03 11]![BREAK][PAUSE][03 13]![BREAK][PAUSE]@And all courageous children[BREAK]out there...[BREAK][PAUSE]@The time is now![BREAK]
 3E0-E: @C'est moi qui vous ai[BREAK]amenés ici.[BREAK][PAUSE]@[03 10] ![BREAK][PAUSE][03 12] ![BREAK][PAUSE][03 11] ![BREAK][PAUSE][03 13] ![BREAK][PAUSE]@Et tous les courageux[BREAK]enfants du monde...[BREAK][PAUSE]@Le moment est venu ![BREAK]
 3E1: @Shh! I'm just like you![BREAK]I'm from the other world![BREAK][PAUSE]@For some money, I'll share[BREAK]some souvenirs of Magicant[BREAK]with you.[BREAK][PAUSE]@Hee hee hee![BREAK]
@@ -2676,11 +2676,11 @@
 516: It appears to be holding a very important secret.
 516-E: Il semble garder un secret d'une grande importance.
 517: Is there actually any way to defeat this thing?
-517-E: Existe-il réellement un moyen de vaincre cette chose[4F]?
+517-E: Existe-t-il réellement un moyen de vaincre cette chose[4F]?
 518: Sometimes it'll slam you with its heavy body or attack with its long trunk!
 518-E: Il peut vous écraser avec son énorme corps ou vous attaquer avec sa trompe[4F]!
 519: Someone ate its food, and it's not happy at all!
-519-E: Quelqu'un a mangé sa nouriture, et il n'est pas content du tout[4F]!
+519-E: Quelqu'un a mangé sa nourriture, et il n'est pas content du tout[4F]!
 51A: Shocked? It really does exist!
 51A-E: Surpris[4F]? Il existe vraiment[4F]!
 51B: Watch out for its exhaust! It can cause an asthma attack!
@@ -2692,7 +2692,7 @@
 51E: This has the power to turn people into stone.
 51E-E: Elle a le pouvoir de changer les gens en pierre.
 51F: Creatures like this shouldn't exist on Earth, but...
-51F-E: Ce genre de créatures ne devrait pas exister sur Terre, et pourtant...
+51F-E: Ce genre de créature ne devrait pas exister sur Terre, et pourtant...
 520: This is no time to be getting caught up with a punk ape like this!
 520-E: Ce n'est pas le moment de se faire attraper par ce voyou de singe[4F]!
 521: The only one not afraid of this thing's face is its own mother.
@@ -2766,7 +2766,7 @@
 543: This animal is quite a bit different from your ordinary pet cat.
 543-E: Cet animal est plutôt différent d'un chat de compagnie ordinaire.
 544: Kill it with bug spray!
-544-E: Tuez le avec de l'insecticide[4F]!
+544-E: Tuez-le avec de l'insecticide[4F]!
 545: Aaaachoo!!
 545-E: Aaatchoum[4F]!!
 546: Bug spray works wonders on it!
@@ -2852,7 +2852,7 @@
 56E: Hypnosis probably doesn't work on trucks, does it?
 56E-E: L'hypnose ne fonctionne probablement pas sur les camions, si[4F]?
 56F: How will it come at you next?! Straight-on, or in a zig-zag?!
-56F-E: Comment va-t-il vous foncer dessus[4F]?! En ligne droite, ou en zig-zag[4F]?!
+56F-E: Comment va-t-il vous foncer dessus[4F]?! En ligne droite, ou en zigzag[4F]?!
 570: Watch out, it'll call for friends if it's alarmed!
 570-E: Attention, il appellera ses amis s'il est en alerte[4F]!
 571: 
@@ -2876,7 +2876,7 @@
 57A: This thing is devilishly strong.
 57A-E: Cette chose est diablement forte.
 57B: It may look like a hunk of junk, but don't underestimate it!
-57B-E: On dirait un tas de feraille, mais ne le sous-estimez pas[4F]!
+57B-E: On dirait un tas de ferraille, mais ne le sous-estimez pas[4F]!
 57C: A cutting-edge, mass-produced robot.
 57C-E: Un robot produit en série, à la pointe de la technologie.
 57D: It's about as big as a manhole cover...
@@ -3234,7 +3234,7 @@
 62D: Rattlesnake
 62D-E: Crotale
 62E: Tarantula
-62E-E: Tarantule
+62E-E: Tarentule
 62F: Tough Croc
 62F-E: Croco tenace
 630: 
@@ -3574,7 +3574,7 @@
 6D7: @[03 1A] is unconcious.[BREAK]
 6D7-E: @[03 1A] est évanoui[03 70].[BREAK]
 6D8: @The entire party was[BREAK]healed![BREAK]
-6D8-E: @L'équipe tout entière est[BREAK]soigné[4F]![BREAK]
+6D8-E: @L'équipe tout entière a[BREAK]été soignée[4F]![BREAK]
 6D9: @[03 10] sensed a faint[BREAK]memory of his[BREAK]great-grandfather![BREAK]
 6D9-E: @[03 10] détecte un faible[BREAK]souvenir de son arrière-[BREAK]grand-père[4F]![BREAK]
 6DA: @Huh? There still seems to[BREAK]be something inside EVE's[BREAK]body...[BREAK]
@@ -3652,7 +3652,7 @@
 6FE: [BREAK][BREAK][BREAK][BREAK]
 6FE-E: [BREAK][BREAK][BREAK][BREAK]
 6FF: [03 12] is reunited with her[BREAK]mother as the rest of the[BREAK]freed people exit the cave.[BREAK]
-6FF-E: [03 12] retrouve sa mère[BREAK]pendant que les autres[BREAK]terriens libérés quittent[BREAK]la grotte du Mont Itoi.[BREAK]
+6FF-E: [03 12] retrouve sa mère[BREAK]pendant que les autres[BREAK]terriens libérés quittent[BREAK]la grotte du mont Itoi.[BREAK]
 700: [03 13], his health fully[BREAK]recovered, is now a popular[BREAK]singer at the Live House.[BREAK]
 700-E: [03 13], complètement[BREAK]rétabli de ses blessures,[BREAK]est désormais un chanteur[BREAK]populaire au Live House.[BREAK]
 701: The abducted grownups return[BREAK]to their children in Easter.[BREAK]You did great, kids![BREAK]
@@ -3700,7 +3700,7 @@
 716: "Stun Gun"[BREAK]@[03 11] can probably use[BREAK]this.
 716-E: "Taser"[BREAK]@Un pistolet paralysant.[BREAK][03 11] peut probablement[BREAK]l'utiliser.
 717: "Toy Air Gun"[BREAK]@This is a very strong[BREAK]weapon, but only [03 11] can[BREAK]use it.
-717-E: "Pistolet à billes"[BREAK]@Il s'agit d'une arme[BREAK]redoutable, mais seul[BREAK][03 11] peut l'utliser.
+717-E: "Pistolet à billes"[BREAK]@Il s'agit d'une arme[BREAK]redoutable, mais seul[BREAK][03 11] peut l'utiliser.
 718: "Cracked Bat"[BREAK]@[03 10]! Try using this as a[BREAK]weapon!
 718-E: "Batte fêlée"[BREAK]@[03 10], tente de l'utiliser[BREAK]en tant qu'arme[4F]!
 719: "Teeball Bat"[BREAK]@This should work well[BREAK]against weak enemies,[BREAK][03 10].
@@ -3750,7 +3750,7 @@
 72F: 
 72F-E: 
 730: "Rope"[BREAK]@Use this to tie up the[BREAK]enemy.
-730-E: "Corde"[BREAK]@Utlisez-la pour ligoter un[BREAK]ennemi.
+730-E: "Corde"[BREAK]@Utilisez-la pour ligoter un[BREAK]ennemi.
 731: 
 731-E: 
 732: 
@@ -3874,7 +3874,7 @@
 76D: 
 76D-E: 
 76E: "Ocarina of Hope"[BREAK]@You can use this to hear[BREAK]the melodies you've[BREAK]collected so far.
-76E-E: "Ocarina de l'espoir"[BREAK]@Vous pouvez l'utiliser pour[BREAK]entendre les mélodies que[BREAK]vous avez collecté.
+76E-E: "Ocarina de l'espoir"[BREAK]@Vous pouvez l'utiliser pour[BREAK]entendre les mélodies que[BREAK]vous avez collectées.
 76F: 
 76F-E: 
 770: "Franklin Badge"[BREAK]@It's said Ben Franklin wore[BREAK]this as protection during[BREAK]his lightning experiments.
@@ -4262,7 +4262,7 @@
 82F: [03 21] writhed around in itchy pain!
 82F-E: [03 EA][03 D8][03 C8] souffre d'horribles démangeaisons[4F]!
 830: [03 21] is able to move again!
-830-E: [03 EA][03 D8][03 C8] peut à nouver bouger[4F]!
+830-E: [03 EA][03 D8][03 C8] peut de nouveau bouger[4F]!
 831: [03 21] woke up!
 831-E: [03 EA][03 D8][03 C8] se réveille[4F]!
 832: [03 21] was revived!!!
@@ -4380,7 +4380,7 @@
 869: "And now their descendant[BREAK][PAUSE]is bent on hindering our plan again...[BREAK][PAUSE][03 10]! I am referring to you!"[BREAK][PAUSE][03 01]
 869-E: "Et maintenant leur descendant[BREAK][PAUSE]est déterminé à entraver notre plan à nouveau...[BREAK][PAUSE][03 10][4F]! C'est de toi que je parle[4F]!"[BREAK][PAUSE][03 01]
 86A: "Now leave![BREAK][PAUSE]May you be destroyed[BREAK][PAUSE]with the rest of the disgusting Earth people!"[BREAK][PAUSE][03 01]
-86A-E: "Maintenant partez[4F]![BREAK][PAUSE]Puissiez-vous être anéantis[BREAK][PAUSE]avec le reste des immondes habitants de la Terre[4F]!"[BREAK][PAUSE][03 01]
+86A-E: "Maintenant, partez[4F]![BREAK][PAUSE]Puissiez-vous être anéantis[BREAK][PAUSE]avec le reste des immondes habitants de la Terre[4F]!"[BREAK][PAUSE][03 01]
 86B: "You are too weak to do anything![BREAK][PAUSE]You are mere insects to me!"[BREAK][PAUSE][03 01]
 86B-E: "Vous êtes trop faibles,[BREAK][PAUSE]vous ne pouvez rien contre moi[4F]![BREAK][PAUSE]À mes yeux, vous n'êtes que des insectes[4F]!"[BREAK][PAUSE][03 01]
 86C: "[03 10]...[BREAK][PAUSE]I'm willing to let you, and only you, live.[BREAK][PAUSE]Board the mothership with me."[BREAK][PAUSE][03 01]
