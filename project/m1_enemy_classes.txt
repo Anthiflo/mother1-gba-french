@@ -5,6 +5,8 @@ Le
 le 
 
 du 
+
+
 //01: Masculin nom commun voyelle initiale
 Un 
 un 
@@ -12,6 +14,8 @@ L'
 l'
 
 de l'
+
+
 //02: Masculin nom propre consonne initiale
 Le 
 le 
@@ -19,6 +23,8 @@ Le
 le 
 
 du 
+
+
 //03: Masculin nom propre voyelle initiale
 L'
 l'
@@ -26,7 +32,11 @@ L'
 l'
 
 du 
+
+
 //04:
+
+
 
 
 
@@ -40,6 +50,8 @@ du
 
 
 
+
+
 //06: Masculin sans article consonne initiale
 
 
@@ -47,6 +59,8 @@ du
 
 
 de 
+
+
 //07: Masculin sans article voyelle initiale
 
 
@@ -54,6 +68,8 @@ de
 
 
 d'
+
+
 //08: Féminin nom commun consonne initiale
 Une 
 une 
@@ -61,6 +77,8 @@ La
 la 
 e
 de la 
+
+
 //09: Féminin nom commun voyelle initiale
 Une 
 une 
@@ -68,6 +86,8 @@ L'
 l'
 e
 de l'
+
+
 //0A: Féminin nom propre consonne initiale
 La 
 la 
@@ -75,6 +95,8 @@ La
 la 
 e
 de la 
+
+
 //0B: Féminin nom propre voyelle initiale
 L'
 l'
@@ -82,7 +104,11 @@ L'
 l'
 e
 de l'
+
+
 //0C:
+
+
 
 
 
@@ -96,6 +122,8 @@ de l'
 
 
 
+
+
 //0E: Féminin sans article consonne initiale
 
 
@@ -103,6 +131,8 @@ de l'
 
 e
 de 
+
+
 //0F: Féminin sans article voyelle initiale
 
 
@@ -110,3 +140,5 @@ de
 
 e
 d'
+
+

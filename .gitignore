@@ -9,3 +9,5 @@ insert_report.txt
 
 *.bak
 project/Thumbs.db
+project/intro_screen_pal.bin
+project/intro_screen_gfx.bin

@@ -342,11 +342,11 @@ org $8F2CF20; incbin m1_gfx_dept_hotel_2.bin
 // translate stores categories
 org $8F013EA; bl alt_tiles_pointers.check_alt_tilesets
 
-define alt_tiles_table $8FFEC00
+define alt_tiles_table $8FFEE00
 org {alt_tiles_table}; incbin alt_tiles_table.bin
 
 org $8F325A0; incbin m1_gfx_store_1.bin 
-define new_shop_tileset $8FFE800
+define new_shop_tileset $8FFEA00
 org {new_shop_tileset}; incbin m1_gfx_store_2.bin 
 
 org $8F547A0; incbin m1_shop_arrangements.bin

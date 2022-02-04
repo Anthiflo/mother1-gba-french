@@ -631,8 +631,7 @@ cc_item_article:
   ldrb r0,[r0,#0x0]      // this now has the item number being used
   ldr  r5,=#0x8FFE000
   ldrb r0,[r5,r0]        // we now have the item class
-  mov  r4,#6
-  mul  r0,r4             // 6 articles per class
+  lsl  r0,r0,#0x3        // 8 articles per class
   add  r0,r0,r3
   lsl  r0,r0,#0x3        // 8 characters per article
   ldr  r5,=#0x8FFE100
@@ -661,8 +660,7 @@ cc_won_item_article:
   ldrb r0,[r4,#0x0]      // this now has the item number being used
   ldr  r5,=#0x8FFE000
   ldrb r0,[r5,r0]        // we now have the item class
-  mov  r4,#6
-  mul  r0,r4             // 6 articles per class
+  lsl  r0,r0,#0x3        // 8 articles per class
   add  r0,r0,r3
   lsl  r0,r0,#0x3        // 8 characters per article
   ldr  r5,=#0x8FFE100
@@ -733,15 +731,14 @@ cc_enemy_article:
   ldr  r5,=#0x8FFE080    // article classes per enemy
   ldrb r0,[r5,r4]        // r0 now has the article class
 
-  mov  r5,#6
-  mul  r0,r5             // 6 articles per class
+  lsl  r0,r0,#0x3        // 8 articles per class
 
   mov  r5,#0x7           // article selection (later)
   and  r3,r5
   
   add  r0,r0,r3
   lsl  r0,r0,#0x3        // 8 characters per article
-  ldr  r5,=#0x8FFE400
+  ldr  r5,=#0x8FFE500
   add  r0,r0,r5          // we now have the address of the custom article string to copy
   
   bl   strcopy
@@ -849,7 +846,7 @@ cc_enemy_letter:
   
   .enemy_letter_end:
 
-  ldr  r5,=#0x8FFE780
+  ldr  r5,=#0x8FFE980
   lsl  r0,r0,#2
   add  r0,r0,r5
   
@@ -1118,8 +1115,7 @@ more_field_control_codes:
   
   ldr  r2,=#0x8FFE000
   ldrb r0,[r2,r0]        // we now have the item class
-  mov  r2,#6
-  mul  r0,r2             // 6 articles per class
+  lsl  r0,r0,#0x3        // 8 articles per class
   add  r0,r0,r1
   lsl  r0,r0,#0x3        // 8 characters per article
   ldr  r2,=#0x8FFE100
@@ -1134,7 +1130,7 @@ more_field_control_codes:
     and     r0,r1
     bl      general.has_elision
     lsl     r0,r0,#2
-    ldr     r1,=#0x8FFE7A0    // strings for "e " / "’"
+    ldr     r1,=#0x8FFE9A0    // strings for "e " / "’"
     add     r0,r0,r1
     bl      0x8F0C058
     b       .field_cc_next
@@ -1152,7 +1148,7 @@ more_field_control_codes:
     cmp     r1,#0xF           // what is the cc argument
     bne     .field_cc_elision // other than 0xF => check elision
     
-    ldr     r0,=#0x8FFE7A0    // strings for "e " / "’"
+    ldr     r0,=#0x8FFE9A0    // strings for "e " / "’"
     add     r0,#8
     
     bl      0x8F0C058
@@ -1175,7 +1171,7 @@ more_field_control_codes:
   ldrb r1,[r0,#0]
   sub  r1,#1             // r1 now contains the character id
   
-  ldr  r0,=#0x8FFE7A0    // strings for "e " / "’"
+  ldr  r0,=#0x8FFE9A0    // strings for "e " / "’"
   add  r0,#9
   
   cmp  r1,#1             // if Ana...
@@ -1198,7 +1194,7 @@ more_field_control_codes:
 
 
 .field_cc_default:
-    ldr     r0,=#0x8FFE7A6    // default is empty string
+    ldr     r0,=#0x8FFE9A6    // default is empty string
     bl      0x8F0C058
     b       .field_cc_next
 
@@ -1271,7 +1267,7 @@ ldr  r3,=#0x3003419                // favorite food in memory
 +
 
 mov  r0,#1
-ldr  r4,=#0x8FFE700
+ldr  r4,=#0x8FFE900
 ldrb r1,[r3,#0]
 
 ldrb r2,[r4,#0]

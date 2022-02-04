@@ -830,7 +830,7 @@ void InsertEnemyClasses(void)
 	char  line[1000];
 	char* str;
 	int   lineNum = 0;
-	int   startLoc = 0xFFE400;
+	int   startLoc = 0xFFE500;
 	int   i;
 
 	fin = fopen("m1_enemy_classes.txt", "r");

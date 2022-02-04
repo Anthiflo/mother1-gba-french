@@ -13,6 +13,8 @@ Un
 on 
 le 
 de 
+
+
 //01. masculin singulier multiple dénombrable voyelle initiale 
 un 
 '
@@ -20,6 +22,8 @@ Un
 on 
 le 
 d'
+
+
 //02. masculin singulier multiple indénombrable consonne initiale 
 du 
 e 
@@ -27,6 +31,8 @@ Du
 on 
 le 
 de 
+
+
 //03. masculin singulier multiple indénombrable voyelle initiale 
 de l'
 '
@@ -34,6 +40,8 @@ De l'
 on 
 le 
 d'
+
+
 //04. féminin singulier multiple dénombrable consonne initiale 
 une 
 a 
@@ -41,6 +49,8 @@ Une
 a 
 la 
 de 
+
+
 //05. féminin singulier multiple dénombrable voyelle initiale 
 une 
 '
@@ -48,6 +58,8 @@ Une
 a 
 la 
 de 
+
+
 //06. féminin singulier multiple indénombrable consonne initiale 
 de la 
 a 
@@ -55,6 +67,8 @@ De la
 a 
 la 
 de 
+
+
 //07. féminin singulier multiple indénombrable voyelle initiale 
 de l'
 '
@@ -62,6 +76,8 @@ De l'
 a 
 la 
 d'
+
+
 //08. masculin singulier unique consonne initiale 
 le 
 e 
@@ -69,6 +85,8 @@ Le
 on 
 le 
 de 
+
+
 //09. masculin singulier unique voyelle initiale 
 l'
 '
@@ -76,6 +94,8 @@ L'
 on 
 le 
 d'
+
+
 //0A. masculin pluriel multiple 
 des 
 es 
@@ -83,6 +103,8 @@ Des
 es 
 les 
 de 
+
+
 //0B. masculin pluriel unique 
 les 
 es 
@@ -90,6 +112,8 @@ Les
 es 
 les 
 de 
+
+
 //0C. féminin singulier unique consonne initiale 
 la 
 a 
@@ -97,6 +121,8 @@ La
 a 
 la 
 de 
+
+
 //0D. féminin singulier unique voyelle initiale 
 l'
 '
@@ -104,6 +130,8 @@ L'
 a 
 la 
 d'
+
+
 //0E. féminin pluriel multiple 
 des 
 es 
@@ -111,6 +139,8 @@ Des
 es 
 les 
 de 
+
+
 //0F. féminin pluriel unique 
 les 
 es 
@@ -118,3 +148,5 @@ Les
 es 
 les 
 de 
+
+
