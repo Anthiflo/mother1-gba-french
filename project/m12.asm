@@ -32,7 +32,7 @@ org $8F0D208; dd $8FE5000
 // move character info positions
 org $8F0D138; db $03
 // Level position
-org $8F0D148; db $0F
+org $8F0D148; db $10
 org $8F0D162; db $17
 org $8FE6000; incbin m1_window_file_menu_2.bin // #OVERRIDDEN
 org $8F0D2A4; dd $8FE6000
@@ -190,7 +190,8 @@ org $8FE4000; incbin m1_window_command_menu.bin // #OVERRIDDEN
 // Alter the Status menu
 org $8F0B188; dd $8FE4800
 org $8FE4800; incbin m1_window_status_menu.bin // #OVERRIDDEN
-org $8F0C6B4; db $04   // fix status menu number alignment
+org $8F0C6B4; db $04    // fix status menu number alignment
+org $8F0CC78; mov r0,#8 // empty status ailment = 8 characters, like the others
 
 // alter main dialogue box
 org $8F0CAE4; bl choose_text_window_type

@@ -148,7 +148,7 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 0FE602A [01][01][01][01][01][01]Nouvelle partie
 
 // Text used at the top of the save slot windows #OVERRIDE
-0FE500B Niv.
+0FE500C Niv.
 0FE6003 EMPLACEMENT ( )
 0FE5015 Vitesse
 
