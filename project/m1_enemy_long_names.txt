@@ -2,7 +2,7 @@
 ENEMY-5DC-00: 
 
 //Territ. Oak
-ENEMY-5DD-01: Chêne territorial
+ENEMY-5DD-01: Gros Tronchou
 
 //Dragon
 ENEMY-5DE-02: Dragon
@@ -104,7 +104,7 @@ ENEMY-5FD-21: Mook
 ENEMY-5FE-22: Armure
 
 //Oak
-ENEMY-5FF-23: Chêne
+ENEMY-5FF-23: Tronchou
 
 //Redneck
 ENEMY-600-24: Péquenaud

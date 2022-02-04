@@ -616,13 +616,13 @@
 11F: @I'm coming out now.[BREAK]
 11F-E: @OK, je sors.[BREAK]
 120: @I'm [03 11].[BREAK][PAUSE]@I heard they make Bottle[BREAK]Rockets at the Sweet Little[BREAK]Factory south of here...[BREAK][PAUSE]I wanna launch one really[BREAK]bad![BREAK]
-120-E: @Je m'appelle [03 11].[BREAK][PAUSE]@Il paraît qu'ils fabriquent[BREAK]des Fusées bouteilles à[BREAK]l'usine Minimimi au sud...[BREAK][PAUSE]J'aimerais tellement en[BREAK]faire décoller une[4F]![BREAK]
+120-E: @Je m'appelle [03 11].[BREAK][PAUSE]@Il paraît qu'ils fabriquent[BREAK]des Fusées crayons à[BREAK]l'usine Minimimi au sud...[BREAK][PAUSE]J'aimerais tellement en[BREAK]faire décoller une[4F]![BREAK]
 121: @You must be exhausted.[BREAK]You should stay the night![BREAK]
 121-E: @Tu dois être fatigué. Tu[BREAK]devrais rester pour la[BREAK]nuit[4F]![BREAK]
 122: 
 122-E: 
 123: @Wow![BREAK][PAUSE]@So this is a Bottle Rocket![BREAK]I heard so much about them![BREAK][PAUSE]@I should be able to make[BREAK]more of these now.[BREAK][PAUSE]@Come with me to the science[BREAK]lab.[BREAK]
-123-E: @Ouah ![BREAK][PAUSE]@Alors c'est ça, les Fusées[BREAK]bouteilles dont tout le[BREAK]monde parle ![BREAK][PAUSE]@Je devrais être capable[BREAK]d'en fabriquer moi-même[BREAK]maintenant.[BREAK][PAUSE]@Viens avec moi au labo de[BREAK]sciences.[BREAK]
+123-E: @Ouah ![BREAK][PAUSE]@Alors c'est ça, les Fusées[BREAK]crayons dont tout le[BREAK]monde parle ![BREAK][PAUSE]@Je devrais être capable[BREAK]d'en fabriquer moi-même[BREAK]maintenant.[BREAK][PAUSE]@Viens avec moi au labo de[BREAK]sciences.[BREAK]
 124: @[03 11]: OK! Now I just flip[BREAK]this switch and... Oh!
 124-E: @[03 11] : OK ! Maintenant[BREAK]j'appuie sur ce bouton[BREAK]et... Oh !
 125: @[03 11]: I may be a wimp,[BREAK]but now it's my turn to[BREAK]fight![BREAK][PAUSE]@[03 13]! You can take it[BREAK]easy in here.[BREAK]
@@ -1763,7 +1763,7 @@
 34F: @Wait, they haven't[BREAK]been turned to[BREAK]stone![BREAK]
 34F-E: @Mais cette personne[BREAK]n'est pas changée[BREAK]en pierre[4F]![BREAK]
 350: @They used to make loads of[BREAK]Bottle Rockets there.[BREAK]
-350-E: @Avant, ils fabriquaient des[BREAK]tonnes de Fusées bouteilles[BREAK]ici.[BREAK]
+350-E: @Avant, ils fabriquaient des[BREAK]tonnes de Fusées crayons[BREAK]ici.[BREAK]
 351: @My wife was the very first[BREAK]Miss Middle of Nowhere.[BREAK]
 351-E: @Ma femme était la toute[BREAK]première Miss Trou Paumé.[BREAK]
 352: @Okay, I unlocked the door.[BREAK][PAUSE]@The view from the roof is[BREAK]really nice, by the way.[BREAK]
@@ -2108,7 +2108,7 @@
 3FA: Sandlot Bat
 3FA-E: BatteMétal
 3FB: HallFameBat
-3FB-E: BattePro
+3FB-E: BatteSuprêm
 3FC: Frypan
 3FC-E: Poêle
 3FD: DX Frypan
@@ -2130,7 +2130,7 @@
 405: Curse Words
 405-E: MotsAmers
 406: Slime Gen.
-406-E: GénértSlime
+406-E: AprlGélatin
 407: Flashdark
 407-E: OmbrePoche
 408: Stone Spray
@@ -2264,7 +2264,7 @@
 448: ITEM 96
 448-E: ITEM 96
 449: BottlRocket
-449-E: FuséeBoutl
+449-E: FuséeCrayon
 44A: Hat
 44A-E: Chapeau
 44B: Dentures
@@ -3072,7 +3072,7 @@
 5DC: 
 5DC-E: 
 5DD: Territ. Oak
-5DD-E: ChêneTerrit.
+5DD-E: GrosTronchou
 5DE: Dragon
 5DE-E: Dragon
 5DF: R-7038
@@ -3140,7 +3140,7 @@
 5FE: Armor
 5FE-E: Armure
 5FF: Oak
-5FF-E: Chêne
+5FF-E: Tronchou
 600: Redneck
 600-E: Péquenaud
 601: Hippie
@@ -3708,7 +3708,7 @@
 71A: "Sandlot Bat"[BREAK]@With this, [03 10] can fight[BREAK]against strong enemies.
 71A-E: "Batte en métal"[BREAK]@Avec ça, [03 10] peut se[BREAK]battre contre des ennemis[BREAK]puissants.
 71B: "Hall of Fame Bat"[BREAK]@A spectacular bat with a[BREAK]famous athlete's autograph[BREAK]on it.
-71B-E: "Batte de pro"[BREAK]@Une batte spectaculaire[BREAK]portant l'autographe d'un[BREAK]athlète renommé.
+71B-E: "Batte suprême"[BREAK]@Une batte spectaculaire[BREAK]portant l'autographe d'un[BREAK]athlète renommé.
 71C: "Frypan"[BREAK]@[03 12] can use this as a[BREAK]weapon.
 71C-E: "Poêle à frire"[BREAK]@[03 12] peut l'utiliser[BREAK]comme une arme.
 71D: "Deluxe Frypan"[BREAK]@This frypan doesn't burn[BREAK]food,[BREAK][PAUSE]and [03 12] can also use it[BREAK]as a weapon.
@@ -3730,7 +3730,7 @@
 725: "Curse Words"[BREAK]@???
 725-E: "Mots amers"[BREAK]@???
 726: "Slime Generator"[BREAK]@It SEEMS like it could be[BREAK]useful in battle, but...
-726-E: "Générateur de slime"[BREAK]@Cela SEMBLE pouvoir être[BREAK]utile en combat, mais...
+726-E: "Appareil à gélatine"[BREAK]@Cela SEMBLE pouvoir être[BREAK]utile en combat, mais...
 727: "Flashdark"[BREAK]@This is the exact opposite[BREAK]of a flashlight.
 727-E: "Ombre de poche"[BREAK]@L'exact opposé d'une lampe[BREAK]de poche.
 728: 
@@ -3864,7 +3864,7 @@
 768: 
 768-E: 
 769: "Bottle Rocket"[BREAK]@[03 11] should know how to[BREAK]use this.
-769-E: "Fusée bouteille"[BREAK]@[03 11] devrait savoir[BREAK]comment s'en servir.
+769-E: "Fusée crayon"[BREAK]@[03 11] devrait savoir[BREAK]comment s'en servir.
 76A: "Hat"[BREAK]@A pretty hat with the name[BREAK]"[03 12]" embroided on it.
 76A-E: "Chapeau"[BREAK]@Un joli chapeau avec le nom[BREAK]"[03 12]" brodé dessus.
 76B: "Dentures"[BREAK]@Unnecessary if you make[BREAK]sure to take care of your[BREAK]teeth and brush regularly.

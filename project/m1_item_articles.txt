@@ -89,7 +89,7 @@ ITEM-404-1B: 0A
 ITEM-405-1C: 0A
 
 //Slime Gen.
-ITEM-406-1D: 00
+ITEM-406-1D: 01
 
 //Flashdark
 ITEM-407-1E: 05
