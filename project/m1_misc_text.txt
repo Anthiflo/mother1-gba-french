@@ -149,7 +149,7 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 
 // Text used at the top of the save slot windows #OVERRIDE
 0FE500B Niv.
-0FE6003 FICHIER ( )
+0FE6003 EMPLACEMENT ( )
 0FE5015 Vitesse
 
 // The first three numbers are the X coordinate for the cursor for each save slot window #OVERRIDE
@@ -182,12 +182,13 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 0F27134 [01]5/5[END]
 
 // Displayed when copying a save file from one slot to another #OVERRIDE
-0FE7010 Vers quel fichier ?
+0FE700F Vers quel emplacement ?
 
 // Displayed when erasing a file
 // These first two numbers are the X coordinates of the name and level number #OVERRIDE
 0F0D396 [05]
-0FE8016 Niv.
+0F0D3A6 [10]
+0FE8017 Niv.
 0FE802B Effacer ce fichier ?
 0FE8049 Oui   Non
 0F2A0C6 [07]
@@ -437,9 +438,9 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 0F0DB3C [09]
 
 // #OVERRIDE
-0F2742D Tout est OK ?
-0F27442 Oui
-0F27447 Non
+0F2742D C'est bien ça ?
+0F27445 Oui
+0F2744A Non
 // these are the X coordinates for the cursor for the Yes/No confirmation
 0F2A272 [0A]
 0F2A276 [0F]
@@ -492,7 +493,7 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 // INTRODUCTION STUFF
 //==========================================================================================================
 
-0F7DC00 Dans les années 1900, une[BREAK]ombre se profila au-dessus[BREAK]d'un village américain. Peu[BREAK]après, un couple marié[BREAK]disparut mystérieusement.[BREAK][BREAK]L'homme s'appelait George,[BREAK]la femme s'appelait Maria.[BREAK][BREAK]Deux ans plus tard, George[BREAK]réapparut, mais ne confia à[BREAK]personne ce qui lui était[BREAK]arrivé.[BREAK]Il s'isola et se plongea[BREAK]dans d'étranges recherches.[BREAK][BREAK]Quant à sa femme, Maria...[BREAK]elle ne revint jamais.[END]
+0F7DC00 Dans les années 1900, une[BREAK]ombre se profila au-dessus[BREAK]d'un village américain. Peu[BREAK]après, un couple marié[BREAK]disparut mystérieusement.[BREAK][BREAK]L'homme s'appelait George,[BREAK]la femme s'appelait Maria.[BREAK][BREAK]Deux ans plus tard, George[BREAK]réapparut mais ne confia à[BREAK]personne ce qui lui était[BREAK]arrivé.[BREAK]Il s'isola et se plongea[BREAK]dans d'étranges recherches.[BREAK][BREAK]Quant à sa femme, Maria...[BREAK]elle ne revint jamais.[END]
 // starting X,Y positions for this text
 0F0DC40 [00]
 0F0DC42 [01]

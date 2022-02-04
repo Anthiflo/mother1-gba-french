@@ -37,7 +37,7 @@ org $8F0D162; db $17
 org $8FE6000; incbin m1_window_file_menu_2.bin // #OVERRIDDEN
 org $8F0D2A4; dd $8FE6000
 // File number position
-org $8F0D236; db $0C
+org $8F0D236; db $10
 
 // "Copy to where?" window
 org $8FE7000; incbin m1_window_file_menu_3.bin // #OVERRIDDEN
@@ -100,9 +100,13 @@ org $8F0DDE0; db $10
 // repoint "Fav. Food" text on confirmation screen to allow longer text
 org $8F0DBF0; dd $8FE79E0
 
-// clear out the "Is this OK?" confirmation window
-org $8F2742C; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01	// #OVERRIDDEN
-org $8F2743F; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01	// #OVERRIDDEN
+// arrange and clear out the "Is this OK?" confirmation window
+org $8F2741F; db $06
+org $8F27425; db $10
+org $8F2742C; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01	// #OVERRIDDEN
+org $8F2743C; db $03,$0B,$02,$03,$0A
+org $8F27441; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01	// #OVERRIDDEN
+org $8F27451; db $03,$0B,$02,$03,$0C,$03,$04,$10,$FB,$03,$0D,$00
 
 
 //========================================================================================
