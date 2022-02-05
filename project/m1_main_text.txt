@@ -2778,11 +2778,11 @@
 549: Try not to get tied up.
 549-E: Essayez de ne pas vous faire ligoter.
 54A: It's almost like this guy escaped from a comic book or something.
-54A-E: C'est presque comme si cet ennemi sortait d'une BD ou un truc du genre.
+54A-E: C'est presque comme si ce type sortait d'une BD ou quelque chose de ce genre.
 54B: This guy's face is the easiest to draw.
 54B-E: Son visage est super facile à dessiner.
 54C: If this guy put a mask on, it'd be impossible to tell who he is.
-54C-E: Si cette créature mettait un masque, il deviendrait méconnaissable.
+54C-E: Si ce bidule mettait un masque, il deviendrait méconnaissable.
 54D: A rather run-of-the-mill ghost.
 54D-E: Un fantôme plutôt banal.
 54E: It's about as big as a dinner plate...
