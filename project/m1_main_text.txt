@@ -37,7 +37,7 @@
 008: @I'm Mimmie.[BREAK]Don't mix me up with[BREAK]Minnie![BREAK]
 008-E: @Moi c'est Mimmie.[BREAK]Ne me confonds pas avec[BREAK]Minnie[4F]![BREAK]
 009: @Are you okay, [03 10]?[BREAK][PAUSE]@What on earth is happening[BREAK]to our home?[BREAK][PAUSE]I'm so scared...[BREAK][PAUSE]@If only your father were[BREAK]here now...[BREAK]
-009-E: @Tout va bien, [03 10][4F]?[BREAK][PAUSE]@Qu'est-ce qui a bien pu[BREAK]arriver à notre maison[4F]?[BREAK][PAUSE]J'ai tellement peur...[BREAK][PAUSE]@Si seulement ton père[BREAK]était là avec nous...[BREAK]
+009-E: @[03 10] ! Est-ce que ça va ?[BREAK][PAUSE]@Qu'est-ce qui a bien pu[BREAK]arriver à notre maison[4F]?[BREAK][PAUSE]J'ai tellement peur...[BREAK][PAUSE]@Si seulement ton père[BREAK]était là avec nous...[BREAK]
 00A: @You're much braver than I[BREAK]ever imagined.[BREAK][PAUSE]@...But I can't send you on[BREAK]a journey so famished.[BREAK]
 00A-E: @Tu es bien plus courageux[BREAK]que ce que je n'aurais[BREAK]imaginé.[BREAK][PAUSE]@... Mais je ne peux pas te[BREAK]laisser partir en voyage le[BREAK]ventre vide.[BREAK]
 00B: @Oh, my! You're hurt![BREAK]
@@ -145,7 +145,7 @@
 03E: @I hear they locked the zoo[BREAK]up to keep any more animals[BREAK]from escaping.[BREAK][PAUSE]@They've all gone berserk,[BREAK]you see...[BREAK]
 03E-E: @Ils ont apparemment fermé[BREAK]le zoo pour éviter que plus[BREAK]d'animaux ne s'échappent.[BREAK][PAUSE]@Ils sont tous devenus[BREAK]enragés, t'imagines...[BREAK]
 03F: @Bread is great for when[BREAK]you're hungry,[BREAK][PAUSE]but I bet you could also[BREAK]use its crumbs to mark your[BREAK]trail.[BREAK][PAUSE]@...I guess it's really none[BREAK]of my business, though.[BREAK]
-03F-E: @Le pain, c'est bien quand[BREAK]tu as une petite faim,[BREAK][PAUSE]mais j'imagine que tu peux[BREAK]aussi utiliser ses miettes[BREAK]pour retrouver ton chemin.[BREAK][PAUSE]@... Enfin bon, tu fais[BREAK]comme tu le sens, hein.[BREAK]
+03F-E: @Le pain, c'est bien quand[BREAK]tu as une petite faim,[BREAK][PAUSE]mais j'imagine que tu peux[BREAK]aussi utiliser ses miettes[BREAK]pour tracer une piste.[BREAK][PAUSE]@... Enfin bon, tu fais[BREAK]comme tu le sens, hein.[BREAK]
 040: @I don't know, this task[BREAK]might be too much for you[BREAK]to handle,[BREAK][PAUSE]but I still have high hopes[BREAK]for you anyway.[BREAK]
 040-E: @Je ne sais pas, cette tâche[BREAK]est peut-être un peu trop[BREAK]difficile,[BREAK][PAUSE]mais quoi qu'il en soit, je[BREAK]place de grands espoirs en[BREAK]toi.[BREAK]
 041: @Well, you see...[BREAK][PAUSE]@A child has strayed into[BREAK]the cemetery.[BREAK][PAUSE]@And, as luck would have it,[BREAK]I'm up for re-election[BREAK]soon.[BREAK][PAUSE]@So... please help me![BREAK]
@@ -167,7 +167,7 @@
 049: @Come back alive and you'll[BREAK]be a hero![BREAK][PAUSE]@I'd go with you, but I'm,[BREAK]umm, not feeling well...[BREAK]
 049-E: @Ramène-la-moi saine et[BREAK]sauve et je serai un[BREAK]héros[4F]![BREAK][PAUSE]@Enfin, je veux dire, tu[BREAK]seras un héros.[BREAK]
 04A: @Oh, it's [03 16], the hero![BREAK][PAUSE]@You have tiger droppings[BREAK]all over your clothes, you[BREAK]know.[BREAK][PAUSE]@Oh, I'm just kidding![BREAK][PAUSE]@Sorry, I don't have[BREAK]anything to give you this[BREAK]time...[BREAK][PAUSE]Wahahaha![BREAK]
-04A-E: @Oh, voilà [03 16], le héros[4F]![BREAK][PAUSE]@Tu as de la bave de tigre[BREAK]partout sur tes habits, tu[BREAK]sais.[BREAK][PAUSE]@Ah, je plaisante[4F]![BREAK][PAUSE]@Navré, je n'ai rien à te[BREAK]donner cette fois...[BREAK][PAUSE]Wahahaha[4F]![BREAK]
+04A-E: @Voilà [03 16], le héros ![BREAK][PAUSE]@Tu as de la bave de tigre[BREAK]partout sur tes habits, tu[BREAK]sais.[BREAK][PAUSE]@Ah, je plaisante[4F]![BREAK][PAUSE]@Navré, je n'ai rien à te[BREAK]donner cette fois...[BREAK][PAUSE]Wahahaha[4F]![BREAK]
 04B: @Everyone's talking about a[BREAK]girl with special powers.[BREAK]Have you heard about her?[BREAK][PAUSE]@I bet she'd be a great help[BREAK]to you on your journey.[BREAK]
 04B-E: @Tout le monde parle d'une[BREAK]fille avec des pouvoirs[BREAK]spéciaux.[BREAK][PAUSE]Tu es au courant ?[BREAK][PAUSE]@Je suis sûr qu'elle te[BREAK]serait d'une grande aide[BREAK]dans ton périple.[BREAK]
 04C: @I have plenty of extra zoo[BREAK]keys.[BREAK][PAUSE]@Here, have another.[BREAK]
@@ -349,7 +349,7 @@
 0A4: @It has 30 Magic Herbs[BREAK]inside it, in case you[BREAK]didn't know.[BREAK]
 0A4-E: @Le sac contient 30 Herbes[BREAK]magiques, au cas où tu ne[BREAK]le saurais pas.[BREAK]
 0A5: @Thanks. I promise I'll give[BREAK]it back.[BREAK][PAUSE]@It just seems... really[BREAK]cool.[BREAK]
-0A5-E: @Merci. Je te la rendrai,[BREAK]c'est promis.[BREAK][PAUSE]@Elle a juste l'air si...[BREAK]cool.[BREAK]
+0A5-E: @Merci. Je te la rendrai,[BREAK]c'est promis.[BREAK][PAUSE]@Elle a l'air tellement...[BREAK]cool.[BREAK]
 0A6: @You don't trust others.[BREAK][PAUSE]@That might be for the best.[BREAK]Well, maybe...[BREAK]
 0A6-E: @Tu ne fais pas confiance[BREAK]aux autres.[BREAK][PAUSE]@Tu as sûrement raison.[BREAK]Enfin, peut-être...[BREAK]
 0A7: @Oh, right, I need to return[BREAK]your ATM Card.[BREAK]
@@ -757,7 +757,7 @@
 164: @G O  B A C K[BREAK]
 164-E: @P A R T E Z[BREAK]
 165: @Gyaaaa![BREAK]
-165-E: @Gyaaah ![BREAK]
+165-E: @Ghyaaah ![BREAK]
 166: @[03 16].[BREAK][PAUSE]@You're going to die.[BREAK][PAUSE]@Heeheehee hehehe![BREAK][PAUSE]...Keeheeheehee![BREAK]
 166-E: @[03 16].[BREAK][PAUSE]@Tu vas mourir.[BREAK][PAUSE]@Hiihiihii héhéhé[4F]![BREAK][PAUSE]... Kiihiihihii ![BREAK]
 167: @A suspicious rat... I am[BREAK]not.[BREAK][PAUSE]@The room with the piano...[BREAK][PAUSE]@Heheheh...![BREAK]
@@ -799,7 +799,7 @@
 179: @The ghosts haven't quite[BREAK]left yet, but you're such a[BREAK]brave boy![BREAK][PAUSE]@In fact, I even renamed my[BREAK]son after you.[BREAK]
 179-E: @Les fantômes ne sont pas[BREAK]encore tous partis, mais tu[BREAK]es un garçon si brave ![BREAK][PAUSE]@En fait, j'ai même renommé[BREAK]mon fils comme toi.[BREAK]
 17A: @This is Snowman Station,[BREAK]the last stop.[BREAK]
-17A-E: @Voici la gare de Snowman,[BREAK]le terminus.[BREAK]
+17A-E: @Tu es à la gare de Snowman,[BREAK]le terminus.[BREAK]
 17B: @I heard all the citizens of[BREAK]Easter were spirited away.[BREAK]
 17B-E: @On dit que les habitants de[BREAK]Youngtown auraient tous[BREAK]disparu mystérieusement.[BREAK]
 17C: @My mommy's in the town of[BREAK]Easter.[BREAK][PAUSE]@We haven't heard from her[BREAK]in days,[BREAK][PAUSE]so Daddy and I are going[BREAK]there to look for her.[BREAK]
@@ -837,7 +837,7 @@
 18C: @[03 16]... right?[BREAK]
 18C-E: @[03 16]... c'est bien ça ?[BREAK]
 18D: @Come on, quit joking[BREAK]around.[BREAK]
-18D-E: @Allez, arrête tes[BREAK]plaisanteries.[BREAK]
+18D-E: @Oh allez, fait pas l'idiot.[BREAK]
 18E: @I've been waiting for you.[BREAK][PAUSE]@I need your help to find my[BREAK]mom.[BREAK][PAUSE]@Let's start by seeing[BREAK]what's happening in the[BREAK]town of Easter.[BREAK]
 18E-E: @Je t'attendais.[BREAK][PAUSE]@J'ai besoin de ton aide[BREAK]pour retrouver ma mère.[BREAK][PAUSE]@Commençons par aller voir[BREAK]ce qui s'est passé dans la[BREAK]ville de Youngtown.[BREAK]
 18F: @You know, I had a dream[BREAK]about someone who looked[BREAK]just like you...[BREAK]
@@ -924,7 +924,7 @@
 1B6: @Daddy! I miss you![BREAK]
 1B6-E: @Papa ! Tu me manques ![BREAK]
 1B7: @A big flying ship took all[BREAK]the grownups away.[BREAK]
-1B7-E: @Un grand vaisseau volant a[BREAK]enlevé tous les grands.[BREAK]
+1B7-E: @Un gros vaisseau volant a[BREAK]enlevé tous les grands.[BREAK]
 1B8: @It's great having no[BREAK]grownups around![BREAK][PAUSE](sniffle sob)[BREAK]
 1B8-E: @C'est super sans les[BREAK]grands dans les parages ![BREAK][PAUSE](snif sanglote)[BREAK]
 1B9: @I want milk![BREAK]
@@ -1034,7 +1034,7 @@
 1ED: 
 1ED-E: 
 1EE: @Please give my [03 10] all[BREAK]the help you can.
-1EE-E: @Je vous en prie, aidez mon[BREAK][03 10] autant que vous le[BREAK]pouvez.
+1EE-E: @Je vous en prie, faites[BREAK]tout ce que vous pouvez[BREAK]pour sauver mon [03 10].
 1EF: @[03 3E] used the Phone Card.[BREAK]
 1EF-E: @[03 3E] utilise la Carte[BREAK]téléphonique.[BREAK]
 1F0: @Great! I'm sure we'll make[BREAK]a great team of punks![BREAK]Cheers![BREAK]
@@ -1132,7 +1132,7 @@
 // possible hospital text?
 
 21C: @[03 1D], right?[BREAK][PAUSE]Thanks! I really appreciate[BREAK]it![BREAK]
-21C-E: @[03 1D], c'est ça[4F]?[BREAK][PAUSE]Merci[4F]! J'apprécie,[BREAK]vraiment[4F]![BREAK]
+21C-E: @[03 4A][03 1D], c'est ça[4F]?[BREAK][PAUSE]Merci[4F]! J'apprécie,[BREAK]vraiment[4F]![BREAK]
 21D: @It is easy to lose items in[BREAK]the vicinity of this sign,[BREAK]so please be careful.[BREAK]
 21D-E: @Attention, il est facile de[BREAK]perdre des objets à[BREAK]proximité de ce panneau.[BREAK]
 21E: @Incredibly enough, you[BREAK]found dentures under the[BREAK]sign![BREAK]
@@ -1445,7 +1445,7 @@
 // from eb, possible hospital text?
 
 2B1: @Welcome![BREAK][PAUSE]Please have a look at our[BREAK]menu.[BREAK]
-2B1-E: @Bienvenue[4F]![BREAK][PAUSE]Jette un œil à notre menu.[BREAK]
+2B1-E: @Bienvenue[4F]![BREAK][PAUSE]Jette donc un œil à notre[BREAK]menu.[BREAK]
 2B2: @Thank you.[BREAK][PAUSE]One order of [03 1D] to[BREAK]go![BREAK]
 2B2-E: @Merci.[BREAK][PAUSE]Et une commande[BREAK][03 4D][03 1D] à emporter[4F]![BREAK]
 2B3: 
@@ -1455,7 +1455,7 @@
 2B5: @He...[BREAK][PAUSE]...might never come again.[BREAK]
 2B5-E: @Il...[BREAK][PAUSE]... ne reviendra[BREAK]peut-être jamais.[BREAK]
 2B6: @Have fun![BREAK]
-2B6-E: @Amuse-toi bien[4F]![BREAK]
+2B6-E: @Amusez-vous bien[4F]![BREAK]
 2B7: @Hey, waiter![BREAK]Where's the wine list I[BREAK]asked for?[BREAK]
 2B7-E: @Hé, garçon[4F]![BREAK]Où est la carte des vins[BREAK]que j'ai demandée[4F]?[BREAK]
 2B8: @I want to try some [03 15].[BREAK]
@@ -1611,7 +1611,7 @@
 303: @You're late for class![BREAK]
 303-E: @T'es en retard pour les[BREAK]cours ![BREAK]
 304: @Did you see a strange[BREAK]teacher in the science lab?[BREAK][PAUSE]@...Because I did.
-304-E: @Est-ce que t'as vu un[BREAK]prof chelou au labo de[BREAK]sciences ?[BREAK][PAUSE]@... Moi oui.
+304-E: @T'aurais pas vu un prof[BREAK]chelou au labo de[BREAK]sciences ?[BREAK][PAUSE]@... Moi oui.
 305: @Have you played Dragon[BREAK]Quest 4?[BREAK][PAUSE]@I'm still having a hard[BREAK]time with the third one.[BREAK]
 305-E: @T'as déjà joué à Super[BREAK]Mario Bros. 7 ?[BREAK][PAUSE]@Moi j'ai déjà du mal à[BREAK]finir le 3.[BREAK]
 306: @Welcome.[BREAK][PAUSE]@What can I get you?[BREAK]
@@ -1651,7 +1651,7 @@
 317: @Pleasant dreams![BREAK]
 317-E: @Bonne nuit ![BREAK]
 318: @Good morning.[BREAK][PAUSE]@Please come back again.[BREAK]We look forward to it.[BREAK]
-318-E: @Bonne journée.[BREAK][PAUSE]@Nous nous réjouissons de ta[BREAK]prochaine visite.[BREAK]
+318-E: @Bonne journée.[BREAK][PAUSE]@Au plaisir de ta prochaine[BREAK]visite.[BREAK]
 319: @[03 1B] was just[BREAK]brought in, and is[BREAK]still unconscious.[BREAK][PAUSE]@Please pay $[03 1E][BREAK]for the doctor's[BREAK]fee.[BREAK]
 319-E: @On a pris en charge[BREAK][03 1B], toujours[BREAK]sans connaissance.[BREAK][PAUSE]@Les honoraires du[BREAK]médecin s'élèvent[BREAK]à [03 1E]$[BREAK]
 31A: @Who are you here to[BREAK]see?[BREAK]
@@ -2104,11 +2104,11 @@
 3F8: Cracked Bat
 3F8-E: BatteFêlée
 3F9: Teeball Bat
-3F9-E: BatteBois
+3F9-E: BatteOrdnre
 3FA: Sandlot Bat
-3FA-E: BatteMétal
+3FA-E: BatteRobste
 3FB: HallFameBat
-3FB-E: BatteSuprêm
+3FB-E: BatteSuprme
 3FC: Frypan
 3FC-E: Poêle
 3FD: DX Frypan
@@ -2130,7 +2130,7 @@
 405: Curse Words
 405-E: MotsAmers
 406: Slime Gen.
-406-E: AprlGélatin
+406-E: AprlGélatne
 407: Flashdark
 407-E: OmbrePoche
 408: Stone Spray
@@ -2694,29 +2694,29 @@
 51F: Creatures like this shouldn't exist on Earth, but...
 51F-E: Ce genre de créature ne devrait pas exister sur Terre, et pourtant...
 520: This is no time to be getting caught up with a punk ape like this!
-520-E: Ce n'est pas le moment de se faire attraper par ce voyou de singe[4F]!
+520-E: Il vaudrait mieux ne pas se faire attraper par ce voyou de singe[4F]!
 521: The only one not afraid of this thing's face is its own mother.
 521-E: La seule à ne pas avoir peur du visage de cette bête, c'est sa mère.
 522: Just look at those terrifying eyes!
-522-E: Voyez comme ses yeux sont terrifiants[4F]!
+522-E: Regardez comme ses yeux sont terrifiants[4F]!
 523: Whoa, there's no one in the driver's seat!
 523-E: Ouah, il n'y a personne sur le siège du conducteur[4F]!
 524: He has strong friends.
-524-E: Il a des amis puissants.
+524-E: Il a des amis fidèles.
 525: This thing's shell is unbelievably hard.
 525-E: La coquille de cette bestiole est incroyablement dure.
 526: Watch out. It'll use hypnosis on you.
-526-E: Attention. Elle peut utiliser l'hypnose sur vous.
+526-E: Attention. Elle peut pratiquer l'hypnose sur vous.
 527: 
 527-E: 
 528: This animal is as swift as they come.
 528-E: Un animal aussi rapide que l'éclair.
 529: Watch out for those pearly whites!
-529-E: Gare à ses quenottes blanches[4F]!
+529-E: Gare à ses crocs nacrés[4F]!
 52A: You dirty thief!
 52A-E: Espèce de sale voleur[4F]!
 52B: Always turn down an alligator's dinner invitation.
-52B-E: Déclinez toujours une invitation à dîner d'un alligator.
+52B-E: Déclinez toujours les invitations à dîner d'un crocodile.
 52C: It's a walking fuel tank.
 52C-E: C'est un réservoir de carburant ambulant.
 52D: It appears to be protecting something.
@@ -2728,15 +2728,15 @@
 530: A malnourished robot?
 530-E: Un robot sous-alimenté[4F]?
 531: Don't be fooled by her smile!
-531-E: Ne vous laissez pas avoir par son sourire[4F]!
+531-E: Ne vous laissez pas berner par son sourire[4F]!
 532: A man from a distant star.
-532-E: Un homme venant d'une étoile lointaine.
+532-E: Un homme venu d'une étoile lointaine.
 533: This creature does not exist in the real world.
 533-E: Cette créature n'existe pas dans le monde réel.
 534: A mobile brain that is the result of an evil science experiment.
 534-E: Un cerveau mobile résultant d'une expérience scientifique malsaine.
 535: This creature is a master of many kinds of PSI.
-535-E: Cette créature maîtrise toutes sortes de PSI.
+535-E: Cette créature maîtrise toutes sortes de PSI à la perfection.
 536: It'd be nice to have some armor of your own.
 536-E: Ça doit être sympa d'avoir sa propre armure.
 537: A strange, mobile tree.
@@ -2758,15 +2758,15 @@
 53F: Watch out for this guy's constant sneak attacks!
 53F-E: Attention aux attaques sournoises de ce type[4F]!
 540: Watch your items! This guy is a thief...
-540-E: Surveillez vos objets[4F]! Ce type est un voleur...
+540-E: Surveillez vos objets[4F]! C'est un voleur...
 541: It isn't poisonous.[BREAK]Hopefully, anyway...
 541-E: Il n'est pas venimeux.[BREAK]Enfin, on l'espère...
 542: He who laughs last laughs best.
 542-E: Rira bien qui rira le dernier.
 543: This animal is quite a bit different from your ordinary pet cat.
-543-E: Cet animal est plutôt différent d'un chat de compagnie ordinaire.
+543-E: Cet animal est bien différent d'un chat de compagnie ordinaire.
 544: Kill it with bug spray!
-544-E: Tuez-le avec de l'insecticide[4F]!
+544-E: Neutralisez-le avec de l'insecticide[4F]!
 545: Aaaachoo!!
 545-E: Aaatchoum[4F]!!
 546: Bug spray works wonders on it!
@@ -2774,7 +2774,7 @@
 547: Why not try using bug spray on it?
 547-E: Pourquoi ne pas essayer de l'asperger d'insecticide[4F]?
 548: It's poisonous, but you can kill it with bug spray.
-548-E: Il est venimeux, mais vous pouvez le tuer avec de l'insecticide.
+548-E: Il est venimeux, mais vous pouvez le neutraliser avec de l'insecticide.
 549: Try not to get tied up.
 549-E: Essayez de ne pas vous faire ligoter.
 54A: It's almost like this guy escaped from a comic book or something.
@@ -2782,11 +2782,11 @@
 54B: This guy's face is the easiest to draw.
 54B-E: Son visage est super facile à dessiner.
 54C: If this guy put a mask on, it'd be impossible to tell who he is.
-54C-E: Si ce gars mettait un masque, il deviendrait méconnaissable.
+54C-E: Si cette créature mettait un masque, il deviendrait méconnaissable.
 54D: A rather run-of-the-mill ghost.
 54D-E: Un fantôme plutôt banal.
 54E: It's about as big as a dinner plate...
-54E-E: Il est presque aussi grand qu'une assiette...
+54E-E: Il est à peu près aussi grand qu'une assiette...
 54F: Apparently, life is like a puzzle to him.
 54F-E: Apparemment, la vie est une énigme pour lui.
 550: It may be small, but it's clearly an alien.
@@ -2794,23 +2794,23 @@
 551: Hold your nose!
 551-E: Bouchez-vous le nez[4F]!
 552: It looks scary on the outside, but its final attack is even scarier.
-552-E: À première vue il paraît effrayant, mais son attaque ultime l'est encore plus.
+552-E: S'il a l'air effrayant à première vue, son attaque ultime l'est encore plus.
 553: A big rat with a long tail.
 553-E: Un gros rat avec une longue queue.
 554: It looks like an egg but is harder than one.
-554-E: Elle ressemble à un [37]uf, mais en plus dure.
+554-E: Elle ressemble à un [37]uf, mais en plus dur.
 555: 
 555-E: 
 556: It glares at you from afar...
 556-E: Elle vous épie de loin...
 557: It's flying all around!
-557-E: Elle vole dans tous les sens[4F]!
+557-E: Elle flotte dans les airs[4F]!
 558: 
 558-E: 
 559: 
 559-E: 
 55A: It was apparently given a powerful poison at a lab somewhere.
-55A-E: On lui a apparemment donné un puissant poison dans un laboratoire quelque part.
+55A-E: On a dû lui administrer un puissant poison dans un laboratoire quelque part.
 55B: Watch out for its poison and petrifying attacks!
 55B-E: Gare à son poison et à ses attaques pétrifiantes[4F]!
 55C: 
@@ -2834,9 +2834,9 @@
 565: Happen to have any Antidotes handy?
 565-E: Avez-vous des antidotes à portée de main[4F]?
 566: Poison Pois on Poi Sonnnn
-566-E: Poison Pois on Poi Sonnnn
+566-E: Poison pois on poi sonnnn
 567: Don't smile back at this alligator.
-567-E: Si cet alligator vous sourit, ne souriez pas en retour.
+567-E: Si ce crocodile vous sourit, ne lui souriez pas en retour.
 568: 
 568-E: 
 569: Even this thing's own father is scared of its face.
@@ -2846,7 +2846,7 @@
 56B: Be careful not to get petrified...
 56B-E: Attention à ne pas vous faire pétrifier...
 56C: This thing better not have fleas...
-56C-E: J'espère qu'il n'a pas de puces...
+56C-E: Espérons qu'il n'a pas de puces...
 56D: Hypnosis probably doesn't work on cars, does it?
 56D-E: L'hypnose ne fonctionne probablement pas sur les voitures, si[4F]?
 56E: Hypnosis probably doesn't work on trucks, does it?
@@ -2854,7 +2854,7 @@
 56F: How will it come at you next?! Straight-on, or in a zig-zag?!
 56F-E: Comment va-t-il vous foncer dessus[4F]?! En ligne droite, ou en zigzag[4F]?!
 570: Watch out, it'll call for friends if it's alarmed!
-570-E: Attention, il appellera ses amis s'il est en alerte[4F]!
+570-E: Attention, il peut envoyer un SOS à ses amis[4F]!
 571: 
 571-E: 
 572: The favorite of optometrists everywhere.
@@ -2868,7 +2868,7 @@
 576: 
 576-E: 
 577: This thing will do anything for its friends!
-577-E: Cette chose ferait tout pour ses amis[4F]!
+577-E: Il ferait tout pour ses amis[4F]!
 578: 
 578-E: 
 579: He only seems to use PK Beam...
@@ -2880,7 +2880,7 @@
 57C: A cutting-edge, mass-produced robot.
 57C-E: Un robot produit en série, à la pointe de la technologie.
 57D: It's about as big as a manhole cover...
-57D-E: Il est presque aussi grand qu'une plaque d'égout...
+57D-E: Il à peu près aussi grand qu'une plaque d'égout...
 57E: Don't let her beauty fool you...
 57E-E: Ne vous laissez pas duper par sa beauté...
 57F: It carries bombs... and often uses them.
@@ -2900,9 +2900,9 @@
 586: 
 586-E: 
 587: Watch out for its Brainshock attacks!
-587-E: Prenez garde à son attaque Choc mental[4F]!
+587-E: Prenez garde à ses attaques Choc mental[4F]!
 588: A violent guy who comes out swinging the first chance he gets.
-588-E: Un gars violent qui ne manque pas une occasion pour frapper.
+588-E: Un gars violent qui ne manque pas une occasion de frapper.
 589: Its beautiful silver coat glistens in the light.
 589-E: Sa superbe fourrure argentée brille dans la lumière.
 58A: This thing is HUGE!
@@ -3514,7 +3514,7 @@
 6B9: @[03 1A]'s Force[BREAK]
 6B9-E: @La force d[03 5A][03 1A][BREAK]
 6BA: @[03 1A] took a Magic Herb[BREAK]from the Big Bag and used[BREAK]it.[BREAK]
-6BA-E: @[03 1A] prend une Herbe[BREAK]magique du Grand sac et[BREAK]l'utilise.[BREAK]
+6BA-E: @[03 1A] prend une Herbe[BREAK]magique dans le Grand sac[BREAK]et l'utilise.[BREAK]
 6BB: @[03 1A] broke the bread into[BREAK]crumbs and started a trail[BREAK]out of them.[BREAK]
 6BB-E: @[03 1A] émiette le pain de[BREAK]façon à former une piste.[BREAK]
 6BC: @You need to throw out your[BREAK]old bread crumbs before you[BREAK]can use other bread.[BREAK]
@@ -3522,23 +3522,23 @@
 6BD: @[03 16] followed the trail[BREAK]of bread crumbs back to[BREAK]where it started.[BREAK]
 6BD-E: @[03 16] suit la piste de[BREAK]miettes de pain jusqu'à[BREAK]son origine.[BREAK]
 6BE: @[03 1A] put the ribbon in[BREAK]her hair.[BREAK]
-6BE-E: @[03 1A] place le ruban dans[BREAK]ses cheveux.[BREAK]
+6BE-E: @[03 1A] s'attache le ruban[BREAK]dans les cheveux.[BREAK]
 6BF: @"Just turn the power off!"[BREAK]
 6BF-E: @"Éteignez votre console !"[BREAK]
 6C0: @You were able to figure out[BREAK]the lengths of many things.[BREAK]
-6C0-E: @Vous êtes capable de[BREAK]mesurer la longueur de[BREAK]diverses choses.[BREAK]
+6C0-E: @Vous pouvez désormais[BREAK]mesurer la longueur de[BREAK]diverses choses.[BREAK]
 6C1: @The Big Bag disappeared[BREAK]after being emptied.[BREAK]
 6C1-E: @Le Grand sac disparaît[BREAK]après avoir été vidé.[BREAK]
 6C2: @You used up all the calls[BREAK]on your Phone Card.[BREAK]
-6C2-E: @Vous avez utilisé tous les[BREAK]appels de votre Carte[BREAK]téléphonique.[BREAK]
+6C2-E: @Vous avez utilisé toutes[BREAK]les unités de votre Carte[BREAK]téléphonique.[BREAK]
 6C3: @The poison was removed from[BREAK][03 1A]'s body.[BREAK]
 6C3-E: @Le poison a été éliminé du[BREAK]corps d[03 5A][03 1A].[BREAK]
 6C4: @[03 1A]'s cold went away.[BREAK]
-6C4-E: @Le rhume d[03 5A][03 1A] a[BREAK]disparu.[BREAK]
+6C4-E: @Le rhume d[03 5A][03 1A] est[BREAK]passé.[BREAK]
 6C5: @[03 1A] gripped the[BREAK]PSI Stone.[BREAK]
 6C5-E: @[03 1A] saisit la Pierre[BREAK]PSI.[BREAK]
 6C6: @The PSI Stone turned into[BREAK]an ordinary rock.[BREAK]
-6C6-E: @La Pierre PSI devient un[BREAK]caillou ordinaire.[BREAK]
+6C6-E: @La Pierre PSI devient une[BREAK]pierre ordinaire.[BREAK]
 6C7: @[03 1A] tried [03 1C].[BREAK]
 6C7-E: @[03 1A] tente [03 1C].[BREAK]
 6C8: @You don't have enough power[BREAK]left to try that.[BREAK]
@@ -3546,7 +3546,7 @@
 6C9: @[03 1A] was revived![BREAK]
 6C9-E: @[03 1A] revient à la vie ![BREAK]
 6CA: @Most of the diary is[BREAK]unreadable, but one part[BREAK]did stand out:[BREAK][PAUSE]@"The password...[BREAK][PAUSE]Where is the god's tail,[BREAK][PAUSE]that which was left behind[BREAK]by the ship that soars[BREAK]the heavens?"[BREAK]
-6CA-E: @La plupart du journal est[BREAK]illisible, mais une partie[BREAK]se détache du lot :[BREAK][PAUSE]@"Le mot de passe...[BREAK][PAUSE]Où se trouve la queue de[BREAK]l'esprit, qu'a laissée[BREAK]derrière lui le vaisseau[BREAK]s'élevant dans les cieux ?"[BREAK]
+6CA-E: @Le journal est presque[BREAK]entièrement illisible, mais[BREAK]une partie se distingue :[BREAK][PAUSE]@"Le mot de passe...[BREAK][PAUSE]Où se trouve la queue de[BREAK]l'esprit qu'a laissée[BREAK]derrière lui le vaisseau[BREAK]s'élevant dans les cieux ?"[BREAK]
 6CB: @[03 1A]'s body became soft[BREAK]again.[BREAK]
 6CB-E: @Le corps d[03 5A][03 1A] n'est[BREAK]plus pétrifié.[BREAK]
 6CC: @You played the Ocarina of[BREAK]Hope.[BREAK]
@@ -3576,9 +3576,9 @@
 6D8: @The entire party was[BREAK]healed![BREAK]
 6D8-E: @L'équipe tout entière a[BREAK]été soignée[4F]![BREAK]
 6D9: @[03 10] sensed a faint[BREAK]memory of his[BREAK]great-grandfather![BREAK]
-6D9-E: @[03 10] détecte un faible[BREAK]souvenir de son arrière-[BREAK]grand-père[4F]![BREAK]
+6D9-E: @[03 10] perçoit un faible[BREAK]souvenir de son arrière-[BREAK]grand-père[4F]![BREAK]
 6DA: @Huh? There still seems to[BREAK]be something inside EVE's[BREAK]body...[BREAK]
-6DA-E: @Hein[4F]? Il semble rester[BREAK]quelque chose dans le[BREAK]corps d'ÈVE...[BREAK]
+6DA-E: @Hein ? Il semble y avoir[BREAK]encore quelque chose dans[BREAK]le corps d'ÈVE...[BREAK]
 6DB: @I found your ATM Card on[BREAK]the floor in your room.[BREAK]
 6DB-E: @J'ai retrouvé ta Carte[BREAK]bancaire sur le sol de ta[BREAK]chambre.[BREAK]
 6DC: @Oh, it looks like you can't[BREAK]carry any more stuff.[BREAK]
@@ -3704,9 +3704,9 @@
 718: "Cracked Bat"[BREAK]@[03 10]! Try using this as a[BREAK]weapon!
 718-E: "Batte fêlée"[BREAK]@[03 10], tente de l'utiliser[BREAK]en tant qu'arme[4F]!
 719: "Teeball Bat"[BREAK]@This should work well[BREAK]against weak enemies,[BREAK][03 10].
-719-E: "Batte en bois"[BREAK]@Elle devrait fonctionner[BREAK]contre les ennemis faibles,[BREAK][03 10].
+719-E: "Batte ordinaire"[BREAK]@Elle devrait fonctionner[BREAK]contre les ennemis faibles,[BREAK][03 10].
 71A: "Sandlot Bat"[BREAK]@With this, [03 10] can fight[BREAK]against strong enemies.
-71A-E: "Batte en métal"[BREAK]@Avec ça, [03 10] peut se[BREAK]battre contre des ennemis[BREAK]puissants.
+71A-E: "Batte robuste"[BREAK]@Avec ça, [03 10] peut se[BREAK]battre contre des ennemis[BREAK]puissants.
 71B: "Hall of Fame Bat"[BREAK]@A spectacular bat with a[BREAK]famous athlete's autograph[BREAK]on it.
 71B-E: "Batte suprême"[BREAK]@Une batte spectaculaire[BREAK]portant l'autographe d'un[BREAK]athlète renommé.
 71C: "Frypan"[BREAK]@[03 12] can use this as a[BREAK]weapon.
