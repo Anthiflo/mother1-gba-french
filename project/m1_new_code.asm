@@ -708,19 +708,12 @@ cc_enemy_article:
   mov  r0,r4
   mov  r4,#0x7C          // 7C is character id for "male party member without elision"
   
-  cmp  r0,#1             // add 2 if Ana...
-  bne  +
-  add  r4,#2
-  +
-    
-  cmp  r0,#4             // if Pippi...
-  bne  +
-  add  r4,#2
-  +
 
-  cmp  r0,#5             // or if EVE...
+  bl   general.is_female_from_char_id
+  
+  cmp  r0,#1
   bne  +
-  add  r4,#2
+  add  r4,#2             // add 2 if female character
   +
   
   bl   general.has_elision
@@ -1084,9 +1077,9 @@ more_field_control_codes:
     +
     cmp  r1,#0x5F; bgt +; ldr r0,=#.field_cc_elision; b .field_cc_return
     + 
-    cmp  r1,#0x6F; bgt +; ldr r0,=#.field_cc_party; b .field_cc_return
+    cmp  r1,#0x6F; bgt +; ldr r0,=#.field_cc_gender; b .field_cc_return
     + 
-    cmp  r1,#0x7F; bgt +; ldr r0,=#.field_cc_gender; b .field_cc_return
+    cmp  r1,#0x7F; bgt +; ldr r0,=#.field_cc_party; b .field_cc_return
     + 
 
     ldr r0,=#.field_cc_default
@@ -1126,16 +1119,31 @@ more_field_control_codes:
 
 
 .field_cc_elision:            // cc argument in r1
-    mov     r0,#0x0F
-    and     r0,r1
-    bl      general.has_elision
-    lsl     r0,r0,#2
-    ldr     r1,=#0x8FFE9A0    // strings for "e " / "’"
-    add     r0,r0,r1
-    bl      0x8F0C058
-    b       .field_cc_next
+  mov     r0,#0x0F
+  and     r0,r1
+  bl      general.has_elision
+  lsl     r0,r0,#2
+  ldr     r1,=#0x8FFE9A0    // strings for "e " / "’"
+  add     r0,r0,r1
+  bl      0x8F0C058
+  b       .field_cc_next
     
-    
+
+.field_cc_gender: // cc argument in r1
+  mov     r0,#0x0F
+  and     r0,r1
+  
+  bl   general.is_female   // r0 now contains the gender
+  
+  ldr  r1,=#0x8FFE9A0      // strings for "e ", "’" and gender
+  add  r1,#9
+  
+  sub  r0,r1,r0
+
+  bl      0x8F0C058
+  b       .field_cc_next
+
+
 .field_cc_party:
     ldr     r0,=#0x3003190    // cc argument in r1
     ldrb    r0,[r0,#0x9]
@@ -1154,43 +1162,6 @@ more_field_control_codes:
     bl      0x8F0C058
     +
     b       .field_cc_next
-
-
-.field_cc_gender: // cc argument in r1
-  mov  r2,#0x8
-  and  r2,r1
-  cmp  r2,#0
-  bne  +    
-  ldr  r0,=#0x3003174 
-  b    .field_cc_gender_next 
-  +
-  ldr  r0,=#0x300084C
-  
-  .field_cc_gender_next:
-  
-  ldrb r1,[r0,#0]
-  sub  r1,#1             // r1 now contains the character id
-  
-  ldr  r0,=#0x8FFE9A0    // strings for "e " / "’"
-  add  r0,#9
-  
-  cmp  r1,#1             // if Ana...
-  bne  +
-  sub  r0,#1
-  +
-    
-  cmp  r1,#4             // if Pippi...
-  bne  +
-  sub  r0,#1
-  +
-
-  cmp  r1,#5             // or if EVE...
-  bne  +
-  sub  r0,#1
-  +
-
-  bl      0x8F0C058
-  b       .field_cc_next
 
 
 .field_cc_default:
@@ -1217,7 +1188,7 @@ more_field_control_codes:
 // Jumpman’s function for French elision.
 // Input parameter: r0
 // r0 values from 0 to D: 0 Ninten, 1 Ana, 2 Lloyd, 3 Teddy, 4 Pippi, 5 EVE, 6 Garuda
-// r0 = A => actor in menus (matches control code [03 16])
+// r0 = A => actor in menus (matches control code [03 1A])
 // r0 = B => target in menus (matches control code [03 1B])
 // r0 = E => current party leader (matches control code [03 16])
 // r0 = F => favorite food (matches control code [03 15])
@@ -1225,7 +1196,7 @@ more_field_control_codes:
 //------------------------------------------------------------------------------------------------------------------------------
 
 general:
-.has_elision:                      // debug: 8125374
+.has_elision:
 push {r1-r4}
 
 mov  r1,r0
@@ -1288,6 +1259,58 @@ mov  r0,#0
 pop  {r1-r4}
 bx   lr
 
+
+.is_female:
+push {lr}
+push {r1-r2}
+
+cmp  r0,#0xE                       // if parameter is E => party leader
+bne +
+ldr  r2,=#0x3003190                // where the current party leader is stored
+ldrb r0,[r2,#8]
+sub  r0,#1                         // r0 now contains the character id
++                                   
+                                   
+cmp  r0,#0xA                       // if parameter is A => agent in menus
+bne +
+ldr  r2,=#0x3003174                // where the agent is stored
+ldrb r0,[r2,#0]
+sub  r0,#1                         // r0 now contains the character id
++
+
+cmp  r0,#0xB                       // if parameter is B => target in menus
+bne +
+ldr  r2,=#0x300084C                // where the target is stored
+ldrb r0,[r2,#0]
+sub  r0,#1                         // r0 now contains the character id
++
+
+                                   // if any other parameter => other characters names
+bl   .is_female_from_char_id
+
+pop  {r1-r2}
+pop  {pc}
+
+
+.is_female_from_char_id:
+push {r1}
+
+mov  r1,r0
+mov  r0,#1
+
+cmp  r1,#1             // if Ana...
+beq  +
+cmp  r1,#4             // if Pippi...
+beq  +
+cmp  r1,#5             // if EVE...
+beq  +
+
+mov  r0,#0
+
++
+
+pop  {r1}
+bx   lr
 
 
 

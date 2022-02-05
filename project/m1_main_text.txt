@@ -1,22 +1,22 @@
 // Fresh French-made control codes!
 //
-// CODE			SIGNIFICATION			PARAMÈTRE										CC ASSOCIÉS
+// CODE			SIGNIFICATION			PARAMÈTRE									CC ASSOCIÉS
 //
 // OVERWORLD
-// [03 4X]		articles objets			0-7 type d’article,					 			[03 1C] (objet 1), [03 1D] (objet 2)
+// [03 4X]		articles objets			0-7 type d’article,					 		[03 1C-1D] (objet 1-2)
 //										+8 si le code de l’objet est 1D
-// [03 5X]		élision persos/plat		0-7 persos principaux / F plat					[03 10-13], [03 15], [03 16]
-//										/ E party leader / A-B acteur ou cible
-// [03 6X]		"l’équipe de"			E pour l’élision, F pour l’accord féminin		[03 16], [03 17]
-//										s'affiche seulement en cas d’équipe
-// [03 7X]		genre persos			0 si perso source (A), 8 si perso cible (B)		[03 1A], [03 1B]
-// 
+// [03 5X]		élision persos/plat		0-7 persos principaux / F plat				[03 10-13], [03 15-16], [03 1A-1B]
+//										/ E leader / A-B acteur ou cible
+// [03 6X]		genre persos			0-7 persos principaux						[03 10-13], [03 16], [03 1A-1B]
+//										/ E leader / A-B acteur ou cible
+// [03 7X]		"l’équipe de"			E pour l’élision, F pour l’accord féminin	[03 16-17]
+//										(s'affiche seulement en cas d’équipe)
 // 
 // COMBAT
-// [03 CX]		lettre nom combattant	0 pour l’acteur, 8 pour la cible				[03 20] (acteur), [03 21] (cible)
-// [03 DX]		nom long combattant		0 pour l’acteur, 8 pour la cible				[03 20] (acteur), [03 21] (cible)
-// [03 EX]		article combattant		0-7 type d’article, +8 pour la cible			[03 20] (acteur), [03 21] (cible)
-// [03 FX]		article objets			0-7 type d’article, +8 si objet gagné au combat	[03 22], [03 1D]
+// [03 CX]		lettre nom combattant	0 pour l’acteur, 8 pour la cible			[03 20-21] (acteur-cible)
+// [03 DX]		nom long combattant		0 pour l’acteur, 8 pour la cible			[03 20-21] (acteur-cible)
+// [03 EX]		article combattant		0-7 type d’article, +8 pour la cible		[03 20-21] (acteur-cible)
+// [03 FX]		article objets			0-7 type d’article, +8 si gagné au combat	[03 22] (normal), [03 1D] (gagné)
 
 000: System Error![BREAK]
 000-E: Erreur système[4F]![BREAK]
@@ -77,7 +77,7 @@
 01C: @We're a great team, aren't[BREAK]we?[BREAK][PAUSE]@Well, you should turn the[BREAK]power OFF now.[BREAK][PAUSE]@All right?[BREAK]
 01C-E: @On forme une bonne équipe,[BREAK]pas vrai[4F]?[BREAK][PAUSE]@Bien, tu devrais éteindre[BREAK]la console maintenant.[BREAK][PAUSE]@D'accord[4F]?[BREAK]
 01D: @[03 16], you like to work[BREAK]hard, just like your mom.[BREAK][PAUSE]@But, I don't think it's[BREAK]good to work too hard.[BREAK]
-01D-E: @[03 16], tu aimes bosser[BREAK]dur, comme ta mère.[BREAK][PAUSE]@Mais je ne pense pas que ce[BREAK]soit une bonne chose de se[BREAK]surmener.[BREAK]
+01D-E: @[03 10], tu aimes bosser[BREAK]dur, comme ta mère.[BREAK][PAUSE]@Mais je ne pense pas que ce[BREAK]soit une bonne chose de se[BREAK]surmener.[BREAK]
 01E: @Anyway, what do you need[BREAK]from me?[BREAK]
 01E-E: @Enfin bref, de quoi as-tu[BREAK]besoin[4F]?[BREAK]
 01F: 
@@ -167,7 +167,7 @@
 049: @Come back alive and you'll[BREAK]be a hero![BREAK][PAUSE]@I'd go with you, but I'm,[BREAK]umm, not feeling well...[BREAK]
 049-E: @Ramène-la-moi saine et[BREAK]sauve et je serai un[BREAK]héros[4F]![BREAK][PAUSE]@Enfin, je veux dire, tu[BREAK]seras un héros.[BREAK]
 04A: @Oh, it's [03 16], the hero![BREAK][PAUSE]@You have tiger droppings[BREAK]all over your clothes, you[BREAK]know.[BREAK][PAUSE]@Oh, I'm just kidding![BREAK][PAUSE]@Sorry, I don't have[BREAK]anything to give you this[BREAK]time...[BREAK][PAUSE]Wahahaha![BREAK]
-04A-E: @Voilà [03 16], le héros ![BREAK][PAUSE]@Tu as de la bave de tigre[BREAK]partout sur tes habits, tu[BREAK]sais.[BREAK][PAUSE]@Ah, je plaisante[4F]![BREAK][PAUSE]@Navré, je n'ai rien à te[BREAK]donner cette fois...[BREAK][PAUSE]Wahahaha[4F]![BREAK]
+04A-E: @Voilà [03 10], le héros[4F]![BREAK][PAUSE]@Tu as de la bave de tigre[BREAK]partout sur tes habits, tu[BREAK]sais.[BREAK][PAUSE]@Ah, je plaisante[4F]![BREAK][PAUSE]@Navré, je n'ai rien à te[BREAK]donner cette fois...[BREAK][PAUSE]Wahahaha[4F]![BREAK]
 04B: @Everyone's talking about a[BREAK]girl with special powers.[BREAK]Have you heard about her?[BREAK][PAUSE]@I bet she'd be a great help[BREAK]to you on your journey.[BREAK]
 04B-E: @Tout le monde parle d'une[BREAK]fille avec des pouvoirs[BREAK]spéciaux.[BREAK][PAUSE]Tu es au courant ?[BREAK][PAUSE]@Je suis sûr qu'elle te[BREAK]serait d'une grande aide[BREAK]dans ton périple.[BREAK]
 04C: @I have plenty of extra zoo[BREAK]keys.[BREAK][PAUSE]@Here, have another.[BREAK]
@@ -648,7 +648,7 @@
 12F: @I can't guarantee this[BREAK]train'll go very far, but[BREAK]you'll still need to pay.[BREAK][PAUSE]@Are you gonna ride the[BREAK]train?[BREAK]
 12F-E: @Je ne sais pas si ce train[BREAK]ira très loin, mais tu dois[BREAK]quand même payer le billet.[BREAK][PAUSE]@Veux-tu embarquer à bord du[BREAK]train[4F]?[BREAK]
 130: @([03 16]'s weapon was[BREAK]confiscated.)[BREAK]
-130-E: @(L'arsenal d[03 5E][03 16] a été[BREAK]confisqué.)[BREAK]
+130-E: @(L'arme d[03 5E][03 16] a été[BREAK]confisquée.)[BREAK]
 131: 
 131-E: 
 132: 
@@ -835,7 +835,7 @@
 18B: @Thank you for your time.[BREAK][PAUSE]@I'm a busy man myself, so I[BREAK]must be going now. Goodbye![BREAK]
 18B-E: @Merci d'avoir pris le temps[BREAK]de me répondre.[BREAK][PAUSE]@Je suis quelqu'un d'assez[BREAK]occupé, donc je vais devoir[BREAK]vous laisser. Au revoir ![BREAK]
 18C: @[03 16]... right?[BREAK]
-18C-E: @[03 16]... c'est bien ça ?[BREAK]
+18C-E: @[03 10]... c'est bien ça ?[BREAK]
 18D: @Come on, quit joking[BREAK]around.[BREAK]
 18D-E: @Oh allez, fait pas l'idiot.[BREAK]
 18E: @I've been waiting for you.[BREAK][PAUSE]@I need your help to find my[BREAK]mom.[BREAK][PAUSE]@Let's start by seeing[BREAK]what's happening in the[BREAK]town of Easter.[BREAK]
@@ -867,7 +867,7 @@
 19B: @[03 3E] found a pass that[BREAK]someone dropped.[BREAK]
 19B-E: @[03 3E] trouve un passe que[BREAK]quelqu'un a laissé tomber.[BREAK]
 19C: @[03 16][03 17] climbed[BREAK]into the rocket.[BREAK]
-19C-E: @[03 17][03 6E][03 16] monte[BREAK]dans la fusée.[BREAK]
+19C-E: @[03 17][03 7E][03 16] monte[BREAK]dans la fusée.[BREAK]
 19D: @My grandpa lives in the[BREAK]Advent Desert.[BREAK][PAUSE]@If you see him, tell him I[BREAK]say hi.[BREAK]
 19D-E: @Mon papy vit dans le désert[BREAK]Yucca.[BREAK][PAUSE]@Si vous le croisez, passez-[BREAK]lui le bonjour.[BREAK]
 19E: @I'm a nice guy's corpse.[BREAK][PAUSE]@So don't worry, I won't[BREAK]attack you or anything like[BREAK]that.[BREAK]
@@ -958,7 +958,7 @@
 1C7: @Aww, man. I can't give it[BREAK]to you. You're holding too[BREAK]much stuff.[BREAK]
 1C7-E: @Ah, ça craint. Je peux pas[BREAK]te le donner. T'as déjà[BREAK]trop de trucs sur toi.[BREAK]
 1C8: @Time has passed, but you're[BREAK]still underage.[BREAK]
-1C8-E: @Le temps passe, mais tu es[BREAK]toujours mineur.[BREAK]
+1C8-E: @Le temps passe, mais tu es[BREAK]toujours mineur[03 6E].[BREAK]
 1C9: @You really oughtta watch[BREAK]where you're walking.[BREAK][PAUSE]@Heheheh...[BREAK]
 1C9-E: @Tu f'rais bien de r'garder[BREAK]où tu marches.[BREAK][PAUSE]@Héhéhé...[BREAK]
 1CA: @Oh, that blasted Black[BREAK]Blood Gang...
@@ -992,9 +992,10 @@
 1D8: 
 1D8-E: 
 1D9: @You're so cute.[BREAK][PAUSE]@Oh, your name is [03 16]?[BREAK][PAUSE]@Here, this beer's on me.[BREAK]Drink up![BREAK]
-1D9-E: @T'es mignon, toi.[BREAK][PAUSE]@Oh, tu t'appelles [03 16] ?[BREAK][PAUSE]@Allez, c'est ma tournée, je[BREAK]t'offre une bière ?[BREAK]
+1D9-E: @T'es trop chou, toi.[BREAK][PAUSE]@Oh, tu t'appelles [03 16] ?[BREAK][PAUSE]@Allez, c'est ma tournée, je[BREAK]t'offre une bière ?[BREAK]
+// "trop chou" neutre en genre
 1DA: @Oh, you're still a kid?[BREAK][PAUSE]@Come back when you're[BREAK]older, then.[BREAK]
-1DA-E: @Oh, t'es encore qu'un[BREAK]gamin ?[BREAK][PAUSE]@Reviens quand tu seras plus[BREAK]vieux, alors.[BREAK]
+1DA-E: @Oh, t'es encore qu'un[03 6E][BREAK]gamin[03 6E] ?[BREAK][PAUSE]@Reviens quand tu seras plus[BREAK]grand[03 6E], alors.[BREAK]
 1DB: @Forget it. No more drinks[BREAK]from me.[BREAK]
 1DB-E: @Non, oublie. Mon ardoise[BREAK]est déjà pleine.[BREAK]
 1DC: @Now do you regret what you[BREAK]did?[BREAK]
@@ -1162,7 +1163,7 @@
 22A: @I can buy your [03 1D][BREAK]for $[03 1E].[BREAK][PAUSE]@Is that okay with you?[BREAK]
 22A-E: @Je peux te racheter t[03 4B][BREAK][03 1D] pour [03 1E]$.[BREAK][PAUSE]@Ça te va[4F]?[BREAK]
 22B: @[03 3E] took out his[BREAK]great-grandfather's diary[BREAK]and read these words aloud:[BREAK][PAUSE]"...That which was left[BREAK]behind by the ship that[BREAK]soars the heavens."[BREAK]
-22B-E: @[03 3E] sort le journal de[BREAK]son arrière-grand-père et[BREAK]prononce à voix haute :[BREAK][PAUSE]"... Qu'a laissée[BREAK]derrière lui le vaisseau[BREAK]s'élevant dans les cieux."[BREAK]
+22B-E: @[03 10] sort le journal de[BREAK]son arrière-grand-père et[BREAK]prononce à voix haute :[BREAK][PAUSE]"... Qu'a laissée[BREAK]derrière lui le vaisseau[BREAK]s'élevant dans les cieux."[BREAK]
 22C: 
 22C-E: 
 22D: 
@@ -1394,7 +1395,7 @@
 29B: @I have faith that [03 12] is[BREAK]doing well somewhere out[BREAK]there.
 29B-E: @Je suis convaincu[BREAK]qu[03 51][03 12] est en sécurité[BREAK]quelque part.
 29C: @Hey, you're underage. I'm[BREAK]taking you into custody.[BREAK]
-29C-E: @Hé, tu es mineur. Je vais[BREAK]devoir te placer en garde[BREAK]à vue.[BREAK]
+29C-E: @Hé, tu es mineur[03 6E]. Je vais[BREAK]devoir te placer en garde[BREAK]à vue.[BREAK]
 29D: 
 29D-E: 
 29E: 
@@ -1467,9 +1468,9 @@
 2BB: @I'd like to help the[BREAK]zombies become friendly by[BREAK]teaching them about God.[BREAK][PAUSE]@But...[BREAK]Zombies freak me out![BREAK]
 2BB-E: @J'aimerais essayer de[BREAK]rendre les zombies gentils[BREAK]en leur parlant de Dieu.[BREAK][PAUSE]@Mais...[BREAK]Les zombies me fichent les[BREAK]jetons ![BREAK]
 2BC: @It's me, Pippi![BREAK][PAUSE]@We really did meet again,[BREAK][03 16]![BREAK][PAUSE]@I went out to play again.[BREAK]That's why I'm here.[BREAK][PAUSE]Don't tell my mom, though.[BREAK]
-2BC-E: @C'est moi, Fifi ![BREAK][PAUSE]@On a fini par se retrouver,[BREAK][03 16] ![BREAK][PAUSE]@Je suis retournée jouer[BREAK]dehors, c'est pour ça que[BREAK]je suis là.[BREAK][PAUSE]Tu diras rien à ma maman,[BREAK]hein ?[BREAK]
+2BC-E: @C'est moi, Fifi ![BREAK][PAUSE]@On a fini par se retrouver,[BREAK][03 10] ![BREAK][PAUSE]@Je suis retournée jouer[BREAK]dehors, c'est pour ça que[BREAK]je suis là.[BREAK][PAUSE]Tu diras rien à ma maman,[BREAK]hein ?[BREAK]
 2BD: @Oh, aren't you [03 16], that[BREAK]snot-nose kid who sat next[BREAK]to me in kindergarten?[BREAK][PAUSE]@Or are you someone else?[BREAK]
-2BD-E: @Hé tu serais pas [03 16], le[BREAK]morveux qui était assis à[BREAK]côté de moi en maternelle[4F]?[BREAK][PAUSE]@Ou alors je confonds[4F]?[BREAK]
+2BD-E: @Hé tu serais pas [03 10], le[BREAK]morveux qui était assis à[BREAK]côté de moi en maternelle[4F]?[BREAK][PAUSE]@Ou alors je confonds[4F]?[BREAK]
 2BE: @Please don't dine-and-dash.[BREAK][PAUSE]Sorry if that comes off as[BREAK]distrustful...[BREAK]
 2BE-E: @Merci de ne pas partir sans[BREAK]payer.[BREAK][PAUSE]Excuse-moi si j'ai l'air[BREAK]méfiante...[BREAK]
 2BF: @You know, you look like you[BREAK]have a big appetite.[BREAK]
@@ -1479,7 +1480,7 @@
 2C1: @With the tracks ruined, the[BREAK]train has stopped running.[BREAK][PAUSE]@Quit with all the pesky[BREAK]questions, will ya?[BREAK][PAUSE]@Geez, you're persistent.[BREAK][PAUSE]@You're gonna make me cry[BREAK]with all your questions.[BREAK]
 2C1-E: @Les rails sont détruits, du[BREAK]coup le train ne fonctionne[BREAK]plus.[BREAK][PAUSE]@Arrête de me poser toutes[BREAK]ces fichues questions, tu[BREAK]veux ?[BREAK][PAUSE]@Bon sang, tu t'obstines.[BREAK][PAUSE]@Tu vas finir par me faire[BREAK]pleurer à force, avec tes[BREAK]questions.
 2C2: @Don't just stand there![BREAK]Get moving![BREAK]
-2C2-E: @Ne reste pas planté là ![BREAK]Bouge ![BREAK]
+2C2-E: @Reste pas planté[03 6E] là ![BREAK]Bouge ![BREAK]
 2C3: @You look like you've been[BREAK]through a lot.[BREAK][PAUSE]@Well, now you can sit back,[BREAK]relax, and regret it all.[BREAK]
 2C3-E: @On dirait que tu as vécu[BREAK]beaucoup de choses.[BREAK][PAUSE]@Maintenant, tu peux prendre[BREAK]du recul, te détendre et[BREAK]tout regretter.
 2C4: @I've heard about all the[BREAK]great things you've been up[BREAK]to.[BREAK][PAUSE]@You must really be brave,[BREAK]huh?[BREAK]
@@ -1653,7 +1654,7 @@
 318: @Good morning.[BREAK][PAUSE]@Please come back again.[BREAK]We look forward to it.[BREAK]
 318-E: @Bonne journée.[BREAK][PAUSE]@Au plaisir de ta prochaine[BREAK]visite.[BREAK]
 319: @[03 1B] was just[BREAK]brought in, and is[BREAK]still unconscious.[BREAK][PAUSE]@Please pay $[03 1E][BREAK]for the doctor's[BREAK]fee.[BREAK]
-319-E: @On a pris en charge[BREAK][03 1B], toujours[BREAK]sans connaissance.[BREAK][PAUSE]@Les honoraires du[BREAK]médecin s'élèvent[BREAK]à [03 1E]$[BREAK]
+319-E: @On vient de[BREAK]recevoir [03 1B],[BREAK]toujours évanoui[03 6B].[BREAK][PAUSE]@Les honoraires du[BREAK]médecin s'élèvent[BREAK]à [03 1E]$[BREAK]
 31A: @Who are you here to[BREAK]see?[BREAK]
 31A-E: @Qui es-tu venu[BREAK]voir ?[BREAK]
 31B: 
@@ -1711,7 +1712,7 @@
 335: @The key doesn't fit.[BREAK]
 335-E: @La clé ne rentre pas.[BREAK]
 336: @[03 16][03 17] unlocked[BREAK]the door and went inside.[BREAK]
-336-E: @[03 17][03 6E][03 16][BREAK]déverrouille la porte et[BREAK]pénètre à l'intérieur.[BREAK]
+336-E: @[03 17][03 7E][03 16][BREAK]déverrouille la porte et[BREAK]pénètre à l'intérieur.[BREAK]
 337:   Save      Nothing
 337-E:   Sauvegarder  Rien
 338:   Continue  End
@@ -1911,9 +1912,9 @@
 399: @[03 3E] opened the present.[BREAK]
 399-E: @[03 3E] ouvre le paquet.[BREAK]
 39A: @Found [03 1D].[BREAK]
-39A-E: @Vous trouvez[BREAK][03 48][03 1D].[BREAK]
+39A-E: @[03 4A][03 1D] [03 4E] été[BREAK]trouvé[03 4F].[BREAK] 
 39B: @[03 16][03 17] took the[BREAK][03 1D].[BREAK]
-39B-E: @[03 17][03 6E][03 16] prend[BREAK]l[03 49][03 1D].[BREAK]
+39B-E: @[03 17][03 7E][03 16] prend[BREAK]l[03 49][03 1D].[BREAK]
 39C: 
 39C-E: 
 39D: @But you can't hold any[BREAK]more stuff.[BREAK]
@@ -2036,11 +2037,13 @@
 3D6: @PLEASE INSERT ATM CARD[BREAK]
 3D6-E: @VEUILLEZ INSÉRER VOTRE[BREAK]CARTE BANCAIRE[BREAK]
 3D7: @You shouldn't carry around[BREAK]that much cash.[BREAK]
-3D7-E: @Tu ne devrais pas te[BREAK]promener avec autant[BREAK]d'argent.[BREAK]
+3D7-E: @Vous ne devriez pas vous[BREAK]promener avec autant[BREAK]d'argent.[BREAK]
 3D8: @This'll return you back to[BREAK]your previous save data.[BREAK]Is that all right?[BREAK]
-3D8-E: @Tu reprendras la partie à[BREAK]ta dernière sauvegarde.[BREAK]Cela te convient ?[BREAK]
+3D8-E: @La partie reprendra à la[BREAK]dernière sauvegarde.[BREAK]Est-ce que ça convient ?[BREAK]
+// tournure neutre
 3D9: @You said yes, but you don't[BREAK]have a save file![BREAK][PAUSE]Ahahaha![BREAK]
-3D9-E: @Tu as dit oui, mais tu n'as[BREAK]aucune partie enregistrée ![BREAK][PAUSE]Ha ha ha ha ![BREAK]
+3D9-E: @Mais il n'existe aucune[BREAK]partie enregistrée ![BREAK][PAUSE]Ha ha ha ha ![BREAK]
+// tournure neutre
 3DA: @His breathing is rough. He[BREAK]looks like he's in pain.[BREAK]
 3DA-E: @Il respire difficilement.[BREAK]Il semble souffrir.[BREAK]
 3DB: @You don't have any[BREAK]friends to give[BREAK]items to yet.[BREAK]
@@ -2062,7 +2065,7 @@
 3E3: @Do you need anything else?[BREAK]
 3E3-E: @As-tu besoin d'autre[BREAK]chose ?[BREAK]
 3E4: @Welcome, [03 16]...[BREAK][PAUSE]@I always had faith that you[BREAK]would make it this far.[BREAK][PAUSE]@Long ago, your[BREAK]great-grandmother Maria[BREAK]filled her eight melodies[BREAK][PAUSE]with all the love she could[BREAK]and scattered them around[BREAK]as gifts for you,[BREAK][PAUSE]even though she had never[BREAK]seen you before...[BREAK][PAUSE]
-3E4-E: @Bienvenue, [03 16]...[BREAK][PAUSE]@J'ai toujours su que tu[BREAK]arriverais jusqu'ici.[BREAK][PAUSE]@Il y a longtemps, ton[BREAK]arrière-grand-mère Maria[BREAK]emplit ses huit mélodies[BREAK][PAUSE]de tout l'amour qu'elle[BREAK]portait et les dispersa en[BREAK]différents lieux[BREAK][PAUSE]comme des présents pour[BREAK]toi, avant même de t'avoir[BREAK]rencontré...[BREAK][PAUSE]
+3E4-E: @Bienvenue, [03 10]...[BREAK][PAUSE]@J'ai toujours su que tu[BREAK]arriverais jusqu'ici.[BREAK][PAUSE]@Il y a longtemps, ton[BREAK]arrière-grand-mère Maria[BREAK]emplit ses huit mélodies[BREAK][PAUSE]de tout l'amour qu'elle[BREAK]portait et les dispersa en[BREAK]différents lieux[BREAK][PAUSE]comme des présents pour[BREAK]toi, avant même de t'avoir[BREAK]rencontré...[BREAK][PAUSE]
 3E5: @Bathed in the glow of the[BREAK]crystal, everyone was[BREAK]completely healed![BREAK]
 3E5-E: @Baigné dans la lueur du[BREAK]cristal, tout le monde a[BREAK]été complètement soigné ![BREAK]
 3E6: 
@@ -2846,7 +2849,7 @@
 56B: Be careful not to get petrified...
 56B-E: Attention à ne pas vous faire pétrifier...
 56C: This thing better not have fleas...
-56C-E: Espérons qu'il n'a pas de puces...
+56C-E: Espérons qu'il n'ait pas de puces...
 56D: Hypnosis probably doesn't work on cars, does it?
 56D-E: L'hypnose ne fonctionne probablement pas sur les voitures, si[4F]?
 56E: Hypnosis probably doesn't work on trucks, does it?
@@ -3558,7 +3561,7 @@
 6CF: @[03 1A] checked the map.[BREAK]
 6CF-E: @[03 1A] consulte la carte.[BREAK]
 6D0: @Some sort of force is[BREAK]pushing [03 16][03 17][BREAK]back.[BREAK]
-6D0-E: @Une sorte de force repousse[BREAK][03 17][03 6E][03 16].[BREAK]
+6D0-E: @Une sorte de force repousse[BREAK][03 17][03 7E][03 16].[BREAK]
 6D1: @The Repel Ring's mysterious[BREAK]power wore off.[BREAK]
 6D1-E: @Le mystérieux pouvoir de[BREAK]la Bague répulsive s'est[BREAK]dissipé.[BREAK]
 6D2: 
@@ -3572,7 +3575,7 @@
 6D6: @[03 1A] took out the[BREAK][03 1C] and then put it[BREAK]away again.[BREAK]
 6D6-E: @[03 1A] sort l[03 41][03 1C][BREAK]puis [03 44]range[BREAK]immédiatement.[BREAK]
 6D7: @[03 1A] is unconcious.[BREAK]
-6D7-E: @[03 1A] est évanoui[03 70].[BREAK]
+6D7-E: @[03 1A] est évanoui[03 6A].[BREAK]
 6D8: @The entire party was[BREAK]healed![BREAK]
 6D8-E: @L'équipe tout entière a[BREAK]été soignée[4F]![BREAK]
 6D9: @[03 10] sensed a faint[BREAK]memory of his[BREAK]great-grandfather![BREAK]
@@ -4098,7 +4101,7 @@
 7DD: [BREAK]         YOU WON![BREAK]
 7DD-E: [BREAK]        VICTOIRE[4F]![BREAK]
 7DE: [BREAK][03 16][03 17] was defeated...[BREAK]
-7DE-E: [BREAK][03 17][03 6E][03 16] a été vaincu[03 6F]...[BREAK]
+7DE-E: [BREAK][03 17][03 7E][03 16] a été vaincu[03 7F]...[BREAK]
 7DF: Defeated the [03 21]!
 7DF-E: Vous avez vaincu [03 EB][03 D8][03 C8][4F]!
 7E0: [03 21] got tired and collapsed...
