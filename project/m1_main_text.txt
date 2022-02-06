@@ -341,7 +341,7 @@
 0A0: 
 0A0-E: 
 0A1: @If you pull out a Red Weed[BREAK]and put it in the fountain,[BREAK][PAUSE]it'll turn into a Magic[BREAK]Herb... just like magic![BREAK]
-0A1-E: @Si tu jettes une Plante[BREAK]rouge dans la fontaine,[BREAK][PAUSE]elle se transformera en[BREAK]Herbe magique... comme par[BREAK]magie[4F]![BREAK]
+0A1-E: @Si tu jettes une Pousse[BREAK]rouge dans la fontaine,[BREAK][PAUSE]elle se transformera en[BREAK]Herbe magique... comme par[BREAK]magie[4F]![BREAK]
 0A2: @Could I interest you in a[BREAK]Big Bag?[BREAK]
 0A2-E: @Serais-tu intéressé par un[BREAK]Grand sac[4F]?[BREAK]
 0A3: @In that case, could I[BREAK]borrow your ATM Card for a[BREAK]short while?[BREAK]
@@ -1126,7 +1126,7 @@
 219: @I don't think[BREAK]there's anyone here[BREAK]by that name,[BREAK][PAUSE]but perhaps I'm[BREAK]mistaken...[BREAK]
 219-E: @Je ne crois pas[BREAK]qu'il y a quelqu'un[BREAK]de ce nom-là ici,[BREAK][PAUSE]mais je peux me[BREAK]tromper...[BREAK]
 21A: @After being placed in the[BREAK]fountain,[BREAK][PAUSE]the Red Weed turned into a[BREAK]very energizing Magic Herb.[BREAK]
-21A-E: @Après avoir été déposée[BREAK]dans la fontaine,[BREAK][PAUSE]la Plante rouge se[BREAK]transforme en une Herbe[BREAK]magique très énergisante.[BREAK]
+21A-E: @Après avoir été déposée[BREAK]dans la fontaine,[BREAK][PAUSE]la Pousse rouge se[BREAK]transforme en une Herbe[BREAK]magique très énergisante.[BREAK]
 21B: @There's no one like[BREAK]that here![BREAK]
 21B-E: @Il n'y a personne[BREAK]de ce nom-là ici ![BREAK]
 // possible hospital text?
@@ -2295,7 +2295,7 @@
 456: ATM Card
 456-E: CarteBanque
 457: Red Weed
-457-E: PlanteRouge
+457-E: PousseRouge
 458: Megaphone
 458-E: Mégaphone
 459: Map
@@ -3661,13 +3661,13 @@
 701: The abducted grownups return[BREAK]to their children in Easter.[BREAK]You did great, kids![BREAK]
 701-E: Les adultes qui ont été[BREAK]enlevés retrouvent leurs[BREAK]enfants à Youngtown.[BREAK]Beau travail, les enfants[4F]![BREAK]
 702: [03 12]: I promise I'll never[BREAK]forget you. So I won't say[BREAK]say goodbye...[BREAK]Just, "'Til we meet again!"[BREAK]
-702-E: [03 12] : Je te promets que[BREAK]je ne t'oublierai jamais.[BREAK]Je ne dirais pas "Adieu",[BREAK]plutôt "À la prochaine[4F]!"[BREAK]
+702-E: [03 12] : Je ne t'oublierai[BREAK]jamais, c'est promis.[BREAK]Je ne vais pas te dire[BREAK]"Adieu", mais plutôt :[BREAK]"À la prochaine[4F]!"[BREAK]
 703: [03 11] returns to a hero's[BREAK]welcome at Twinkle[BREAK]Elementary School.[BREAK]
 703-E: [03 11] retourne à l'école[BREAK]primaire Léclat où il est[BREAK]acclamé en héros.[BREAK]
 704: Welcome home, [03 10]![BREAK]We're so glad you made it[BREAK]back safe and sound.[BREAK]You must be famished![BREAK]
-704-E: Bon retour, [03 10] ! Nous[BREAK]sommes tellement heureuses[BREAK]que tu sois sain et sauf.[BREAK]Tu dois être affamé[4F]![BREAK]
+704-E: Bon retour parmi nous,[BREAK][03 10] ! Quelle joie de te[BREAK]revoir sain et sauf. Tu[BREAK]dois mourir de faim[4F]![BREAK]
 705: Oh, a letter from [03 10].[BREAK]I miss him so much.[BREAK]I hope we can get together[BREAK]again soon...[BREAK]
-705-E: Oh, une lettre d[03 50][03 10].[BREAK]Il me manque tellement.[BREAK]J'espère que nous pourrons[BREAK]nous retrouver bientôt...[BREAK]
+705-E: Oh, une lettre d[03 50][03 10].[BREAK]Il me manque tellement.[BREAK]J'espère qu'on pourra se[BREAK]retrouver bientôt...[BREAK]
 706: Well, now that the Earth's[BREAK]crisis is finally over, I[BREAK]think I'll just lie down for[BREAK]a moment and... Zzzzzzz...
 706-E: Pfiou, maintenant que la[BREAK]Terre n'est plus en danger,[BREAK]je pense que je vais[BREAK]m'allonger et... Zzzzzz...
 707: Oh, this is your dad.[BREAK]I hate to wake you, but it[BREAK]might be just a little too[BREAK]soon to rest easy...
@@ -3677,7 +3677,7 @@
 709: "Big Bag"[BREAK]@A bag filled with lots of[BREAK]Magic Herbs.
 709-E: "Grand sac"[BREAK]@Un sac rempli à ras bord[BREAK]d'Herbes magiques.
 70A: "Phone Card"[BREAK]@You can make 50 calls on[BREAK]public phones with this.
-70A-E: "Carte téléphonique"[BREAK]@Vous pouvez appeler[BREAK]gratuitement 50 fois sur[BREAK]des téléphones publics.
+70A-E: "Carte téléphonique"[BREAK]@Vous permet de passer[BREAK]50 appels gratuits depuis[BREAK]des téléphones publics.
 70B: "Bread Crumbs"[BREAK]@With these, you can return[BREAK]to the exact spot where you[BREAK]began spreading crumbs.
 70B-E: "Miettes de pain"[BREAK]@Permet de retourner à[BREAK]l'endroit où la piste de[BREAK]miettes a commencé.
 70C: "Repel Ring"[BREAK]@When used, this item will[BREAK]ward off weak enemies for a[BREAK]short while.
@@ -3685,7 +3685,7 @@
 70D: 
 70D-E: 
 70E: "Memory Chip"[BREAK]@Part of Great Grandfather[BREAK]George's memory is stored[BREAK]on this.[BREAK][PAUSE]@[03 10] can use it to return[BREAK]to EVE's location.
-70E-E: "Puce mémoire"[BREAK]@Une partie de la mémoire[BREAK]de l'arrière-grand-père[BREAK]George est inscrite dessus.[BREAK][PAUSE]@[03 10] peut l'utiliser pour[BREAK]retourner à l'endroit où se[BREAK]trouve ÈVE.
+70E-E: "Puce mémoire"[BREAK]@Une partie des souvenirs de[BREAK]George, l'arrière-grand-[BREAK]père, est inscrite dessus.[BREAK][PAUSE]@[03 10] peut l'utiliser pour[BREAK]retourner à l'endroit où se[BREAK]trouve ÈVE.
 70F: 
 70F-E: 
 710: 
@@ -3693,9 +3693,9 @@
 711: 
 711-E: 
 712: "Knife"[BREAK]@A weapon that [03 13] can[BREAK]skillfully use.
-712-E: "Couteau"[BREAK]@Un couteau de poche qui[BREAK]sert d'arme, qu[03 53][03 13][BREAK]peut utiliser avec talent.
+712-E: "Couteau"[BREAK]@Un couteau de poche qui[BREAK]sert d'arme. [03 13] peut[BREAK]le manier avec talent.
 713: "Survival Knife"[BREAK]@A weapon for [03 13].[BREAK]It looks stronger than a[BREAK]regular knife.
-713-E: "Couteau de survie"[BREAK]@Une arme pour [03 13].[BREAK]Il semble plus robuste[BREAK]qu'un couteau normal.
+713-E: "Couteau de survie"[BREAK]@Une arme pour [03 13].[BREAK]Il semble plus robuste[BREAK]qu'un couteau ordinaire.
 714: "Basic Sword"[BREAK]@Probably only a select few[BREAK]can master using this.
 714-E: "Épée simple"[BREAK]@Seuls quelques initiés sont[BREAK]capables de la manier.
 715: "Katana"[BREAK]@[03 13] can use this[BREAK]Japanese sword.[BREAK][PAUSE]@It's the strongest weapon[BREAK]of all.
@@ -3705,11 +3705,11 @@
 717: "Toy Air Gun"[BREAK]@This is a very strong[BREAK]weapon, but only [03 11] can[BREAK]use it.
 717-E: "Pistolet à billes"[BREAK]@Il s'agit d'une arme[BREAK]redoutable, mais seul[BREAK][03 11] peut l'utiliser.
 718: "Cracked Bat"[BREAK]@[03 10]! Try using this as a[BREAK]weapon!
-718-E: "Batte fêlée"[BREAK]@[03 10], tente de l'utiliser[BREAK]en tant qu'arme[4F]!
+718-E: "Batte fêlée"[BREAK]@[03 10], essaie de t'en[BREAK]servir comme une arme[4F]!
 719: "Teeball Bat"[BREAK]@This should work well[BREAK]against weak enemies,[BREAK][03 10].
-719-E: "Batte ordinaire"[BREAK]@Elle devrait fonctionner[BREAK]contre les ennemis faibles,[BREAK][03 10].
+719-E: "Batte ordinaire"[BREAK]@Elle devrait être efficace[BREAK]contre les ennemis faibles,[BREAK][03 10].
 71A: "Sandlot Bat"[BREAK]@With this, [03 10] can fight[BREAK]against strong enemies.
-71A-E: "Batte robuste"[BREAK]@Avec ça, [03 10] peut se[BREAK]battre contre des ennemis[BREAK]puissants.
+71A-E: "Batte robuste"[BREAK]@Avec ça, [03 10] peut[BREAK]affronter des ennemis[BREAK]puissants.
 71B: "Hall of Fame Bat"[BREAK]@A spectacular bat with a[BREAK]famous athlete's autograph[BREAK]on it.
 71B-E: "Batte suprême"[BREAK]@Une batte spectaculaire[BREAK]portant l'autographe d'un[BREAK]athlète renommé.
 71C: "Frypan"[BREAK]@[03 12] can use this as a[BREAK]weapon.
@@ -3717,7 +3717,7 @@
 71D: "Deluxe Frypan"[BREAK]@This frypan doesn't burn[BREAK]food,[BREAK][PAUSE]and [03 12] can also use it[BREAK]as a weapon.
 71D-E: "Poêle en inox"[BREAK]@Une poêle antiadhésive[BREAK]qu[03 51][03 12] peut utiliser[BREAK]comme une arme.
 71E: "Best Frypan"[BREAK][PAUSE]@Not even tough baddies can[BREAK]withstand a hit from this[BREAK]heavy frypan.
-71E-E: "Poêle en fonte"[BREAK]@Même les plus vils gredins[BREAK]ne résistent pas aux coups[BREAK]de cette lourde poêle.
+71E-E: "Poêle en fonte"[BREAK]@Même les pires gredins ne[BREAK]résistent pas aux coups de[BREAK]cette lourde poêle.
 71F: "Slingshot"[BREAK]@A simple weapon that anyone[BREAK]can use.
 71F-E: "Lance-pierre"[BREAK]@Une arme simple que tout[BREAK]le monde peut utiliser.
 720: "Boomerang"[BREAK]@Handle with care. This is[BREAK]not a toy.[BREAK][PAUSE]Anyone can use this weapon.
@@ -3733,7 +3733,7 @@
 725: "Curse Words"[BREAK]@???
 725-E: "Mots amers"[BREAK]@???
 726: "Slime Generator"[BREAK]@It SEEMS like it could be[BREAK]useful in battle, but...
-726-E: "Appareil à gélatine"[BREAK]@Cela SEMBLE pouvoir être[BREAK]utile en combat, mais...
+726-E: "Appareil à gélatine"[BREAK]@Il SEMBLE pouvoir être[BREAK]utile en combat, mais...
 727: "Flashdark"[BREAK]@This is the exact opposite[BREAK]of a flashlight.
 727-E: "Ombre de poche"[BREAK]@L'exact opposé d'une lampe[BREAK]de poche.
 728: 
@@ -3741,15 +3741,15 @@
 729: 
 729-E: 
 72A: "Flamethrower"[BREAK]@Burns enemies to a crisp,[BREAK]but only [03 11] can use it.
-72A-E: "Lance-flammes"[BREAK]@Carbonise plusieurs ennemis[BREAK]mais seul [03 11] peut[BREAK]l'utiliser.
+72A-E: "Lance-flammes"[BREAK]@Peut carboniser plusieurs[BREAK]ennemis, mais seul [03 11][BREAK]peutl'utiliser.
 72B: "Bomb"[BREAK]@Probably only [03 11] can[BREAK]use this.
 72B-E: "Bombe"[BREAK]@Seul [03 11] semble pouvoir[BREAK]l'utiliser.
 72C: "Super Bomb"[BREAK]@"Danger! Explosive!" is[BREAK]written on it.[BREAK][PAUSE]@Leave this in [03 11]'s[BREAK]hands.
-72C-E: "Super bombe"[BREAK]@"Danger[4F]! Explosif[4F]!" est[BREAK]écrit dessus. Laissez[BREAK][03 11] se charger de ça[BREAK]
+72C-E: "Super bombe"[BREAK]@Porte la mention :[BREAK]"Danger ! Explosif !"[BREAK][PAUSE]Laissez [03 11] s'en[BREAK]charger
 72D: "Laser Beam"[BREAK]@If that weakling [03 11][BREAK]were to wield this...
 72D-E: "Rayon laser"[BREAK]@Si jamais cette mauviette[BREAK]d[03 52][03 11] venait à l'avoir[BREAK]entre les mains...
 72E: "Death Beam"[BREAK]@If that cowardly [03 11][BREAK]were to wield this, he'd[BREAK]really be something.
-72E-E: "Rayon de la mort"[BREAK]@Si ce lâche d[03 52][03 11] en[BREAK]venait à l'utiliser, il[BREAK]serait vraiment épatant.
+72E-E: "Rayon de la mort"[BREAK]@Si ce lâche d[03 52][03 11] en[BREAK]venait à l'utiliser, il[BREAK]pourrait faire sensation.
 72F: 
 72F-E: 
 730: "Rope"[BREAK]@Use this to tie up the[BREAK]enemy.
@@ -3763,7 +3763,7 @@
 734: 
 734-E: 
 735: "Peace Coin"[BREAK]@Raises your Defense[BREAK]slightly when equipped.
-735-E: "Pièce de paix"[BREAK]@Augmente très faiblement[BREAK]votre défense si équipée.
+735-E: "Pièce de paix"[BREAK]@Augmente très légèrement[BREAK]votre défense si équipée.
 736: "Protect Coin"[BREAK]@Raises your Defense[BREAK]somewhat when equipped.
 736-E: "Pièce de protection"[BREAK]@Augmente modérément[BREAK]votre défense si équipée.
 737: "Magic Coin"[BREAK]@Raises your Defense quite a[BREAK]bit when equipped.
@@ -3775,13 +3775,13 @@
 73A: "Goddess Bracelet"[BREAK]@Raises your Defense a whole[BREAK]lot when equipped.
 73A-E: "Bracelet déesse"[BREAK]@Augmente considérablement[BREAK]votre défense si équipé.
 73B: "Rain Pendant"[BREAK]@Reduces damage from PK Fire[BREAK]when equipped.
-73B-E: "Pendentif de pluie"[BREAK]@Réduit les dégâts reçus de[BREAK]PK Feu si équipé.
+73B-E: "Pendentif de pluie"[BREAK]@Réduit les dégâts causés[BREAK]par PK Feu si équipé.
 73C: "Flame Pendant"[BREAK]@Reduces damage from[BREAK]PK Freeze when equipped.
-73C-E: "Pendentif de feu"[BREAK]@Réduit les dégâts reçus de[BREAK]PK Glace si équipé.
+73C-E: "Pendentif de feu"[BREAK]@Réduit les dégâts causés[BREAK]par PK Glace si équipé.
 73D: "Earth Pendant"[BREAK]@Reduces damage from[BREAK]PK Thunder when equipped.
-73D-E: "Pendentif de terre"[BREAK]@Réduit les dégâts reçus de[BREAK]PK Foudre si équipé.
+73D-E: "Pendentif de terre"[BREAK]@Réduit les dégâts causés[BREAK]par PK Foudre si équipé.
 73E: "Sea Pendant"[BREAK]@Reduces damage from[BREAK]PK Fire, PK Freeze, and[BREAK]PK Thunder when equipped.
-73E-E: "Pendentif de mer"[BREAK]@Réduit les dégâts reçus de[BREAK]PK Feu, PK Glace et[BREAK]PK Foudre si équipé.
+73E-E: "Pendentif de mer"[BREAK]@Réduit les dégâts causés[BREAK]par PK Feu, PK Glace et[BREAK]PK Foudre si équipé.
 73F: "Easy Ring"[BREAK]@Equip this ring to increase[BREAK]EXP and money from enemies[BREAK]and reduce random battles.
 73F-E: "Bague facile"[BREAK]@Réduit la fréquence des[BREAK]combats et booste l'EXP et[BREAK]l'argent reçus si équipée.
 740: 
@@ -3799,11 +3799,11 @@
 746: "Magic Herb"[BREAK]@Please use this when you're[BREAK]exhausted or hurt.
 746-E: "Herbe magique"[BREAK]@À utiliser quand vous êtes[BREAK]fatigué ou blessé.
 747: "Hamburger"[BREAK]@Fast food for restoring HP[BREAK]quickly.
-747-E: "Hamburger"[BREAK]@De la restauration rapide[BREAK]qui restaure rapidement les[BREAK]PV.
+747-E: "Hamburger"[BREAK]@De la restauration rapide[BREAK]pour restaurer rapidement[BREAK]les PV.
 748: "Sports Drink"[BREAK]@Drink this to feel[BREAK]refreshed, no matter how[BREAK]exhausted you are.
-748-E: "Boisson énergisante"[BREAK]@Buvez ceci pour vous[BREAK]revitaliser, peu importe[BREAK]votre état de fatigue.
+748-E: "Boisson énergisante"[BREAK]@Buvez ceci pour vous[BREAK]revigorer, peu importe[BREAK]votre état de fatigue.
 749: "Medicine"[BREAK]@Use this to heal wounds.
-749-E: "Remède"[BREAK]@À utiliser pour guérir[BREAK]les blessures.
+749-E: "Remède"[BREAK]@Guérit les blessures.
 74A: "Asthma Spray"[BREAK]@If [03 10] starts to have an[BREAK]asthma attack, this will[BREAK]stop it.
 74A-E: "Inhalateur"[BREAK]@Si [03 10] est pris d'une[BREAK]crise d'asthme, utilisez[BREAK]ceci pour le calmer.
 74B: "Antidote"[BREAK]@Quickly counteracts poison.
@@ -3811,11 +3811,11 @@
 74C: "Mouthwash"[BREAK]@Gargle with this to get[BREAK]over a cold.
 74C-E: "Bain de bouche"[BREAK]@Gargarisez-vous avec ceci[BREAK]pour faire passer le rhume.
 74D: "Strawberry Tofu"[BREAK]@Wouldn't you like to try[BREAK]some for real?
-74D-E: "Tofu à la fraise"[BREAK]@Franchement, vous ne[BREAK]voudriez pas goûter en[BREAK]vrai[4F]?
+74D-E: "Tofu à la fraise"[BREAK]@Franchement, vous ne[BREAK]voudriez pas y goûter en[BREAK]vrai[4F]?
 74E: 
 74E-E: 
 74F: "Bread"[BREAK]@It's good to eat,[BREAK][PAUSE]but you can use its crumbs[BREAK]to mark a trail that you[BREAK]can retrace later.
-74F-E: "Pain"[BREAK]@Bon à manger.[BREAK][PAUSE]Vous pouvez aussi utiliser[BREAK]ses miettes pour marquer[BREAK]une piste et revenir sur[BREAK]vos pas plus tard.
+74F-E: "Pain"[BREAK]@Bon à manger.[BREAK][PAUSE]Vous pouvez aussi utiliser[BREAK]ses miettes pour tracer[BREAK]une piste et revenir sur[BREAK]vos pas plus tard.
 750: "Angel Seed"[BREAK]@Lifts the curse of a Demon[BREAK]Seed.
 750-E: "Graine d'ange"[BREAK]@Lève la malédiction de la[BREAK]Graine de démon.
 751: "PSI Power Stone"[BREAK]@PSI power is hidden inside[BREAK]this stone.
@@ -3849,11 +3849,11 @@
 75F: "Haunted House Key"[BREAK]@The key to the Rosemarys'[BREAK]mansion.
 75F-E: "Clé du manoir hanté"[BREAK]@La clé du manoir des[BREAK]Rosemary.
 760: "Great-Grandfather's Diary"[BREAK]@The diary of [03 10]'s[BREAK]great-grandfather.[BREAK][PAUSE]@It's filled with writing,[BREAK]but it's in such bad shape[BREAK]that it's mostly illegible.
-760-E: "Journal arrière-grd-père"[BREAK]@Le journal de l'arrière-[BREAK]grand-père d[03 50][03 10].[BREAK][PAUSE]@Il est rempli d'écrits,[BREAK]mais il est en tellement[BREAK]mauvais état que c'est[BREAK]quasiment illisible.
+760-E: "Journal arrière-grd-père"[BREAK]@Le journal de l'arrière-[BREAK]grand-père d[03 50][03 10].[BREAK][PAUSE]@Il est rempli d'écritures,[BREAK]mais il est en si mauvais[BREAK]état que c'est quasiment[BREAK]illisible.
 761: "Pass"[BREAK]@"Duncan Factory Employee"[BREAK]is written on it.
-761-E: "Passe"[BREAK]@"Employé Usine Duncan"[BREAK]est écrit dessus.
+761-E: "Passe"[BREAK]@Il comporte l'inscription :[BREAK]"Employé usine Duncan".
 762: "Show Ticket"[BREAK]@"Every Day All Night[BREAK]Rock 'n' Roll Live Show"[BREAK]is written on it.
-762-E: "Billet de spectacle"[BREAK]@Il est écrit : "Spectacle[BREAK]live de rock 'n' roll[BREAK]tous les soirs".
+762-E: "Billet de spectacle"[BREAK]@Il y est écrit : "Spectacle[BREAK]live de rock 'n' roll tous[BREAK]les soirs".
 763: 
 763-E: 
 764: 
@@ -3873,15 +3873,15 @@
 76B: "Dentures"[BREAK]@Unnecessary if you make[BREAK]sure to take care of your[BREAK]teeth and brush regularly.
 76B-E: "Dentier"[BREAK]@Inutile si vous prenez soin[BREAK]de vous brosser les dents[BREAK]régulièrement.
 76C: "Ticket Stub"[BREAK]@"Collect 10 ticket stubs[BREAK]for a tank ride!" is[BREAK]written on it.
-76C-E: "Talon de ticket"[BREAK]@Il est écrit : "Rassemblez[BREAK]10 talons de tickets pour[BREAK]un tour en char gratuit[4F]!".
+76C-E: "Talon de ticket"[BREAK]@Il y est écrit : "Échangez[BREAK]10 talons de tickets contre[BREAK]un tour en char gratuit !".
 76D: 
 76D-E: 
 76E: "Ocarina of Hope"[BREAK]@You can use this to hear[BREAK]the melodies you've[BREAK]collected so far.
-76E-E: "Ocarina de l'espoir"[BREAK]@Vous pouvez l'utiliser pour[BREAK]entendre les mélodies que[BREAK]vous avez collectées.
+76E-E: "Ocarina de l'espoir"[BREAK]@Vous permet de réécouter[BREAK]les mélodies que vous avez[BREAK]collectées.
 76F: 
 76F-E: 
 770: "Franklin Badge"[BREAK]@It's said Ben Franklin wore[BREAK]this as protection during[BREAK]his lightning experiments.
-770-E: "Badge Franklin"[BREAK]@Ben Franklin l'aurait porté[BREAK]pour se protéger durant ses[BREAK]expériences avec la foudre.
+770-E: "Badge Franklin"[BREAK]@Il aurait protégé Benjamin[BREAK]Franklin lors de ses[BREAK]expériences sur la foudre.
 771: 
 771-E: 
 772: 
@@ -3893,9 +3893,9 @@
 775: "Ruler"[BREAK]@A 12-inch (approx. 30 cm)[BREAK]ruler.
 775-E: "Règle"[BREAK]@Une règle de 30 cm.
 776: "ATM Card"[BREAK]@Use this to access your[BREAK]bank account and make[BREAK]deposits or withdrawals.
-776-E: "Carte bancaire"[BREAK]@Utilisez-la pour déposer ou[BREAK]retirer de l'argent de[BREAK]votre compte bancaire.
+776-E: "Carte bancaire"[BREAK]@Utilisez-la pour déposer ou[BREAK]retirer de l'argent sur[BREAK]votre compte bancaire.
 777: "Red Weed"[BREAK]@At first glance, it looks[BREAK]like an ordinary weed,[BREAK]but...
-777-E: "Plante rouge"[BREAK]@À première vue, cela[BREAK]ressemble à une herbe[BREAK]ordinaire, pourtant...
+777-E: "Pousse rouge"[BREAK]@À première vue, elle[BREAK]ressemble à une herbe[BREAK]ordinaire, pourtant...
 778: "Magic Megaphone"[BREAK]@Use this to scare enemies[BREAK]with your loud voice.
 778-E: "Mégaphone magique"[BREAK]@Utilisez-le pour effrayer[BREAK]les ennemis avec votre voix[BREAK]puissante.
 779: 
@@ -4113,7 +4113,7 @@
 7E3: [03 20] went berserk!
 7E3-E: [03 E2][03 D0][03 C0] entre dans une rage folle[4F]!
 7E4: [03 20] ran out of strength!
-7E4-E: [03 E2][03 D0][03 C0] est à bout de force[4F]!
+7E4-E: [03 E2][03 D0][03 C0] a épuisé toutes ses forces[4F]!
 7E5: [03 20]'s final desperation attack!!!
 7E5-E: [03 E2][03 D0][03 C0] lance une ultime attaque désespérée[4F]!!!
 7E6: You can't grasp the form of [03 20]'s attack!
@@ -4131,7 +4131,7 @@
 7EC: [03 20] is tied up...
 7EC-E: [03 E2][03 D0][03 C0] est ligoté[03 E4]...
 7ED: [03 20] let out a strange howl!
-7ED-E: [03 E2][03 D0][03 C0] pousse un hurlement étrange[4F]!
+7ED-E: [03 E2][03 D0][03 C0] laisse échapper un hurlement étrange[4F]!
 7EE: [03 20] exploded!
 7EE-E: [03 E2][03 D0][03 C0] explose[4F]!
 7EF: [03 20] burst into flames!
@@ -4163,7 +4163,7 @@
 7FC: [03 20] did something disturbing!
 7FC-E: [03 E2][03 D0][03 C0] fait quelque chose de dérangeant[4F]!
 7FD: [03 20] called for help!
-7FD-E: [03 E2][03 D0][03 C0] appelle à l'aide[4F]!
+7FD-E: [03 E2][03 D0][03 C0] appelle des renforts[4F]!
 7FE: [03 20] sowed some seeds!
 7FE-E: [03 E2][03 D0][03 C0] sème des graines[4F]!
 7FF: For some reason, [03 21]'s experience points went up!
@@ -4175,7 +4175,7 @@
 802: [03 20] said something scary!
 802-E: [03 E2][03 D0][03 C0] dit quelque chose de terrifiant[4F]!
 803: [03 20] said something nasty!
-803-E: [03 E2][03 D0][03 C0] dit quelque chose de dégoûtant[4F]!
+803-E: [03 E2][03 D0][03 C0] dit quelque chose de désagréable[4F]!
 804: [03 20] is trying to play dead...
 804-E: [03 E2][03 D0][03 C0] essaie de faire le mort...
 805: It was effective!
@@ -4229,13 +4229,13 @@
 81D: [03 21]'s powers were blocked!
 81D-E: Les pouvoirs [03 ED][03 D8][03 C8] ont été bloqués[4F]!
 81E: [03 21] was tied up with rope!
-81E-E: [03 EA][03 D8][03 C8] est [03 EC]ligoté avec la corde[4F]!
+81E-E: [03 EA][03 D8][03 C8] a été ligoté[03 EC] avec la corde[4F]!
 81F: [03 21] was enveloped by a shield!
-81F-E: [03 EA][03 D8][03 C8] est enveloppé d'un bouclier[4F]!
+81F-E: [03 EA][03 D8][03 C8] est enveloppé[03 EC] d'un bouclier[4F]!
 820: Missed!
-820-E: Raté[4F]!
+820-E: C'est raté[4F]!
 821: But the PSI was blocked!
-821-E: Mais la PSI est bloquée[4F]!
+821-E: Mais la PSI a été bloquée[4F]!
 822: But [03 21]'s Franklin Badge reflected the beam back!
 822-E: Mais le Badge Franklin [03 ED][03 D8][03 C8] renvoie le rayon[4F]!
 823: [03 21] reflected the attack back!
@@ -4255,13 +4255,13 @@
 82A: [03 20] sang!
 82A-E: [03 E2][03 D0][03 C0] chante[4F]!
 82B: [03 20] is guarding.
-82B-E: [03 E2][03 D0][03 C0] se protège.
+82B-E: [03 E2][03 D0][03 C0] se met en garde.
 82C: [03 20] edged closer!
 82C-E: [03 E2][03 D0][03 C0] se rapproche[4F]!
 82D: The poison disappeared from [03 21]'s body!
 82D-E: Le poison disparaît du corps [03 ED][03 D8][03 C8][4F]!
 82E: [03 21] went back to normal!
-82E-E: [03 EA][03 D8][03 C8] revient à la normale[4F]!
+82E-E: [03 EA][03 D8][03 C8] revient à son état normale[4F]!
 82F: [03 21] writhed around in itchy pain!
 82F-E: [03 EA][03 D8][03 C8] souffre d'horribles démangeaisons[4F]!
 830: [03 21] is able to move again!
@@ -4297,7 +4297,7 @@
 83F: [03 3C] Strong against sprays
 83F-E: [03 3C] Résiste aux sprays
 840: [03 21]'s asthma attack went away!
-840-E: La crise d'asthme [03 ED][03 D8][03 C8] s'est arrêtée[4F]!
+840-E: La crise d'asthme [03 ED][03 D8][03 C8] est passée[4F]!
 841: [03 21] softened!
 841-E: [03 EA][03 D8][03 C8] n'est plus pétrifié[03 EC][4F]!
 842: "I like you!"
@@ -4360,16 +4360,16 @@
 85E: [03 20] woke up!
 85E-E: [03 E2][03 D0][03 C0] se réveille[4F]!
 85F: [03 20] tore a hole through space![BREAK]
-85F-E: [03 E2][03 D0][03 C0] déchire un trou dans l'espace[4F]![BREAK]
+85F-E: [03 E2][03 D0][03 C0] fait un trou à travers l'espace[4F]![BREAK]
 860: But there was no effect!
 860-E: Mais ça n'a aucun effet[4F]!
 861: The [03 22] was fully emptied...
 861-E: Le [03 22] a été complètement vidé...
 // Used for the big bag when empty
 862: [BREAK]No end to the battle is in sight...[BREAK]
-862-E: [BREAK]Le combat n'a pas de fin en vue...[BREAK]
+862-E: [BREAK]Le combat ne laisse entrevoir aucune issué...[BREAK]
 863: (From somewhere,[BREAK][PAUSE][03 16] heard Queen Mary's voice...)[BREAK][PAUSE]You can't beat Giygas with brute strength...[BREAK][PAUSE]I doubt any weapon can defeat him...[BREAK][PAUSE]But the lullaby...[BREAK][PAUSE]Maybe the song I used to sing to him can stop him![BREAK][PAUSE][03 01]
-863-E: (D'on ne sait où,[BREAK][PAUSE][03 16] entend la voix de la reine Mary...)[BREAK][PAUSE]Vous ne pouvez pas battre Giygas[PAUSE] rien que par la force...[BREAK][PAUSE]Je doute qu'une arme puisse en venir à bout...[BREAK][PAUSE]Mais la berceuse...[BREAK][PAUSE]La chanson que je lui chantais tous les soirs,[BREAK][PAUSE]elle pourrait peut-être l'arrêter[4F]![BREAK][PAUSE][03 01]
+863-E: (D'on ne sait où,[BREAK][PAUSE][03 16] entend la voix de la reine Mary...)[BREAK][PAUSE]Giygas ne peut être vaincu rien que par la force...[BREAK][PAUSE]Je doute qu'une arme puisse en venir à bout...[BREAK][PAUSE]Mais la berceuse...[BREAK][PAUSE]La chanson que je lui chantais tous les soirs,[BREAK][PAUSE]elle pourrait peut-être l'arrêter[4F]![BREAK][PAUSE][03 01]
 864: [03 21] recovered completely!
 864-E: [03 EA][03 D8][03 C8] est totalement rétabli[03 EC][4F]!
 865: 

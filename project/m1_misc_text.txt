@@ -493,7 +493,7 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 // INTRODUCTION STUFF
 //==========================================================================================================
 
-0F7DC00 Dans les années 1900, une[BREAK]ombre se profila au-dessus[BREAK]d'un village américain. Peu[BREAK]après, un couple marié[BREAK]disparut mystérieusement.[BREAK][BREAK]L'homme s'appelait George,[BREAK]la femme s'appelait Maria.[BREAK][BREAK]Deux ans plus tard, George[BREAK]réapparut mais ne confia à[BREAK]personne ce qui lui était[BREAK]arrivé.[BREAK]Il s'isola et se plongea[BREAK]dans d'étranges recherches.[BREAK][BREAK]Quant à sa femme, Maria...[BREAK]elle ne revint jamais.[END]
+0F7DC00 Dans les années 1900, une[BREAK]ombre s'étendit au-dessus[BREAK]d'un village américain. Peu[BREAK]après, un couple marié[BREAK]disparut mystérieusement.[BREAK][BREAK]L'homme s'appelait George,[BREAK]la femme s'appelait Maria.[BREAK][BREAK]Deux ans plus tard, George[BREAK]réapparut mais ne confia à[BREAK]personne ce qui lui était[BREAK]arrivé.[BREAK]Il s'isola et se plongea[BREAK]dans d'étranges recherches.[BREAK][BREAK]Quant à sa femme, Maria...[BREAK]elle ne revint jamais.[END]
 // starting X,Y positions for this text
 0F0DC40 [00]
 0F0DC42 [01]
