@@ -3579,7 +3579,7 @@
 6D8: @The entire party was[BREAK]healed![BREAK]
 6D8-E: @L'équipe tout entière a[BREAK]été soignée[4F]![BREAK]
 6D9: @[03 10] sensed a faint[BREAK]memory of his[BREAK]great-grandfather![BREAK]
-6D9-E: @[03 10] perçoit un faible[BREAK]souvenir de son arrière-[BREAK]grand-père[4F]![BREAK]
+6D9-E: @[03 10] reçoit la vision[BREAK]d'un souvenir évanoui de[BREAK]son arrière-grand-père[4F]![BREAK]
 6DA: @Huh? There still seems to[BREAK]be something inside EVE's[BREAK]body...[BREAK]
 6DA-E: @Hein ? Il semble y avoir[BREAK]encore quelque chose dans[BREAK]le corps d'ÈVE...[BREAK]
 6DB: @I found your ATM Card on[BREAK]the floor in your room.[BREAK]
@@ -3741,7 +3741,7 @@
 729: 
 729-E: 
 72A: "Flamethrower"[BREAK]@Burns enemies to a crisp,[BREAK]but only [03 11] can use it.
-72A-E: "Lance-flammes"[BREAK]@Peut carboniser plusieurs[BREAK]ennemis, mais seul [03 11][BREAK]peutl'utiliser.
+72A-E: "Lance-flammes"[BREAK]@Peut carboniser plusieurs[BREAK]ennemis, mais seul [03 11][BREAK]peut l'utiliser.
 72B: "Bomb"[BREAK]@Probably only [03 11] can[BREAK]use this.
 72B-E: "Bombe"[BREAK]@Seul [03 11] semble pouvoir[BREAK]l'utiliser.
 72C: "Super Bomb"[BREAK]@"Danger! Explosive!" is[BREAK]written on it.[BREAK][PAUSE]@Leave this in [03 11]'s[BREAK]hands.
@@ -4261,7 +4261,7 @@
 82D: The poison disappeared from [03 21]'s body!
 82D-E: Le poison disparaît du corps [03 ED][03 D8][03 C8][4F]!
 82E: [03 21] went back to normal!
-82E-E: [03 EA][03 D8][03 C8] revient à son état normale[4F]!
+82E-E: [03 EA][03 D8][03 C8] revient à son état normal[4F]!
 82F: [03 21] writhed around in itchy pain!
 82F-E: [03 EA][03 D8][03 C8] souffre d'horribles démangeaisons[4F]!
 830: [03 21] is able to move again!
@@ -4367,7 +4367,7 @@
 861-E: Le [03 22] a été complètement vidé...
 // Used for the big bag when empty
 862: [BREAK]No end to the battle is in sight...[BREAK]
-862-E: [BREAK]Le combat ne laisse entrevoir aucune issué...[BREAK]
+862-E: [BREAK]Le combat ne laisse entrevoir aucune issue...[BREAK]
 863: (From somewhere,[BREAK][PAUSE][03 16] heard Queen Mary's voice...)[BREAK][PAUSE]You can't beat Giygas with brute strength...[BREAK][PAUSE]I doubt any weapon can defeat him...[BREAK][PAUSE]But the lullaby...[BREAK][PAUSE]Maybe the song I used to sing to him can stop him![BREAK][PAUSE][03 01]
 863-E: (D'on ne sait où,[BREAK][PAUSE][03 16] entend la voix de la reine Mary...)[BREAK][PAUSE]Giygas ne peut être vaincu rien que par la force...[BREAK][PAUSE]Je doute qu'une arme puisse en venir à bout...[BREAK][PAUSE]Mais la berceuse...[BREAK][PAUSE]La chanson que je lui chantais tous les soirs,[BREAK][PAUSE]elle pourrait peut-être l'arrêter[4F]![BREAK][PAUSE][03 01]
 864: [03 21] recovered completely!
