@@ -4093,7 +4093,7 @@
 7D9: [03 20] scratched [03 21]!
 7D9-E: [03 E2][03 D0][03 C0] griffe [03 EB][03 D8][03 C8][4F]!
 7DA: [03 20] bore down on [03 21]!
-7DA-E: [03 E2][03 D0][03 C0] fonce sur [03 EB][03 D8][03 C8][4F]!
+7DA-E: [03 E2][03 D0][03 C0] se jette sur [03 EB][03 D8][03 C8][4F]!
 7DB: [03 2C]
 7DB-E: [03 2C]
 7DC: [03 21] took [03 23] damage!
