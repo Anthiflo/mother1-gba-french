@@ -15,8 +15,8 @@ org $8F3C190; incbin m1_restoration_gfx_map_palettes.bin
 // insert original Mother 1 sprite graphics
 org $8F339A0; incbin m1_restoration_gfx_sprites.bin
 
-// replace some ending graphics with the original sprites
-org $8F60F3C; incbin m1_restoration_gfx_ending.bin
+// replace some ending graphics with the original sprites -> Useless, it only remove changes made to localization and not uncensoring
+//org $8F60F3C; incbin m1_restoration_gfx_ending.bin
 
 // fix cross in church
 org $8F50214; db $5A,$5B,$5C,$5D,$5E,$7F,$7F,$7F

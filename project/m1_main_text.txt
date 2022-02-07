@@ -3663,7 +3663,7 @@
 701: The abducted grownups return[BREAK]to their children in Easter.[BREAK]You did great, kids![BREAK]
 701-E: Les adultes qui ont été[BREAK]enlevés retrouvent leurs[BREAK]enfants à Youngtown.[BREAK]Beau travail, les enfants[4F]![BREAK]
 702: [03 12]: I promise I'll never[BREAK]forget you. So I won't say[BREAK]say goodbye...[BREAK]Just, "'Til we meet again!"[BREAK]
-702-E: [03 12] : Je ne t'oublierai[BREAK]jamais, c'est promis.[BREAK]Je ne vais pas te dire[BREAK]"Adieu", mais plutôt :[BREAK]"À la prochaine[4F]!"[BREAK]
+702-E: [03 12] : Je ne t'oublierai[BREAK]jamais, c'est promis. Je ne[BREAK]vais pas dire "Adieu", mais[BREAK]plutôt : "À la prochaine !"[BREAK]
 703: [03 11] returns to a hero's[BREAK]welcome at Twinkle[BREAK]Elementary School.[BREAK]
 703-E: [03 11] retourne à l'école[BREAK]primaire Léclat où il est[BREAK]acclamé en héros.[BREAK]
 704: Welcome home, [03 10]![BREAK]We're so glad you made it[BREAK]back safe and sound.[BREAK]You must be famished![BREAK]
