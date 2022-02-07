@@ -789,7 +789,8 @@
 174: @It's too dark to see much,[BREAK]but aren't you that girl[BREAK]from the church in Snowman?[BREAK][PAUSE]@[03 12], was it?[BREAK][PAUSE]@Your mom is being held in a[BREAK]room in the back.[BREAK][PAUSE]@But you can't save us right[BREAK]now.[BREAK][PAUSE]@You gotta find a way to[BREAK]deal with the mothership[BREAK]first...[BREAK]
 174-E: @Il fait bien trop sombre et[BREAK]je peine à te distinguer,[BREAK][PAUSE]mais ne serais-tu pas la[BREAK]petite fille de l'église de[BREAK]Snowman ?[BREAK][PAUSE]@[03 12], c'est bien ça ?[BREAK][PAUSE]@Ta mère est retenue dans[BREAK]une salle au fond.[BREAK][PAUSE]@Vous ne pouvez pas nous[BREAK]sauver pour l'instant.[BREAK][PAUSE]@Vous devez d'abord trouver[BREAK]un moyen de vous occuper du[BREAK]vaisseau-mère...[BREAK]
 175: @Oh! It flew off into outer[BREAK]space.[BREAK][PAUSE]@A great success... sort of.[BREAK]
-175-E: @Ah ! Il s'est envolé dans[BREAK]l'espace.[BREAK][PAUSE]@Vous avez réussi... en[BREAK]quelque sorte.[BREAK]
+175-E: @Ah ! Elle s'est envolée[BREAK]dans l'espace.[BREAK][PAUSE]@Un véritable succès...[BREAK]d'une certaine façon.[BREAK]
+// Real Rocket
 176: @Oh! You're such a charming[BREAK]boy![BREAK][PAUSE]@Why, I could just gaze at[BREAK]you forever...[BREAK][PAUSE]@If anyone can turn our[BREAK]mansion back to normal, I'm[BREAK]sure it's you.[BREAK][PAUSE]@Here. This is the key to[BREAK]get in.[BREAK][PAUSE](giggle)[BREAK]
 176-E: @Oh ! Quel charmant garçon ![BREAK][PAUSE]@Ouh là là, je ne pourrais[BREAK]jamais me lasser de te[BREAK]contempler...[BREAK][PAUSE]@Si quelqu'un peut remettre[BREAK]notre manoir dans son état[BREAK]normal, c'est bien toi.[BREAK][PAUSE]@Tiens. Voilà la clé pour[BREAK]entrer à l'intérieur.[BREAK][PAUSE](glousse)[BREAK]
 177: @My name is [03 10].[BREAK][PAUSE]@It used to be Bugerror[BREAK]Rosemary, though.[BREAK]
@@ -1133,7 +1134,8 @@
 // possible hospital text?
 
 21C: @[03 1D], right?[BREAK][PAUSE]Thanks! I really appreciate[BREAK]it![BREAK]
-21C-E: @[03 4A][03 1D], c'est ça[4F]?[BREAK][PAUSE]Merci[4F]! J'apprécie,[BREAK]vraiment[4F]![BREAK]
+21C-E: @La [03 1D], c'est ça[4F]?[BREAK][PAUSE]Merci[4F]! J'apprécie,[BREAK]vraiment[4F]![BREAK]
+// Real Rocket
 21D: @It is easy to lose items in[BREAK]the vicinity of this sign,[BREAK]so please be careful.[BREAK]
 21D-E: @Attention, il est facile de[BREAK]perdre des objets à[BREAK]proximité de ce panneau.[BREAK]
 21E: @Incredibly enough, you[BREAK]found dentures under the[BREAK]sign![BREAK]
@@ -4153,7 +4155,7 @@
 7F7: [03 21]'s Defense went down by [03 23]!
 7F7-E: La défense [03 ED][03 D8][03 C8] diminue de [03 23][4F]!
 7F8: [03 20] smiled boldly!
-7F8-E: [03 D0][03 C0] sourit avec insolence[4F]!
+7F8-E: [03 D0][03 C0] affiche un large sourire[4F]!
 7F9: [03 21]'s Fight went up by [03 23]!
 7F9-E: La fougue [03 ED][03 D8][03 C8] augmente de [03 23][4F]!
 7FA: [03 20] flew into a rage!
