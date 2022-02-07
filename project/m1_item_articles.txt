@@ -332,7 +332,7 @@ ITEM-455-6C: 04
 ITEM-456-6D: 0C
 
 //Red Weed
-ITEM-457-6E: 04
+ITEM-457-6E: 05
 
 //Megaphone
 ITEM-458-6F: 00
