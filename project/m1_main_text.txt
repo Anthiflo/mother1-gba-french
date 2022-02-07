@@ -375,7 +375,7 @@
 0B1: @I'm so happy you came![BREAK][PAUSE]@I know just what you want.[BREAK][PAUSE]@Here you go![BREAK]
 0B1-E: @Je suis très heureux de te[BREAK]voir[4F]![BREAK][PAUSE]@Je sais exactement ce que[BREAK]tu veux.[BREAK][PAUSE]@Et voilà[4F]![BREAK]
 0B2: @I finally wrote a song![BREAK]Give it a listen, you[BREAK]music-loving adventurer![BREAK][PAUSE]@Oh, baby doll, why do you[BREAK]weep?[BREAK][PAUSE]The saddened canary won't[BREAK]utter a peep.[BREAK][PAUSE]The monkey can sing,[BREAK]the piano - it chimes.[BREAK][PAUSE]Though ghosts will play out[BREAK]on its keyboard sometimes.[BREAK][PAUSE]Each night in the desert,[BREAK]the lone cactus croons.[BREAK][PAUSE]The dragon, when beaten,[BREAK]will carry some tunes.[BREAK][PAUSE]While scaling the mountain,[BREAK]EVE sings along.[BREAK][PAUSE]Will Queen Mary ever hear[BREAK]the XX Stone's last song?[BREAK][PAUSE]Lalala, what a mysterious[BREAK]lullaby.[BREAK][PAUSE]Lullaby, bye-bye, and[BREAK]goodbye.[BREAK][PAUSE]@What do you think? Nice[BREAK]song, huh?[BREAK][PAUSE]@It is, isn't it?[BREAK]
-0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK][PAUSE]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]depuis longtemps s'est tu.[BREAK][PAUSE]Un singe qui sait chanter,[BREAK]patiente dans son enclos.[BREAK][PAUSE]De redoutables fantômes,[BREAK]parfois jouent du piano.[BREAK][PAUSE]Chaque nuit dans le désert,[BREAK]siffle le cactus solitaire.[BREAK][PAUSE]Le dragon, une fois rossé,[BREAK]fredonne un petit air.[BREAK][PAUSE]Sur la montagne escarpée,[BREAK]ÈVE herbe un faible cri.[BREAK][PAUSE]La pierre XX a l'ultime[BREAK]mélodie que cherche Mary.[BREAK][PAUSE]Lalala, étrange comptine,[BREAK]tu me fais bâiller.[BREAK][PAUSE]Comptine, douce comptine,[BREAK]continue de me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est[BREAK]belle, non[4F]?[BREAK]
+0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK][PAUSE]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]depuis longtemps s'est tu.[BREAK][PAUSE]Un singe qui sait chanter,[BREAK]patiente dans son enclos.[BREAK][PAUSE]De redoutables fantômes,[BREAK]parfois jouent du piano.[BREAK][PAUSE]Chaque nuit dans le désert,[BREAK]siffle le cactus solitaire.[BREAK][PAUSE]Le dragon, une fois rossé,[BREAK]fredonne un petit air.[BREAK][PAUSE]Sur la montagne escarpée,[BREAK]ÈVE pousse un faible cri.[BREAK][PAUSE]La pierre XX a l'ultime[BREAK]mélodie que cherche Mary.[BREAK][PAUSE]Lalala, étrange comptine,[BREAK]tu me fais bâiller.[BREAK][PAUSE]Comptine, douce comptine,[BREAK]continue de me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est[BREAK]belle, non[4F]?[BREAK]
 0B3: @Deep in the forest is a[BREAK]guitar player who loves[BREAK]solitude.[BREAK][PAUSE]@He's kind of handsome...[BREAK]and a great poet, too.
 0B3-E: @Au cœur de la forêt se[BREAK]trouve un guitariste qui[BREAK]adore la solitude.[BREAK][PAUSE]@C'est un très bel homme...[BREAK]et un grand poète aussi.
 0B4: @I've heard about a man who[BREAK]was forgotten...[BREAK][PAUSE]@But I forget what his story[BREAK]was.[BREAK]
@@ -1127,7 +1127,7 @@
 219: @I don't think[BREAK]there's anyone here[BREAK]by that name,[BREAK][PAUSE]but perhaps I'm[BREAK]mistaken...[BREAK]
 219-E: @Je doute qu'il y[BREAK]ait quelqu'un de[BREAK]ce nom-là ici,[BREAK][PAUSE]mais je peux me[BREAK]tromper...[BREAK]
 21A: @After being placed in the[BREAK]fountain,[BREAK][PAUSE]the Red Weed turned into a[BREAK]very energizing Magic Herb.[BREAK]
-21A-E: @Après avoir été déposée[BREAK]dans la fontaine,[BREAK][PAUSE]la Herbe rouge se[BREAK]transforme en une Herbe[BREAK]magique très énergisante.[BREAK]
+21A-E: @Après avoir été déposée[BREAK]dans la fontaine,[BREAK][PAUSE]l'Herbe rouge se[BREAK]transforme en une Herbe[BREAK]magique très énergisante.[BREAK]
 21B: @There's no one like[BREAK]that here![BREAK]
 21B-E: @Il n'y a personne[BREAK]de ce nom-là ici ![BREAK]
 // possible hospital text?
@@ -1662,7 +1662,7 @@
 31B: 
 31B-E: 
 31C: @Dad's not home.[BREAK][PAUSE]@I don't understand money,[BREAK]but I can do other stuff.[BREAK][PAUSE]@So don't worry. You can[BREAK]stay here tonight if you[BREAK]want.[BREAK]
-31C-E: @Papa est pas là.[BREAK][PAUSE]@L'argent, moi j'y comprend[BREAK]rien, mais je peux faire[BREAK]d'autres trucs.[BREAK][PAUSE]@Donc vous inquiétez pas,[BREAK]vous pouvez passer la nuit[BREAK]ici si vous voulez.[BREAK]
+31C-E: @Papa est pas là.[BREAK][PAUSE]@L'argent, moi j'y comprends[BREAK]rien, mais je peux faire[BREAK]d'autres trucs.[BREAK][PAUSE]@Donc vous inquiétez pas,[BREAK]vous pouvez passer la nuit[BREAK]ici si vous voulez.[BREAK]
 31D: @Good morning.[BREAK][PAUSE]@Stay again sometime, okay?[BREAK][PAUSE]@It gets lonely here all by[BREAK]myself.[BREAK]
 31D-E: @Bonjour.[BREAK][PAUSE]@Revenez passer la nuit ici[BREAK]une prochaine fois, OK ?[BREAK][PAUSE]@Je m'ennuie ici tout seul.[BREAK]
 31E: @Oh? You're not going to[BREAK]stay?[BREAK][PAUSE]@But I can do this work just[BREAK]fine even when Dad's[BREAK]gone...[BREAK]
@@ -2749,7 +2749,7 @@
 538: He looks bad-tempered, so be careful.
 538-E: Il a l'air de mauvaise humeur, alors soyez sur vos gardes.
 539: You could probably plant flowers in his hair and they'd grow.
-539-E: Vous pourriez presque faire herber des fleurs dans ses cheveux.
+539-E: Vous pourriez presque faire pousser des fleurs dans ses cheveux.
 53A: She has a body like a refrigerator and a heart of ice.
 53A-E: Son corps est tel un réfrigérateur et son c[37]ur est de glace.
 53B: Beating the punks' leader will probably set them all straight.
@@ -3563,7 +3563,7 @@
 6CF: @[03 1A] checked the map.[BREAK]
 6CF-E: @[03 1A] consulte la carte.[BREAK]
 6D0: @Some sort of force is[BREAK]pushing [03 16][03 17][BREAK]back.[BREAK]
-6D0-E: @Une sorte de force reherbe[BREAK][03 17][03 7E][03 16].[BREAK]
+6D0-E: @Une sorte de force repousse[BREAK][03 17][03 7E][03 16].[BREAK]
 6D1: @The Repel Ring's mysterious[BREAK]power wore off.[BREAK]
 6D1-E: @Le mystérieux pouvoir de[BREAK]la Bague répulsive s'est[BREAK]dissipé.[BREAK]
 6D2: 
@@ -3683,7 +3683,7 @@
 70B: "Bread Crumbs"[BREAK]@With these, you can return[BREAK]to the exact spot where you[BREAK]began spreading crumbs.
 70B-E: "Miettes de pain"[BREAK]@Permet de retourner à[BREAK]l'endroit où la piste de[BREAK]miettes a commencé.
 70C: "Repel Ring"[BREAK]@When used, this item will[BREAK]ward off weak enemies for a[BREAK]short while.
-70C-E: "Bague répulsive"[BREAK]@Utilisez-la pour reherber[BREAK]les ennemis faibles pendant[BREAK]une courte période.
+70C-E: "Bague répulsive"[BREAK]@Utilisez-la pour repousser[BREAK]les ennemis faibles pendant[BREAK]une courte période.
 70D: 
 70D-E: 
 70E: "Memory Chip"[BREAK]@Part of Great Grandfather[BREAK]George's memory is stored[BREAK]on this.[BREAK][PAUSE]@[03 10] can use it to return[BREAK]to EVE's location.
