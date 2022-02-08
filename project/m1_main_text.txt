@@ -2109,17 +2109,17 @@
 3F8: Cracked Bat
 3F8-E: BatteFêlée
 3F9: Teeball Bat
-3F9-E: BatteOrdnre
+3F9-E: BatteOrdinr
 3FA: Sandlot Bat
-3FA-E: BatteRobste
+3FA-E: BatteRobust
 3FB: HallFameBat
-3FB-E: BatteSuprme
+3FB-E: BatteSuprem
 3FC: Frypan
 3FC-E: Poêle
 3FD: DX Frypan
-3FD-E: PoêleInox
+3FD-E: PoêleQualit
 3FE: Best Frypan
-3FE-E: PôeleFonte
+3FE-E: PôeleExcept
 3FF: Slingshot
 3FF-E: LancePierre
 400: Boomerang
@@ -3717,9 +3717,9 @@
 71C: "Frypan"[BREAK]@[03 12] can use this as a[BREAK]weapon.
 71C-E: "Poêle à frire"[BREAK]@[03 12] peut l'utiliser[BREAK]comme une arme.
 71D: "Deluxe Frypan"[BREAK]@This frypan doesn't burn[BREAK]food,[BREAK][PAUSE]and [03 12] can also use it[BREAK]as a weapon.
-71D-E: "Poêle en inox"[BREAK]@Une poêle antiadhésive[BREAK]qu[03 51][03 12] peut utiliser[BREAK]comme une arme.
+71D-E: "Poêle de qualité"[BREAK]@Une poêle antiadhésive[BREAK]qu[03 51][03 12] peut utiliser[BREAK]comme une arme.
 71E: "Best Frypan"[BREAK][PAUSE]@Not even tough baddies can[BREAK]withstand a hit from this[BREAK]heavy frypan.
-71E-E: "Poêle en fonte"[BREAK]@Même les pires gredins ne[BREAK]résistent pas aux coups de[BREAK]cette lourde poêle.
+71E-E: "Poêle d'exception"[BREAK]@Même les pires gredins ne[BREAK]résistent pas aux coups de[BREAK]cette lourde poêle.
 71F: "Slingshot"[BREAK]@A simple weapon that anyone[BREAK]can use.
 71F-E: "Lance-pierre"[BREAK]@Une arme simple que tout[BREAK]le monde peut utiliser.
 720: "Boomerang"[BREAK]@Handle with care. This is[BREAK]not a toy.[BREAK][PAUSE]Anyone can use this weapon.
@@ -3771,11 +3771,11 @@
 737: "Magic Coin"[BREAK]@Raises your Defense quite a[BREAK]bit when equipped.
 737-E: "Pièce magique"[BREAK]@Augmente fortement votre[BREAK]défense si équipée.
 738: "Fairy Bracelet"[BREAK]@Raises your Defense a tiny[BREAK]bit when equipped.
-738-E: "Bracelet fée"[BREAK]@Augmente légèrement votre[BREAK]défense si équipé.
+738-E: "Bracelet de fée"[BREAK]@Augmente légèrement votre[BREAK]défense si équipé.
 739: "Angel Bracelet"[BREAK]@Raises your Defense a nice[BREAK]amount when equipped.
-739-E: "Bracelet ange"[BREAK]@Augmente significativement[BREAK]votre défense si équipé.
+739-E: "Bracelet d'ange"[BREAK]@Augmente significativement[BREAK]votre défense si équipé.
 73A: "Goddess Bracelet"[BREAK]@Raises your Defense a whole[BREAK]lot when equipped.
-73A-E: "Bracelet déesse"[BREAK]@Augmente considérablement[BREAK]votre défense si équipé.
+73A-E: "Bracelet de déesse"[BREAK]@Augmente considérablement[BREAK]votre défense si équipé.
 73B: "Rain Pendant"[BREAK]@Reduces damage from PK Fire[BREAK]when equipped.
 73B-E: "Pendentif de pluie"[BREAK]@Réduit les dégâts causés[BREAK]par PK Feu si équipé.
 73C: "Flame Pendant"[BREAK]@Reduces damage from[BREAK]PK Freeze when equipped.
