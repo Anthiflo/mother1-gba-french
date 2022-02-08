@@ -537,7 +537,7 @@
 0FC: 
 0FC-E: 
 0FD: @I heard they lifted the[BREAK]order for martial law over[BREAK]in Mother's Day.[BREAK][PAUSE]@Which means we can cross[BREAK]that bridge now...[BREAK][PAUSE]@Get my drift?[BREAK]
-0FD-E: @J'ai entendu dire qu'ils[BREAK]avaient levé la loi[BREAK]martiale à Podunk.[BREAK][PAUSE]@Tu vois où je veux en[BREAK]venir[4F]?[PAUSE][BREAK]@Ça veut dire qu'on peut à[BREAK]nouveau traverser le[BREAK]pont...[BREAK]
+0FD-E: @J'ai entendu dire qu'ils[BREAK]avaient levé la loi[BREAK]martiale à Podunk.[BREAK][PAUSE]@Tu vois où je veux en[BREAK]venir[4F]?[BREAK][PAUSE]@Ça veut dire qu'on peut à[BREAK]nouveau traverser le[BREAK]pont...[BREAK]
 0FE: 
 0FE-E: 
 0FF: 
@@ -1127,7 +1127,7 @@
 219: @I don't think[BREAK]there's anyone here[BREAK]by that name,[BREAK][PAUSE]but perhaps I'm[BREAK]mistaken...[BREAK]
 219-E: @Je doute qu'il y[BREAK]ait quelqu'un de[BREAK]ce nom-là ici,[BREAK][PAUSE]mais je peux me[BREAK]tromper...[BREAK]
 21A: @After being placed in the[BREAK]fountain,[BREAK][PAUSE]the Red Weed turned into a[BREAK]very energizing Magic Herb.[BREAK]
-21A-E: @Après avoir été déposée[BREAK]dans la fontaine,[BREAK][PAUSE]l'Herbe rouge se[BREAK]transforme en une Herbe[BREAK]magique très énergisante.[BREAK]
+21A-E: @Après avoir été déposée[BREAK]dans la fontaine,[BREAK][PAUSE]l'Herbe rouge se transforme[BREAK]en une Herbe magique très[BREAK]énergisante.[BREAK]
 21B: @There's no one like[BREAK]that here![BREAK]
 21B-E: @Il n'y a personne[BREAK]de ce nom-là ici ![BREAK]
 // possible hospital text?
@@ -1562,7 +1562,7 @@
 2E9: @I'm a fortuneteller in[BREAK]training.[BREAK][PAUSE]@I can see you returning to[BREAK]Santa Claus Station from[BREAK]this train station.[BREAK][PAUSE]@I'm not 100 percent sure[BREAK]about that, though.[BREAK]
 2E9-E: @Je suis un apprenti diseur[BREAK]de bonne aventure.[BREAK][PAUSE]@Je vois que tu vas retour-[BREAK]ner à la gare de l'Union[BREAK]en partant de cette gare.[BREAK][PAUSE]@Je n'en suis pas sûr à[BREAK]100 % par contre.[BREAK]
 2EA: @[03 12] lives in a temple...[BREAK]Err, I mean a church.[BREAK][PAUSE]@Oh, you already knew that?[BREAK]
-2EA-E: @[03 12] vit dans un[BREAK]temple...[PAUSE][BREAK]Euh, je veux dire une[BREAK]église.[BREAK][PAUSE]@Ah, tu le savais déjà ?[BREAK]
+2EA-E: @[03 12] vit dans un[BREAK]temple...[BREAK][PAUSE]Euh, je veux dire une[BREAK]église.[BREAK][PAUSE]@Ah, tu le savais déjà ?[BREAK]
 2EB: @There's a church in the[BREAK]mountains further to the[BREAK]east.[BREAK][PAUSE]@(cough... cough...)[BREAK]
 2EB-E: @Il y a une église dans les[BREAK]montagnes plus loin vers[BREAK]l'est.[BREAK][PAUSE]@(tousse... tousse...)[BREAK]
 2EC: @You kids sure are energetic[BREAK]and carefree, wearing such[BREAK]light clothes out here![BREAK][PAUSE](cough... cough...)[BREAK]
@@ -4257,7 +4257,7 @@
 82A: [03 20] sang!
 82A-E: [03 E2][03 D0][03 C0] chante[4F]!
 82B: [03 20] is guarding.
-82B-E: [03 E2][03 D0][03 C0] se met en garde.
+82B-E: [03 E2][03 D0][03 C0] est en garde.
 82C: [03 20] edged closer!
 82C-E: [03 E2][03 D0][03 C0] se rapproche[4F]!
 82D: The poison disappeared from [03 21]'s body!
@@ -4415,7 +4415,7 @@
 878: "........."
 878-E: "........."
 879: "HOW COULD I BE DEFEATED BY THIS SONG...?"[BREAK][PAUSE][03 01]
-879-E: "COMMENT AI-JE PU...[PAUSE][BREAK]ÊTRE VAINCU PAR CETTE CHANSON...[4F]?"[BREAK][PAUSE][03 01]
+879-E: "COMMENT AI-JE PU...[BREAK][PAUSE]ÊTRE VAINCU PAR CETTE CHANSON...[4F]?"[BREAK][PAUSE][03 01]
 87A: "SOMEDAY I WILL RETURN... AND... MAKE YOU..."[BREAK][PAUSE][03 01]
 87A-E: "UN JOUR JE REVIENDRAI... ET... JE VOUS FERAI..."[BREAK][PAUSE][03 01]
 87B: "[03 10]! We will meet again!"[BREAK][PAUSE][03 01]
