@@ -2119,7 +2119,7 @@
 3FD: DX Frypan
 3FD-E: PoêleQualit
 3FE: Best Frypan
-3FE-E: PôeleExcept
+3FE-E: PoêleExcept
 3FF: Slingshot
 3FF-E: LancePierre
 400: Boomerang
