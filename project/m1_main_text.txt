@@ -798,7 +798,7 @@
 178: @[03 10]! You big dummy![BREAK][PAUSE]@Oh, sorry, I was talking to[BREAK]my son, not you.
 178-E: @[03 10] ! Espèce d'idiot ![BREAK][PAUSE]@Oh, désolée je parlais à[BREAK]mon fils, pas à toi.
 179: @The ghosts haven't quite[BREAK]left yet, but you're such a[BREAK]brave boy![BREAK][PAUSE]@In fact, I even renamed my[BREAK]son after you.[BREAK]
-179-E: @Les fantômes ne sont pas[BREAK]encore partis, mais tu es[BREAK]un garçon si courageux ![BREAK][PAUSE]@En fait, j'ai même renommé[BREAK]mon fils comme toi.[BREAK]
+179-E: @Les fantômes sont toujours[BREAK]là, mais tu es un garçon si[BREAK]courageux ![BREAK][PAUSE]@En fait, j'ai même renommé[BREAK]mon fils comme toi.[BREAK]
 17A: @This is Snowman Station,[BREAK]the last stop.[BREAK]
 17A-E: @Tu es à la gare de Snowman,[BREAK]le terminus.[BREAK]
 17B: @I heard all the citizens of[BREAK]Easter were spirited away.[BREAK]
