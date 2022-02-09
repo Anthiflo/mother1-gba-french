@@ -18,6 +18,7 @@
 // [03 EX]		article combattant		0-7 type d’article, +8 pour la cible		[03 20-21] (acteur-cible)
 // [03 FX]		article objets			0-7 type d’article, +8 si gagné au combat	[03 22] (normal), [03 1D] (gagné)
 
+// #MAXLENGTH=27 #MAXLINES=4
 000: System Error![BREAK]
 000-E: Erreur système[4F]![BREAK]
 001: @Brother! I'm so scared![BREAK][PAUSE]My lamp suddenly starting[BREAK]going crazy![BREAK]
@@ -2676,6 +2677,7 @@
 513-E: 
 514: 
 514-E: 
+// #MAXLENGTH=26 #AUTOWRAP=1 #MAXLINES=3
 515: Should you fight it?[BREAK]Or should you run from it?
 515-E: Devriez-vous l'affronter[4F]? Ou devriez-vous le fuir[4F]?
 516: It appears to be holding a very important secret.
@@ -2727,7 +2729,7 @@
 52D: It appears to be protecting something.
 52D-E: Il semble protéger quelque chose.
 52E: This guy is at the very top of the FBI's most-wanted list.
-52E-E: Ce type est tout en haut de la liste des gens les plus recherchés par le FBI.
+52E-E: Ce type est numéro un de la liste des gens les plus recherchés par le FBI.
 52F: Deep down, he might actually be a nice guy.
 52F-E: Au fond, c'est peut-être vraiment un type sympa.
 530: A malnourished robot?
@@ -2885,7 +2887,7 @@
 57C: A cutting-edge, mass-produced robot.
 57C-E: Un robot produit en série, à la pointe de la technologie.
 57D: It's about as big as a manhole cover...
-57D-E: Il à peu près aussi grand qu'une plaque d'égout...
+57D-E: Il est à peu près aussi grand qu'une plaque d'égout...
 57E: Don't let her beauty fool you...
 57E-E: Ne vous laissez pas duper par sa beauté...
 57F: It carries bombs... and often uses them.
@@ -3476,6 +3478,7 @@
 6A3-E: 
 6A4: 
 6A4-E: 
+// #MAXLENGTH=27 #AUTOWRAP=0 #MAXLINES=0
 6A5: @[03 1A] decided not to hand[BREAK]over any items.[BREAK]
 6A5-E: @[03 1A] décide de ne céder[BREAK]aucun objet.[BREAK]
 6A6: @[03 1A] gave the [03 1C][BREAK]to [03 1B].[BREAK]
@@ -3636,6 +3639,7 @@
 6F3-E: 
 6F4: 
 6F4-E: 
+// #MAXLENGTH=28 #AUTOWRAP=1 #MAXLINES=16
 6F5: Copyrights of Game[03 3F] Scenario[03 3F][BREAK][BREAK]Music[03 3F] but excluding the[BREAK][BREAK]copyright of Music composed by[BREAK][BREAK]Keiichi Suzuki[03 3F] reserved by[BREAK][BREAK]SHIGESATO ITOI and NINTENDO.[BREAK][BREAK]Copyright of Program reserved[BREAK][BREAK]by NINTENDO.[BREAK]
 6F5-E:  [BREAK][BREAK]  Les copyrights du jeu[03 3F] du[BREAK]  scénario[03 3F] de la musique[03 3F] à[BREAK]  l'exception du copyright[BREAK]  de la musique composée[BREAK]  par Keiichi Suzuki[03 3F] sont[BREAK]  réservés par SHIGESATO[BREAK]  ITOI et NINTENDO.[BREAK][BREAK]  Le copyright du programme[BREAK]  est réservé par NINTENDO.[BREAK]
 6F6: 
@@ -3654,6 +3658,7 @@
 6FC-E: 
 6FD: 
 6FD-E: 
+// #MAXLENGTH=28 #AUTOWRAP=0 #MAXLINES=4
 6FE: [BREAK][BREAK][BREAK][BREAK]
 6FE-E: [BREAK][BREAK][BREAK][BREAK]
 6FF: [03 12] is reunited with her[BREAK]mother as the rest of the[BREAK]freed people exit the cave.[BREAK]
@@ -3676,6 +3681,7 @@
 707-E: Allô[4F]? C'est Papa. Désolé de[BREAK]te réveiller, mais il est[BREAK]peut-être encore un peu[BREAK]trop tôt pour se reposer...
 708: 
 708-E: 
+// #MAXLENGTH=27 #AUTOWRAP=0 #MAXLINES=0
 709: "Big Bag"[BREAK]@A bag filled with lots of[BREAK]Magic Herbs.
 709-E: "Grand sac"[BREAK]@Un sac rempli à ras bord[BREAK]d'Herbes magiques.
 70A: "Phone Card"[BREAK]@You can make 50 calls on[BREAK]public phones with this.
@@ -4080,6 +4086,7 @@
 7D1-E: 
 7D2: 
 7D2-E: 
+// #MAXLENGTH=26 #AUTOWRAP=1 #MAXLINES=3
 7D3: [03 20] suddenly attacked!
 7D3-E: [03 E0][03 D0][03 C0] attaque soudainement[4F]!
 7D4: [03 20] attacks!
@@ -4091,10 +4098,13 @@
 7D7: Combo attack!
 7D7-E: Attaque combo[4F]!
 7D8: [03 20] bit [03 21]!
+// #FORCELENGTH "[03 D8]"=6
 7D8-E: [03 E2][03 D0][03 C0] mord [03 EB][03 D8][03 C8][4F]!
 7D9: [03 20] scratched [03 21]!
+// #FORCELENGTH "[03 D8]"=6
 7D9-E: [03 E2][03 D0][03 C0] griffe [03 EB][03 D8][03 C8][4F]!
 7DA: [03 20] bore down on [03 21]!
+// #FORCELENGTH "[03 D8]"=6
 7DA-E: [03 E2][03 D0][03 C0] se jette sur [03 EB][03 D8][03 C8][4F]!
 7DB: [03 2C]
 7DB-E: [03 2C]
@@ -4119,6 +4129,7 @@
 7E5: [03 20]'s final desperation attack!!!
 7E5-E: [03 E2][03 D0][03 C0] lance une ultime attaque désespérée[4F]!!!
 7E6: You can't grasp the form of [03 20]'s attack!
+// #FORCELENGTH "[03 D0]"=6
 7E6-E: Vous ne parvenez pas à saisir la nature de l'attaque [03 E5][03 D0][03 C0][4F]!
 7E7: [03 21] was enveloped in a barrier!
 7E7-E: [03 EA][03 D8][03 C8] est enveloppé[03 EC] d'une barrière[4F]!
@@ -4169,6 +4180,9 @@
 7FE: [03 20] sowed some seeds!
 7FE-E: [03 E2][03 D0][03 C0] sème des graines[4F]!
 7FF: For some reason, [03 21]'s experience points went up!
+// #FORCELENGTH "[03 D8]"=6
+// #FORCELENGTH "[03 ED]"=3
+// #FORCELENGTH "[03 C8]"=0
 7FF-E: Pour une raison inconnue, les points d'expérience [03 ED][03 D8][03 C8] augmentent[4F]!
 800: [03 20] burst into laughter!
 800-E: [03 E2][03 D0][03 C0] éclate de rire[4F]!
@@ -4247,6 +4261,7 @@
 825: There was no effect on [03 21]!
 825-E: Ça n'a pas d'effet sur [03 EB][03 D8][03 C8][4F]!
 826: [03 20] had an asthma attack![BREAK]... (cough cough cough)
+// #FORCELENGTH "[03 D0]"=6
 826-E: [03 E2][03 D0][03 C0] est pris d'une crise d'asthme[4F]![BREAK]... (kof kof kof)
 827: [03 20] is praying!
 827-E: [03 E2][03 D0][03 C0] prie[4F]!
@@ -4261,6 +4276,7 @@
 82C: [03 20] edged closer!
 82C-E: [03 E2][03 D0][03 C0] se rapproche[4F]!
 82D: The poison disappeared from [03 21]'s body!
+// #FORCELENGTH "[03 D8]"=6
 82D-E: Le poison disparaît du corps [03 ED][03 D8][03 C8][4F]!
 82E: [03 21] went back to normal!
 82E-E: [03 EA][03 D8][03 C8] revient à son état normal[4F]!
@@ -4287,6 +4303,7 @@
 839: [03 21]'s shield was destroyed!
 839-E: Le bouclier [03 ED][03 D8][03 C8] a été détruit[4F]!
 83A: [03 20] checked [03 21]!
+// #FORCELENGTH "[03 D0]"=6
 83A-E: [03 E2][03 D0][03 C0] analyse [03 EB][03 D8][03 C8][4F]!
 83B: [03 3C] Strong against heat
 83B-E: [03 3C] Résiste à la chaleur
@@ -4334,6 +4351,7 @@
 850: [03 21] disappeared into thin air!
 850-E: [03 EA][03 D8][03 C8] s'est volatilisé[03 EC][4F]!
 851: [03 20] stole [03 21]'s [03 22]!
+// #FORCELENGTH "[03 D8]"=6
 851-E: [03 E2][03 D0][03 C0] vole l[03 F1][03 22] [03 ED][03 D8][03 C8][4F]!
 852: [03 20] leveled up![BREAK][PAUSE][03 01]
 852-E: [03 E2][03 D0][03 C0] gagne un niveau[4F]![BREAK][PAUSE][03 01]

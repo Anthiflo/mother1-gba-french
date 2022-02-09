@@ -1,11 +1,12 @@
 //==Types d'articles== 
-//(0/8) indéfini sans majuscule 
-//(1/9) défini sans lettre initiale 
-//(2/A) indéfini avec majuscule 
-//(3/B) possessif sans lettre initiale 
-//(4/C) COD 
-//(5/D) de 
-// 
+//(0/8) indéfini sans majuscule
+//(1/9) défini sans lettre initiale
+//(2/A) indéfini avec majuscule
+//(3/B) possessif sans lettre initiale
+//(4/C) COD
+//(5/D) de
+//(6/E) verbe avoir
+//(7/E) accord participe passé
 //00. masculin singulier multiple dénombrable consonne initiale 
 un 
 e 

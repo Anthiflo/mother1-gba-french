@@ -1,3 +1,10 @@
+//==Types d'articles== 
+//(0/8) indéfini avec majuscule
+//(1/9) indéfini sans majuscule 
+//(2/A) défini avec majuscule
+//(3/B) défini sans majuscule
+//(4/C) accord au féminin 
+//(5/D) complément du nom 
 //00: Masculin nom commun consonne initiale
 Un 
 un 
