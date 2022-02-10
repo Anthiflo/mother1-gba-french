@@ -23,7 +23,7 @@ def checkMaxEnemyNameLength():
     res = 0
 
     for line in lines:
-        match = re.match("^ENEMY-...-..: (.*)\r\n", line)
+        match = re.match("^ENEMY-...-..: ([^\r\n]*)", line)
         if match:
             if len(match.group(1)) > res:
                 res = len(match.group(1))
@@ -44,7 +44,7 @@ def checkMaxArticleLength(filename1, filename2, prefix):
     
     for line in lines:
         if (not line.startswith("//")):
-            match = re.match("^(.*)\r\n", line)
+            match = re.match("^([^\r\n]*)", line)
             if match:
                 if (len(match.group(1)) > res[lineNb%8]):
                     classId = "{0:0{1}X}".format(lineNb//8,2)

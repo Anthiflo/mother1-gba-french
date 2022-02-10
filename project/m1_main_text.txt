@@ -4356,6 +4356,7 @@
 852: [03 20] leveled up![BREAK][PAUSE][03 01]
 852-E: [03 E2][03 D0][03 C0] gagne un niveau[4F]![BREAK][PAUSE][03 01]
 853: [03 20] learned a new PSI in battle![BREAK][PAUSE][03 01]
+// #FORCELENGTH "[03 D0]"=6
 853-E: [03 E2][03 D0][03 C0] a appris une nouvelle PSI au combat[4F]![BREAK][PAUSE][03 01]
 854: Max HP went up [03 23]![BREAK][PAUSE][03 01]
 854-E: Ses PV augmentent de [03 23][4F]![BREAK][PAUSE][03 01]
