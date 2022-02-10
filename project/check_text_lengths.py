@@ -1,4 +1,3 @@
-import codecs
 import re
 import textwrap
 
@@ -18,12 +17,12 @@ def exampleStr(txt, length):
     return txt + ("*" * nbToAdd)
     
 def checkMaxEnemyNameLength():
-    enemyFile = codecs.open("m1_enemy_long_names.txt","r","utf-8")
+    enemyFile = open("m1_enemy_long_names.txt","r",encoding="utf-8")
     lines = enemyFile.readlines()   
     res = 0
 
     for line in lines:
-        match = re.match("^ENEMY-...-..: ([^\r\n]*)", line)
+        match = re.match("^ENEMY-...-..: (.*)$", line)
         if match:
             if len(match.group(1)) > res:
                 res = len(match.group(1))
@@ -33,31 +32,31 @@ def checkMaxEnemyNameLength():
 
 
 def checkMaxArticleLength(filename1, filename2, prefix):
-    classDefFile = codecs.open(filename1,"r","utf-8")
+    classDefFile = open(filename1,"r",encoding="utf-8")
     lines = classDefFile.readlines()  
     res = [0] * 8
     lineNb = 0;
     
-    classAttribFile = codecs.open(filename2,"r","utf-8")
+    classAttribFile = open(filename2,"r",encoding="utf-8")
     classAttribList = classAttribFile.read()
     classAttribFile.close()
     
     for line in lines:
         if (not line.startswith("//")):
-            match = re.match("^([^\r\n]*)", line)
-            if match:
-                if (len(match.group(1)) > res[lineNb%8]):
-                    classId = "{0:0{1}X}".format(lineNb//8,2)
-                    toFind = prefix + "-...-..: " + classId
-                    if (re.findall(toFind, classAttribList)):
-                        res[lineNb%8] = len(match.group(1))
-                lineNb += 1
+            line = line.rstrip("\n")
+            if (len(line) > res[lineNb%8]):
+                classId = "{0:0{1}X}".format(lineNb//8,2)
+                toFind = prefix + "-...-..: " + classId
+                if (re.findall(toFind, classAttribList)):
+                    res[lineNb%8] = len(line)
+            lineNb += 1
     
     classDefFile.close()
     return res
 
 
 def decodeLine(line):
+    line = line.rstrip("\n")
     line = re.sub("@","", line)
     line = re.sub("\[..\]","*", line)
     line = re.sub("\[DOUBLEZERO\]", "*", line)
@@ -81,8 +80,6 @@ def decodeLine(line):
         line = re.sub("\[03 E" + "{:01X}".format(i) + "\]", exampleStr("########", maxEnemyArticlesLength[i]), line)
         line = re.sub("\[03 E" + "{:01X}".format(i+8) + "\]", exampleStr("########", maxEnemyArticlesLength[i]), line)
 
-    line = re.sub("\n$", "", line)
-    line = re.sub("\r$", "", line)
     return line
     
 def autowrapLines(lines, wdth):
@@ -106,7 +103,7 @@ def initValues():
 
 initValues()
 
-textFile = codecs.open("m1_main_text.txt","r","utf-8")
+textFile = open("m1_main_text.txt","r",encoding="utf-8")
 lines = textFile.readlines()
 
 for line in lines:
