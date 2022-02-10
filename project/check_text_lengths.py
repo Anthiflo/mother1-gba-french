@@ -4,8 +4,8 @@ import textwrap
 
 LENGTH_CHAR_NAME = 6
 LENGTH_ITEM_NAME = 11
+LENGTH_TEAM_PREFIX = 12
 LENGTH_MONEY_AMOUNT = 5
-LENGTH_ART_DU_DE_LA = 6
 
 maxEnemyLength = 0
 maxItemArticlesLength = []
@@ -63,7 +63,7 @@ def decodeLine(line):
     line = re.sub("\[DOUBLEZERO\]", "*", line)
     line = re.sub("\[03 1[0123]\]",     exampleStr("HERO",LENGTH_CHAR_NAME), line)
     line = re.sub("\[03 1[6AB]\]",      exampleStr("HERO",LENGTH_CHAR_NAME), line)
-    line = re.sub("\[03 17\]",          exampleStr("L’équipe de ",12), line)
+    line = re.sub("\[03 17\]",          exampleStr("L’équipe de ",LENGTH_TEAM_PREFIX), line)
     line = re.sub("\[03 1C\]",          exampleStr("ITEM1",LENGTH_ITEM_NAME), line)
     line = re.sub("\[03 1D\]",          exampleStr("ITEM2",LENGTH_ITEM_NAME), line)
     line = re.sub("\[03 19\]( )*\$?",   exampleStr("MONEY",LENGTH_MONEY_AMOUNT) + "\\1$", line)
@@ -93,6 +93,7 @@ def autowrapLines(lines, wdth):
 nbTooLong = 0
 maxLen = 0
 maxLines = 0
+extraLastLines = 0
 autoWrap = False
 forcedStrings = []
 forcedLengths =[]
@@ -115,6 +116,9 @@ for line in lines:
     match = re.match("^ *// .*#MAXLINES=(\d+).*$",line)
     if match:
         maxLines = int(match.group(1))
+    match = re.match("^ *// .*#EXTRALASTLINES=(\d+).*$",line)
+    if match:
+        extraLastLines = int(match.group(1))
     match = re.match("^ *// .*#AUTOWRAP=(\d+).*$",line)
     if match:
         autoWrap = (int(match.group(1)) != 0)
@@ -135,14 +139,21 @@ for line in lines:
         
         pauseLines = line.split("[PAUSE]")
         
-        for pauseLine in pauseLines:        
+        for pauseLineIdx,pauseLine in enumerate(pauseLines):  
+            curMaxlines = maxLines 
+             
+            lastLine = (pauseLineIdx == len(pauseLines) - 1)
+            
+            if lastLine:
+                curMaxlines += extraLastLines
+
             pauseLine = re.sub("\[BREAK\]$", "", pauseLine) # Removing the BREAK at the very end
             breakLines = pauseLine.split("[BREAK]")
             
             if autoWrap:
                 breakLines = autowrapLines(breakLines, maxLen)
-
-            if maxLines != 0 and len(breakLines) > maxLines:
+                
+            if maxLines != 0 and len(breakLines) > curMaxlines:
                 print("WARNING! Too many lines at " + lineId + ": “" + "/".join(breakLines) + "”")
                 nbTooLong += 1
             
@@ -155,5 +166,8 @@ for line in lines:
         forcedLengths.clear()
 
 textFile.close()
-print("Text length issues: ", nbTooLong)
 
+if (nbTooLong > 0):
+    print("Text length issues: ", nbTooLong)
+
+print("Text length check done!")

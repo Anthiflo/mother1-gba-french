@@ -18,7 +18,7 @@
 // [03 EX]		article combattant		0-7 type d’article, +8 pour la cible		[03 20-21] (acteur-cible)
 // [03 FX]		article objets			0-7 type d’article, +8 si gagné au combat	[03 22] (normal), [03 1D] (gagné)
 
-// #MAXLENGTH=27 #MAXLINES=4
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 000: System Error![BREAK]
 000-E: Erreur système[4F]![BREAK]
 001: @Brother! I'm so scared![BREAK][PAUSE]My lamp suddenly starting[BREAK]going crazy![BREAK]
@@ -768,7 +768,7 @@
 169: @A ghost started showing up[BREAK]at my house, too.[BREAK][PAUSE]@It finally left 'cause it[BREAK]hated how cramped it was.[BREAK]
 169-E: @Ma maison aussi a été[BREAK]squattée par un fantôme.[BREAK][PAUSE]@Mais il est finalement[BREAK]parti parce qu'elle était[BREAK]trop petite à son goût.[BREAK]
 16A: @I'm more like a game[BREAK]assistant than a citizen of[BREAK]this town.[BREAK][PAUSE]@Surely there are things[BREAK]you've forgotten to jot[BREAK]down notes about, right?[BREAK][PAUSE]@I can give you a hint for[BREAK]$[03 1E]. What do you say?[BREAK]
-16A-E: @Je n'habite pas dans cette[BREAK]ville, je suis en réalité[BREAK]une aide de jeu.[BREAK][PAUSE]@Il y a certainement des[BREAK]informations que tu as[BREAK]oublié de noter, non ?[BREAK][PAUSE]@Je peux te donner un indice[BREAK]pour [03 1E]$. Qu'en dis-tu ?[BREAK]
+16A-E: @Je n'habite pas dans cette[BREAK]ville, je suis en réalité[BREAK]une assistante de jeu.[BREAK][PAUSE]@Il y a certainement des[BREAK]informations que tu as[BREAK]oublié de noter, non ?[BREAK][PAUSE]@Je peux te donner un indice[BREAK]pour [03 1E]$. Qu'en dis-tu ?[BREAK]
 16B: 
 16B-E: 
 16C: @Oh. You're really confident[BREAK]about yourself.[BREAK][PAUSE]@Then I'll make sure we[BREAK]never meet again.
@@ -2014,7 +2014,7 @@
 3C9: Sweet Little Factory[BREAK]
 3C9-E: Usine Minimimi[BREAK]
 3CA: @The mothership brought us[BREAK]to the top of the mountain,[BREAK][PAUSE]and when we came to, we[BREAK]were stuck in these[BREAK]things...[BREAK][PAUSE]@Please, do something![BREAK]
-3CA-E: @Le vaisseau-mère nous a[BREAK]emmenés jusqu'au sommet de[BREAK]la montagne,[BREAK][PAUSE]et quand on a repris nos[BREAK]esprits, on était coincés[BREAK]dans ces choses...[BREAK][PAUSE]@Faites quelque chose,[BREAK]je vous en supplie ![BREAK]
+3CA-E: @Le vaisseau-mère nous a[BREAK]emmenés jusqu'au sommet de[BREAK]la montagne,[BREAK][PAUSE]et quand nous avons repris[BREAK]nos esprits, nous étions[BREAK]enfermés dans ces choses...[BREAK][PAUSE]@Faites quelque chose,[BREAK]je vous en supplie ![BREAK]
 3CB: @Are you sure it's spelled[BREAK]right?[BREAK]
 3CB-E: @Vous êtes sûr que ça[BREAK]s'écrit bien comme ça ?[BREAK]
 3CC: @The strange sound driving[BREAK]the animals crazy stopped.[BREAK][PAUSE]@The zoo is safe once more.[BREAK]
@@ -2677,7 +2677,7 @@
 513-E: 
 514: 
 514-E: 
-// #MAXLENGTH=26 #AUTOWRAP=1 #MAXLINES=3
+// #MAXLENGTH=26 #AUTOWRAP=1 #MAXLINES=3 #EXTRALASTLINES=0
 515: Should you fight it?[BREAK]Or should you run from it?
 515-E: Devriez-vous l'affronter[4F]? Ou devriez-vous le fuir[4F]?
 516: It appears to be holding a very important secret.
@@ -4086,7 +4086,7 @@
 7D1-E: 
 7D2: 
 7D2-E: 
-// #MAXLENGTH=26 #AUTOWRAP=1 #MAXLINES=3
+// #MAXLENGTH=26 #AUTOWRAP=1 #MAXLINES=2 #EXTRALASTLINES=1
 7D3: [03 20] suddenly attacked!
 7D3-E: [03 E0][03 D0][03 C0] attaque soudainement[4F]!
 7D4: [03 20] attacks!
