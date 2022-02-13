@@ -119,7 +119,7 @@ ENEMY-602-26: Excentrique
 ENEMY-603-27: Membre du gang
 
 //Dr. Distorto
-ENEMY-604-28: Dr Distorto
+ENEMY-604-28: Dr[4F]Distorto
 
 //
 ENEMY-605-29: 
@@ -176,7 +176,7 @@ ENEMY-615-39: Fantôme
 ENEMY-616-3A: P'tit OVNI
 
 //Mr. Batty
-ENEMY-617-3B: M. Batou
+ENEMY-617-3B: M.[4F]Batou
 
 //Starman Jr.
 ENEMY-618-3C: Starman Jr

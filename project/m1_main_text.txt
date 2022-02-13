@@ -166,7 +166,7 @@
 048: @Here you go. This is the[BREAK]key to the zoo.[BREAK]
 048-E: @Voilà pour toi. C'est la[BREAK]clé du zoo.[BREAK]
 049: @Come back alive and you'll[BREAK]be a hero![BREAK][PAUSE]@I'd go with you, but I'm,[BREAK]umm, not feeling well...[BREAK]
-049-E: @Ramène-la-moi saine et[BREAK]sauve et je serai un[BREAK]héros[4F]![BREAK][PAUSE]@Enfin, je veux dire, tu[BREAK]seras un héros.[BREAK]
+049-E: @Reviens sain et sauf et je[BREAK]serai un héros[4F]![BREAK][PAUSE]@Enfin, je veux dire, tu[BREAK]seras un héros.[BREAK]
 04A: @Oh, it's [03 16], the hero![BREAK][PAUSE]@You have tiger droppings[BREAK]all over your clothes, you[BREAK]know.[BREAK][PAUSE]@Oh, I'm just kidding![BREAK][PAUSE]@Sorry, I don't have[BREAK]anything to give you this[BREAK]time...[BREAK][PAUSE]Wahahaha![BREAK]
 04A-E: @Voilà [03 10], le héros[4F]![BREAK][PAUSE]@Tu as de la bave de tigre[BREAK]partout sur tes habits, tu[BREAK]sais.[BREAK][PAUSE]@Ah, je plaisante[4F]![BREAK][PAUSE]@Navré, je n'ai rien à te[BREAK]donner cette fois...[BREAK][PAUSE]Wahahaha[4F]![BREAK]
 04B: @Everyone's talking about a[BREAK]girl with special powers.[BREAK]Have you heard about her?[BREAK][PAUSE]@I bet she'd be a great help[BREAK]to you on your journey.[BREAK]
