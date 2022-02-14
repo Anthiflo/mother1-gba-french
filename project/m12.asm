@@ -330,6 +330,11 @@ org $8F0D63C; bl producescreen2; b $8F0D664
 org $8F0D66E; nop
 org $8F0D676; nop
 
+// alter the title screen copyrights
+org $8F2A216; incbin m1_title_copyrights_arrangement.bin
+org $8F6374C; incbin m1_gfx_title_copyrights_1.bin
+org $8F6386C; incbin m1_gfx_title_copyrights_2.bin
+
 // change some of the graphical text used in the end credits
 org $8F5FF2C; incbin m1_gfx_credits.bin
 
