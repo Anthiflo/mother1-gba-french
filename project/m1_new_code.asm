@@ -999,20 +999,32 @@ ldr     r0,=#0x8F29FA0
 ldmia   r0!,{r2-r4}
 stmia   r1!,{r2-r4}
 add     r1,sp,#0xC
-ldr     r0,=#0x20001
+ldr     r0,=#0x20001    // default choice 1 (Yes/No)
 str     r0,[sp,#0xC]
-ldr     r0,=#0xF0002    // Space between yes/no cursors
+ldr     r0,=#0xB0002    // default choice 2 (Yes/No)
 
 ldr     r3,=#0x2014300
 ldrh    r3,[r3,#0]
-ldr     r4,=#0x337      // If not line 337 (Save/Nothing)...
+
+ldr     r4,=#0x337
 cmp     r3,r4
-beq     +
-add     r4,#1           // nor line 338 (Continue/End)...
-cmp     r3,r4
-beq     +
-ldr     r0,=#0xB0002    // then revert to default space between yes/no cursors
+bne     +
+ldr     r0,=#0xF0002    // choice 2 for line 337 (Save/Nothing)
+
 +
+ldr     r4,=#0x338
+cmp     r3,r4
+bne     +
+ldr     r0,=#0xF0002    // choice 2 for line 338 (Continue/End)
+
++
+ldr     r4,=#0x3BE
+cmp     r3,r4
+bne     +
+ldr     r0,=#0x70002    // choice 2 for line 3BE (Refresh/Soften)...
+
++
+
 str     r0,[r1,#0x4]
 mov     r0,#0x0
 str     r0,[r1,#0x8]
