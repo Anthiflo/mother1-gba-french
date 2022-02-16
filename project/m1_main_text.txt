@@ -188,7 +188,7 @@
 053: @Say, how's that canary[BREAK]doing?[BREAK]
 053-E: @Alors, comment se porte le[BREAK]canari[4F]?[BREAK]
 054: @I'm almost certain that[BREAK]something is controlling[BREAK]all the animals...[BREAK]
-054-E: @Je mettrais ma main à[BREAK]couper que quelque chose[BREAK]contrôle les animaux...[BREAK]
+054-E: @J'ai vraiment l'impression[BREAK]que les animaux sont sous[BREAK]l'emprise de quelque[BREAK]chose...[BREAK]
 055: @Animals are so cute. Don't[BREAK]you agree?[BREAK]
 055-E: @Les animaux sont tellement[BREAK]mignons, pas vrai ?[BREAK]
 056: @Teehee.[BREAK]
@@ -669,7 +669,7 @@
 139: @I was on my way to the town[BREAK]of Easter to find my wife.[BREAK][PAUSE]@But with the train tracks[BREAK]busted, I have no way to[BREAK]get there now...[BREAK]
 139-E: @Je comptais me rendre dans[BREAK]la ville de Youngtown pour[BREAK]retrouver ma femme.[BREAK][PAUSE]@Mais la voie ferrée est[BREAK]endommagée, donc impossible[BREAK]d'y aller...[BREAK]
 13A: @Poking your nose into other[BREAK]people's business is what[BREAK]makes playing games so fun![BREAK]
-13A-E: @Fourrer son nez dans les[BREAK]affaires des autres, ça[BREAK]rend les jeux si amusants ![BREAK]
+13A-E: @Fourrer son nez dans la vie[BREAK]des gens, c'est ça qui rend[BREAK]les jeux si amusants ![BREAK]
 13B: 
 13B-E: 
 13C: @Here you go.[BREAK]
@@ -813,7 +813,8 @@
 17F: @I don't wanna visit it,[BREAK]but you probably should.[BREAK]
 17F-E: @Je n'ai pas l'intention[BREAK]d'aller le visiter, mais[BREAK]toi, tu devrais.[BREAK]
 180: @It's freezing here in[BREAK]Snowman. Be careful not to[BREAK]catch a cold.[BREAK][PAUSE]@And be sure to brush your[BREAK]teeth, too.[BREAK][PAUSE]@(cough cough)[BREAK]
-180-E: @Ça caille sévère ici, à[BREAK]Snowman. Faites gaffe de[BREAK]ne pas choper un rhume.[BREAK][PAUSE]@Et brossez-vous bien les[BREAK]dents, hein.[BREAK][PAUSE]@(tousse tousse)[BREAK]
+180-E: @Ça caille sévère ici, à[BREAK]Snowman. Fais gaffe de ne[BREAK]pas choper un rhume.[BREAK][PAUSE]@Et brosse-toi bien les[BREAK]dents, hein.[BREAK][PAUSE]@(tousse tousse)[BREAK]
+// on peut être seul à Snowman si on traverse le tunnel à pied
 181: 
 181-E: 
 182: @Life is a game.[BREAK][PAUSE]@Sometimes it's important to[BREAK]rest and pick up where you[BREAK]left off later.[BREAK]
@@ -871,7 +872,9 @@
 19C: @[03 16][03 17] climbed[BREAK]into the rocket.[BREAK]
 19C-E: @[03 17][03 7E][03 16] monte[BREAK]dans la fusée.[BREAK]
 19D: @My grandpa lives in the[BREAK]Advent Desert.[BREAK][PAUSE]@If you see him, tell him I[BREAK]say hi.[BREAK]
-19D-E: @Mon papy vit dans le désert[BREAK]Yucca.[BREAK][PAUSE]@Si vous le croisez, passez-[BREAK]lui le bonjour.[BREAK]
+19D-E: @Mon papy vit dans le désert[BREAK]Yucca.[BREAK][PAUSE]@Si tu le croises, passe-lui[BREAK]le bonjour de ma part.[BREAK]
+// on peut être seul à Snowman si on traverse le tunnel à pied
+// peut-être tournure semblable à 2ED (PNJ juste à côté)
 19E: @I'm a nice guy's corpse.[BREAK][PAUSE]@So don't worry, I won't[BREAK]attack you or anything like[BREAK]that.[BREAK]
 19E-E: @Je suis la dépouille d'un[BREAK]type sympa.[BREAK][PAUSE]@Donc t'inquiète pas, je[BREAK]vais pas t'attaquer, hein.[BREAK]
 19F: @I make a useful signpost,[BREAK]wouldn't you say?[BREAK]
@@ -1037,7 +1040,7 @@
 1ED: 
 1ED-E: 
 1EE: @Please give my [03 10] all[BREAK]the help you can.
-1EE-E: @Je vous en prie, faites[BREAK]tout ce que vous pouvez[BREAK]pour sauver mon [03 10].
+1EE-E: @Je vous en prie, faites[BREAK]tout ce que vous pouvez[BREAK]pour aider mon [03 10].
 1EF: @[03 3E] used the Phone Card.[BREAK]
 1EF-E: @[03 3E] utilise la Carte[BREAK]téléphonique.[BREAK]
 1F0: @Great! I'm sure we'll make[BREAK]a great team of punks![BREAK]Cheers![BREAK]
@@ -1295,7 +1298,7 @@
 269: @It's no big deal.[BREAK][PAUSE]@The real problem is my[BREAK]wife.[BREAK][PAUSE]@She sleeps until noon every[BREAK]day and she never packs me[BREAK]a lunch.[BREAK][PAUSE]@Isn't that just terrible?[BREAK]
 269-E: @Ce n'est rien.[BREAK][PAUSE]@Le vrai problème, c'est ma[BREAK]femme.[BREAK][PAUSE]@Elle dort jusqu'à midi tous[BREAK]les jours et ne me prépare[BREAK]jamais de panier-repas.[BREAK][PAUSE]@C'est horrible, non ?[BREAK]
 26A: @Oh! [03 12] is dead![BREAK]
-26A-E: @Oh ! [03 12] est mort ![BREAK]
+26A-E: @Oh ! [03 12] est morte ![BREAK]
 26B: @Thank you for everything.[BREAK][PAUSE]@As a token of my[BREAK]gratitude...[BREAK][PAUSE]I'll be praying for your[BREAK]success.[BREAK]
 26B-E: @Merci pour tout.[BREAK][PAUSE]@En gage de ma gratitude...[BREAK][PAUSE]Je prierai pour ta[BREAK]réussite.[BREAK]
 26C: @I'm Laura.[BREAK]
@@ -1570,6 +1573,7 @@
 2EC-E: @Vous les enfants, vous êtes[BREAK]vraiment insouciants et[BREAK]pleins d'énergie...[BREAK][PAUSE]Porter des habits aussi[BREAK]légers par ce temps... ![BREAK][PAUSE](tousse... tousse...)[BREAK]
 2ED: @If you run into some camel[BREAK]bones in the Advent Desert,[BREAK]tell them I say hi.[BREAK][PAUSE]@That camel and I go way[BREAK]back.[BREAK]
 2ED-E: @Dans le désert Yucca, il y[BREAK]a un tas d'os de chameau.[BREAK][PAUSE]Si jamais tu tombes dessus,[BREAK]passe-lui le bonjour de ma[BREAK]part.[BREAK][PAUSE]@C'est une très vieille[BREAK]connaissance.[BREAK]
+// peut-être tournure semblable à 19D (PNJ juste à côté)
 2EE: @I can treat minor injuries[BREAK]here.[BREAK][PAUSE]@But if you're sick, you'll[BREAK]need to visit an actual[BREAK]hospital, okay?[BREAK][PAUSE]
 2EE-E: @J'ai de quoi soigner des[BREAK]blessures légères.[BREAK][PAUSE]@Mais si tu es malade, tu[BREAK]vas devoir aller dans un[BREAK]vrai hôpital, d'accord ?[BREAK][PAUSE]
 2EF: @I bet [03 11] will have a[BREAK]computer-related job in the[BREAK]future.[BREAK]
