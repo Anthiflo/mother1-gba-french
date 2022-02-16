@@ -793,7 +793,7 @@
 175-E: @Ah ! Elle s'est envolée[BREAK]dans l'espace.[BREAK][PAUSE]@Un véritable succès...[BREAK]d'une certaine façon.[BREAK]
 // Real Rocket
 176: @Oh! You're such a charming[BREAK]boy![BREAK][PAUSE]@Why, I could just gaze at[BREAK]you forever...[BREAK][PAUSE]@If anyone can turn our[BREAK]mansion back to normal, I'm[BREAK]sure it's you.[BREAK][PAUSE]@Here. This is the key to[BREAK]get in.[BREAK][PAUSE](giggle)[BREAK]
-176-E: @Oh ! Quel charmant garçon ![BREAK][PAUSE]@Ouh là là, je ne pourrais[BREAK]jamais me lasser de te[BREAK]contempler...[BREAK][PAUSE]@Si quelqu'un peut remettre[BREAK]notre manoir dans son état[BREAK]normal, c'est bien toi.[BREAK][PAUSE]@Tiens. Voilà la clé pour[BREAK]entrer à l'intérieur.[BREAK][PAUSE](glousse)[BREAK]
+176-E: @Oh ! Quel charmant garçon ![BREAK][PAUSE]@Ouh là là, je pourrais bien[BREAK]te contempler sans jamais[BREAK]m'en lasser...[BREAK][PAUSE]@Si quelqu'un peut remettre[BREAK]notre manoir dans son état[BREAK]normal, c'est bien toi.[BREAK][PAUSE]@Tiens. Voilà la clé pour[BREAK]entrer à l'intérieur.[BREAK][PAUSE](glousse)[BREAK]
 177: @My name is [03 10].[BREAK][PAUSE]@It used to be Bugerror[BREAK]Rosemary, though.[BREAK]
 177-E: @Mon nom est [03 10].[BREAK][PAUSE]@Mais avant je m'appelais[BREAK]Boguerreur Rosemary.[BREAK]
 178: @[03 10]! You big dummy![BREAK][PAUSE]@Oh, sorry, I was talking to[BREAK]my son, not you.
@@ -961,7 +961,8 @@
 1C6: @I think I heard the voices[BREAK]of my dad and the others[BREAK]coming from the mountains.[BREAK][PAUSE]@But the mountains are way[BREAK]past the town of Valentine.[BREAK][PAUSE]@It's too far away for me to[BREAK]go there.[BREAK]
 1C6-E: @Je crois avoir entendu la[BREAK]voix de mon père qui venait[BREAK]des montagnes.[BREAK][PAUSE]@Mais les montagnes sont[BREAK]bien au-delà de la ville[BREAK]d'Ellay.[BREAK][PAUSE]@C'est beaucoup trop loin[BREAK]pour moi.[BREAK]
 1C7: @Aww, man. I can't give it[BREAK]to you. You're holding too[BREAK]much stuff.[BREAK]
-1C7-E: @Ah, ça craint. Je peux pas[BREAK]te le donner. T'as déjà[BREAK]trop de trucs sur toi.[BREAK]
+1C7-E: @Ah, ça craint. Je peux pas[BREAK]t'en donner. T'as déjà trop[BREAK]de trucs sur toi.[BREAK]
+// place de concert (réf. 1D1), mais le "en" devrait couvrir pas mal de cas
 1C8: @Time has passed, but you're[BREAK]still underage.[BREAK]
 1C8-E: @Le temps passe, mais tu es[BREAK]toujours mineur[03 6E].[BREAK]
 1C9: @You really oughtta watch[BREAK]where you're walking.[BREAK][PAUSE]@Heheheh...[BREAK]
@@ -1259,7 +1260,7 @@
 257: 
 257-E: 
 258: @You seem to be having a[BREAK]tough time...[BREAK][PAUSE]I'm so worried...[BREAK]
-258-E: @Tu sembles traverser une[BREAK]période difficile...[BREAK][PAUSE]Je me fais du mouron...[BREAK]
+258-E: @Tu as l'air d'avoir[BREAK]beaucoup de mal...[BREAK][PAUSE]Je suis très inquiète...[BREAK]
 259: @Good luck![BREAK]
 259-E: @Bonne chance ![BREAK]
 25A: @Who's your leader?![BREAK][PAUSE]I'm gonna teach 'im a[BREAK]lesson!![BREAK]
@@ -1443,7 +1444,7 @@
 2AD: @This hotel is cheap.[BREAK][PAUSE]@But that's about the only[BREAK]thing it has going for it.[BREAK]
 2AD-E: @Cet hôtel est pas cher.[BREAK][PAUSE]@Mais c'est bien son seul[BREAK]atout.[BREAK]
 2AE: @There was a landslide and[BREAK]now big rocks are blocking[BREAK]the railroad tracks.[BREAK][PAUSE]@The train can't get[BREAK]through.[BREAK]
-2AE-E: @Il y a eu un éboulement et[BREAK]maintenant de gros rochers[BREAK]bloquent les rails.[BREAK][PAUSE]@Le train de peut pas[BREAK]passer.[BREAK]
+2AE-E: @Il y a eu un éboulement et[BREAK]maintenant de gros rochers[BREAK]bloquent les rails.[BREAK][PAUSE]@Le train ne peut pas[BREAK]passer.[BREAK]
 2AF: @You understand animal talk,[BREAK]right?[BREAK][PAUSE]@Then I'll give you a hint:[BREAK]try checking me.[BREAK][PAUSE]@Woof![BREAK]
 2AF-E: @Tu comprends le langage[BREAK]animal, pas vrai ?[BREAK][PAUSE]@Alors voici un indice :[BREAK]essaie de m'examiner.[BREAK][PAUSE]@Ouaf ![BREAK]
 2B0: @You don't have enough[BREAK]money. That's too bad.[BREAK][PAUSE]@Please come again some[BREAK]other time.[BREAK]
@@ -3554,7 +3555,7 @@
 6C7: @[03 1A] tried [03 1C].[BREAK]
 6C7-E: @[03 1A] tente [03 1C].[BREAK]
 6C8: @You don't have enough power[BREAK]left to try that.[BREAK]
-6C8-E: @Vous n'avez plus assez de[BREAK]puissance pour tenter ça.[BREAK]
+6C8-E: @Vous n'avez plus assez[BREAK]d'énergie pour tenter ça.[BREAK]
 6C9: @[03 1A] was revived![BREAK]
 6C9-E: @[03 1A] revient à la vie ![BREAK]
 6CA: @Most of the diary is[BREAK]unreadable, but one part[BREAK]did stand out:[BREAK][PAUSE]@"The password...[BREAK][PAUSE]Where is the god's tail,[BREAK][PAUSE]that which was left behind[BREAK]by the ship that soars[BREAK]the heavens?"[BREAK]
