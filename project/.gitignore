@@ -1,1 +1,17 @@
+# ignore all roms and save files
+*.gba
 *.sav
+*.sgm
+*.bak
+*.ups
+test_*.png
+
+# ignore OS files
+Thumbs.db
+
+# ignore various generated files
+intro_screen_pal.bin
+intro_screen_gfx.bin
+m1_main_text_converted.txt
+m1_enemy_long_names_converted.txt
+insert_report.txt
