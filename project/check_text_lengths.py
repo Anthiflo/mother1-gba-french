@@ -9,6 +9,7 @@ LENGTH_MONEY_AMOUNT = 5
 maxEnemyLength = 0
 maxItemArticlesLength = []
 maxEnemyArticlesLength = []
+substitutions = []
 
 def exampleStr(txt, length):
     if len(txt) > length:
@@ -53,11 +54,26 @@ def checkMaxArticleLength(filename1, filename2, prefix):
     
     classDefFile.close()
     return res
+    
+def initSubstitutions():
+    textFile = open("m1_main_text.txt","r",encoding="utf-8")
+    res = [""]*16
+    lines = textFile.readlines()
+    for line in lines:
+        match = re.match("^(6[78](.)-E): (.*)$", line)
+        if match and (len(res[int(match.group(2),base=16)]) < len(match.group(3))):
+            res[int(match.group(2),base=16)] = match.group(3)
+    return res
 
+def performSubstitutions(line,lines):
+    for i in range(16):
+        line = re.sub("\[03 7" + "{:01X}".format(i) + "\]", substitutions[i], line)
+    return line
 
 def decodeLine(line):
     line = line.rstrip("\n")
     line = re.sub("@","", line)
+    line = re.sub("\[END\]","", line)
     line = re.sub("\[..\]","*", line)
     line = re.sub("\[DOUBLEZERO\]", "*", line)
     line = re.sub("\[03 1[0123]\]",     exampleStr("HERO",LENGTH_CHAR_NAME), line)
@@ -96,10 +112,11 @@ forcedStrings = []
 forcedLengths =[]
 
 def initValues():
-    global maxEnemyLength,maxItemArticlesLength,maxEnemyArticlesLength
+    global maxEnemyLength,maxItemArticlesLength,maxEnemyArticlesLength,substitutions
     maxEnemyLength = checkMaxEnemyNameLength()
     maxItemArticlesLength = checkMaxArticleLength("m1_item_classes.txt", "m1_item_articles.txt", "ITEM")
     maxEnemyArticlesLength = checkMaxArticleLength("m1_enemy_classes.txt", "m1_enemy_articles.txt", "ENEMY")
+    substitutions = initSubstitutions()
 
 initValues()
 
@@ -131,6 +148,8 @@ for line in lines:
         
         for i,fs in enumerate(forcedStrings):
             line = line.replace(forcedStrings[i],"*"*forcedLengths[i])
+            
+        line = performSubstitutions(line,lines)
         
         line = decodeLine(line)
         

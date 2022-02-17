@@ -65,12 +65,13 @@
 0FE714B Non
 
 // USELESS: Replaced with yes_no_cursor method in m1_new_code.asm
-// horizontal positions for cursor locations when given options in main text (note: numbers need to be -1 their actual X position)
 // note: these numbers need to be -1 their actual X coordinates
 // note: these numbers are shared for ALL options, not just yes/no. Other examples include "Continue/Save", "Medicine/Sleep", and a few others
+// horizontal positions for cursor locations when given options in main text (note: numbers need to be -1 their actual X position)
 0F0B33A [02]
 0F0B33E [0B]
 
+// USELESS: Replaced with substitution lines in main_text (from 670)
 // Used when 1 or more party members are in your team
 0F7E600 L'équipe d[END]
 0F0C3A0 [00][E6][F7][08]

@@ -9,8 +9,8 @@
 //										/ E leader / A-B acteur ou cible
 // [03 6X]		genre persos			0-7 persos principaux						[03 10-13], [03 16], [03 1A-1B]
 //										/ E leader / A-B acteur ou cible
-// [03 7X]		"l’équipe de"			E pour l’élision, F pour l’accord féminin	[03 16-17]
-//										(s'affiche seulement en cas d’équipe)
+// [03 7X]		pluriel équipe			0-F pour spécifier la ligne appelée à partir
+//										de 670-E (singulier) ou 680-E (pluriel)
 // 
 // COMBAT
 // [03 CX]		lettre nom combattant	0 pour l’acteur, 8 pour la cible			[03 20-21] (acteur-cible)
@@ -190,7 +190,7 @@
 054: @I'm almost certain that[BREAK]something is controlling[BREAK]all the animals...[BREAK]
 054-E: @J'ai vraiment l'impression[BREAK]que les animaux sont sous[BREAK]l'emprise de quelque[BREAK]chose...[BREAK]
 055: @Animals are so cute. Don't[BREAK]you agree?[BREAK]
-055-E: @Les animaux sont tellement[BREAK]mignons, pas vrai ?[BREAK]
+055-E: @Les animaux c'est tellement[BREAK]mignon, pas vrai ?[BREAK]
 056: @Teehee.[BREAK]
 056-E: @Hi hi hi.[BREAK]
 057: @Stupid head![BREAK]
@@ -754,9 +754,11 @@
 // this laugh is like the ghosts in Mother 3
 
 163: @This is a nightmare.[BREAK][PAUSE]@A bad dream you'll never,[BREAK]ever wake from...[BREAK][PAUSE]@Hee hee hee...
-163-E: @C'est un cauchemar.[BREAK][PAUSE]@Un mauvais rêve dont vous[BREAK]ne vous réveillerez[BREAK]jamais...[BREAK][PAUSE]@Hii hii hii...
+163-E: @C'est un cauchemar.[BREAK][PAUSE]@[03 73][BREAK][PAUSE]@Hii hii hii...
+// appel ligne 673 ou 683
 164: @G O  B A C K[BREAK]
-164-E: @P A R T E Z[BREAK]
+164-E: @[03 74][BREAK]
+// appel ligne 674 ou 684
 165: @Gyaaaa![BREAK]
 165-E: @Ghyaaah ![BREAK]
 166: @[03 16].[BREAK][PAUSE]@You're going to die.[BREAK][PAUSE]@Heeheehee hehehe![BREAK][PAUSE]...Keeheeheehee![BREAK]
@@ -870,7 +872,8 @@
 19B: @[03 3E] found a pass that[BREAK]someone dropped.[BREAK]
 19B-E: @[03 3E] trouve un passe que[BREAK]quelqu'un a laissé tomber.[BREAK]
 19C: @[03 16][03 17] climbed[BREAK]into the rocket.[BREAK]
-19C-E: @[03 17][03 7E][03 16] monte[BREAK]dans la fusée.[BREAK]
+19C-E: @[03 70][03 16] monte[BREAK]dans la fusée.[BREAK]
+// appel ligne 670 ou 680
 19D: @My grandpa lives in the[BREAK]Advent Desert.[BREAK][PAUSE]@If you see him, tell him I[BREAK]say hi.[BREAK]
 19D-E: @Mon papy vit dans le désert[BREAK]Yucca.[BREAK][PAUSE]@Si tu le croises, passe-lui[BREAK]le bonjour de ma part.[BREAK]
 // on peut être seul à Snowman si on traverse le tunnel à pied
@@ -892,17 +895,17 @@
 1A5: "Advent Desert"[BREAK]Why not take a sightseeing[BREAK]flight?[BREAK]
 1A5-E: "Désert Yucca"[BREAK]Pourquoi ne pas profiter[BREAK]d'une excursion aérienne ?[BREAK]
 1A6: @I laid land mines in this[BREAK]desert during the war[BREAK]before last.[BREAK][PAUSE]@I thought I dug 'em all up,[BREAK]but I just can't seem to[BREAK]find the last one.[BREAK][PAUSE]@Best be careful out there.[BREAK]
-1A6-E: @J'ai posé des mines dans[BREAK]c'désert pendant l'avant-[BREAK]dernière guerre.[BREAK][PAUSE]@J'croyais les avoir toutes[BREAK]déterrées, mais impossible[BREAK]d'trouver la dernière.[BREAK][PAUSE]@Soyez très prudents.[BREAK]
+1A6-E: @J'ai posé des mines dans[BREAK]c'désert pendant l'avant-[BREAK]dernière guerre.[BREAK][PAUSE]@J'croyais les avoir toutes[BREAK]déterrées, mais impossible[BREAK]d'trouver la dernière.[BREAK][PAUSE]@Fais bien attention.[BREAK]
 1A7: @Oh, do you want to ride in[BREAK]my plane?[BREAK]
-1A7-E: @Oh, vous voulez embarquer[BREAK]à bord d'mon avion ?[BREAK]
+1A7-E: @Oh, tu veux embarquer à[BREAK]bord d'mon avion ?[BREAK]
 1A8: @Then it'll cost $[03 1E] for[BREAK]the lot of ya.[BREAK][PAUSE]@Be sure to hang on to your[BREAK]ticket stubs.[BREAK][PAUSE]@Collect ten of 'em and[BREAK]you'll earn a ride in my[BREAK]tank![BREAK][PAUSE]@Hahaha! You sure seem happy[BREAK]to hear that![BREAK]
-1A8-E: @Ça f'ra [03 1E]$ pour vot'[BREAK]groupe.[BREAK][PAUSE]@Conservez bien l'talon[BREAK]d'vos tickets.[BREAK][PAUSE]@Rassemblez-en dix et vous[BREAK]pourrez embarquer à bord[BREAK]d'mon char ![BREAK][PAUSE]@Hahaha ! Ça vous réjouit[BREAK]d'entendre ça, on dirait ![BREAK]
+1A8-E: @[03 75][BREAK][PAUSE]@Conserve bien l'talon des[BREAK]tickets.[BREAK][PAUSE]@Rassembles-en dix et tu[BREAK]pourras embarquer à bord[BREAK]d'mon char ![BREAK][PAUSE]@Hahaha ! Ça t'réjouit[BREAK]d'entendre ça, on dirait ![BREAK]
 1A9: @It IS rather pricey, so I[BREAK]I can't say I blame ya.[BREAK]
-1A9-E: @C'est vrai qu'c'est cher,[BREAK]alors j'vous en veux pas.[BREAK]
+1A9-E: @C'est vrai qu'c'est cher,[BREAK]alors j't'en veux pas.[BREAK]
 1AA: @Oh! You collected ten[BREAK]ticket stubs![BREAK][PAUSE]@All right, then! I'll lend[BREAK]you my tank![BREAK][PAUSE]@Hahaha! You sure seem happy[BREAK]to hear that![BREAK]
-1AA-E: @Oh ! Vous avez rassemblé[BREAK]dix talons de tickets ![BREAK][PAUSE]@Ça roule ! J'vais vous[BREAK]prêter mon char ![BREAK][PAUSE]@Hahaha ! Ça vous réjouit[BREAK]d'entendre ça, on dirait ![BREAK]
+1AA-E: @Oh ! Tu as rassemblé dix[BREAK]talons de tickets ![BREAK][PAUSE]@Ça roule ! J'vais t'prêter[BREAK]mon char ![BREAK][PAUSE]@Hahaha ! Ça t'réjouit[BREAK]d'entendre ça, on dirait ![BREAK]
 1AB: @You wrecked my tank. My[BREAK]precious, precious tank...[BREAK](weep)[BREAK][PAUSE]@You better pay me the money[BREAK]to have it fixed.[BREAK][PAUSE]@It comes to $[03 1E].[BREAK][PAUSE]@Will you pay right now?[BREAK]
-1AB-E: @Vous avez démoli mon char.[BREAK]Mon précieux, précieux[BREAK]char... (snif)[BREAK][PAUSE]@Vous avez intérêt à payer[BREAK]pour les réparations.[BREAK][PAUSE]@Ça s'élève à [03 1E]$.[BREAK][PAUSE]@Vous comptez payer tout[BREAK]d'suite ?[BREAK]
+1AB-E: @Tu as démoli mon char.[BREAK]Mon précieux, précieux[BREAK]char... (snif)[BREAK][PAUSE]@T'as intérêt à payer pour[BREAK]les réparations.[BREAK][PAUSE]@Ça s'élève à [03 1E]$.[BREAK][PAUSE]@Tu comptes payer tout[BREAK]d'suite ?[BREAK]
 1AC: 
 1AC-E: 
 1AD: @Oh, that's great.[BREAK]Well, be seein' ya![BREAK]
@@ -1019,11 +1022,14 @@
 1E2: @I wish [03 13] would go back[BREAK]to his old, gentle self.[BREAK]
 1E2-E: @J'aimerais qu[03 53][03 13][BREAK]redevienne gentil, comme[BREAK]avant.[BREAK]
 1E3: @You gonna sing too?[BREAK]
-1E3-E: @Vous allez chanter, vous[BREAK]aussi ?[BREAK]
+1E3-E: @[03 7D][BREAK]
+// appel ligne 67D ou 68D
 1E4: @All right! Do something[BREAK]with lots of pizzaz![BREAK]
-1E4-E: @Ça roule ! Allez, mettez le[BREAK]feu à la scène ![BREAK]
+1E4-E: @[03 7E][BREAK]
+// appel ligne 67E ou 68E
 1E5: @I guess you're a shy kid,[BREAK]huh?[BREAK]
-1E5-E: @Bah alors, vous êtes[BREAK]timides les mômes ?[BREAK]
+1E5-E: @[03 7F][BREAK]
+// appel ligne 67F ou 68F
 1E6: 
 1E6-E: 
 1E7: @[03 12]![BREAK][PAUSE]@Oh, nothing. I saw your[BREAK]name written on your hat,[BREAK]that's all.[BREAK]
@@ -1216,7 +1222,7 @@
 241: 
 241-E: 
 242: @Oh, my. You can't carry any[BREAK]more things.[BREAK][PAUSE]@In that case, I'll give it[BREAK]to you the next time I see[BREAK]you.[BREAK]
-242-E: @Oh mince, tu ne peux pas[BREAK]porter davantage de choses.[BREAK][PAUSE]@Dans ce cas, je te le[BREAK]donnerai ça la prochaine[BREAK]fois que je te verrai.[BREAK]
+242-E: @Oh mince, tu ne peux pas[BREAK]porter davantage de choses.[BREAK][PAUSE]@Dans ce cas, je te donnerai[BREAK]ça la prochaine fois qu'on[BREAK]se verra.[BREAK]
 243: @Here you go! Medicine![BREAK]
 243-E: @Et voilà[4F]! Un remède[4F]![BREAK]
 244: @Okey-doke! Good night![BREAK]
@@ -1238,7 +1244,7 @@
 24C: 
 24C-E: 
 24D: @Which course would you[BREAK]like?[BREAK]
-24D-E: @Quel trajet vous[BREAK]intéresse[4F]?[BREAK]
+24D-E: @Quel trajet t'intéresse[4F]?[BREAK]
 24E: 
 24E-E: 
 24F: 
@@ -1463,7 +1469,8 @@
 2B5: @He...[BREAK][PAUSE]...might never come again.[BREAK]
 2B5-E: @Il...[BREAK][PAUSE]... ne reviendra[BREAK]peut-être jamais.[BREAK]
 2B6: @Have fun![BREAK]
-2B6-E: @Amusez-vous bien[4F]![BREAK]
+2B6-E: @[03 7A][BREAK]
+// appel ligne 67A ou 68A
 2B7: @Hey, waiter![BREAK]Where's the wine list I[BREAK]asked for?[BREAK]
 2B7-E: @Hé, garçon[4F]![BREAK]Où est la carte des vins[BREAK]que j'ai demandée[4F]?[BREAK]
 2B8: @I want to try some [03 15].[BREAK]
@@ -1582,9 +1589,10 @@
 2F0: @Shh! Keep quiet in the[BREAK]library![BREAK][PAUSE]@A-a-a-CHOO![BREAK]
 2F0-E: @Chut ! C'est une[BREAK]bibliothèque, ne fais[BREAK]pas de bruit ![BREAK][PAUSE]@A-a-a-TCHOUM ![BREAK]
 2F1: @Oh, you must be here[BREAK]because you heard I'm the[BREAK]world's greatest fisherman.[BREAK][PAUSE]@Well, I wouldn't say I'm[BREAK]THAT great, but...[BREAK][PAUSE]@Oh, how about I tell you[BREAK]about some of my great[BREAK]exploits for an hour or so?[BREAK]
-2F1-E: @Oh, vous êtes là pour voir[BREAK]le meilleur pêcheur du[BREAK]monde, je présume.[BREAK][PAUSE]@Bon, je suis peut-être pas[BREAK]SI doué que ça, mais...[BREAK][PAUSE]@Hé, si vous avez une heure[BREAK]à tuer, vous voulez que je[BREAK]vous raconte mes exploits ?[BREAK]
+2F1-E: @[03 7B][BREAK][PAUSE]@Bon, je suis peut-être pas[BREAK]SI doué que ça, mais...[BREAK][PAUSE]@[03 7C][BREAK]
+// appels ligne 67B ou 68B, puis ligne 67C ou 68C
 2F2: @Get outta my face, twerps![BREAK]
-2F2-E: @Hors de ma vue, avortons ![BREAK]
+2F2-E: @Hors de ma vue, avorton ![BREAK]
 2F3: @Hey, you![BREAK]
 2F3-E: @Hé, toi ![BREAK]
 2F4: @My HP may be low, but I'm[BREAK]gonna give this everything[BREAK]I got![BREAK]
@@ -1668,13 +1676,17 @@
 31B: 
 31B-E: 
 31C: @Dad's not home.[BREAK][PAUSE]@I don't understand money,[BREAK]but I can do other stuff.[BREAK][PAUSE]@So don't worry. You can[BREAK]stay here tonight if you[BREAK]want.[BREAK]
-31C-E: @Papa est pas là.[BREAK][PAUSE]@L'argent, moi j'y comprends[BREAK]rien, mais je peux faire[BREAK]d'autres trucs.[BREAK][PAUSE]@Donc vous inquiétez pas,[BREAK]vous pouvez passer la nuit[BREAK]ici si vous voulez.[BREAK]
+31C-E: @Papa est pas là.[BREAK][PAUSE]@L'argent, moi j'y comprends[BREAK]rien, mais je peux faire[BREAK]d'autres trucs.[BREAK][PAUSE]@[03 76][BREAK]
+// appel ligne 676 ou 686
 31D: @Good morning.[BREAK][PAUSE]@Stay again sometime, okay?[BREAK][PAUSE]@It gets lonely here all by[BREAK]myself.[BREAK]
-31D-E: @Bonjour.[BREAK][PAUSE]@Revenez passer la nuit ici[BREAK]une prochaine fois, OK ?[BREAK][PAUSE]@Je m'ennuie ici tout seul.[BREAK]
+31D-E: @Bonjour.[BREAK][PAUSE]@[03 77][BREAK][PAUSE]@Je m'ennuie ici tout seul.[BREAK]
+// appel ligne 677 ou 687
 31E: @Oh? You're not going to[BREAK]stay?[BREAK][PAUSE]@But I can do this work just[BREAK]fine even when Dad's[BREAK]gone...[BREAK]
-31E-E: @Oh ? Vous voulez pas[BREAK]rester ?[BREAK][PAUSE]@Mais je sais faire le[BREAK]boulot même quand Papa est[BREAK]pas à la maison...[BREAK]
+31E-E: @[03 78][BREAK][PAUSE]@Mais je sais faire le[BREAK]boulot même quand Papa est[BREAK]pas à la maison...[BREAK]
+// appel ligne 678 ou 688
 31F: @Oh, I can't let you in[BREAK]without tickets.[BREAK]
-31F-E: @Hum, je ne peux pas vous[BREAK]laisser entrer sans billet.[BREAK]
+31F-E: @[03 79][BREAK]
+// appel ligne 679 ou 689
 320: @But...[BREAK]There was nothing there.[BREAK]
 320-E: @Mais...[BREAK]Il n'y a rien à[BREAK]l'intérieur.[BREAK]
 321: 
@@ -1720,7 +1732,8 @@
 335: @The key doesn't fit.[BREAK]
 335-E: @La clé ne rentre pas.[BREAK]
 336: @[03 16][03 17] unlocked[BREAK]the door and went inside.[BREAK]
-336-E: @[03 17][03 7E][03 16][BREAK]déverrouille la porte et[BREAK]pénètre à l'intérieur.[BREAK]
+336-E: @[03 70][03 16][BREAK]déverrouille la porte et[BREAK]pénètre à l'intérieur.[BREAK]
+// appel ligne 670 ou 680
 337:   Save      Nothing
 337-E:   Sauvegarder  Rien
 338:   Continue  End
@@ -1730,7 +1743,7 @@
 33A: @I'm sorry, but you[BREAK]don't seem to have[BREAK]enough money.[BREAK]
 33A-E: @Excuse-moi, mais on[BREAK]dirait que tu n'as[BREAK]pas assez d'argent.[BREAK]
 33B: @Oh, I'm so sorry. You don't[BREAK]have enough money.[BREAK]
-33B-E: @Oh, je regrette mais vous[BREAK]n'avez pas assez d'argent.[BREAK]
+33B-E: @Oh, je regrette mais tu[BREAK]n'as pas assez d'argent.[BREAK]
 33C: @This is only my humble[BREAK]opinion, but you probably[BREAK]shouldn't carry any more[BREAK]things.[BREAK]
 33C-E: @Ce n'est que mon humble[BREAK]avis, mais tu ne devrais[BREAK]probablement pas porter[BREAK]plus de choses.[BREAK]
 33D: @Okay! All better![BREAK][PAUSE]@Amazing, huh?[BREAK]
@@ -1890,7 +1903,8 @@
 38A: 
 38A-E: 
 38B: @If you're looking for a[BREAK]weapon, check these out![BREAK]
-38B-E: @Si vous cherchez une arme,[BREAK]vous êtes au bon endroit[4F]![BREAK]
+38B-E: @Si tu cherches une arme,[BREAK]tu es au bon endroit[4F]![BREAK]
+// centre commercial Reindeer (les phrases suivantes sont en "tu")
 38C: @Thank you![BREAK]
 38C-E: @Merci[4F]![BREAK]
 38D: 
@@ -1922,7 +1936,8 @@
 39A: @Found [03 1D].[BREAK]
 39A-E: @[03 4A][03 1D] [03 4E] été[BREAK]trouvé[03 4F].[BREAK] 
 39B: @[03 16][03 17] took the[BREAK][03 1D].[BREAK]
-39B-E: @[03 17][03 7E][03 16] prend[BREAK]l[03 49][03 1D].[BREAK]
+39B-E: @[03 70][03 16] prend[BREAK]l[03 49][03 1D].[BREAK]
+// appel ligne 670 ou 680
 39C: 
 39C-E: 
 39D: @But you can't hold any[BREAK]more stuff.[BREAK]
@@ -2027,7 +2042,7 @@
 3CD: 
 3CD-E: 
 3CE: @This tank is my prized[BREAK]possession. Try not to[BREAK]break it, okay?[BREAK]
-3CE-E: @Ce char est mon bien le[BREAK]plus précieux. Essaie de ne[BREAK]pas le casser, d'accord ?[BREAK]
+3CE-E: @Ce char, c'est mon bien[BREAK]l'plus précieux. Essaie[BREAK]d'pas l'casser, d'accord ?[BREAK]
 3CF: @A key to the basement is[BREAK]hanging from the dog's[BREAK]collar.[BREAK]
 3CF-E: @La clé de la cave est[BREAK]accrochée au collier du[BREAK]chien.[BREAK]
 3D0: @Heh heh heh! I'm a[BREAK]meddlesome mouse![BREAK][PAUSE]@In towns, there are some[BREAK]houses you can go inside[BREAK]and some you can't.[BREAK][PAUSE]@Houses with round doors or[BREAK]signs on them are the ones[BREAK]you can go into.[BREAK][PAUSE]@If you try to go into any[BREAK]of the other ones, you'll[BREAK]just hit your head.[BREAK][PAUSE]@Well, bye![BREAK]
@@ -2477,7 +2492,7 @@
 4AD: Confus
 4AD-E:   Confus
 4AE: Poison
-4AE-E:  Poison
+4AE-E:   Poison
 4AF:   Cold
 4AF-E:  Enrhumé
 4B0: 
@@ -3083,6 +3098,7 @@
 5DB-E: 
 5DC: 
 5DC-E: 
+// #MAXLENGTH=12 #AUTOWRAP=0 #MAXLINES=1 #EXTRALASTLINES=0
 5DD: Territ. Oak
 5DD-E: GrosTronchou
 5DE: Dragon
@@ -3377,70 +3393,71 @@
 66E-E: 
 66F: 
 66F-E: 
+// #MAXLENGTH=27 #AUTOWRAP=0 #MAXLINES=3 #EXTRALASTLINES=0
 670: 
-670-E: 
-671: 
-671-E: 
-672: 
-672-E: 
-673: 
-673-E: 
-674: 
-674-E: 
-675: 
-675-E: 
-676: 
-676-E: 
-677: 
-677-E: 
-678: 
-678-E: 
-679: 
-679-E: 
-67A: 
-67A-E: 
-67B: 
-67B-E: 
-67C: 
-67C-E: 
-67D: 
-67D-E: 
-67E: 
-67E-E: 
-67F: 
-67F-E: 
-680: 
-680-E: 
-681: 
-681-E: 
-682: 
-682-E: 
-683: 
-683-E: 
-684: 
-684-E: 
-685: 
-685-E: 
-686: 
-686-E: 
-687: 
-687-E: 
-688: 
-688-E: 
-689: 
-689-E: 
-68A: 
-68A-E: 
+670-E: [END]
+671:    
+671-E: [END]
+672:  
+672-E: vaincu[END]
+673:   
+673-E: Un mauvais rêve dont tu ne[BREAK]te réveilleras jamais...[END]
+674:   
+674-E: P A R S[END]
+675:   
+675-E: Ça f'ra [03 1E]$ pour toi.[END]
+676:   
+676-E: Donc t'inquiète pas, tu[BREAK]peux passer la nuit ici si[BREAK]tu veux.[END]
+677:   
+677-E: Reviens passer la nuit ici[BREAK]une prochaine fois, OK ?[END]
+678:   
+678-E: Oh ? Tu veux pas rester ?[END]
+679:   
+679-E: Hum, je ne peux pas te[BREAK]laisser entrer sans billet.[END]
+67A:   
+67A-E: Amuse-toi bien[4F]![END]
+67B:   
+67B-E: Oh, tu es là pour voir le[BREAK]meilleur pêcheur du monde,[BREAK]je présume.[END]
+67C:   
+67C-E: Hé, si tu as une heure à[BREAK]tuer, tu veux que je te[BREAK]raconte mes exploits ?[END]
+67D:   
+67D-E: Tu vas chanter, toi aussi ?[END]
+67E:   
+67E-E: Ça roule ! Allez, mets le[BREAK]feu à la scène ![END]
+67F:   
+67F-E: Bah alors, t'es timide ?[END]
+680:   
+680-E: L'équipe d[03 5E][END]
+681:   
+681-E: l'équipe d[03 5E][END]
+682:   
+682-E: vaincue[END]
+683:   
+683-E: Un mauvais rêve dont vous[BREAK]ne vous réveillerez[BREAK]jamais...[END]
+684:   
+684-E: P A R T E Z[END]
+685:   
+685-E: Ça f'ra [03 1E]$ pour ton[BREAK]groupe.[END]
+686:   
+686-E: Donc vous inquiétez pas,[BREAK]vous pouvez passer la nuit[BREAK]ici si vous voulez.[END]
+687:   
+687-E: Revenez passer la nuit ici[BREAK]une prochaine fois, OK ?[END]
+688:   
+688-E: Oh ? Vous voulez pas[BREAK]rester ?[END]
+689:   
+689-E: Hum, je ne peux pas vous[BREAK]laisser entrer sans billet.[END]
+68A:   
+68A-E: Amusez-vous bien[4F]![END]
 68B: 
-68B-E: 
+68B-E: Oh, vous êtes là pour voir[BREAK]le meilleur pêcheur du[BREAK]monde, je présume.[END]
 68C: 
-68C-E: 
+68C-E: Hé, si vous avez une heure[BREAK]à tuer, vous voulez que je[BREAK]vous raconte mes exploits ?[END]
 68D: 
-68D-E: 
+68D-E: Vous allez chanter, vous[BREAK]aussi ?[END]
 68E: 
-68E-E: 
+68E-E: Ça roule ! Allez, mettez le[BREAK]feu à la scène ![END]
 68F: 
-68F-E: 
+68F-E: Bah alors, vous êtes[BREAK]timides les mômes ?[END]
 690: 
 690-E: 
 691: 
@@ -3571,7 +3588,8 @@
 6CF: @[03 1A] checked the map.[BREAK]
 6CF-E: @[03 1A] consulte la carte.[BREAK]
 6D0: @Some sort of force is[BREAK]pushing [03 16][03 17][BREAK]back.[BREAK]
-6D0-E: @Une sorte de force repousse[BREAK][03 17][03 7E][03 16].[BREAK]
+6D0-E: @Une sorte de force repousse[BREAK][03 71][03 16].[BREAK]
+// appel ligne 671 ou 681
 6D1: @The Repel Ring's mysterious[BREAK]power wore off.[BREAK]
 6D1-E: @Le mystérieux pouvoir de[BREAK]la Bague répulsive s'est[BREAK]dissipé.[BREAK]
 6D2: 
@@ -4118,7 +4136,8 @@
 7DD: [BREAK]         YOU WON![BREAK]
 7DD-E: [BREAK]        VICTOIRE[4F]![BREAK]
 7DE: [BREAK][03 16][03 17] was defeated...[BREAK]
-7DE-E: [BREAK][03 17][03 7E][03 16] a été vaincu[03 7F]...[BREAK]
+7DE-E: [BREAK][03 70][03 16] a été [03 72]...[BREAK]
+// appels ligne 670 ou 680, puis ligne 672 ou 682
 7DF: Defeated the [03 21]!
 7DF-E: Vous avez vaincu [03 EB][03 D8][03 C8][4F]!
 7E0: [03 21] got tired and collapsed...

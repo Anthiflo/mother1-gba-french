@@ -302,8 +302,6 @@ parsecopy:
   +
   cmp  r3,#0x16; bne +; bl control_code_16; b .loop_start
   +
-  cmp  r3,#0x17; bne +; bl control_code_17; b .loop_start
-  +
   cmp  r3,#0x1D; bne +; bl control_code_1D; b .loop_start
   +
   cmp  r3,#0x20; bne +; bl control_code_20; b .loop_start
@@ -323,7 +321,9 @@ parsecopy:
   cmp  r3,#0xD0; blt +; bl cc_long_enemy; b .loop_start
   + 
   cmp  r3,#0xC0; blt +; bl cc_enemy_letter; b .loop_start
-  + 
+  +
+  cmp  r3,#0x70; blt +; bl cc_plural; b .loop_start
+  +
 
   .copy_control_code:
   mov  r3,#0x3
@@ -507,22 +507,35 @@ control_code_16:
   add  r0,#0x2
   sub  r1,#1
   pop  {pc}
-
+  
 //----------------------------------------------------------------------------------------
-// this adds "'s party" if there's more than one character in the party
+// this adds different text lines depending if there is one or more party members
 
-control_code_17:
+cc_plural:
   push {r0,lr}
-  ldr  r0,=#0x3003190
-  ldrb r0,[r0,#0x9]
-  cmp  r0,#0x0
-  beq  +
+  
+  mov     r0,#0x0F
+  and     r3,r0               // isolate cc argument in r3
 
-  ldr  r0,=#0x8F7E600
+  ldr     r0,=#0x3003190
+  ldrb    r0,[r0,#0x9]
+  cmp     r0,#0x0
+  beq     +
+  add     r3,#0x10            // if party, add 0x10 to r3
+  +
+ 
+  ldr     r0,=#0x670          // first line is 670-E
+ 
+  add     r3,r3,r0
+  
+  lsl     r3,r3,#2            // multiply by 4 (pointers use 4 bytes)
+  
+  ldr     r0,=#0x8F27A90      // main text pointers
+  ldr     r0,[r0,r3]          // we now have the address to the right line
+
   bl   strcopy
   sub  r1,#1
 
-  +
   pop  {r0}
   add  r0,#0x2
   pop  {pc}
@@ -1091,7 +1104,7 @@ more_field_control_codes:
     + 
     cmp  r1,#0x6F; bgt +; ldr r0,=#.field_cc_gender; b .field_cc_return
     + 
-    cmp  r1,#0x7F; bgt +; ldr r0,=#.field_cc_party; b .field_cc_return
+    cmp  r1,#0x7F; bgt +; ldr r0,=#.field_cc_plural; b .field_cc_return
     + 
 
     ldr r0,=#.field_cc_default
@@ -1156,28 +1169,35 @@ more_field_control_codes:
   b       .field_cc_next
 
 
-.field_cc_party:
-    ldr     r0,=#0x3003190    // cc argument in r1
-    ldrb    r0,[r0,#0x9]
-    cmp     r0,#0x0           // is there a party or a single character?
-    beq     +                 // in the second case, just return with 0x0
-    
+.field_cc_plural:
     mov     r0,#0x0F
-    and     r1,r0
+    and     r1,r0               // isolate cc argument in r1
     
-    cmp     r1,#0xF           // what is the cc argument
-    bne     .field_cc_elision // other than 0xF => check elision
+                
+    ldr     r0,=#0x3003190
+    ldrb    r0,[r0,#0x9]    
+    cmp     r0,#0x0             // is there a party or a single character?
+    beq     +   
+        
+    add     r1,#0x10            // if party, add 0x10 to r1
     
-    ldr     r0,=#0x8FFE9A0    // strings for "e " / "’"
-    add     r0,#8
+    +
+    ldr     r0,=#0x670          // first line is 670-E
+    add     r1,r1,r0
+    
+    lsl     r1,r1,#2            // multiply by 4 (pointers use 4 bytes)
+    
+    ldr     r0,=#0x8F27A90      // main text pointers
+    ldr     r0,[r0,r1]          // we now have the address to the right line
     
     bl      0x8F0C058
-    +
     b       .field_cc_next
 
 
 .field_cc_default:
-    ldr     r0,=#0x8FFE9A6    // default is empty string
+    ldr     r0,=#0x8FFE9A0    // default is empty string
+    add     r0,#9
+    
     bl      0x8F0C058
     b       .field_cc_next
 
