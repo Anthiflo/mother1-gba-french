@@ -1,0 +1,2172 @@
+000:System_Error____
+001:@Brother"_I_m_so__scared__The_lamp__seems_to_be_alive__
+002:@Oh_my__Brother"__our_house_is__falling_apart__
+003:@Boo_hoo__
+004:@Brother"_here_s__some_juice[AE]_[03 C0]You_are_thirsty"__aren_t_you__
+005:@Spooky____The_doll_walks__by_itself__
+006:@I_was_scared_to__death___[03 C0]Oh_wow__CHECK_out__what_s_hidden__inside_the_doll[AE]_
+007:System_Error____
+008:@No"_I_m_Mimmie"__don_t_confuse_me__with_Minnie[AE]_
+009:@Ú__[AE]__Are_you_alright__[03 C0]Egad___What_is_happening__to_our_house__[03 C0]I_wish_your_Dad__were_here_now[AE]__Maybe[AE][AE][AE]_
+00A:@Son_of_mine"__you_are_braver__than_I_thought[AE]_[03 C0]I_can_t_let_you__go_on_a_journey__so_famished[AE]_
+00B:@Oh"_you_have_been__wounded[AE]_
+00C:@Well"_the_next__level__requires[AE][AE][AE]_
+00D:@When_you_want_to__eat_Ú____again"_just_come__back_here[AE]_
+00E:@Well[AE][AE][AE]__It_seems_like_a__poltergeist[AE]_[03 C0]I_m_not_exactly__sure_how_to[AE][AE][AE]_[03 C0]But"_your_great,__grand,father__studied_PSI[AE]_[03 C0]You_might_find__something_in_the__basement_to_help[AE]_[03 C0]But"_I_left_the__Basement_Key__someplace[AE][AE][AE]_[03 C0][AE][AE][AE]can_t_remember__exactly_where[AE][AE][AE]_[03 C0]Anyhow"_son"_you__are_my_only_hope[AE]_[03 C0]It_s_time_for_you__to_go_on_a_little__adventure"_[03 C0]and_explore_the__potential_of_your__powers[AE]_[03 C0]Powers_not_be_taken__lightly[AE]_[03 C0]Ú__"_go__for_it___[03 C0]But_remember_to_come__back_and_check_on__our_family[AE]_[03 C0]Bye[AE]_[03 C0]Oh[AE][AE][AE]_phone_me"__and_I_will_SAVE__your_progress[AE]_[03 C0]Call_me_whenever__you_want[AE]_
+00F:System_Error____
+010:System_Error____
+011:System_Error____
+012:System_Error____
+013:@Slam[AE]_
+014:@This_is_your_Dad[AE]_
+015:@I_ve_transferred___ÜÍ_
+016:@Now_son"_it_s_not__my_business"_but__why_not_rest__
+017:@I_see[AE]___I_ll_SAVE_your__progress[AE]_
+018:@I_see[AE]__I_know"_the_Earth__faces_a_crisis[AE]_
+019:System_Error____
+01A:System_Error____
+01B:@OK[AE][AE][AE]But"_I_was__thinking_of_going__to_sleep_now[AE]_[03 C0]I_ve_SAVEd_your__progress"_so_far[AE]_[03 C0]Good_night[AE]_
+01C:@See_you_later__[03 C0]Remember"_push_in__and_hold_RESET"_[03 C0]while_turning_the__POWER_off[AE]_OK__
+01D:@Just_like_your__Mom"_you_never__want_to_stop[AE]_[03 C0]Please_don_t_push__yourself_so_hard[AE]_
+01E:@By_the_way"_do__you_want_to_SAVE__
+01F:System_Error____
+020:System_Error____
+021:@Good_luck[AE]_
+022:System_Error____
+023:@I_want_to_thank__you_again_for_your__help[AE]_[03 C0]Pippi_is__fine_now[AE]_
+024:@Don_t_tell_me__you_ve_been_south__to_the_cemetery__
+025:@You_are_terrific[AE]_
+026:@Be_honest"__you_re_a_zombie[AE]_[03 C0]Aren_t_you__
+027:@There_is_no_cure__for_zombies___AAAAAAAHHH__
+028:@Are_you_really__a_human__
+029:@It_s_amazing__you_came_here[AE]_
+02A:@You_see[AE][AE][AE]_
+02B:@Don_t_tell_anyone"__but_I_m_so_scared"__I_wet_my_pants[AE]_
+02C:@It_was_dreadful[AE][AE][AE]_
+02D:@Zombie__
+02E:@Ha,ha[AE][AE][AE]__You_shall_become__a_Zombieeee__
+02F:@Someone_must_be__controlling_the__dead[AE]_
+030:@Young_man"__you_did_well[AE]_
+031:@Zombies_may_be__anywhere_in_this__town[AE]_
+032:@Did_that_Canary__Chick_come_from__Canary_Village__
+033:@Hum[AE]_
+034:@The_chicks_at_the__Canary_Village__have_lovely_voices[AE]_
+035:@The_gentleman_in__Canary_Village__is_my_idol[AE]_
+036:@The_Town_Mayor_is__looking_for_a__brave_man[AE]_
+037:@Has_the_little__girl_who_strayed_[03 C0]into_the_cemetery__been_rescued__
+038:@You[AE][AE][AE]__Are_you_really_going__to_the_cemetery__
+039:@I_thought_you_were__a_sensible_child[AE]_
+03A:@The_animals_went__mad_and_out_of__control[AE]_[03 C0]The_dead_became__zombies_and_began__attacking_people[AE]_[03 C0]What_can_be_done__
+03B:@You_are_super__
+03C:System_Error____
+03D:@Did_a_poltergeist__visit_your_house__[03 C0]It_tore_mine_apart[AE]_
+03E:@The_animals_went__mad_and_began_to__escape"_[03 C0]so_the_Zoo_was__locked[AE]_
+03F:@To_EAT"_you_ll__find_Bread_stale"_[03 C0]but"_with_its__Crumbs_you_can__mark_your_trail[AE]_[03 C0]Do_you_think_I__talk_too_much___Well_do_I__
+040:@Citizen"_I_know__you_would_like_to__help_your_town[AE]_
+041:@Well[AE][AE][AE]__A_child_has_strayed__into_the_cemetery[AE]_[03 C0]And[AE][AE][AE]__I_m_up_for_re,__election_soon[AE]_[03 C0]You_must_help___Please_help_me__
+042:@Oh____You_will_go_there__and_save_her__
+043:@Is_she_the_lost__girl"_Pippi__[03 C0]Well_that_s_just__great[AE]_[03 C0]I_knew_that_you__could_fulfill_your__civic_duty[AE]_[03 C0]Applause"__applause[AE][AE][AE]_[03 C0]Now_pretty_Pippi"__don_t_forget[AE][AE][AE]_[03 C0]to_tell_your_Mom__that_the_Mayor__saved_you[AE]_[03 C0]Here"_I_will_give__ÚÃ__a_prize_of__Üä
+044:System_Error____
+045:System_Error____
+046:@By_the_way_hero"_[03 C0]maybe_you_d_like__to_go_see_what_s__up_at_the_Zoo__
+047:@Yes"_you_ll_go___Great"_great__great__[03 C0]Now_make_sure_to__get_a_Key_from_my__assistant"_Abbott[AE]_
+048:@This_Key_will_open__the_Zoo_s_gate[AE]__Now_don_t_lose_it[AE]_
+049:@Return_her_to_me__alive"_and_surely__I_ll_be_a_hero[AE][AE][AE]_[03 C0]Er"_umh"_I_mean__you_ll_be_a_hero[AE]_
+04A:@Why_if_it_s_not__our_hero_ÚÃ_"_[03 C0]You_have_tiger__droppings_on_your__clothes[AE]_[03 C0]Ha,ha"_just__joking[AE]_Now_run__along_kid[AE]_
+04B:@I_ve_heard_a__rumor_about_a__wonder_girl[AE]_[03 C0]She_will_help_you__on_your_trip[AE]_
+04C:@Zoo_Keys_are_a__dime_a_dozen"__have_another[AE]_
+04D:@Look_for_yourself"__all_the_animals__have_escaped[AE]_
+04E:@Only_this_Canary__Chick_is_left[AE]__Want_to_buy_it__
+04F:@Well"_how_about___Üä
+050:@OK_kid"_it_s_a__free_country"_you__know[AE]_
+051:@Take_care_of_it[AE]__Come_see_us_again__
+052:@If_it_s_free"_do__you_want_it___Then_take_it__
+053:@How_s_the_Canary__
+054:@I_think_something__is_controlling__the_animals[AE]_
+055:@Ah[AE][AE][AE]_cute_pets__aren_t_they__
+056:@Hmmm[AE]_
+057:@You_stupid_jerk__
+058:@How_may_I_help___Do_you_have_some,__thing_to_return__
+059:@Wait[AE][AE]_A_voice_is__speaking_into__ÚÃ__s_mind[AE]_
+05A:@Good[AE]_
+05B:@Thank_you_for__shopping_with_us__today[AE]_
+05C:@It_s_convenient_that__the_cash_machine_is_[03 C0]next_to_the__Service_Counter"_[03 C0]but"_why_should_I__care[AE]_I_don_t_have_a__card_for_it[AE]_
+05D:System_Error____
+05E:@It_s_fine_weather__today[AE]__But"_I_don_t_care[AE]_
+05F:@Wow__That_Canary__is_the_baby_of__singing_Laura[AE]_[03 C0]Will_you_return_her__baby_to_her[AE]_
+060:@Wait[AE][AE][AE]_[03 C0]You_just_missed__something_very__important[AE]_
+061:@Where_is_Laura_[AE][AE][AE]_
+062:@Laura_remembered__her_song"_and_began__to_sing_once_more[AE]_[03 C0]Did_you_learn__the_melody__
+063:@That_s_no_good[AE]_
+064:@The_truth_is[AE][AE][AE]__There_is_power_in__song[AE]_
+065:@Hi__I_am_Pippi"__and_I_m_lost[AE]_[03 C0]What_a_brave__boy_you_are_to__have_found_me[AE]_
+066:@Don_t_get_so__swell_headed[AE]__Ha,ha,ha[AE]_
+067:@You_re_brave[AE]_I__hope_we_can_meet__again_sometime[AE]_
+068:@I_m_so_happy___To__show_my_gratitude__take_my_gift[AE]_[03 C0]This_shiny_Badge__will_guard_you[AE]__Keep_it__
+069:@You_probably__already_have__someone_special"_
+06A:@Now"_it_s_time_to__say_good,bye[AE]_[03 C0]Please_come_by_my__house"_I_ll_be__waiting_there_to_[03 C0]see_you_again[AE]__By_the_way[AE][AE][AE]_[03 C0]Do_you_think_my__hair_needs__styling__
+06B:System_Error____
+06C:@You_didn_t_have_to__answer"_cutie[AE]_
+06D:@EEE"_EE_EEK"__EEK_EEK__
+06E:@ÚÃ__felt_this__question_enter___his_mind[AE]_[03 C0]_Who_has_lost__his_tail___
+06F:@My__What_strange__clothing_you_wear__[03 C0]Surely_monsters__will_come_after__those_clothes___
+070:System_Error____
+071:@Are_you_bothered_that__unhappiness_and_[03 C0]misfortune_search__you_out__
+072:@If_you_desire_to__never_find__trouble[AE][AE][AE]_[03 C0]STAY_HOME___
+073:@Is_that_right___Trouble_searches__after_you__[03 C0]Hmm"_that_s_too__bad[AE]_
+074:@Then"_you_admit_I__have_good_taste[AE]_[03 C0]Huh___You_want_a_cool__nickname"_too__
+075:@OK"_I_ve_got_it___From_now_on"_you__are_Noodlenoggin__[03 C0]Sounds_pretty__cool"_doesn_t_it__
+076:@Is_that_right___That_s_too_bad[AE]_
+077:@Hello"_there___Noodlenoggin__ÚÃ_[AE]_
+078:@Have_you_ever_met__the_man_who_practices__philosophy__
+079:@He_is_so_good_at__nicknaming[AE]_[03 C0]He_uses_such[AE][AE][AE]__good_taste_in_it[AE]_
+07A:@In_the_first__place"_if_we__have_not_met_[03 C0]we_cannot_part__
+07B:@Have_you_met_a_man__who_says"_that_you__cannot_part"_[03 C0]with_someone_you__have_not_met__
+07C:@I_tend_to_think__the_same_way"_too[AE]_
+07D:@You_should_meet__him[AE]_
+07E:@I_regained_my__strength_at_Queen__Mary_s_fountain[AE]_
+07F:@The_bad_thing__about_Queen_Mary_s__fountain_is[AE][AE][AE]_[03 C0]that_it_is_so_far__away"_and_so_hard__to_find[AE]_
+080:@I_am_taking_this__broken_earring_to__the_fountain[AE]_[03 C0]I_ll_bet_it_ll__change_into_a__magic_earring[AE]_
+081:@The_mysterious__sound_of_the__fountain_soothes[AE]_
+082:@More_to_the_south[AE]__Are_you_lost__[03 C0]Sorry[AE][AE][AE]I_was__directing_you_to__the_rest_room[AE]_[03 C0]Queen_Mary_s__Fountain_is_west__of_the_castle[AE]_
+083:System_Error____
+084:@I_bent_my_spoon__and_it_s_hard_to__use_like_this[AE]_[03 C0]Do_you_think__somehow_you_could__fix_it_for_me__
+085:@Please_fix_it__right_away[AE]_[03 C0]"Ú___fixed__the_spoon_with__PSI,Power[AE]'_[03 C0]Thanks_a_million___Munch"_munch[AE][AE][AE]_[03 C0]Hey"_would_you__like_to_spend__the_night_here__
+086:@Why_not__You_can__fix_it_without_any__physical_effort__
+087:@You_re_a_strange__person[AE][AE][AE]_[03 C0]but_for_some__reason"_I_like__you[AE]_
+088:@That_s_good[AE]_
+089:@Boo_hoo_hoo[AE][AE][AE]_You__should_accept__kindness_graciously[AE]_
+08A:@Oh"_traveller__Why__don_t_you_enjoy_a__meal_at_our_house__[03 C0]Well[AE][AE][AE][AE]_Today_s__special[AE]_Can_you__guess_what_it_is__
+08B:@Why_not___You_sound__so_suspicious__
+08C:@Yes"_it_s___Ú__[AE]_[03 C0]I_knew_you_liked__Ú__[AE]_Do_you__want_some__
+08D:System_Error____
+08E:System_Error____
+08F:@This_was_to_be_a__musical_instrument__store"_[03 C0]but_the_Ocarina__that_we_ordered__never_arrived[AE]_[03 C0]So_I_ve_given_up[AE]_
+090:@Is_that_so__
+091:@Thanks[AE]_Your_bed__is_ready[AE]_Please__sleep_well[AE]_
+092:@Please_feel_free__to_use_our_bed__anytime[AE]_
+093:@Stranger"_I_can__tell_you_re_not__from_this_place[AE]_
+094:@The_Ocarina_of__Hope_is_finally__completed[AE]_[03 C0]Its_melody__can_now_flow_out__from_it[AE]_[03 C0]Do_you_want_it__
+095:System_Error____
+096:@You_re_a_pretty__straight_looking__dude"_Go_ahead[AE]_[03 C0]Ha_ha_ha[AE]_
+097:@It_s_quite_obvious__that_you_want_it[AE]__Ha_ha_ha[AE]_[03 C0]Go_ahead"_take_it[AE]_
+098:@Hey"_kid____How_are_you_doing__
+099:@There_is_no_exit__from_a_place_like__Magicant[AE]_[03 C0]Ha_ha_ha[AE][AE][AE]_
+09A:@Outside___A_world_outside___What_do_you_mean__
+09B:@I_am_so_embarrassed___I_wish_I_could___crawl_into_a_hole[AE]_
+09C:@I_am_the__Mysterious__Goods,Keeper[AE]_[03 C0]You_have_a_need__
+09D:@I_am_the__Mysterious__Mimicker[AE]_
+09E:@There_are_a_great__many_holes_east_of__town[AE]_[03 C0]The_sound_of__another_world_can__be_heard_from_one[AE]_
+09F:System_Error____
+0A0:System_Error____
+0A1:@Pull_out_a_Red__Weed_and_place_it__into_the_fountain"_[03 C0]it_will_turn_into__the_Magic_Herb[AE]_
+0A2:@Would_you_like_me__to_give_you_the__Big_Bag__
+0A3:@Can_I_borrow_your__Cash_Card_for_a__while__
+0A4:@It_holds_30__Magic_Herbs[AE]_
+0A5:@Thank_you"__sure"_sure_I_ll__return_it_to_you[AE]_[03 C0]I_thought_that__it_looked_pretty__cool[AE]_
+0A6:@You_don_t_trust__anyone[AE]_[03 C0]That_may_be_a_good__attitude"__possibly[AE][AE][AE]_
+0A7:@Oh_that_s_right"_I__have_to_return__your_Cash_Card__
+0A8:@The_Queen_isn_t__feeling_very_well[AE]_
+0A9:@Suspicious_man[AE][AE][AE][AE]__I_ll_let_you_pass"_[03 C0]if_you_solve_this__riddle[AE][AE][AE]_
+0AA:@That_s_right[AE]__The_answer_is___two_alligators_[AE]_[03 C0]Although_I_haven_t__come_up_with_the__riddle_yet[AE]_
+0AB:@See_you_later__
+0AC:System_Error____
+0AD:@I_wish_I_could__hear_the_Queen__sing_again[AE]_
+0AE:@Hello__I_didn_t_hear__you_come_in[AE]_[03 C0]That_guitar_playing__is_so_loud[AE][AE][AE]_[03 C0]I_can_t_even__think[AE]_[03 C0]What__I_was__playing_the_guitar__myself___[03 C0]I_should_have__known[AE]_[03 C0][AE][AE][AE][AE][AE][AE][AE][AE][AE][AE]_[03 C0]The_story_I_tell__to_you_now__is_a_real_secret[AE]_[03 C0]When_you_become__really_strong"__come_see_me[AE]_[03 C0]You_had_better__write_this_down_so__you_don_t_forget[AE]_[03 C0]I_know_if_I_don_t__write_things_down"__I_forget[AE]_
+0AF:System_Error____
+0B0:@You_tried_to__ignore_me"_didn_t__you__[03 C0]I_m_so_lonesome__out_here"_all_by__myself[AE]_[03 C0]I_will_do__anything_I_can[AE]__Here__
+0B1:@How_happy_I_am__that_you_came_to__see_me[AE]_[03 C0]I_know_what_you__would_like_me_to__do[AE]_Here__
+0B2:@Listen_to_my_song___Oh_music,loving__adventurer_ÚÃ___[03 C0]Why_do_you_cry"__oh_Cupid,Doll__[03 C0]Canary_sings__so_sadly[AE]_[03 C0]Monkey_sings"__Piano_plays"_[03 C0]maybe_there__is_a_ghost__[03 C0]Desert_Cactus__so_alone"_[03 C0]every_night__his_sad"_sad_tone[AE]_[03 C0]The_Dragon_sleeps"__the_note_remains[AE]_[03 C0]Eve_s_last_song__has_no_refrain[AE]_[03 C0]On_the_Mount__named_Itoi"_[03 C0]you_must_climb__high_young_boy[AE]_[03 C0]See_the_XX_Stone"__for_the_last_tone"_[03 C0]then_do_not_leave__Queen_Mary_alone__[03 C0]La_la_lullaby[AE][AE][AE]__Strange_lullaby[AE][AE][AE]_[03 C0]Bye_bye_bye[AE][AE][AE]__Good,bye[AE]_[03 C0]Sure_is_a_nice__song"_isn_t_it__
+0B3:@Deep_in_the_woods"__is_a_guitar_player__who_is_a_hermit[AE]_[03 C0]Not_that_bad__looking_of_a__man[AE][AE][AE]_[03 C0]Best_of_all"__he_s_quite_a_poet[AE]_
+0B4:@Someone_told_me__about_a_man_that_[03 C0]everyone_forgot__about[AE]_But"_I_don_t__remember_who[AE]_
+0B5:@Believe_it_or_not"__I_am_a_Healer[AE]_[03 C0]I_can_charge_your__PP"_and_can_cure__stone,illness[AE]_
+0B6:@[AE][AE][AE]I_thought_so[AE][AE][AE]_
+0B7:@Don_t_carry_so_much__money_with_you[AE]_
+0B8:@Of_course_I_am_a__non,singing__monkey[AE]_[03 C0]Normal_monkeys__don_t_sing[AE]__So"_any_questions__
+0B9:@Anyhow[AE][AE][AE]__questions_are_so__ridiculous[AE]_
+0BA:@Good"_I_worried__that_you_would_ask__a_difficult_one[AE]_[03 C0]You_look_so_much__like_Queen_Mary[AE]_[03 C0]I_wonder_why__
+0BB:@I_just_had_to_tell__you_about_it_as__soon_as_I_saw_you[AE]_[03 C0]The_rails_are__fixed"_and_the__train_is_on_time[AE]_
+0BC:@I_wish_I_could_go__into_the_castle_to__see_Queen_Mary[AE]_
+0BD:@Queen_Mary_often__has_nightmares[AE]_[03 C0]As_if_scolding_a__naughty_child"__she_cries_out"_[03 C0]_I_am_scared___I_am_scared___[03 C0]And_then_she__starts_to_sing[AE][AE][AE]__just_a_little_bit[AE]_[03 C0]Then_she_forgets__the_tune"_and__wakes_in_a_sweat[AE]_[03 C0]I_wonder_what_sad__experience_has_done__this_to_Queen_Mary__
+0BE:@I_only_give_this__to_girls[AE]_
+0BF:@Zzzzzzzzzzzz[AE][AE][AE]_
+0C0:System_Error____
+0C1:@You_liar__
+0C2:@All_of_us_know_you__don_t_belong_here"_[03 C0]but_we_consider__you_one_of_us[AE]_[03 C0]With_the_Onyx__Hook"_you_can_warp__back_here_anytime[AE]_
+0C3:@Promise_me"_that__if_you_need_help"__you_will_return[AE]_[03 C0]Everyone_loves__you"_ÚÃ_[AE]_
+0C4:@Welcome"_ÚÃ_[AE]_[03 C0]Here_in_Magicant"__everyone_is_your__friend[AE]_[03 C0]You_can_have_as__much_as_you_like"_[03 C0]of_whatever_you__want[AE]_[03 C0]What__You_want_to__listen_to_my_song__[03 C0]Sorry"_I_don_t__know_why"_but_I__just_can_t_sing[AE]_[03 C0]I_beg_you_to_learn__the_melody[AE]_It_is__only_8_notes_long[AE]_[03 C0]When_you_learn__them_all"_return__and_sing_for_me[AE]_[03 C0]If_I_only_could__hear_that_song[AE][AE][AE]_
+0C5:System_Error____
+0C6:System_Error____
+0C7:System_Error____
+0C8:System_Error____
+0C9:System_Error____
+0CA:@[AE][AE][AE][AE][AE][AE]_
+0CB:@Please_SING_to_me__the_melodies_that__you_have_learned[AE]_
+0CC:@Yes[AE][AE][AE]__that_s_right[AE]__That_is_the_song[AE]_
+0CD:@Oh__Giegue__
+0CE:System_Error____
+0CF:@In_a_bad_dream"__Magicant_vanished__into_thin_air[AE]_[03 C0]My_heart_is_still__pounding_so_hard[AE]_
+0D0:System_Error____
+0D1:@Yes"_I_am_the_cat__who_swims_on_the__ground[AE]_[03 C0]Guess_what_is_in__my_hand[AE]_
+0D2:@Do_you_know_what_I__have_in_my_hand__[03 C0]That_is_right[AE]__A_Ribbon[AE][AE][AE]_[03 C0]This_Magic_Ribbon__will_give__strength[AE][AE][AE]_
+0D3:@Magic_Ribbons_are__only_for_girls[AE]_
+0D4:@I_am_a_Swimming__cat[AE]_[03 C0]Have_you_heard_of__a_Magic_Candy_that__gives_strength_[03 C0]and_power_to_a__helpless_child__
+0D5:@I_see"_but_you_are__not_helpless"_so__you_don_t_need_it[AE]_
+0D6:@The_boy_with__glasses_can_surely__use_the_Candy[AE]_
+0D7:System_Error____
+0D8:@Was_the_Candy__good__
+0D9:@If_you_need_the__benevolent__old_man"_[03 C0]go_to_Queen_Mary_s__Fountain_for_his__help[AE]_[03 C0]He_will_hear_your__soulful_cry_and__come_to_help[AE]_[03 C0]Soulful_cry"__remember"__soulful_cry__
+0DA:System_Error____
+0DB:@"The_crowd_becomes__restless_and__upset[AE]'_[03 C0]What_in_the_world__is_that_stone_with__a_hat_on__
+0DC:@Did_you_call_me__up__
+0DD:@Is_that_right___Bye__
+0DE:@You_need_money"__don_t_you__
+0DF:@Has_it_been_helpful__to_you__
+0E0:@Well"_your_balance__is__ÜË_
+0E1:@Here[AE][AE][AE]__Take_it_with_you[AE]_
+0E2:@Ouch"_there_is_not__that_much_money_left__in_your_account[AE]_
+0E3:@I_am_a_forgotten__man[AE]_I_m_not__really_here[AE]_[03 C0]You_didn_t_have_to__notice_me[AE][AE][AE][AE]_[03 C0]Please_ignore_me[AE]_
+0E4:@I_am_a_man_who__does_not_exist[AE]_[03 C0]You_talk_so__kindly"_I_don_t__know_what_to_do[AE]_[03 C0]If_I_miss_people"__I_cannot_live__alone_anymore[AE]_
+0E5:@My_conversation__is_always_a__monologue[AE]_[03 C0]I_ve_been_alone__from_the_moment__I_was_born[AE][AE][AE]_
+0E6:@Lucky"_unlucky[AE][AE][AE]__It_makes_no__difference_to_me[AE]_[03 C0]Sometimes"_even__breathing_becomes__too_much[AE]_
+0E7:@Why_do_you_insist__on_talking_to_me__[03 C0]Are_you_a__forgotten__man"_too__
+0E8:@Don_t_give_me_that__garbage[AE]_Just__leave_me_alone[AE]_
+0E9:@That_s_right[AE]__That_is_right"__right__[03 C0]Go_ahead"_ignore__me"_like_everyone__else[AE]_
+0EA:@That_s_right[AE]__Thank_you[AE]_
+0EB:@Your_load_is_too__great_for_more[AE]__Why_not_come_back__
+0EC:@I_heard_about_some__weird_things_over__in_Podunk[AE]_
+0ED:@Heard_a_zombie_was__kidnapped[AE][AE][AE]_[03 C0]animals_roamed_the__city_streets[AE][AE][AE]_[03 C0]all_kinds_of_crazy__stuff[AE]_
+0EE:@Welcome_to__Merrysville___[03 C0]Cheap"_fast__and_handsome[AE]_[03 C0]The_best_doctor_is__Old_Sawbones__Benny[AE]_[03 C0]Take_advantage_of__specially_priced__treatments_now___[03 C0]Whether_dead_or__alive"_protect__your_life[AE]_
+0EF:System_Error____
+0F0:System_Error____
+0F1:@First_show__me_your_money[AE]_Then__I_ll_treat_you[AE]_[03 C0]Well[AE][AE][AE]___In_your_case"__I_ll_have_to_bill_[03 C0]_Üä
+0F2:System_Error____
+0F3:@Thanks_for_the___Üä
+0F4:@Fine"_die_all_on__your_own[AE]_I_ll__phone_a_mortician[AE]_
+0F5:@Until_the_curfew__is_lifted"_no_one__can_cross[AE]_[03 C0]That_is_by_order__of_the_Town_Mayor[AE]_[03 C0]Psst[AE][AE][AE]__by_the_way_kid"_[03 C0]they_might_let_you__cross_the_bridge__northeast_of_The_Zoo[AE]_
+0F6:@What_happened_to__school__You_have__school"_don_t_you__
+0F7:@I_got_this_from__Duncan_s_factory__in_the_north[AE]_
+0F8:@This_factory_is__Mr[AE]_Duncan_s__private_property[AE]_[03 C0]Let_s_see_your__Pass__
+0F9:@This_Pass_has__expired[AE]_You_must__have_stolen_it__[03 C0]Suspicious__creature[AE]_[03 C0]Look_me__in_the_eye___
+0FA:System_Error____
+0FB:@An_awful_creature__beat_me_up[AE]_[03 C0]If_you_re_going_to__the_station"_watch__out__
+0FC:System_Error____
+0FD:@I_heard_the_curfew__in_Podunk_has_been__lifted[AE]_[03 C0]You_know_what_that__means"_don_t_you__[03 C0]We_can_cross_the__bridge_once_more__
+0FE:System_Error____
+0FF:System_Error____
+100:@I_was_picking__on_that_weakling"__Úx_[AE]_[03 C0]But_he_got_away[AE]_
+101:@Hey"_Úx____You_weakling__
+102:@We_ve_been_picking__on_that_weakling__Úx_"_right__
+103:@Just_teasing[AE]_
+104:@I_saw_Úx___steal_explosives___[03 C0]I_m_afraid_of_what__Mr[AE]_Teacher_will__say[AE]_
+105:@Your_glasses_have__slipped_off_your__nose[AE]_
+106:@I_am_Suzy[AE]_I_m__Miss_Merrysville[AE]_[03 C0]Aren_t_I_gorgeous__
+107:@You_look_cute_too[AE]_
+108:@You_are_ugly___You_remind_me_of_a__noodlenoggin__
+109:@It_s_too_bad_that__the_door_to_the__roof_is_locked[AE]_[03 A0]Maybe_you_d_like__to_join_me[AE][AE][AE]_[03 C0]I_was_going_to__sneak_out_and_play__with_my_Game_Boy[AE]_
+10A:@You_don_t_talk__very_much"_do_you__
+10B:@The_gym_teacher__made_me_do_extra__push,ups_again[AE]_[03 C0]I_d_rather_do_sit,__ups_though[AE]_
+10C:@How_can_you_get__lost_in_a__schoolyard__[03 C0]I_just_can_t__believe_it[AE]_
+10D:@Of_course_the_door__to_the_roof_is__locked__[03 C0]We_can_t_have__students_sneaking__out_to_play_games"_[03 C0]when_they_should__be_studying"_you__know__
+10E:System_Error____
+10F:@Then"_when_she__does_get_up"__she_goes_shopping[AE]_[03 C0]Luckily"_I_hid_the__credit_cards_from__that_woman__[03 C0]Don_t_you_think__she_s_a_terrible__wife[AE]_
+110:@Kids_don_t_know__the_sorrows_of__real_life[AE][AE][AE]_
+111:@How_dare_you_talk__about_my_wife__like_that"_scram__
+112:@When_she_was__young"_she_was__very_pretty"_[03 C0]come_to_think_of_it"__she_s_not_that__bad_after_all[AE]_[03 C0]Would_you_like_some__tea__
+113:System_Error____
+114:@You_are_a_pretty__good_kid[AE]_[03 C0]You_say_you_need__to_go_up_to_the__roof__Follow_me[AE]_
+115:@When_you_re_old__you_ll_wish_that__young_punks_[03 C0]would_respect_you__
+116:@That_s_dangerous"__what_are_doing__with_that_thing__[03 C0]I_will_keep_this__for_you[AE]_
+117:@Please"_please__have_some_tea[AE]_
+118:@Don_t_run_in__the_hall__
+119:@Wait_a_minute"_I__don_t_belive_I_ve__seen_you_before[AE]_[03 C0]You_must_not_be__from_around_here"__are_you__
+11A:@I_see[AE]_Just_don_t__run_in_the_hall[AE]_
+11B:@Show_me_what__you_have[AE]_[03 C0]You_don_t_have__anything_dangerous"__do_you__
+11C:System_Error____
+11D:@Who_are_you____I_won_t_come_out[AE]_[03 C0]If_I_do"_everyone__will_pick_on_me[AE]_
+11E:@You_want_to_be__my_friend__[03 C0]Don_t_tell_anyone"__but_I_stole_some__explosives[AE]_
+11F:@I_m_coming_out__now[AE]_
+120:@Hi"_I_am_Úx_[AE]__I_wanted_to_fly__the_Bottle_Rockets_[03 C0]that_the_Sweet,__Little_Factory__was_producing[AE]_
+121:@You_must_be_tired[AE]__Why_don_t_you_stay__here_tonight__
+122:System_Error____
+123:@Wow___This_Bottle__Rocket_is_sure_to__cause_a_bang[AE]_[03 C0]We_may_be_able_to__make_some_more_on__our_own[AE]_[03 C0]Come_with_me__to_the_lab[AE]_
+124:@"Úx_'_Aim_on__the_rock[AE][AE][AE]__OK__1,2,3_Fire___
+125:@"Úx_'_Now_it_is__the_weakling_s_turn[AE]_[03 C0]You_stay_here_and__wait__
+126:@I_m_the_Mysterious__Teacher[AE]_Secretly__I_live_here[AE]_[03 C0]I_need_money_for__research[AE]_Care_to__buy_an_invention__
+127:System_Error____
+128:@Well"_please_take__a_look_at_the__price_list[AE]_
+129:@You_must_have_some__money_for_candy"__or_such"_eh__
+12A:System_Error____
+12B:@Please_drop_in__anytime"_[03 C0]I_m_always_working__on_a_new_invention[AE]_
+12C:@I_haven_t_made_any__progress_since__your_last_visit[AE]_[03 C0]Would_you_like_to__look_at_the_old__list__
+12D:@I_heard_on_the__radio_that_it_s_a__mess_everywhere[AE]_[03 C0]At_all_costs_I__will_protect_this__station[AE]_
+12E:System_Error____
+12F:@Well"_I_don_t_know__how_far_the_train__goes_through"_[03 C0]but"_you_need__a_ticket_to_ride[AE]__Care_to_buy_one__
+130:@"ÚÃ__s_weapon__was_confiscated[AE]'_
+131:System_Error____
+132:System_Error____
+133:System_Error____
+134:@Then"_it_s__Üä
+135:System_Error____
+136:System_Error____
+137:@Hey"_that_Hat__you_re_carrying__looks_just_like_[03 C0]the_one_that__Ú8__of_Snowman__lost[AE]_[03 C0]If_you_return_it__to_her"_she_just__may_reward_you[AE]_
+138:@May_you_live_a__long_life[AE]_
+139:@I_was_on_my_way_to__Youngtown_to_look__for_my_wife[AE]_[03 C0]But"_without_the__train_running"_how__can_I_get_there__
+13A:@Go_ahead"_poke__your_nose_into__other_people_s_[03 C0]business[AE]_It_s__what_makes_playing__the_game_so_fun[AE]_
+13B:System_Error____
+13C:@Here_it_is__
+13D:@Did_you_see_the__man_with_the_slick__mustache__
+13E:@Must_have_lost__him[AE]_Couldn_t_help__it[AE][AE][AE]_[03 C0]Anyhow"_I_must_go__check_for_parking__violations_now[AE]_
+13F:@He_s_a_swindler___Please_let_me_know__if_you_see_him[AE]_
+140:@Hey_Kid___Just_hold_onto__this_money_for_me[AE]_[03 C0]Don_t_tell_the__cops_or_anyone__about_it__
+141:@Don_t_run_away__with_it__
+142:@Just_do_what_I__tell_you__
+143:@Leave_me_alone___Can_t_you_see_I_m__incognito__
+144:@Have_you_seen_the__woman_with_a_big__belly__
+145:@Must_have_lost__her[AE]_Couldn_t__help_it[AE][AE][AE]_[03 C0]Anyway"_I_m_going__to_check_for__speeders_instead[AE]_
+146:@She_ate__5_Ú__s"_[03 C0]then_ran_away__without_paying[AE]_[03 C0]If_you_see_her"__let_me_know__
+147:@Oh"_I_m_so_full___
+148:@This_town_has__become_dangerous__[03 C0]But_it_s_still_a__much_better_place__than_Ellay[AE]_
+149:@Oh_yeah___Are_you_ready___All,right___
+14A:@Hey____Wanna_hear_my__song___
+14B:@Fine"_be_that_way[AE]_
+14C:@It_s_time_to_say__good,bye[AE][AE][AE]_
+14D:System_Error____
+14E:@Did_you_hear_the__Dragon_s_lullaby__
+14F:@Somewhere_in_the__town_of__Spookane[AE][AE][AE]_[03 C0]I_heard_that__there_s_a_[03 C0]gh[AE][AE][AE]_[03 C0]gho[AE][AE]_[03 C0]ghost[AE][AE]__Ghost_house___[03 C0]Don_t_you_ever__dare_to_go_there___
+150:System_Error____
+151:@Give_me_something[AE]__Whatever_it_is"__just_give_it_to_me[AE]_[03 C0]Gimme_gimme[AE]_[03 C0]Please"_give_me[AE]_[03 C0]Why_won_t_you_give__it_to_me__I_said__please__
+152:@I_promise"_I_ll__give_you_something__in_return[AE]_
+153:@I_m_thinking_of__something_nice__to_give_you[AE]_
+154:@What_are_you_going__to_give_me__
+155:@Thanks_a_lot[AE]__To_show_my__gratitude_I_ll_[03 C0]give_you_this__Flea_Bag[AE]__Please_take_it[AE]_
+156:@There_s_a_flu_going__around_here[AE]__Cough"_cough[AE]_
+157:@High_in_the__mountains"_lives__an_old_man[AE]_[03 C0]Legends_say_he__hasn_t_had_a_cold__in_300_years[AE]_
+158:@Mmm"_hmm_meh_heh"__hmm"_heh_mehah"__hmmm"_heh_hmmumm__
+159:@I_can_t_understand__a_word_the_old_man__says_either[AE]_
+15A:@So_nice_to_have_my__Dentures_back_once__more[AE]_Your_reward__[03 C0]With_you_I_ll__share_my_secret_to__long"_long"_life[AE]_[03 C0]Gargle_often[AE]__Gargle_proud[AE]__Gargle_strong[AE]_[03 C0]And_if_you_catch_a__cold"_gargling__will_help[AE]_[03 C0]Here_is_a_Mouth,__wash_I_concocted__myself[AE]_Take_it__
+15B:System_Error____
+15C:@Mouthwash_again___Here_it_is[AE]__Go_ahead"_take_it[AE]_[03 C0]But"_I_have_to__charge_you___Üä
+15D:@I_heard_someone__died_from_a_cold[AE]__Just_a_cold__
+15E:@Have_you_heard__that_their_is__a_ghost_house__in_Spookane__
+15F:@I_heard_a_spooky__tale_about_that__vacant_house[AE][AE][AE]_[03 C0]they_say_that_the__piano_still_plays__a_haunting_melody[AE]_
+160:@Hey_kid"_what_you__don_t_know_will__never_hurt_you__
+161:@Ahh_,_Ha_ha_ha[AE][AE][AE]_
+162:@Nobody_s_here[AE]__Hee_hee_hee[AE][AE][AE]_
+163:@This_is_your_worst__nightmare[AE]_You__cannot_get_away__[03 C0]Hee_hee_hee[AE][AE][AE]_
+164:@T_U_R_N__B_A_C_K_
+165:@Aaagghhhhhhhhhh[AE][AE][AE][AE]_
+166:@You_ll_never_make__it[AE][AE][AE]__Hee_hee_hee_hee[AE]_
+167:@I_m_just_an__ordinary_mouse[AE]_[03 C0]The_room_with__the_piano[AE][AE][AE]__Hee_hee_hee[AE][AE][AE]_
+168:@The_owners_of_the__ghost_house_were_the__Rosemarys[AE]_
+169:@A_ghost_appeared__at_my_house_too[AE]_[03 C0]But"_he_didn_t__stay_long[AE]_[03 C0]He_thought_my_room__was_too_small[AE]_
+16A:@I_m_not_a_resident__of_this_town[AE]_I__am_your_assistant[AE]_[03 C0]Maybe_you_forgot__to_write_something__down__[03 C0]I_will_sell_you_a__hint_for_only__Üä
+16B:System_Error____
+16C:@Oh"_you_don_t_need__anyone_s_help"_do__you__[03 C0]Fine_and_dandy"__you_can_color_me__gone[AE]_
+16D:@I_can_sell_only_3__hints[AE]_Discover__the_rest_youself[AE]_
+16E:@I_am_the_only__clown_in__Spookane[AE]_[03 C0]Everyone_else_is__so_serious[AE]_
+16F:@Truth_is"_by__nature_I_m_not_a__jolly_guy[AE]_
+170:@Is_that_right__[03 C0]I_may_be_the_true__pessimist_myself[AE]_
+171:@My_house_is_filled__with_monsters"__mostly_ghosts[AE]_[03 C0]That_s_why_we_live__life_in_the_great__outdoors_now[AE]_
+172:@"Úx_'_Your__Bottle_Rocket_and__my[AE][AE][AE]_[03 C0]great"_isn_t_it[AE][AE][AE]__Whaaaaat___
+173:System_Error____
+174:@Oh"_the_darkness__is_so_thick[AE][AE][AE]_[03 C0]Can_t_see_you_very__well[AE][AE]__[03 C0]But_could_it__be_[AE][AE][AE]_[03 C0]Is_it_the_little__girl_from_Snowman__[03 C0]Ú8_"_I_believe__it_was[AE][AE][AE]_[03 C0]Brace_yourself"__your_mom_is_locked__in_a_room_in_back[AE]_[03 C0]Do_not_try_to__rescue_us_now[AE]_[03 C0]First"_the__Mother_Ship_must__be_destroyed[AE]_
+175:@Oops__It_s_gone__into_orbit[AE]_[03 C0]A_success[AE][AE][AE]_[03 C0]sort_of[AE]_
+176:@Oh"_you_are_such__a_charming_boy[AE][AE][AE]_[03 C0]Just_looking_at__you_makes_me_feel__so_confident[AE]_[03 C0]I_m_sure_you_ll__bring_that_house__into_control[AE]_[03 C0]Here_is_the_Key_to__it[AE]_
+177:@Hi_there"_my_name__is_Ú__[AE]_[03 C0]It_used_to_be__Buggerror__Rosemary[AE]_
+178:@Ú_____Get_your_grubby__little[AE][AE][AE]_[03 C0]No_cutie"_I_was__talking_to_my_boy[AE]_
+179:@The_ghosts_aren_t__gone_yet"_but[AE][AE][AE]_[03 C0]what_a_brave_boy__you_are__[03 C0]I_ve_renamed_my__son_Ú__"__after_you[AE]_
+17A:@This_is_Snowman__Terminal[AE]_
+17B:@I_heard_everyone__in_Youngtown_has__disappeared[AE]_
+17C:@Mom_left_for__Youngtown[AE]_[03 C0]We_haven_t_heard__from_her_for_days__now[AE]_[03 C0]Dad_and_I_are__going_there_to__look_for_her[AE]_
+17D:@Have_you_been_to__the_ghost_house__in_Spookane__
+17E:@Later_you_can_tell__me_the_whole__story[AE][AE][AE]_[03 C0]I_love_to_listen__to_horror_stories[AE]_
+17F:@I_don_t_want_you_to__go"_but_do_so_if_you__must[AE]_
+180:@It_s_freezing_here__in_Snowman[AE]_[03 C0]Don_t_catch_your__death_of_cold[AE]_[03 C0]Brush_your_teeth"__too[AE]_[03 C0]Hack_hack_wheez[AE][AE][AE]_
+181:System_Error____
+182:@Life_is_a_game[AE]__But_sometimes_you__have_to_rest[AE]_
+183:@Ú8__hasn_t_been__to_school_lately"__I_m_so_worried[AE]_
+184:@I_m_concerned__about_Ú8_[AE]_[03 C0]I_am_so_worried_I__can_t_sleep[AE]_
+185:System_Error____
+186:@You_don_t_have__enough_money[AE]_
+187:@Oh_my"_your_nose__is_running[AE]_
+188:@Excuse_me"_I_need__to_see_the_person__playing_this_game[AE]_
+189:@I_have_some_very__important_things__to_talk_about[AE]_
+18A:@Hello_there[AE][AE][AE]_[03 C0]I_appreciate_your__kindness_to__Ú__[AE]_[03 C0]I_am_the_boy_s__Dad[AE][AE][AE]_[03 C0]Could_you_please__let_me_know_your__name__[03 C0]Thank_you_for_your__cooperation[AE]_
+18B:@Thank_you_for__spending_your_time__with_me[AE]_[03 C0]I_too_have_urgent__things_to_do"_so__I_d_better_go_now[AE]_
+18C:@Are_you_ÚÃ___
+18D:@Don_t_get_silly_on__me_now[AE]_
+18E:@I_must_go_on_a__trip_to_find_my_Mom"__and[AE][AE][AE]_[03 C0]I_needed_your__help[AE][AE][AE]_[03 C0]So_I_ve_been__waiting_for_you"__ÚÃ_[AE]_[03 C0]First_let_s_go_see__what_is_happening__in_Youngtown[AE]_
+18F:@You_have_appeared[AE]__Just_like_in_my__dream[AE][AE][AE]_[03 C0]The_boy_in_my__dream_looked_just__like_you[AE]_
+190:@Ú__[AE][AE][AE][AE]__Please_stay_with__me[AE]_
+191:@No____Stay_with_me"__Please_[AE][AE][AE]_
+192:@Silence_falls[AE][AE][AE]__Would_you_like_to__dance__
+193:@You_re_right[AE]__Now_isn_t_the_time[AE]__I_wasn_t_thinking[AE]_
+194:@Ú___[AE][AE][AE]__Do_you_love_me__
+195:@What_s_the_matter"__Úx___
+196:@The_Dragon_sleeps[AE]_[03 C0]ÚÃ__s_Psychic__Power_is_short_of__waking_the_Dragon[AE]_
+197:@Feeling_ÚÃ__s__presence"_the__Dragon_awoke[AE]_[03 C0]You_must_defeat__me_to_earn_my__musical_note[AE]_
+198:System_Error____
+199:@My_daughter"__Ú8__has_never__been_a_brave_girl"_[03 C0]but"_she_is_kind__of_heart"_and_has__a_secret_strength[AE]_
+19A:@I_know_success__will_be_yours_in__the_end[AE]_[03 C0]Surely"_our_pleas__will_be_heard_in__the_near_future[AE]_[03 C0]For_now"_just_have__a_peaceful_sleep[AE]_
+19B:@ÚÃ__found_a__Pass_that_someone__had_left_behind[AE]_
+19C:@They_climbed__into_the_rocket[AE]_
+19D:@My_grandfather__lives_in_Yucca__Desert[AE]_[03 C0]If_you_see_him"__please_say_hello__for_me[AE]_
+19E:@I_am_just_a_pile__of_bones_now[AE]_[03 C0]I_used_to_be_a__nice_guy_before[AE]_[03 C0]So"_don_t_worry"_I__won_t_attack_you[AE]_
+19F:@I_could_make_a__good_signpost"__don_t_you_think__
+1A0:@Conversing_with_a__corpse__What_a__brave_kid__
+1A1:@I_m_the_bones_of_a__camel[AE]_[03 C0]Want_to_know_how_to__walk_when_in_the__desert__
+1A2:@Move_your_left__foot_before_your__right_foot_sinks[AE]_[03 C0]Move_your_right__foot_before_your__left_foot_sinks[AE]_[03 C0]It_took_me_100__years_to_figure__that_out[AE]_
+1A3:@I_d_very_much_like__to_tell_you[AE]_[03 C0]Wouldn_t_you_like__to_know__
+1A4:@Yucca_Desert_is__the_most_boring__part_of_this_game[AE]_[03 C0]But"_stay_on_your__toes"_this_desert__has_been_mined[AE]_
+1A5:@See_the_Yucca__Desert[AE]_[03 C0]Charter_flights__available_by__arrangement[AE]_
+1A6:@During_the_last__war"_I_laid_mines__in_this_desert[AE]_[03 C0]I_removed_all_but__one_of_them"_so__watch_your_step[AE]_
+1A7:@Oh"_you_want_a__ride_on_the_plane__
+1A8:@The_airfare_is___Üä
+1A9:@Well"_it_is_quite__expensive[AE][AE][AE]__I_don_t_blame_you[AE]_
+1AA:@Great__I_see_you__saved_10_stubs[AE]__Take_my_tank[AE]_[03 C0]You_sure_look__happy[AE]__Ha_ha_ha[AE][AE][AE]_
+1AB:@You_broke_my_tank"__it_was_my_most__prized_possession[AE]_[03 C0]Now_you_ll_have_to__pay__Üä
+1AC:System_Error____
+1AD:@Thank_you"__and_good,bye[AE]_
+1AE:@I_am_so_angry[AE]__Arrrrrrrrr___
+1AF:System_Error____
+1B0:@Where_is_my_Mommy___Where_is_my_Daddy__
+1B1:@Halt"_who_goes__there__
+1B2:@Suspicious_guys[AE]__I_will_stop_you[AE]__Arrghh__
+1B3:@Something_s_very__strange_with_the__Garrickson_baby[AE]_[03 C0]Something_very__strange_indeed[AE]_
+1B4:@Well[AE][AE][AE]__2_plus_3_equals_5"__8_minus_4_equals_4[AE]_[03 C0]I_study__all_the_time[AE]_
+1B5:@Mom____I_miss_you____
+1B6:@Dad____I_miss_you____
+1B7:@A_big_ship_from__the_sky_took_Mom__and_Dad_away[AE]_
+1B8:@I_like_it_without__the_grown,ups__around[AE]_[03 A0]Sure_I_do[AE]__Sob"_sob[AE][AE][AE]_
+1B9:@Please_hold_me__
+1BA:@Hold_me"_too__
+1BB:@Hold_me__
+1BC:@Please_bring_back__our_Mom_and_Dad[AE]__Please"_I_beg_you[AE]_
+1BD:@Oh"_yes[AE]__My_name__is_Tom_Garrickson[AE]_[03 C0]I_like_to__introduce_myself[AE]__It_s_my_hobby[AE]_
+1BE:@Mom_told_me_this__baby_has_mystic__power[AE]_
+1BF:System_Error____
+1C0:@Goo_gaa[AE][AE][AE]_
+1C1:@Yes"_even_though__my_body_is_that_of__a_baby"_[03 C0]like_you"_I__possess_psychic__abilities[AE]_[03 C0]I_know_the_power__of_Teleportation[AE]_[03 C0]Use_this_power_to__return_to_a_place__you_ve_been_to[AE]_[03 C0]"The_baby_taught__them_his_power_of__Teleportation'_
+1C2:System_Error____
+1C3:System_Error____
+1C4:System_Error____
+1C5:System_Error____
+1C6:@I_heard_my_Dad_s__voice_coming_from__the_mountains[AE]_[03 C0]But_the_mountains__are_beyond_the__town_of_Ellay[AE]_[03 C0]It_s_so_far_away__I_can_t_make_that__journey[AE]_
+1C7:@Wait_a_minute[AE][AE][AE]__You_can_t_carry_it"__so_you_can_t_have_it[AE]_
+1C8:@Time_has_passed"__you_are_more__experienced_and_[03 C0]hopefully_a_little__wiser"_but_you_are__still_just_a_kid[AE]_
+1C9:@You_must_watch_out__around_here[AE]__Hee[AE][AE][AE][AE]_
+1CA:@The_B[AE]B[AE]_Gang__members_are_really__terrible[AE][AE][AE]_
+1CB:@We_call_Bla,Bla__Gang_members"_B[AE]B[AE]__Gangs_for_short[AE]_
+1CC:@Hey_you__You_are__not_a_Bla,Bla"_are__you__
+1CD:@The_black_clouds__that_hang_over__the_mountains[AE][AE][AE]_[03 C0]They_re_making__all_the_towns,__people_crazy[AE]_
+1CE:@Hey"_you_two_there[AE]__Sweethearts"_huh___
+1CF:@Love_and_peace"__yeah__
+1D0:@Love_burns_deep_in__your_heart"_right__
+1D1:@I_ve_got_a_Ticket__to_the_Live,Show[AE]_[03 C0]You_know_the_Store__is_all_sold_out[AE]_[03 C0]But_I_could_part__with_this_one_for__only__Üä
+1D2:@Here_it_is__No"__don_t_go_to_the__Store_now[AE]_
+1D3:@Stingy_kids[AE][AE][AE]_
+1D4:@It_s_a_secret[AE][AE][AE]__Promise_not_to_say__that_I_told_you__
+1D5:@The_Bla,Bla_Boss"__Úò__s_real_name__is[AE][AE][AE]_[03 A0]Úò__Junior"_the__3rd[AE]__Ha[AE]_[03 C0]But"_it_s_only_a__rumor"_though[AE]_
+1D6:@You_ll_be_the_one__who_regrets_it_for__sure[AE]_
+1D7:@Don_t_peek_in_the__back_room[AE]_You_ll__catch_it_for_sure[AE]_
+1D8:System_Error____
+1D9:@Wow"_you_re_so__cute[AE]_Can_I_buy__you_a_drink__
+1DA:@You_afraid_of_the__cops___Come_on__
+1DB:@No_more_drinks_on_my__bill[AE]_
+1DC:@Now_you_know_you__did_a_bad_thing__
+1DD:@If_you_promise_you__won_t_do_it_again"__you_can_go_home[AE]_[03 C0]You_leave_that__dangerous_weapon__here_though[AE]_
+1DE:@Sorry"_you_must__stay_another_night__and_cool_your_jets[AE]_
+1DF:@Hee_hee_hee[AE][AE][AE]__I_finally_got_a__Ú[04]___[03 C0]Wanna_buy_it_for__only__Üä
+1E0:@Not_enough_money[AE]__Boo_hoo_hoo[AE]__Ha"_ha"_ha[AE][AE][AE]_
+1E1:@Úò__s_parents__were_killed_by__mountain_creatures[AE]_[03 C0]Before_that"_he__was_a_gentle_kid[AE]_
+1E2:@I_wish_Úò___would_go_back_to__the_way_he_was[AE]_
+1E3:@You_want_to_sing__too__
+1E4:@Then_go_ahead__and_jam"_dudes__
+1E5:@You_re_shy__
+1E6:System_Error____
+1E7:@Ú8__girl____Well"_I_saw_your__name_on_your_hat[AE]_
+1E8:@The_girl_was_so__cute[AE]_
+1E9:@Thank_you_for__your_nice_song[AE]_[03 C0]By_the_way"_you__guys_beat_up_on_my__friends[AE]_
+1EA:@I_ll_smash_you__
+1EB:@I_know_you_did_it__
+1EC:@Aha_ha_ha[AE][AE][AE]___You_are_quite_a__guy[AE]_[03 C0]Your_name_is__Ú____[03 C0]Let_s_call_it_a__draw_then[AE][AE][AE]__Umm[AE][AE][AE]_[03 C0]I_seek_vengeance__for_my_parents[AE]_To__the_mountains___
+1ED:System_Error____
+1EE:@Ú__"_please__accept_my_help[AE]_
+1EF:@ÚÃ__USEd_the__Telephone_Card[AE]_
+1F0:@I_m_sure_we_ll__make_a_good_team[AE]__Let_s_get_going__
+1F1:System_Error____
+1F2:System_Error____
+1F3:@Please[AE][AE][AE]__I_ll_be_a_great__help_to_you[AE]_
+1F4:@Hello[AE][AE][AE]__It_s_Dad[AE]_[03 C0]I_really_don_t__want_to_butt_in__now"_but[AE][AE][AE]_[03 C0]What_are_you__waiting_for____[03 C0]Push_the__A___button_at_once__
+1F5:@You_there"__the_one_with_the__glasses[AE][AE][AE]_[03 C0]You_re_not_so_good__at_fighting"_are__you__[03 C0]Rest_here_while_I__borrow_your_Goods[AE]__OK__
+1F6:System_Error____
+1F7:@Brute_strength_is__not_enough_to_beat__them[AE]_[03 C0]I_know_now_that__peace_can_be__brought_back_to_us[AE]_[03 C0]I_believe[AE]_
+1F8:@"Úò_'__Why_are_you_two__blushing__[03 C0]Let_s_hurry_up__and_get_out_of__here__
+1F9:@This_is_my_dressing__room"_please_get__out___
+1FA:@I_am_Úx__s__father[AE]_[03 C0]I_think_Ú___s__Dad_asked"_[03 C0]but_you_told_him__your_name__
+1FB:@OK"_that_s_fine[AE]_[03 C0]Please_look_after__Úx_[AE]_He_is_a__real_weakling[AE][AE][AE]_
+1FC:@Let_me_register__your_name_once__more[AE]_
+1FD:@To_the_Harbor__before_Mt[AE]_Itoi[AE]_[03 C0]I_mean_it[AE]_
+1FE:@Have_you_ever__tasted_Strawberry__Tofu__
+1FF:@If_you_find_some"__buy_some_for_me"__please[AE]_[03 C0]I_ll_trade__something_nice__in_return[AE]_
+200:@No_way_to_buy__things_like_that__in_this_place[AE]_
+201:@Oh___This_is__Strawberry_Tofu___Thank_you__[03 C0]Here_s_something__nice_for_you_in__return[AE]_
+202:System_Error____
+203:System_Error____
+204:@You_ever_get_hurt"__come_to_my_place[AE]_[03 C0]I_have_food"__medicine"_and_a__bed_you_can_use[AE]_
+205:System_Error____
+206:@Hey__Úx__[AE][AE][AE]_[03 C0]Now_is_the_time__you_must_fight__for_yourself[AE]_
+207:@Come_on"_children"__what_do_you_need__
+208:@MY_NAME_IS_EVE[AE]_[03 A0]I_HAVE_BEEN_[03 A0]WAITING_FOR_YOU[AE]_[03 C0]MY_CREATOR_WAS_[03 A0]GEORGE[AE][AE][AE]_[03 C0]HE_WAS_TAKEN_TO_[03 A0]THE_END_OF_THE_[03 A0]UNIVERSE[AE][AE][AE]_[03 C0]THEN_BROUGHT_BACK_[03 A0]LATER[AE]_[03 C0]I_AM_HERE_TO_[03 A0]PROTECT_YOU[AE]_[03 C0]THAT_IS_MY_PURPOSE[AE]_
+209:System_Error____
+20A:System_Error____
+20B:System_Error____
+20C:System_Error____
+20D:@Those_bags_must__weigh_heavy_on__your_shoulders[AE]_
+20E:@Ú____Ú___[AE][AE]_[03 C0]You_seem_to_be_worn__out_from_fighting[AE]__One_more_time__
+20F:@With_his_strength__regained[AE][AE][AE]_[03 C0]Ú___returned__once_more_to_the__fighting_scene[AE]_[03 C0]Do_your_best"__Ú____
+210:@Ú___realized__that_it_had_only__been_a_bad_dream[AE]_[03 C0]Do_your_best"__Ú____
+211:@To_whom__
+212:@Your_load_is_too__heavy[AE]_Hand_it_to__someone_else__
+213:@Please_come_again__to_pick_up_the__rest_of_the_Goods[AE]_
+214:@Are_you_Ú___s__friend__[03 C0]I_see[AE][AE][AE]__But_I_can_t_give__you_Ú___s_Goods[AE]_
+215:@Did_that_weakling__Úx__run_away__from_you__
+216:@__Welcome_to______Podunk_
+217:@_____City_Zoo___Superintendent_s________Office_
+218:@____Ocean_View___Tourists_Welcome_
+219:@There_is_no_one__here_by_that__description"_but[AE][AE][AE]_
+21A:@When_placed_in_the__fountain"_[03 C0]the_Red_Weed_became__Magic_Herb[AE]_
+21B:@Where_do_you_think__you_can_find_such__a_man__
+21C:@This_is_Ú[04]_"__right__Thank_you[AE]__It_s_a_big_help[AE]_
+21D:@Now_entering_the__Mislay_Triangle[AE]__Watch_out__
+21E:@Someone_lost_his__Dentures_right__under_the_sign__
+21F:@I_see[AE][AE][AE]__You_don_t_feel_so__well[AE]_Wait[AE][AE][AE]_
+220:@Please_come_to__my_lab[AE]_
+221:System_Error____
+222:@The_phenomenon_has__stopped[AE]__For_the_moment[AE][AE][AE]_
+223:@Here"_let_me_show__you_how[AE]_Just_take__this_switch_and[AE][AE][AE]_[03 C0]Oh_no___I_pushed_it_by__mistake__
+224:@I_ll_cook__Ú__[AE]_[03 C0]Eat_your_dinner"__and_rest_for_the__night[AE]_
+225:System_Error____
+226:System_Error____
+227:System_Error____
+228:@Oh"_what_can_I_do___What_should_I_do__[03 C0]Where_can_I_go___Who_can_I_see__[03 C0]What_should_I_do___What_should_I_do__[03 C0]My_little_Pippi_is__gone[AE]_[03 C0]If_you_re_going_to__Podunk[AE][AE][AE]_[03 C0]Please_tell_the__Mayor[AE]_[03 C0]Oh_me"_oh_my__
+229:@Which_one__
+22A:@I_ll_give_you___Üä
+22B:@Finding_the_entry__in_Great,Grand__Father_s_Diary"_[03 C0]ÚÃ__read_out__loud[AE][AE][AE]_[03 C0]The_forgotten_one__of_the_ship_that__sails_the_cosmos[AE]_
+22C:System_Error____
+22D:System_Error____
+22E:@I_know_you_re__lying[AE]_I_can_see__right_through_you[AE]_
+22F:@"A_dull_roar_begins__to_rise_from_the__crowd'_[03 C0]We_paid_to_see_a__trio___There_aren_t_three_[03 C0]performers_here___Grumble_grumble[AE][AE][AE]_
+230:@Which_one_would__you_like_me_to__keep__
+231:System_Error____
+232:@The_Dragon_was_in__a_deep"_deep"__sleep[AE]_
+233:System_Error____
+234:@What_can_I_do__for_you__
+235:System_Error____
+236:@Yes"_I_will_keep__Ú[04]__with__utmost_care[AE]_[03 C0]Anything_else_you__want_me_to_keep__
+237:@See_you_later"_and__brother[AE][AE][AE]__You_take_care__
+238:@You_want_to_take__Ú[04]___[03 C0]OK__Anything_else__you_d_like_to_take__with_you__
+239:@There_was_a_rock,__slide_near_Union__Station[AE]_[03 C0]The_train_can_t_get__through_until_it__has_been_removed[AE]_
+23A:@You_mean__Ú[04]___
+23B:@I_am_afraid_you__can_t_carry__anything_more[AE]_
+23C:System_Error____
+23D:@Oh___You_don_t__seem_to_have__enough_money[AE]_
+23E:@Oh___You_seem_to__have_too_much_to__carry[AE]_
+23F:@You_don_t_have__enough_money[AE]_Come__back_when_you_do[AE]_
+240:@Good_bye___Be_careful[AE]_
+241:System_Error____
+242:@You_can_t_carry__anything_more[AE]___See_you_later[AE][AE][AE]_
+243:@Here_is_your__medicine[AE]_
+244:@Hope_you_sleep__well[AE]_
+245:System_Error____
+246:@How_much_would_you__like_to_withdraw__
+247:@How_much_would_you__like_to_deposit__
+248:@Now"_let_s_go_back__to_town[AE]_
+249:@Sorry"_but_I_am__afraid_you_can_t__carry_all_of_them[AE]_
+24A:@You_can_t_carry_it___What_a_shame__
+24B:@If_you_can_t_carry__it"_come_back_some__other_time[AE]_
+24C:System_Error____
+24D:@Which_flightplan__would_you_like__
+24E:System_Error____
+24F:System_Error____
+250:@I_can_t_talk_very__well_without_my__Dentures[AE]_
+251:@No"_that_s_not__quite_enough[AE]_
+252:System_Error____
+253:System_Error____
+254:System_Error____
+255:System_Error____
+256:System_Error____
+257:System_Error____
+258:@Having_a_tough__time___I_m_so_worried[AE]_
+259:@Good_luck__
+25A:@Who_s_the_boss___I_ll_teach_him__a_lesson__
+25B:@The_Bla,Bla_Gang__members_are_doing__just_fine[AE]_
+25C:System_Error____
+25D:@Don_t_try_to_make__me_mad[AE]_
+25E:@ÚÃ__picked_up__the_Pass[AE]_
+25F:@Hmm[AE][AE][AE]__You_don_t_have__enough_money[AE]_
+260:@Let_s_see[AE][AE][AE]___It_seems_that_your__load_is_too_heavy[AE]_
+261:@I_am_Able"_the___Doctor_s_assistant[AE]_[03 C0]I_too_would_like__to_taste__Strawberry_Tofu[AE]_
+262:@Thank_you"_It__looks_so_good__[03 C0]I_ll_share_some__important__information[AE]_[03 C0]Near_the_summit_of__Mount_Itoi[AE][AE][AE]_[03 C0]Deep_in_the_lake"__there_lies_a__fantastic_robot[AE]_[03 C0]I_think_it_still__works[AE]_
+263:@I_look_just_like__Able"_but_I_am__Baker[AE]_[03 C0]I_also_want_to_try__Strawberry_Tofu[AE]_
+264:@Oh__I_m_so_happy[AE]__Take_these_Swear__Words_with_you[AE]_
+265:__LifeUp___Sleep
+266:@Load_is_too_heavy___Remember_to_come__back_and_get_it[AE]_
+267:@You_came_to_get__the_Big_Bag___My_gift_to_you[AE]_
+268:@I_give_you_the__Big_Bag[AE]__A_gift_for_you[AE]_
+269:@It_s_not_that_big__of_a_problem[AE]_[03 C0]My_wife_is_a__bigger_problem[AE]_[03 C0]She_doesn_t_get__out_of_bed_[03 C0]until_after_noon__each_day[AE]_[03 C0]She_won_t_even__pack_me_a_brown__bag_lunch__[03 C0]Isn_t_that_just__horrible[AE]_
+26A:@Oh__no___Ú8__has_fainted__
+26B:@Thank_you_for_being__so_nice[AE]___My_gratitude[AE][AE][AE]_[03 C0]I_ll_be_wagering_on__your_success[AE]_
+26C:@I_am_Laura[AE]_
+26D:System_Error____
+26E:System_Error____
+26F:System_Error____
+270:@What_a_surprise___Our_hero_Ú____returning_alone__[03 C0]Won_t_you_stop_and__rest_for_a_while__
+271:@Little_girl__This__is_no_place_for_a__child_like_you[AE]_
+272:System_Error____
+273:@Hello"_ÚÃ____How_are_you_doing__
+274:@Good_morning___Did_you_have_a__good_night_s_rest__
+275:@Please_come_again[AE]__Promise_me_you_ll__come_again__
+276:@Good_morning__
+277:@Most_monkeys_here__will_lie_to_you[AE]__Beware__
+278:@Huh_what___Do_I_look_like_a__monkey__
+279:@[AE][AE][AE]I_m_really_a__raccoon_pretending__to_be_a_monkey[AE]_
+27A:@You_have_good__eyesight[AE]__Hats_off_to_you[AE][AE][AE]_
+27B:@Cool_down_dude[AE][AE][AE]__Are_you_so_serious__all_the_time__
+27C:@Well_man[AE][AE][AE]__It_s_like_you_don_t__know_when_to_quit[AE]_[03 C0]Take_a_rest_bud[AE][AE][AE]_
+27D:@Good_to_hear_it[AE]__It_s_just_a_game__
+27E:@You_caught_up_with__me[AE]_I_ll_admit__that_s_something[AE]_[03 C0]Here_I_ll_give_you__something_nice[AE]_
+27F:@Turn_right"_then__left"_to_find__something_nice[AE]_
+280:@It_s_so_quiet_here"__but_too_quiet_for__me"_I_think[AE]_
+281:@Just_walk_straight___Find_truth_at_the__end_of_the_path[AE]_
+282:@I_am_a_lady[AE][AE][AE]__Don_t_talk_to_me__so_casually[AE]_
+283:@The_truth_is[AE][AE][AE]__I_am_a_man[AE]_
+284:System_Error____
+285:@La_la_la"_la_la_[AE][AE][AE]__Never_mind"_this__song_is_not_yours[AE]_
+286:@How_long_did_it__take_you_to_get__here__
+287:@I_ve_got_a_good__story_to_tell_you[AE]__Want_to_hear_it__
+288:@Well[AE][AE][AE]__You_should_be_nice__to_friends[AE]_[03 C0]That_s_all_I_ve_got__to_say[AE]_
+289:@Have_you_no__intellectual__ambitions__
+28A:@Don_t_go_any__farther_inside__
+28B:@I_don_t_trust__these_monkeys[AE]___They_re_all_liars[AE]_[03 C0]By_the_way"_go__right"_left"_left__and_right[AE]_
+28C:@Retreat___And_if_you_don_t__want_to[AE][AE][AE]_[03 C0]Go_back__[03 C0]Oh"_never_mind[AE]__Go_forward__
+28D:@In_the_town_by_the__sea"_you_ll_meet_a__new_friend[AE]_
+28E:@I_am_a_quiet__monkey[AE]_[03 C0]I_don_t_talk_much[AE]_[03 C0]you_see[AE][AE][AE]_[03 C0][AE][AE][AE][AE][AE][AE][AE][AE][AE][AE][AE][AE]_
+28F:@Oh_Ú8__baby"__Hubba_hubba"__what_a_dish[AE]_
+290:@Don_t_believe_that__all_monkeys_are__liars[AE]_[03 C0]That_s_nothing_but__a_lie[AE]_
+291:@I_m_the_boss__monkey[AE]_[03 C0]I_m_really_annoyed__that_the_others__tell_so_many_lies[AE]_[03 C0]Go_straight_ahead"__You_ll_find_an__exit_to_your_right[AE]_
+292:@A_big_mistake[AE][AE][AE]__I_really_shouldn_t__have_come_here[AE]_
+293:@Help_me__
+294:@Telephone___Ú__"_please_get__it__
+295:@I_am_Abbott"_not__the_Town_Mayor"__but_his_assistant[AE]_[03 C0]Mr[AE]_Mayor_is_over__there[AE]_
+296:@I_ll_share_the__secret_with_you__later[AE]_
+297:@You_come_to_stay__the_night_again__
+298:@Oh"_traveller__
+299:@The_ghost_house_is__not_a_place_for__slaying_monsters[AE]_[03 C0]There_is_a[AE][AE][AE]__melody"_hee,hee"__a_haunting_melody[AE]_[03 C0]Hee,hee,hee[AE]_
+29A:System_Error____
+29B:@I_believe_that__Ú8__may_still__be_found_somewhere[AE]_
+29C:@You_re_under_age[AE]__I_have_to_take_you__in_to_headquarters[AE]_
+29D:System_Error____
+29E:System_Error____
+29F:@I_heard_you__stepped_on_the__landmine[AE]_[03 C0]I_stepped_in_dog__crap_once_myself[AE]_[03 C0]Tell_you_some,__thing_else_kid[AE][AE][AE]_[03 C0]I_didn_t_like_it__very_much_either__
+2A0:@I_heard_that_you__stepped_in_dog__crap_in_Yucca__[03 C0]That_wasn_t_very__cool_buddy[AE]_
+2A1:@_Certificate__[03 C0]ÚÙ__[03 C0]We_acknowledge_the__fact_that_you_did__step_on_the_mine_[03 C0]in_the_Yucca__Desert[AE]_[03 C0]Keep_this_place_to__yourself"_please[AE]_[03 C0]signed[AE][AE][AE]__Shigesato_Itoi[AE]_
+2A2:@Had_a_good_sleep___Have_a_nice_trip__
+2A3:@Oh__not_visiting_a__patient__[03 C0]If_you_are_the__patient"_please_go__to_the_back_room[AE]_
+2A4:@Sorry"_no_patient__here_by_that_name[AE]_
+2A5:@This_year_s_flu_is__go_bad[AE]_I_lost_so__much_weight[AE]_
+2A6:@I_don_t_have_a__cold[AE]__Cough"_cough"_hack[AE]_[03 C0]I_m_just_talking__to_myself[AE]__Cough"_hack_hack[AE]_
+2A7:@Whenever_you_get__tired"_just_drop__by_our_Inn[AE]_
+2A8:@Hi_ÚÃ_"_I_ll__catch_you_later"_[03 C0]I_m_a_little_busy__right_now[AE]_
+2A9:@A_restaurant"_rant"__rant"_rant[AE][AE][AE]__Happy_restaurant"_[03 C0]rant"_rant"_rant[AE][AE][AE]__Are_you_happy__
+2AA:@All_restaurant__owners_love__musicals__
+2AB:@I_think_Ú____is_delicious"_too[AE]_
+2AC:@The_Hotel_in_this__town_isn_t_any___better_than_the_[03 C0]one_in_Podunk"__and_yet_it__is_so_expensive[AE][AE][AE]_
+2AD:@The_room_rate_at__this_Hotel_is_so__inexpensive[AE][AE][AE]_[03 C0]And_that_s_not__where_it_stops__being_cheap_either[AE]_
+2AE:@Big_rocks_block__the_railroad[AE]_The__train_cannot_pass[AE]_
+2AF:@You_can_converse__with_animals[AE]_[03 C0]Tell_you_a_secret[AE]__Why_don_t_you__CHECK_me_out__[03 C0]Bow_wow__
+2B0:@You_don_t_have__enough_money[AE]__Sorry"_come_again[AE]_
+2B1:@Can_I_help_you___Please_use_this__menu[AE]_
+2B2:@Thank_you_very_much[AE]__One_Ú[04]___to_go"_please__
+2B3:System_Error____
+2B4:System_Error____
+2B5:@He_may_not_come__again[AE][AE][AE]_
+2B6:@Hope_you_enjoy__yourself_here[AE]_
+2B7:@Hey"_waiter[AE][AE][AE]__I_m_still_waiting__for_some_service[AE]_
+2B8:@I_want_to_try__Ú__[AE]_
+2B9:System_Error____
+2BA:System_Error____
+2BB:@I_d_like_to_stop__the_zombies_evil__ways"_but[AE][AE][AE]_[03 C0]They_do_not_listen__to_me"_or_won_t__even_talk_to_me[AE][AE][AE]_[03 C0]Now_I_am_too__scared_to_leave__this_place[AE]_
+2BC:@It_s_me_Pippi___We_meet_once_more__ÚÃ___[03 C0]Don_t_say_anything"__but_I_didn_t_tell__my_Mom_I_came_here[AE]_
+2BD:@My___You_are_that__snot,nosed_ÚÃ__[03 C0]who_sat_next__to_me_in__kindergarten__
+2BE:@It_s_cash"_then__carry__round_here__boy[AE][AE][AE]_[03 C0]It_s_not_that_I__don_t_trust_you"__but[AE][AE][AE]_
+2BF:@You_seem_to_have__quite_an_appetite[AE]_
+2C0:System_Error____
+2C1:@The_trains_have__stopped[AE]_The__track_was_ruined[AE]_[03 C0]It_s_the_end_of__the_world"_and_you__just_ask_questions[AE]_[03 C0]Stop_asking_so__many_questions_or__I_ll_start_to_cry[AE]_
+2C2:@Don_t_stop[AE][AE][AE]__Keep_on_walking__
+2C3:@You_look_like_you_ve__been_through_a_lot[AE]_[03 C0]Take_your_time"__think_about__what_you_ve_done[AE]_
+2C4:@I_ve_heard_about__your_wonderful__adventures[AE]_[03 C0]You_are_so_brave"__aren_t_you__
+2C5:@The_Canary_Village__is_northwest_from__here[AE]_[03 C0]It_s_a_nice_place__to_visit_and__admission_is_free__
+2C6:@The_receptionist_at__City_Hall_is_so__gorgeous[AE]_
+2C7:@Hey_Ú__"_how_s__your_asthma__[03 C0]Mine_has_gotten__better"_[03 C0]but_car_exhausts__still_sets_it_off[AE]_
+2C8:@I_told_my_kid_to__study"_then_play__Nintendo_games[AE]_[03 C0]Those_are_the__rules_around_my__house__
+2C9:@You_look_so_happy__all_of_the_time__
+2CA:@Duncan_Enterprises__plans_to_build_a__strip,joint_here[AE]_[03 C0]No_one_in_town__likes_the_idea_of__that_at_all__
+2CB:@I_d_like_to_be_a__doctor"_and_help__sick_people[AE][AE][AE]_[03 C0]and_make_lots_of__money_doing_it[AE]_
+2CC:@Really__This_is__a_respectable__survey[AE][AE][AE]_
+2CD:@Get_to_school___You_are_a_school__boy"_aren_t_you__
+2CE:@How_can_we_get_the__big_rocks_off_the__railroad_tracks__[03 C0]I_ll_bet_the_Mayor__leaves_them_there___til_election_time[AE]_
+2CF:@I_ve_heard_that_in__Duncan_s__Factory_up_north"_[03 C0]they_ve_started__building_huge__rockets[AE]_
+2D0:@Don_t_take_me_for__an_ordinary_man[AE]_[03 C0]Although_I_am_an__ordinary_man[AE]_
+2D1:@I_think[AE][AE][AE]__I_think[AE][AE][AE]_[03 C0]The_rockslide_on__the_railroad__tracks[AE][AE][AE]_[03 C0]Could_be_blown_up__with_a_Duncan__Factory_Rocket[AE]_
+2D2:@My_husband_is_an__important_man_at__Twinkle_School[AE]_[03 C0]He_never_eats__lunch[AE]_
+2D3:@Have_you_been_to__Sweet_s_Little__Factory__
+2D4:@I_ve_heard_many__scary_monsters__lurk_outside_town[AE]_[03 C0]I_m_so_afraid_that__they_ll_take_my__money_away[AE]_
+2D5:@Laa"_la_laaa[AE][AE][AE][AE]__Dandelion_seeds_fly__up_to_the_sky"__laa"_la_laaa[AE][AE][AE]_[03 C0]I_love_music__most_of_all[AE]_
+2D6:@The_janitor_has__the_key_to_the__roof[AE]_[03 C0]But_he_wouldn_t__give_it_to_me[AE]_
+2D7:@The_old_man_on__the_mountain_is_so__generous[AE][AE][AE]_[03 C0]He_ll_give_you__as_much_as_you_can__possibly_carry[AE]_
+2D8:@I_remember_walking__through_the_tunnel__when_I_was_young[AE]_[03 C0]I_went_to_see_what__was_on_the_other__side[AE]_
+2D9:@This_is_a__residential_area"__please_keep_quiet[AE]_
+2DA:@Have_you_ever__thrown_food_out__into_the_field__[03 C0]Well"_it_s_a_game"__but_it_is_pretty__wasteful[AE]_
+2DB:@Gasp___You__startled_me[AE]_[03 C0]For_college_credit__I_study_indoor__architecture[AE]_[03 C0]That_s_the_whole__truth"_and_nothing__but_the_truth___
+2DC:@I_wish_that_I_had__a_bicycle[AE]_
+2DD:@You_thought_I_was__going_to_beg_for__food"_didn_t_you__[03 C0]I_wouldn_t_do_that"__even_though_I_am__ever_so_hungry[AE]_
+2DE:@I_love_life_in_the__city__[03 C0]I_look_so_great_in__cute_dresses__
+2DF:@I_don_t_believe_in__Psychic_Powers[AE]_
+2E0:@I_am_a_man_whose__existence_does_not__matter[AE]_[03 C0]My_importance_is__so_small"_[03 C0]that_I_may_not__be_missed_should__I_disappear[AE]_
+2E1:@I_love_this_town___I_wouldn_t_be__caught_dead_in_[03 C0]Spookane__Ha_ha__
+2E2:@Would_you_like_to__make_a_donation_to__my_charitable_fund__
+2E3:@The_store_will_buy__good_medicine_for__good_money[AE]_
+2E4:@I_m_the_jolly__postman"__laa_laaa"_la_la[AE]_[03 C0]Have_you_heard__the_Rosemarys__new_address__[03 C0]La_la_la_laaa[AE]_
+2E5:@Tell_the_postman__who_seeks_the__forwarding_address"_[03 C0]that_the__Rosemarys_have__moved_far_away[AE]_[03 C0]La_la_la_laaa[AE]_
+2E6:@I_don_t_like_the__little_Rosemary__girl__
+2E7:@The_streets_are__filled_with__monsters"_[03 C0]the_people_have__run_away[AE]_
+2E8:@What_do_you_want__
+2E9:@I_am_a_clairvoyant__still_in_training[AE]_[03 C0]However_this_much_I__can_see[AE][AE][AE]_[03 C0]You_shall_return__again_to_Union__Station[AE]_[03 C0]Although_I_m_not__completely_sure[AE]_
+2EA:@Ú8__s_house_is__a_chateau"_not_a__mansion[AE]_[03 C0]But"_I_ll_bet_you__already_knew_that[AE]_
+2EB:@There_is_a_chateau__in_the_mountains__to_the_east[AE]_[03 C0]Cough_cough__cough_cough[AE][AE][AE]_
+2EC:@You_kids_are_crazy[AE]__Running_around_with__just_T,shirts_on[AE]_[03 C0]Cough_cough__cough_cough[AE][AE][AE]_
+2ED:@Please_say_hello_to__the_camel_s_bones_in__Yucca_Desert[AE]_[03 C0]I_knew_that_camel__once_upon_a_time[AE]_
+2EE:@Small_wounds_can__be_treated_here"_[03 C0]but_real_sickness__must_be_treated_in__the_hospital[AE]_
+2EF:@I_think_Úx___will_grow_up_and__be_a_computer__engineer[AE]_
+2F0:@Keep_quiet_in_the__library__[03 C0]Ahh,,choo___
+2F1:@You_think_I_m_the__world_s_greatest__fisherman__[03 C0]Well"_not_quite__that_great[AE]_But"__if_you_ve_a_moment"_[03 C0]let_me_tell_you__some_of_my_fishing__stories[AE]_
+2F2:@You_re_in_the_way"__kid__
+2F3:@Hey__
+2F4:@I_may_have_low_HP"__but_I_m_gonna_do__my_best__
+2F5:@If_I_fight_with__you[AE][AE][AE][AE]_[03 C0]I_will_surely_be_a__loser[AE]_
+2F6:@I_am_a_strong_man[AE]__That_s_what_I_say[AE]__I_insist_this[AE]_
+2F7:@You_are_no_match__for_Úò_[AE]_[03 C0]He_could_beat_you_up__with_his_pinkie[AE]_
+2F8:@Did_you_read__the_sign__
+2F9:@While_walking_in__the_desert"_I_saw_a__cactus_with_a_face"_[03 C0]then_I_ran_for_the__hills_screaming_as__loud_as_I_could[AE]_
+2FA:@When_you_talk_to__a_fisherman"_you__can_never_get_away[AE]_
+2FB:@Any_first_grader__can_do_a_cartwheel"_[03 C0]don_t_you_think__
+2FC:@The_telescopes__[03 C0]Take_this_elevator__to_the_top_of_Look,__Out_Tower[AE]_
+2FD:@I_once_saw_smoke__rising_from_one_of__the_islands[AE]_[03 C0]I_wondered_if__anybody_lived__there[AE]_[03 C0]I_should_have__looked_through__that_telescope[AE]_
+2FE:@I_can_t_do_a__cartwheel[AE]_
+2FF:@I_still_don_t_know__how_to_carry_over__in_subtraction[AE]_
+300:@I_heard_Strawberry__Tofu_is_popular__in_big_cities[AE]_[03 C0]I_d_like_to_taste__some[AE]_
+301:@I_am_hungry[AE]__Let_s_do_lunch[AE]_
+302:@Don_t_take_me_for__an_ordinary_man[AE]_[03 C0]Those_are_Dad_s__favorite_words[AE]_
+303:@You_are_late"__aren_t_you___
+304:@Did_you_see_a__strange_man__in_the_lab__[03 C0]Well[AE][AE][AE]__I_saw_him[AE]_
+305:@Have_you_played__Super_Mario_Bros[AE]7__[03 C0]I_m_still_playing__Super_Mario_Bros[AE]3[AE]_[03 C0]It_s_been_quite__a_challenge_for_me[AE]_
+306:@Welcome___What_can_I_sell__you__
+307:@Sorry"_that_item_is__out_of_stock[AE]_
+308:@Don_t_need_that"__do_you__Come_see__us_when_you_do[AE]_
+309:@Thank_you_very__much[AE]_Please__visit_us_again[AE]_
+30A:@Are_you_sure_you__don_t_need_that___Well"_come_again[AE]_
+30B:@Ú
+30C:@You_would_leave__your_best_friend__on_their_deathbed__
+30D:@Well_well"_I_ll__treat_each_of_you__for_Üä
+30E:@You_really_don_t__need_treatment___Oh"_well[AE][AE][AE]_
+30F:@I_see_everything__with_you_is_fine[AE]_
+310:@Well"__you_are_fine__once_again[AE]_
+311:System_Error____
+312:@Believe_it_or_not"__I_am_a_Healer[AE]__What_do_you_want__
+313:@OK"_do_what_you__want_to[AE]_
+314:@Give_me__Üä
+315:@Welcome____Üä
+316:@Sorry_to_hear_that[AE]__Please_visit_us__again[AE]_
+317:@Sleep_tight[AE][AE][AE]__and_don_t_let_the__bed_bugs_bite[AE]_
+318:@Good_morning___Please_come_back__and_see_us_again[AE]_
+319:@They_just_brought__Ú
+31A:@Who_are_you_here__to_visit__
+31B:System_Error____
+31C:@Well"_Dad_isn_t__home_and_I_don_t__care_about_money[AE]_[03 C0]So_if_you_need_a__place_to_stay"_[03 C0]feel_free_to_stay__here_tonight[AE]_
+31D:@Good_morning___Please_come_back__again_someday[AE]_[03 C0]If_you_do"_I_may__not_get_quite_so__lonely_here[AE]_
+31E:@Why_aren_t_you__going_to_spend__the_night_here__[03 C0]Dad_may_not_be__home"_but_it_s__alright"_trust_me[AE]_
+31F:@Tickets_please"__you_must_have_a__Ticket_to_get_in[AE]_
+320:@However[AE][AE][AE]__Nothing_was_there[AE]_
+321:System_Error____
+322:__Leave____Take_out
+323:@You_have_nothing[AE]_
+324:@You_haven_t_left__anything_with_me[AE]_
+325:@Just_a_moment[AE][AE][AE]_[03 C0]The_closet_is_full[AE]__I_can_t_keep_any__more_for_you_now[AE]_
+326:@Can_I_help_you__
+327:@Your_balance_is__insufficient[AE]_
+328:System_Error____
+329:@There_isn_t__enough_money[AE]_
+32A:@I_m_sorry"_[03 C0]the_transaction_you__have_requested__exceeds_your_limit[AE]_
+32B:@Thank_you_very__much[AE]_
+32C:@Inside_the_doll"__ÚÃ__spotted_an__old_music_box[AE]_[03 C0]As_the_music_box__was_wound_up[AE][AE][AE]_[03 C0]A_melody_began_to__play[AE]_
+32D:@__
+32E:@Thank_you[AE]_
+32F:@I_have_a_fantastic__source_for_weapons[AE]_[03 C0]Check_back_again__with_me_later[AE][AE][AE]_[03 C0]I_just_may_get_a__really_awesome__weapon_or_two[AE]_
+330:System_Error____
+331:@ÚÃ__won_the__battle[AE]_
+332:__Withdraw_Deposit
+333:@Your_account_shows__a_balance_of___ÜË_
+334:@The_door_is_locked[AE]_
+335:@That_Key_does_not__fit_this_lock[AE]_
+336:@ÚÃ__unlocked__the_door_and_went__inside[AE]_
+337:__Yes______No
+338:__Continue_Rest
+339:@ÚÃ__grabbed_the__telephone[AE]_
+33A:@I_m_sorry"_but_you__just_don_t_have__enough_money[AE]_
+33B:@Oh_no_sir"_you__do_not_have_that__much_money[AE]_
+33C:@Sir"_you_can_t__carry_more_than__what_you_now_have[AE]_[03 C0]At_least"_I_don_t__think_you_should[AE]_
+33D:@There_you_have_it___I_ve_fixed_it_like__a_true_expert[AE]_
+33E:@Sorry"_but_I_can_t__buy_Ú[04]__from__you[AE]_
+33F:@Overjoyed_with_her__reunion"_Laura__began_singing[AE]_
+340:@ÚÃ__remembered__the_tune[AE]_
+341:@This_canary_is__singing[AE]_
+342:@The_monkey_stole__the_Zoo_Key[AE]_
+343:@The_robot_appeared__old_and_rusty[AE]_
+344:@Feeling_Ú___s__presence"_the_robot__came_back_to_life[AE]_
+345:@Üä
+346:@Do_your_best[AE]_
+347:System_Error____
+348:@Your_strength_has__revived_by_touching_[03 C0]the_fountain_s__mysterious_water[AE]_
+349:System_Error____
+34A:@Oh_my"_little__Pippi___You_re__back_and_safe__[03 C0]Thank_you_for__finding_her"__Ú____[03 C0]By_the_way"_the__Town_Mayor_is__waiting_for_you[AE][AE][AE]_[03 C0]Pippi"_go_with__Ú__"_and_help__straighten_this_out[AE]_
+34B:@I_m_busy"_So_I__can_t_help_you__right_now[AE]_[03 C0]You_ll_have_to_come__back_later[AE]_
+34C:@Who_has_been__poisoned__
+34D:@Who_needs_to_be__softened__
+34E:@You_haven_t_been__poisoned__
+34F:@You_have_not_been__turned_to_stone[AE]_
+350:@They_manufacture__Bottle_Rockets__there[AE]_
+351:@My_wife_was_the_1st__Miss_Merrysville_in__history[AE]_
+352:@OK"_I_ve_unlocked__the_roof[AE]_While__you_re_up_there[AE][AE][AE]_[03 C0]Make_sure_to_take__in_the_view[AE]_It_is__unforgettable[AE]_
+353:@Later_we_should_go__to_Duncan_s__Factory[AE][AE][AE]_[03 C0]I_ve_heard_they_re__constructing_an__incredible_rocket[AE]_
+354:@They_call_me_names"__weakling_or_four__eyes"_or_worse[AE][AE][AE]_[03 C0]I_m_sure_that__you_ve_heard_them[AE]_
+355:@In_the_mean_time"__dawn_breaks_over__the_harbor[AE][AE][AE]_
+356:@Pardon_me_young__whipper,snappers[AE][AE][AE]_[03 C0]I_didn_t_really__mean_to_talk_all__night"_but[AE][AE][AE]_
+357:@You_young_little[AE][AE][AE]__Don_t_talk_to_me__that_way__
+358:@This_game_I_heard_of_[03 C0]was_titled____EARTH____BOUND_[AE][AE][AE]_[03 C0]don_t_know_exactly__why[AE][AE][AE]_[03 C0]because_it_really__doesn_t_matter[AE]_[03 C0]So_if_you_shouldn_t__judge_a_book_by_its__cover[AE][AE][AE]_[03 C0]Don_t_judge_a_game__by_its_title[AE]_
+359:System_Error____
+35A:@A_lady_at_Reindeer__Station_has_some,__thing_for_you[AE][AE][AE]_[03 C0]Have_you_gone_there__and_met_her_yet__
+35B:@The_most_important__hint_to_remember__though_is[AE][AE][AE]_[03 C0]No_matter_how_much__it_hurts_your_ears__to_do_so[AE][AE][AE]_[03 C0]Listen_to_the_words__in_the_song_by_[03 C0]Magicant_s_guitar__player[AE]_
+35C:@When_you_find_some,__thing_strange"_[03 C0]be_sure_to_CHECK_it__out_every_time[AE]_
+35D:@The_Singing_Monkey__sang_with_passion[AE]_
+35E:@The_Cactus_sang[AE][AE][AE]_[03 C0]and_for_whatever__reason"_it_kept_on__singing[AE]_
+35F:@The_Piano_began_to__play_all_by__itself[AE][AE][AE]_
+360:@The_Dragon_crooned__his_tune_without__much_hesitation[AE]_[03 C0]The_song_went__something_like__this[AE][AE][AE]_
+361:@Robot_Eve_was__demolished_and__moved_no_more[AE]_[03 C0]Examining_the__wreckage_caused__music_to_start[AE][AE][AE]_
+362:@One_of_a_kind___See_the_amazing__Singing_Monkey__
+363:@There_s_a_padlock__on_the_door_at_the__top_of_the_stairs[AE]_
+364:@I_must_stay_here__with_the_people_of__Snowman[AE]_[03 C0]Please_take_care[AE][AE][AE]_
+365:@Not_enough_money[AE]_
+366:@Ú__"_please_go__first[AE]_I_am_so__afraid[AE]_
+367:@The_lock_was__broken[AE]_ÚÃ___opened_the_door[AE]_
+368:@Hi__Úò____How_are_you_doin___
+369:@Let_Úò__come__back_fast__
+36A:@No"_no[AE]_I_can_t__keep_Ú[04]___with_me[AE]_[03 C0]I_must_go_my_own__way"_whatever_you__say[AE]_
+36B:@Ú___s_faithful__and_loyal_servant"_[03 C0]The_brave_soldier"__Flying_Man"_rests__here_in_peace[AE]_
+36C:@Ú___s_strong__and_powerful_ally"_[03 C0]The_brave_soldier"__Flying_Man"_rests__here_in_peace[AE]_
+36D:@Ú___s__benevolent_buddy"_[03 C0]The_brave_soldier"__Flying_Man"_rests__here_in_peace[AE]_
+36E:@To_Ú___s_great__sorrow"_[03 C0]The_brave_soldier"__Flying_Man"_rests__here_in_peace[AE]_
+36F:@To_Ú___s_horror__and_dismay"_[03 C0]The_brave_soldier"__Flying_Man"_rests__in_peace_here[AE]_
+370:@Proclamation_by__the_Town_s_Mayor__says[AE][AE][AE]_[03 C0]No_one_may_pass__until_the_Zoo_case__is_solved[AE]_[03 C0]A_real_one_way__attitude_if_you__ask_me[AE]_[03 C0]I_don_t_have_to__like_it"_just__enforce_it[AE]_
+371:@Deep_in_a_cave"__there_is_a_strange__rock,like_thing[AE]_[03 C0]It_s_so_strange"__you_definitely__should_take_a_look[AE]_
+372:@I_heard_that_you__can_communicate__with_Telepathy[AE]_[03 C0]Have_you_heard__all_of_the_people__talking_about_you__[03 C0]But_you_probably__don_t_need_to___listen__to_them__
+373:@Are_you_going_to__Snowman__
+374:@I_found_this_Hat[AE]__I_believe_it_s_the__property_of_a_girl_[03 C0]who_lives_there[AE]__Please_take_it_to__her[AE]_
+375:@Well"_I_had__something_to_ask__you[AE]_
+376:@The_good,looking__boy_sang_a_quite_a__unique_song[AE]_[03 C0]ÚÃ__did_not__want_to_remember__this_strange_melody[AE]_
+377:@Excuse_me[AE][AE][AE]__could_you_answer__this_questionnaire__
+378:System_Error____
+379:@Do_you_think_the__train_tickets_are__too_expensive__
+37A:@Have_you_USEd__the_Bullhorn__
+37B:@Thank_you_for__your_cooperation[AE]__In_exchange[AE][AE][AE]_[03 C0]for_your_time"__this_Telephone_Card__is_for_you[AE]_
+37C:@Excuse_me"_but__could_you_answer__this_questionnaire__[03 C0]Oh__I_m_sorry_I_ve__already_asked_you__these_questions[AE][AE][AE]_
+37D:@Hearing_the_soulful__cry"_the_Benevolent__Old_Man_showed_up[AE]_
+37E:@ÚÃ__pried_up__the_lid[AE]_Out_from__the_casket[AE][AE][AE]___
+37F:@ÚÃ__looked__into_the_telescope[AE]_
+380:@The_shimmering_blue__sea_stretched__toward_the_horizon[AE]_
+381:@In_the_distance"__on_the_island"__something_sparkled__
+382:@Suddenly"_from__inside_of_the__capsule[AE][AE][AE]_
+383:@"Ú8_'__Daddy[AE][AE][AE]__Good,bye[AE][AE][AE]_[03 C0]Next_time"_Mommy__will_come_back__with_me__[03 C0]Believe_in_us__
+384:System_Error____
+385:@Who_are_you__talking_to__
+386:@What____
+387:@No_problem[AE]_
+388:@"The_voice_of_Queen__Mary_speaks'_[03 C0]I_am_the__consciousness_of__Maria[AE]_[03 C0]Ú__"_use_my__last_power__[03 C0]Then"_as_the_voice__became_a_whisper_of__wind[AE][AE][AE]_[03 C0]The_rock__disintegrated[AE]_[03 C0]Leaving_only_a__pile_of_very_fine__sand_at_their_feet[AE]_
+389:System_Error____
+38A:System_Error____
+38B:@Welcome_to_our_shop[AE]__We_sell_weapons[AE]_
+38C:System_Error____
+38D:System_Error____
+38E:@ÚÙ__USEd__ÚÝ_[AE]_
+38F:@ÚÙ__can_t__USE_ÚÝ_[AE]_
+390:@Don_t_be_silly"__you_can_t_do_that[AE]_
+391:@ÚÙ__equipped__ÚÝ_[AE]_
+392:@ÚÙ__can_t__equip_ÚÝ_[AE]_
+393:@ÚÙ__threw__away_ÚÝ_[AE]_
+394:@Don_t_throw__away_ÚÝ_[AE]_
+395:@ÚÙ__handed__ÚÝ__to__Ú
+396:@Can_t_hand_over__ÚÝ_[AE]_
+397:@Ú
+398:@Nothing_happened[AE]_
+399:@ÚÃ__opened__the_present[AE]_
+39A:@There_was__Ú[04]_[AE]_
+39B:@ÚÃ__got__Ú[04]_[AE]_
+39C:System_Error____
+39D:@Can_t_carry__anything_else[AE]_
+39E:System_Error____
+39F:System_Error____
+3A0:System_Error____
+3A1:@It_was_empty[AE]_
+3A2:@Cure_poison[AE]__Soften_
+3A3:@_____City_Zoo________NORTH_[03 C0]______Podunk________SOUTH_
+3A4:@No_Hunting_,__Approaching_[03 C0]The_Canary_Village__Wildlife_Refuge_
+3A5:@__City_Hall______City_of_Podunk_
+3A6:@__Look,Out_Tower_________WEST____Harbor___NORTH_
+3A7:@______Ellay_________WEST_[03 C0]____Mount_Itoi_________EAST_
+3A8:@___Healer_s_House_________WEST____Beyond_Bridge[AE][AE][AE]_[03 C0]_____Cemetery__Abandon_all_hope__ye_who_enter__
+3A9:@______Podunk_________WEST_[03 C0]___Merrysville_________EAST_
+3AA:@_____City_Zoo______700_meters_________WEST_
+3AB:@Snowman_Chateau__Straight_Ahead_
+3AC:@______Ellay_________WEST_[03 C0]______Swamp________SOUTH_
+3AD:@_____Twinkle___Elementary_School________SOUTH_
+3AE:@Ú___s_house_
+3AF:@Welcome_to__Merrysville__[03 C0]______Podunk_________WEST_[03 C0]__Union__Station________NORTH_
+3B0:@__Healer_s_House_________WEST_[03 C0]_Reindeer_Station_________EAST_[03 C0]___Reindeer_Town_________SOUTH_
+3B1:@_Spookane_Downtown_________WEST_[03 C0]Spookane_Residental_________EAST_
+3B2:@___Swamp_,_EAST_
+3B3:@PRIVATE_PROPERTY__"signed',__The_Rosemarys_
+3B4:@Police_Station__City_of_Ellay_
+3B5:@Coming_this_fall,__Duncan_s__Debutantery_[03 C0]Financing_by"__Architectural_by"__Construction_by"_[03 C0]The_Duncan__Company_Inc[AE]_
+3B6:@I_heard_that_my__brother_died_with__honor_in_combat[AE]_[03 C0]With_all_our_love"__he_was_buried_in__our_cemetery[AE]_[03 C0]It_is_with_great__pride_that_I_take__his_place_by_you[AE]_
+3B7:@I_cannot_wait_to__serve_you[AE]_
+3B8:@I_am_the_Flying__Man[AE]_My_destiny__is_to_help_you[AE]_
+3B9:@The_curfew_has__been_lifted[AE]_[03 C0]Although_I_can_t__see_why_travel_was__ever_restricted[AE]_
+3BA:@Old"_rusty_rocket[AE]_
+3BB:@Did_you_come_for__your_Goods__Here__you_go[AE]_
+3BC:@I_ve_given_you_all__the_Goods[AE]_Please__come_again[AE]_
+3BD:@I_am_Minnie[AE]_
+3BE:__Refresh__Soften
+3BF:@"Úò_'_I_m__sure_you_two_would__like_to_be_alone[AE]_[03 C0]I_ll_make_a_few__phone_calls_and__wait_out_here[AE]_
+3C0:@Oh_shoot___I_missed__
+3C1:@Oh_Ú__"_I_ve__loved_you_for_such__a_long_time[AE]_[03 C0]I_ve_loved_you__since_I_saw_you__in_my_dream[AE]_
+3C2:@"Úò_'__Sorry_to_bother__you_two[AE][AE][AE]_[03 C0]but_did_you_hear__those_loud_noises__
+3C3:@"Úò_'__Those_noises__coming_from_outside"_[03 C0]not_in_here_silly[AE]_
+3C4:@The_boat_motor__appears_to_be__broken[AE]_
+3C5:@ÚÃ__just_does__not_seem_to_be__able_to_fix_it[AE]_
+3C6:@But_Úx__fired__it_right_up[AE]_
+3C7:@I_ll_send_this__Ú[04]__to__Ú___s_house[AE]_[03 C0]Is_there_anything__else_you_want_me__to_keep__
+3C8:@Not_that_I_have__claustrophobia[AE][AE][AE]_[03 C0]but_I_can_t_stand__small"_close__spaces__
+3C9:@_Sweet_s_Little_______Factory_
+3CA:@I_was_kidnapped_by__the_Mother_Ship[AE]__Please_help_me__
+3CB:@Are_you_sure_that__it_is_spelled__correctly__
+3CC:@The_odd_sound_that__drove_the_animals__insane_died_down[AE]_[03 C0]The_Zoo_once_more__became_a_safe__place[AE]_
+3CD:System_Error____
+3CE:@Be_careful"_that__tank_is_my_most__prized_possession[AE]_
+3CF:@There"_on_the_dog_s__collar"_was_the__Basement_Key[AE]_
+3D0:@Hee_Hee_Hee[AE][AE][AE]__I_am_the_noisy__mouse[AE]_[03 C0]Some_buildings__you_can_enter"__some_you_cannot[AE]_[03 C0]If_the_door_is__round"_or_has_a__sign"_go_on_inside[AE]_[03 C0]The_rest_of_the__doors_will_not__open_for_you[AE]_[03 C0]Bye__
+3D1:System_Error____
+3D2:@Teleportation_is_a__Psychic_Power_not__to_be_played_with[AE]_
+3D3:@I_loved_him[AE][AE][AE]_[03 C0]I_loved_him"__as_if_he_was_my__own_child[AE][AE][AE]_
+3D4:@He_was_always__wagging_his_tail"__just_like_a_pup[AE][AE][AE]_[03 C0]EXCEPT_for_when_I__tried_to_SING_him__lullabies[AE][AE][AE]_
+3D5:@Ahhh[AE][AE][AE]George___This_is_your_wife"__Maria[AE]_[03 C0]I_m_coming_to_join__you"_my_purpose_is__complete[AE][AE][AE]_
+3D6:@Please_insert_your__Cash_Card[AE]_
+3D7:@Don_t_carry_so_much__cash_with_you[AE]_
+3D8:@Is_it_all_right_to__go_back_to_the__data_SAVEd_earlier__
+3D9:@You_said__Yes_"__but_you_don_t_have__it[AE]_Ah_ha_ha_ha[AE][AE][AE]_
+3DA:@Úò__seems_to_be__out_of_breath[AE]_
+3DB:@You_don_t_have_any__friends_to_hand__the_Goods_to[AE]_
+3DC:@The_Ú[04]__is__once_more_in__your_possession[AE]_[03 C0]Is_there_anything__else_you_d_like__to_take__
+3DD:@Can_t_someone_else__carry_that__Your__load_is_too_great__
+3DE:@The_closet_is__full[AE]_
+3DF:@After_telling_the__story_to_Ú__"_[03 C0]with_a_rush_of__wind"_Queen_Mary__vanished[AE]_[03 C0]As_she_disappeared"__so_did_Magicant[AE]_[03 C0]Magicant_was_a__mirage[AE][AE][AE]_[03 C0]A_mirage_born_of__Maria_s__consciousness[AE]_
+3E0:@I_am_the_one_who__has_called_you[AE]_[03 C0]Ú__"_Ú8_"__Úx_"_and__Úò___[03 C0]All_of_the_brave__children[AE]_[03 C0]Now_is_the_time__
+3E1:@What_are_you__staring_at__[03 C0]Here_in_Magicant__it_s_just_like_the__world_outside[AE]_[03 C0]Just_leave_me_some__cash"_then_with_the__Goods_you_can_dash[AE]_[03 C0]Hee_Hee_Hee[AE]_
+3E2:@Get_on_the_train"__or_you_will_have_a__hard_time_like_me[AE]_
+3E3:@Do_you_want__anything_else__
+3E4:@ÚÃ_"__Welcome[AE][AE][AE]_[03 C0]I_always_believed__that_you_would__find_your_way_here[AE]_[03 C0]Your_Great,Grand__Mother_Maria_s_love__was_scattered"_[03 C0]scattered_in_the__form_of_melodies[AE]_[03 C0]I_have_a_melody__for_you[AE]_Listen__and_remember[AE][AE][AE]_
+3E5:@The_crystal__fragments_that_had__broken_off_[03 C0]stopped_glowing_and__disappeared[AE][AE]_
+3E6:System_Error____
+3E7:
+3E8:
+3E9:_Big_Bag__@A_bag_filled_with__Magic_Herb[AE]_
+3EA:_Telephone_Card__@USE_this_handy_card__to_charge_your_phone__calls[AE]_
+3EB:_Bread_Crumbs__@If_you_follow_them"_[03 C0]you_will_return_to__the_place_that_you__started[AE]_
+3EC:_Repel_Ring__@One_look_at_this__strange_ring_[03 C0]will_drive_away__weak_enemies[AE]_
+3ED:
+3EE:
+3EF:
+3F0:
+3F1:
+3F2:_Butter_Knife__@Úò__can_master__it[AE]_
+3F3:_Survival_Knife__@Hey_Úò_"_this_is__stronger_than_an__ordinary_Knife[AE]_
+3F4:_Sword__@Few_people_can__master_it[AE]_
+3F5:_Katana__@This_Japanese_sword__is_the_best_Úò___has_seen_yet[AE]_
+3F6:_Stun_Gun__@Úx___seems_to_be_able_to__USE_it[AE]_
+3F7:_Air_Gun__@A_strong_weapon"_[03 C0]but_only_Úx___seems_to_be_able_to__USE_it[AE]_
+3F8:_Plastic_Bat__@This_weapon_is_OK__for_Ú__[AE]_USE_it__
+3F9:_Wooden_Bat__@Ú__"_USE_this__weapon_to_fight__with_weak_enemies[AE]_
+3FA:_Aluminum_Bat__@With_this_weapon_[03 C0]Ú___can_easily__fight_tougher__enemies[AE]_
+3FB:_Hank_s_Bat__@This_awesome_bat__was_personally__autographed[AE]_
+3FC:_Frying_Pan__@Ú8__can_USE__this_weapon_best[AE]_
+3FD:_Non,stick_Pan__@A_good_weapon_for__Ú8_"_with_no__messy_clean_up[AE]_
+3FE:_Iron_Skillet__@Ú8__can_USE_this__heavy_metal_pan_to__rock_strong_enemies[AE]_
+3FF:_Slingshot__@A_handy_weapon"__that_anyone_can_USE[AE]_
+400:_Boomerang__@Be_careful"__this_isn_t_a_toy[AE]_[03 C0]Anyone_can_USE_it__as_a_weapon[AE]_
+401:_Insecticide__@It_has_an_irritating__effect_on_bugs[AE]_
+402:_Super_Spray__@Industrial_strength__Insecticide[AE]_
+403:_Flea_Bag__@A_bag_of_fleas_and__other_nasty__critters[AE]_[03 C0]Throw_at_an_enemy__and_watch_the__effect__
+404:_Words_of_Love__@____
+405:_Swear_Words__@____
+406:_Sticky_Machine__@It_seems_to_be_used__for_fighting"_but[AE][AE][AE]_
+407:_Flashdark__@The_opposite_of_a__flashlight[AE]_
+408:
+409:
+40A:_Flame_Thrower__@Toasts_the_enemy"__but_only_Úx___can_use_it[AE]_
+40B:_Bomb__@Maybe_only_Úx___can_detonate_it[AE]_
+40C:_Super_Bomb__@Written_on_the_side___Beware_of_blast_"_[03 C0]only_Úx__can__use_it[AE]_
+40D:_Laser_Beam__@It_helps_that_sissy__Úx_[AE]_
+40E:_Plasma_Beam__@It_helps_that_weenie__Úx__quite_a_lot[AE]_
+40F:
+410:_Rope__@Use_it_to_tie_the__enemy_up[AE]_
+411:
+412:
+413:
+414:
+415:_Peace_Coin__@When_you_USE_it"__DEFENSE_goes_up_a__little_bit[AE]_
+416:_Protection_Coin__@When_you_USE_it"__DEFENSE_goes_up[AE]_
+417:_Magic_Coin__@When_you_USE_it"__DEFENSE_really_goes__up[AE]_
+418:_Brass_Ring__@When_you_USE_it"__DEFENSE_goes_up_a__bit[AE]_
+419:_Silver_Ring__@When_you_USE_it"__DEFENSE_goes_up[AE]_
+41A:_Gold_Ring__@When_you_USE_it"__DEFENSE_really_goes__up[AE]_
+41B:_H2o_Pendant__@When_you_USE_it"__it_will_defend__against_PK_Fire[AE]_
+41C:_Fire_Pendant__@When_you_USE_it"__it_will_defend__against_PK_Freeze[AE]_
+41D:_Earth_Pendant__@When_you_USE_it"__it_will_defend__against_PK_Thunder[AE]_
+41E:_Sea_Pendant__@When_you_USE_it"_[03 C0]it_will_defend__against__all_PSI_attack[AE]_
+41F:
+420:
+421:
+422:
+423:
+424:_Orange_Juice__@Vitamin_C_is_always__good_for_a_few_HP[AE]_
+425:_French_Fries__@EATen_with_or__without_catsup"__your_HP_will_rise[AE]_
+426:_Magic_Herb__@When_you_are_tired__or_injured"_USE_it[AE]_
+427:_Hamburger__@Fast_food_for_some__fast_HP[AE]_
+428:_Sports_Drink__@No_matter_how_tired__you_are"_one_bottle__will_strengthen_you[AE]_
+429:_Life_Up_Cream__@USEd_to_heal_wounds[AE]_
+42A:_Asthma_Spray__@When_Ú___s__asthma_attacks"__spray_this[AE]_
+42B:_Antidote__@It_neutralizes__poison_quickly[AE]_
+42C:_Mouthwash__@If_you_gargle_with__it"_you_will_lose__your_cold[AE]_
+42D:_Strawberry_Tofu__@If_you_really_want__to_eat_it_OK"_but[AE][AE][AE]_
+42E:
+42F:_Bread__@OK_to_eat_it"__but_its_CRUMBS_can__be_used_[03 C0]to_mark_your_trail[AE]_
+430:_Noble_Seed__@USE_this_to_cancel__the_Wicked_Seed[AE]_
+431:_PSI_Stone__@PSI_Power_in_solid__form[AE]_
+432:
+433:_Magic_Ribbon__@With_this_FORCE__will_rise_a_bit[AE]_[03 C0]This_is_for_a_girl__to_tie_in_her_hair[AE]_
+434:_Magic_Candy__@If_the_sissy_boy__EATs_this_his__FIGHT_rise_some[AE]_
+435:
+436:_Quick_Capsule__@Take_this_capsule_to__raise_your_SPEED[AE]_
+437:_Wisdom_Capsule__@Take_this_capsule_to__raise_your_WISDOM[AE]_
+438:_Physical_Capsule__@Take_this_capsule_to__raise_your_STRENGTH[AE]_
+439:_Force_Capsule__@Take_this_capsule_to__raise_your_FORCE[AE]_
+43A:_Fight_Capsule__@Take_this_capsule_to__raise_your_FIGHT[AE]_
+43B:
+43C:
+43D:_Basement_Key__@USE_this_Key_to__unlock_the_basement__door[AE]_
+43E:_Zoo_Key__@This_Key_will_unlock__the_main_gate_at__the_City_Zoo[AE]_
+43F:_Ghost_House_Key__@This_is_the_Key_to__the_Rosemary_s_house[AE]_
+440:_Great,Grand_Father_s__Diary__@It_is_old"__ragged"_and_filled__with_entries[AE]_
+441:_Pass__@Printed_on_it"___Duncan_Factory__Employee_[AE]_
+442:_Ticket__@Printed_on_it"_[03 C0]_Rock_n_Roll_all__night_and_every_day__at_The_Live_Show_[AE]_
+443:
+444:
+445:
+446:
+447:_Canary_Chick__@Its_eyes_show__sadness[AE]_
+448:
+449:_Bottle_Rocket__@Úx__seems_to__know_how_to_use_it[AE]_
+44A:_Hat__@A_pretty_hat__embroidered_with__the_name_Ú8_[AE]_
+44B:_Dentures__@Brush"_floss_and_see__your_dentist_and_[03 C0]you_won_t_have_to__own_a_pair[AE]_
+44C:_Ticket_Stub__@Printed_on_it"_[03 C0]_Save_ten_of_these__for_a_complimentary__tank_ride_[AE]_
+44D:
+44E:_Ocarina__@It_can_play_a_catchy__tune[AE]_
+44F:
+450:_Franklin_Badge__@Legend_says_that__Ben_Franklin_wore_[03 C0]this_reflective__badge_during_his_[03 C0]experiments_with__lightning[AE]_
+451:
+452:
+453:_Onyx_Hook__@As_long_as_you_have__it"_you_can_warp__back_to_Magicant[AE]_
+454:_Last_Weapon__@____
+455:_Ruler__@It_is_12_inches_long[AE]_
+456:_Ú___s_Cash_Card__@Use_it_for_all_your__banking_needs[AE]_
+457:_Red_Weed__@It_looks_like_just__grass"_but[AE][AE][AE]_
+458:_Bullhorn__@Your_amplified__voice_may_intimidate__an_enemy[AE]_
+459:
+45A:
+45B:
+45C:
+45D:
+45E:
+45F:
+460:
+461:
+462:
+463:
+464:
+465:
+466:
+467:_Debug__@[AE][AE][AE][AE][AE][AE][AE]_
+468:System_Error____
+469:System_Error____
+46A:System_Error____
+46B:System_Error____
+46C:System_Error____
+46D:System_Error____
+46E:System_Error____
+46F:System_Error____
+470:System_Error____
+471:System_Error____
+472:System_Error____
+473:System_Error____
+474:System_Error____
+475:System_Error____
+476:System_Error____
+477:System_Error____
+478:System_Error____
+479:System_Error____
+47A:System_Error____
+47B:System_Error____
+47C:System_Error____
+47D:System_Error____
+47E:System_Error____
+47F:System_Error____
+480:System_Error____
+481:System_Error____
+482:System_Error____
+483:System_Error____
+484:System_Error____
+485:System_Error____
+486:System_Error____
+487:System_Error____
+488:System_Error____
+489:System_Error____
+48A:System_Error____
+48B:System_Error____
+48C:System_Error____
+48D:System_Error____
+48E:System_Error____
+48F:System_Error____
+490:System_Error____
+491:System_Error____
+492:System_Error____
+493:System_Error____
+494:System_Error____
+495:System_Error____
+496:System_Error____
+497:System_Error____
+498:System_Error____
+499:System_Error____
+49A:System_Error____
+49B:System_Error____
+49C:System_Error____
+49D:System_Error____
+49E:System_Error____
+49F:System_Error____
+4A0:System_Error____
+4A1:System_Error____
+4A2:System_Error____
+4A3:System_Error____
+4A4:System_Error____
+4A5:System_Error____
+4A6:System_Error____
+4A7:System_Error____
+4A8:System_Error____
+4A9:System_Error____
+4AA:System_Error____
+4AB:System_Error____
+4AC:System_Error____
+4AD:System_Error____
+4AE:System_Error____
+4AF:System_Error____
+4B0:System_Error____
+4B1:System_Error____
+4B2:System_Error____
+4B3:System_Error____
+4B4:System_Error____
+4B5:System_Error____
+4B6:System_Error____
+4B7:System_Error____
+4B8:System_Error____
+4B9:System_Error____
+4BA:System_Error____
+4BB:System_Error____
+4BC:System_Error____
+4BD:System_Error____
+4BE:System_Error____
+4BF:System_Error____
+4C0:System_Error____
+4C1:System_Error____
+4C2:System_Error____
+4C3:System_Error____
+4C4:System_Error____
+4C5:System_Error____
+4C6:System_Error____
+4C7:System_Error____
+4C8:System_Error____
+4C9:System_Error____
+4CA:System_Error____
+4CB:System_Error____
+4CC:System_Error____
+4CD:System_Error____
+4CE:System_Error____
+4CF:System_Error____
+4D0:System_Error____
+4D1:System_Error____
+4D2:System_Error____
+4D3:System_Error____
+4D4:System_Error____
+4D5:System_Error____
+4D6:System_Error____
+4D7:System_Error____
+4D8:System_Error____
+4D9:System_Error____
+4DA:System_Error____
+4DB:System_Error____
+4DC:System_Error____
+4DD:System_Error____
+4DE:System_Error____
+4DF:System_Error____
+4E0:System_Error____
+4E1:System_Error____
+4E2:System_Error____
+4E3:System_Error____
+4E4:System_Error____
+4E5:System_Error____
+4E6:System_Error____
+4E7:System_Error____
+4E8:System_Error____
+4E9:System_Error____
+4EA:System_Error____
+4EB:System_Error____
+4EC:System_Error____
+4ED:System_Error____
+4EE:System_Error____
+4EF:System_Error____
+4F0:System_Error____
+4F1:System_Error____
+4F2:System_Error____
+4F3:System_Error____
+4F4:System_Error____
+4F5:System_Error____
+4F6:System_Error____
+4F7:System_Error____
+4F8:System_Error____
+4F9:System_Error____
+4FA:System_Error____
+4FB:System_Error____
+4FC:System_Error____
+4FD:System_Error____
+4FE:System_Error____
+4FF:System_Error____
+500:System_Error____
+501:System_Error____
+502:System_Error____
+503:System_Error____
+504:System_Error____
+505:System_Error____
+506:System_Error____
+507:System_Error____
+508:System_Error____
+509:System_Error____
+50A:System_Error____
+50B:System_Error____
+50C:System_Error____
+50D:System_Error____
+50E:System_Error____
+50F:System_Error____
+510:System_Error____
+511:System_Error____
+512:System_Error____
+513:System_Error____
+514:
+515:Should_you_fight"_or_run_
+516:It_seems_to_have_an_important_secret[AE]
+517:It_there_any_way_to_defeat_him_
+518:Don_t_let_him_stop_and_unpack_his_trunk_
+519:Somebody_ate_his_porridge"_and_he_isn_t_too_happy_about_it_
+51A:Surprised__It_really_does_exist_
+51B:Be_careful_of_its_exhaust_if_you_are_asthmatic[AE]
+51C:Hypnotism_does_not_work_on_this_robot[AE]
+51D:Special_armor_protects_from_PSI_attack[AE]
+51E:It_has"_the_awful_Stone_of_Origin[AE]
+51F:Something_like_this_should_not_exist_on_the_earth[AE][AE][AE]
+520:Don_t_let_this_primate_punk_pick_on_you_
+521:A_face_only_a_mother_could_love[AE]
+522:Watch_those_eyes_
+523:No_one_is_in_the_driver_s_seat[AE]
+524:It_has_strong_friends[AE]
+525:Its_shell_is_unbelievably_hard[AE]
+526:It_uses_hypnotism[AE]
+527:
+528:Its_quickness_is_the_source_of_its_pride[AE]
+529:Watch_out_for_those_pearly_whites[AE]
+52A:That_thief__
+52B:Don_t_accept_his_invitation_to_dinner[AE]
+52C:A_walking_fuel_supply[AE]
+52D:It_seems_to_be_guarding_something[AE]
+52E:He_can_be_found_on_the_FBI_s_most_wanted_list[AE]
+52F:Maybe_he_is_not_really_rotten_to_the_core[AE]
+530:A_malnourished_robot_
+531:Do_not_be_tricked_by_her_smile[AE]
+532:A_man_from_the_stars[AE]
+533:This_thing_could_not_occur_naturally
+534:What_evil_lab_has_manufactured_this_mobile_brain[AE]
+535:It_uses_various_PSI_attack[AE]
+536:It_would_be_nice_to_have_armor_of_your_own[AE]
+537:An_animated_tree_with_suspicious_actions[AE]
+538:He_has_a_short_temper"_so_be_careful[AE]
+539:He_looks_like_he_could_grow_flowers_in_his_hair[AE]
+53A:Her_refrigerator_shaped_body_holds_a_heart_of_ice[AE]
+53B:A_real_bad_apple"_stay_out_of_his_way[AE]
+53C:His_twisted_face_covers_his_twisted_mind[AE]
+53D:
+53E:Careful"_his__Smash_Hit_is_quite_effective[AE]
+53F:Watch_out_for_further_sneak_attacks[AE]
+540:Watch_your_wallet_and_count_your_change"_he_s_a_thief[AE]
+541:It_might_not_poison"_maybe[AE][AE][AE]
+542:He_who_laughs_last_laughs_best[AE]
+543:It_is_quite_different_than_a_pet_cat[AE]
+544:Exterminate_with_Insecticide[AE]
+545:AHH,Choooo__
+546:Insecticide_is_effective[AE]
+547:You_ll_want_to_try_Insecticide[AE]
+548:It_s_poisonous"_but_Insecticide_works[AE]
+549:Don_t_let_yourself_get_tied_up_fighting_this_guy[AE]
+54A:It_looks_like_it_jumped_out_of_a_comic_book[AE]
+54B:This_enemy_s_face_is_the_easiest_to_draw[AE]
+54C:If_he_was_a_mask"_someone_might_mistake_your_identity[AE]
+54D:Just_an_ordinary_ghost[AE]
+54E:Only_as_big_as_a_dinner_plate[AE]
+54F:Life_itself_is_a_puzzle_for_Mr[AE]Bat[AE]
+550:He_is_small"_but_it_is_obvious_that_he_is_a_spaceman[AE]
+551:Hold_your_nose_
+552:An_evil"_caped_Zombie[AE]_Beware"_his__Last_strike__could_be_devastating[AE]
+553:A_big_rat"_with_a_tail_this_long[AE]
+554:Shaped_like_an_egg"_but_a_little_tougher[AE]
+555:
+556:It_stares_back_at_you[AE]
+557:It_hovers_in_the_air_
+558:
+559:
+55A:It_s_strong_poison_was_developed_in_a_laboratory[AE]
+55B:Beware_of_its_poison_and_Stone_of_Origin[AE]
+55C:
+55D:
+55E:Good_experience"_if_it_doesn_t_run[AE]
+55F:It_seems_that_it_does_not_have_any_friends[AE]
+560:His_chair_was_broken"_and_he_isn_t_very_happy_
+561:
+562:
+563:
+564:
+565:Where_s_that_antidote[AE]
+566:Poison"_poison"_poison[AE]
+567:If_he_smiles"_don_t_smile_back[AE]
+568:
+569:Its_father_won_t_even_look_at_his_face[AE]
+56A:
+56B:Beware_of_its_Stone_of_Origin[AE]
+56C:I_wonder_if_it_carries_fleas_
+56D:Hypnotism_does_not_work_on_the_car[AE]
+56E:Hypnotism_does_not_work_on_this_vehicle[AE]
+56F:What_is_going_to_happen_next"_speeding"_reckless_driving"_or[AE][AE]
+570:Don_t_alarm_this_ghost"_he_has_friends_
+571:
+572:The_optometrists_favorite[AE]
+573:Watch_your_step"_Dadseyes_are_every_where[AE]
+574:Momseyes_will_spot_you_for_sure_
+575:
+576:
+577:It_has_friends_
+578:
+579:He_only_has_PK_Beam[AE]
+57A:As_strong_as_on_ox[AE]
+57B:Ragged_around_the_edges"_but_do_not_underestimate_it[AE]
+57C:The_latest_in_the_product_line[AE]
+57D:This_is_as_big_as_a_manhole_cover[AE]
+57E:Do_not_be_tricked_by_her_beauty[AE]
+57F:It_carries"_and_likes_to_use_Bombs[AE]
+580:There_is_a_plenty_of_fuel_inside[AE]
+581:She_is_good_at"_and_not_afraid_to_use_a_strong_PSI_attack[AE]
+582:His_sole_purpose_is_to_keep_travelers_from_passing_through_the_cave[AE]
+583:It_likes_to_use_PK_Freeze[AE]
+584:If_you_can_beat_it"_that_is_great[AE]
+585:Not_only_will_it_attack_using_PSI"_it_is_a_thief_
+586:
+587:Careful"_he_knows__Brain_Shock_[AE]
+588:_It_attacks_with_bare_hands[AE]_
+589:Its_marvelous_silver_coat_glistens_and_gleams[AE]
+58A:He_is_absolutely_huge_
+58B:If_you_must_sleep"_don_t_borrow_his_bed_
+58C:New_and_unfortunately"_improved[AE]
+58D:The_strongest_of_the_Starmen[AE]
+58E:System_Error____
+58F:System_Error____
+590:System_Error____
+591:System_Error____
+592:System_Error____
+593:
+594:System_Error____
+595:System_Error____
+596:System_Error____
+597:System_Error____
+598:System_Error____
+599:System_Error____
+59A:System_Error____
+59B:System_Error____
+59C:System_Error____
+59D:System_Error____
+59E:System_Error____
+59F:System_Error____
+5A0:System_Error____
+5A1:System_Error____
+5A2:System_Error____
+5A3:System_Error____
+5A4:System_Error____
+5A5:System_Error____
+5A6:System_Error____
+5A7:System_Error____
+5A8:System_Error____
+5A9:System_Error____
+5AA:System_Error____
+5AB:System_Error____
+5AC:System_Error____
+5AD:System_Error____
+5AE:System_Error____
+5AF:System_Error____
+5B0:System_Error____
+5B1:System_Error____
+5B2:System_Error____
+5B3:System_Error____
+5B4:System_Error____
+5B5:System_Error____
+5B6:System_Error____
+5B7:System_Error____
+5B8:System_Error____
+5B9:System_Error____
+5BA:System_Error____
+5BB:System_Error____
+5BC:System_Error____
+5BD:System_Error____
+5BE:System_Error____
+5BF:System_Error____
+5C0:System_Error____
+5C1:System_Error____
+5C2:System_Error____
+5C3:System_Error____
+5C4:System_Error____
+5C5:System_Error____
+5C6:System_Error____
+5C7:System_Error____
+5C8:System_Error____
+5C9:System_Error____
+5CA:System_Error____
+5CB:System_Error____
+5CC:System_Error____
+5CD:System_Error____
+5CE:System_Error____
+5CF:System_Error____
+5D0:System_Error____
+5D1:System_Error____
+5D2:System_Error____
+5D3:System_Error____
+5D4:System_Error____
+5D5:System_Error____
+5D6:System_Error____
+5D7:System_Error____
+5D8:System_Error____
+5D9:System_Error____
+5DA:System_Error____
+5DB:System_Error____
+5DC:
+5DD:
+5DE:ÙÁ¿Û_ÉÙÁÀÛ_É
+5DF:Ú_¡_draws_near_
+5E0:Ú_¡_s_attack_
+5E1:Ú_¡_fired_the_tank_gun_
+5E2:_Ú_¡_dodged__swiftly[AE]
+5E3:Continuous_attack_
+5E4:Ú_¡_bit_Ú_¡_
+5E5:Ú_¡_scratched_Ú_¡_
+5E6:Ú_¡_charged_at_Ú_¡_
+5E7:___________
+5E8:_Ú_¡_suffered__damage_of_Ü_¡[BREAK]
+5E9:________YOU_WIN__
+5EA:_You_lost_the_battle[AE]_
+5EB:_Defeated__Ú_¡_
+5EC:_Ú_¡_was__hurt_and_beaten[AE]
+5ED:_Ú_¡__was_already_gone[AE]
+5EE:_There_was_no_effect__on_Ú_¡[AE]
+5EF:Ú_¡_ran_out_of_control_
+5F0:_Ú_¡_was__totally_exhausted[AE]
+5F1:Ú_¡_s_last_blow___
+5F2:The_form_of_Ú_¡_s_attack_was_inexplicable_
+5F3:_Ú_¡_was__surrounded_by_a__barrier[AE]
+5F4:__Your_mother_is___calling_for_you__
+5F5:_Ú_¡_turned__into_a_stone[AE]
+5F6:Ú_¡_spit_a_sticky_substance_
+5F7:_Ú_¡_was__blinded_
+5F8:Ú_¡_is_bound_tightly[AE]
+5F9:Ú_¡_let_out_a_strange_cry_
+5FA:_Ú_¡__exploded_
+5FB:_Ú_¡_burst__into_flames_
+5FC:_Ú_¡_s__OFFENSE_increased__by_Ü_¡[BREAK]
+5FD:_Ú_¡_s__OFFENSE_decreased__by_Ü_¡[BREAK]
+5FE:_Ú_¡_s__DEFENSE_increased__by_Ü_¡[BREAK]
+5FF:_Ú_¡_s_SPEED__increased_by_Ü_¡[BREAK]
+600:[NOTE]_OFFENSE_Ü_¡[BREAK]
+601:[NOTE]_DEFENSE_Ü_¡[BREAK]
+602:_Ú_¡_s_FIGHT__decreased_by_Ü_¡[BREAK]
+603:_Ú_¡_s__DEFENSE_decreased__by_Ü_¡[BREAK]
+604:Ú_¡_smiled_a_darling_smile[AE]
+605:_Ú_¡_s_FIGHT__increased_by_Ü_¡[BREAK]
+606:Ú_¡_flew_into_a_rage_
+607:_Ú_¡_s_SPEED__decreased_by_Ü_¡[BREAK]
+608:Ú_¡_made_Ú_¡_confused_
+609:Ú_¡_cried_out_for_help_
+60A:Ú_¡_sowed_its_seed_
+60B:_Don_t_know_why"_but__Ú_¡_s_EXP__increased[AE]
+60C:Ú_¡_started_laughing_
+60D:The_tank_is_broken[AE]
+60E:Ú_¡_uttered_threatening_words_
+60F:Ú_¡_uttered_dirty_words_
+610:Ú_¡_just_grins"_and_bears_it[AE]
+611:_and_Ú_¡__believed_it_
+612:_but_Ú_¡__wasn_t_convinced__at_all[AE]
+613:_This_made__Ú_¡_angry[AE]
+614:_Ú_¡_s__situation_became__critical[AE]
+615:_Ú_¡_lost__all_senses[AE]
+616:Ú_¡_is_so_confused[AE]
+617:_Ú_¡_was__put_to_sleep[AE]
+618:Ú_¡_is_asleep[AE]
+619:_Ú_¡__recovered_Ü_¡[BREAK]
+61A:_Ú_¡__recovered_Ü_¡[BREAK]
+61B:Ú_¡_s_energy_has_flowed_into_Ú_¡_
+61C:_However"_no_one_came__to_assist[AE]
+61D:_Silence[AE][AE][AE]
+61E:_Ú_¡_joined__in_the_battle_
+61F:Ú_¡_ran_away_
+620:[AE][AE][AE]But_it_didn_t_work_out[AE]
+621:Ú_¡_tripped_and_fell[AE]
+622:Ú_¡_can_t_move[AE]
+623:Ú_¡_turned_into_a_stone[AE]
+624:_Ü_¡[BREAK]
+625:_Ú_¡_can_not__move[AE]
+626:Ú_¡_puffed_a_cloud_of_exhaust_gas_
+627:_Ú_¡_was__poisoned[AE]
+628:_Ú_¡_was__dehydrated[AE]
+629:_Ú_¡_s_PSI__was_blocked[AE]
+62A:_Ú_¡_was__bound_with_Rope[AE]
+62B:_Ú_¡_was__shielded[AE]
+62C:_Miss__
+62D:_But"_the_PSI_was__blocked[AE]
+62E:_But"_Ú_¡_s__FranklinBadge_bounced__back_the_Beam_
+62F:_Ú_¡_bounced__back_the_attack_
+630:_Not_enough_PP_s[AE]
+631:_There_was_no_effect__on_Ú_¡[AE]
+632:Ú_¡_had_an_asthma_attack[AE]_Wheeze[AE][AE][AE]
+633:Ú_¡_is_meditating[AE]
+634:Ú_¡_said__Hello_"_then_just_walked_away[AE]
+635:Ú_¡_is_ready_for_an_attack[AE]
+636:Ú_¡_sang_the_song_
+637:Ú_¡_is_guarding[AE]
+638:Ú_¡_approached_slowly_
+639:_Poison_has_dissipated__from_Ú_¡_s__body[AE]
+63A:_Ú_¡_senses__were_regained[AE]
+63B:_Ú_¡__became_itchy__all_over[AE]
+63C:_Ú_¡_can__move_now[AE]
+63D:_Ú_¡_woke_up[AE]
+63E:_Brought_Ú_¡__back___
+63F:Ú_¡_USEd_Ú_¡_
+640:Ú_¡_tried_Ú_¡_
+641:Ú_¡_can_t_USE_Ú_¡_
+642:Ú_¡_is_thinking_about_the_circumstances[AE]
+643:Ú_¡_did_something_strange[AE]
+644:Ú_¡_is_day,dreaming[AE]
+645:_Destroyed__Ú_¡_s__shield[AE]
+646:Ú_¡_CHECKed_Ú_¡[AE]
+647:[NOTE]_Strong_against___PK_Fire[AE]
+648:[NOTE]_Strong_against___PK_Freeze[AE]
+649:[NOTE]_Strong_against___PK_Thunder[AE]
+64A:[NOTE]_Strong_against___PK_Beam[AE]
+64B:[NOTE]_Weak_against___Sprays[AE]
+64C:_Ú_¡_s_asthma__attack_has_passed[AE]
+64D:_Ú_¡__recovered_from__being_a_stone[AE]
+64E:__I_love_you[AE]_
+64F:__I_hate_you[AE]_
+650:_Ú_¡_had_an__asthma_attack[AE]
+651:_Ú_¡_was__broken[AE]
+652:Ú_¡_used_the_Wicked_Seed_
+653:Ú_¡_used_a_paralizing_gas_
+654:_Ú_¡_turned__into_a_stone[AE]
+655:_Ú_¡_regained__all_senses_
+656:_Ú_¡_became__quiet_
+657:_Ú_¡_was__beaten_
+658:_Ú_¡_was__destroyed_
+659:_Ú_¡_has__returned_to_dust_
+65A:_Ú_¡_doesn_t__move_anymore_
+65B:_Ú_¡_became__a_pile_of_junk_
+65C:_Ú_¡__vanished_
+65D:Ú_¡_took_away_Ú_¡_s_Ú_¡_
+65E:Ú_¡_advanced_to_the_next_Level__[PAUSE]_Maximum_HP_has__increased_by_Ü_
+65F:Ú_¡_learned_a_new_PSI,Power_through_battle__[PAUSE]Picked_up_Ú[04]___[PAUSE]"ÚÃ__hears_the_voice_of_Queen_Mary'_[03 C7]iegue_cannot_be_defeated_with_force[AE][AE][AE]_[03 D9]ou_cannot_defeat_Giegue_with_a_weapon_of_any_kind[AE]_[03 D9]ou_must_SING_my_lullaby"_with_all_your_feelings[AE][AE][AE]_[03 D3]ING_my_lullaby_with_all_your_heart[AE]_[PAUSE]
+660:_Maximum_HP_has__increased_by_Ü_
+661:_Maximum_PP_has__increased_by_Ü_
+662:_FIGHT_has__increased_by_Ü_
+663:_SPEED_has__increased_by_Ü_
+664:_WISDOM_has__increased_by_Ü_
+665:_STRENGTH_has__increased_by_Ü_
+666:_FORCE_has__increased_by_Ü%
+667:Ú_¡_escaped_from_the_Rope[AE]
+668:Picked_up_Ú[04]___[PAUSE]"ÚÃ__hears_the_voice_of_Queen_Mary'_[03 C7]iegue_cannot_be_defeated_with_force[AE][AE][AE]_[03 D9]ou_cannot_defeat_Giegue_with_a_weapon_of_any_kind[AE]_[03 D9]ou_must_SING_my_lullaby"_with_all_your_feelings[AE][AE][AE]_[03 D3]ING_my_lullaby_with_all_your_heart[AE]_[PAUSE]
+669:_Ú_¡_wasn_t__confused_anymore_
+66A:Ú_¡_woke_up[AE]
+66B:ZAP___
+66C:_But[AE][AE][AE]__it_had_no_effect_
+66D:_Ú_¡__became_empty[AE]
+66E:_The_battle_lingers_on[AE]_
+66F:"ÚÃ__hears_the_voice_of_Queen_Mary'_[03 C7]iegue_cannot_be_defeated_with_force[AE][AE][AE]_[03 D9]ou_cannot_defeat_Giegue_with_a_weapon_of_any_kind[AE]_[03 D9]ou_must_SING_my_lullaby"_with_all_your_feelings[AE][AE][AE]_[03 D3]ING_my_lullaby_with_all_your_heart[AE]_[PAUSE]
+670:
+671:
+672:_Ú____[03 A0]I_am_grateful_to__your_family[AE]_[PAUSE]_Your_Great,__Grandparents"_[03 A0]George_and_Maria__raised_me[AE]_[PAUSE]_But"_George_stole__vital_information_[03 A0]from_our_planet__that_can_be_used_[03 A0]to_betray_my__people[AE][AE][AE]_[PAUSE]_And_now"_one_of_his__descendants_[03 A0]is_obstructing__our_plans"_[03 A0]and_must_be__stopped___[03 A0]Ú_____I_am_talking_about__you__[PAUSE]_Go_home_now__[03 A0]Perish_with_the__rest_of_the_ugly_[03 A0]Earth_People[AE]_[PAUSE]_Foolish_one"_you__cannot_do_a_thing_[03 A0]with_your_meager__powers[AE][AE][AE]_[03 A0]Powers_worthy_of__a_lowly_insect[AE]_[PAUSE]_Ú_____You_alone"_[03 A0]I_may_save_you[AE]__Just_you_alone[AE]_[03 A0]Board_our__Mother_Ship_with_me[AE]_[PAUSE]_[AE][AE][AE]then"_fall_into__long_sleep_[03 A0]with_your_friends_[03 A0]and_the_other_ugly__Earth_People[AE]_[PAUSE]_Stop_singing[AE]
+673:_Your_Great,__Grandparents"_[03 A0]George_and_Maria__raised_me[AE]_[PAUSE]_But"_George_stole__vital_information_[03 A0]from_our_planet__that_can_be_used_[03 A0]to_betray_my__people[AE][AE][AE]_[PAUSE]_And_now"_one_of_his__descendants_[03 A0]is_obstructing__our_plans"_[03 A0]and_must_be__stopped___[03 A0]Ú_____I_am_talking_about__you__[PAUSE]_Go_home_now__[03 A0]Perish_with_the__rest_of_the_ugly_[03 A0]Earth_People[AE]_[PAUSE]_Foolish_one"_you__cannot_do_a_thing_[03 A0]with_your_meager__powers[AE][AE][AE]_[03 A0]Powers_worthy_of__a_lowly_insect[AE]_[PAUSE]_Ú_____You_alone"_[03 A0]I_may_save_you[AE]__Just_you_alone[AE]_[03 A0]Board_our__Mother_Ship_with_me[AE]_[PAUSE]_[AE][AE][AE]then"_fall_into__long_sleep_[03 A0]with_your_friends_[03 A0]and_the_other_ugly__Earth_People[AE]_[PAUSE]_Stop_singing[AE]
+674:_But"_George_stole__vital_information_[03 A0]from_our_planet__that_can_be_used_[03 A0]to_betray_my__people[AE][AE][AE]_[PAUSE]_And_now"_one_of_his__descendants_[03 A0]is_obstructing__our_plans"_[03 A0]and_must_be__stopped___[03 A0]Ú_____I_am_talking_about__you__[PAUSE]_Go_home_now__[03 A0]Perish_with_the__rest_of_the_ugly_[03 A0]Earth_People[AE]_[PAUSE]_Foolish_one"_you__cannot_do_a_thing_[03 A0]with_your_meager__powers[AE][AE][AE]_[03 A0]Powers_worthy_of__a_lowly_insect[AE]_[PAUSE]_Ú_____You_alone"_[03 A0]I_may_save_you[AE]__Just_you_alone[AE]_[03 A0]Board_our__Mother_Ship_with_me[AE]_[PAUSE]_[AE][AE][AE]then"_fall_into__long_sleep_[03 A0]with_your_friends_[03 A0]and_the_other_ugly__Earth_People[AE]_[PAUSE]_Stop_singing[AE]
+675:_And_now"_one_of_his__descendants_[03 A0]is_obstructing__our_plans"_[03 A0]and_must_be__stopped___[03 A0]Ú_____I_am_talking_about__you__[PAUSE]_Go_home_now__[03 A0]Perish_with_the__rest_of_the_ugly_[03 A0]Earth_People[AE]_[PAUSE]_Foolish_one"_you__cannot_do_a_thing_[03 A0]with_your_meager__powers[AE][AE][AE]_[03 A0]Powers_worthy_of__a_lowly_insect[AE]_[PAUSE]_Ú_____You_alone"_[03 A0]I_may_save_you[AE]__Just_you_alone[AE]_[03 A0]Board_our__Mother_Ship_with_me[AE]_[PAUSE]_[AE][AE][AE]then"_fall_into__long_sleep_[03 A0]with_your_friends_[03 A0]and_the_other_ugly__Earth_People[AE]_[PAUSE]_Stop_singing[AE]
+676:_Go_home_now__[03 A0]Perish_with_the__rest_of_the_ugly_[03 A0]Earth_People[AE]_[PAUSE]_Foolish_one"_you__cannot_do_a_thing_[03 A0]with_your_meager__powers[AE][AE][AE]_[03 A0]Powers_worthy_of__a_lowly_insect[AE]_[PAUSE]_Ú_____You_alone"_[03 A0]I_may_save_you[AE]__Just_you_alone[AE]_[03 A0]Board_our__Mother_Ship_with_me[AE]_[PAUSE]_[AE][AE][AE]then"_fall_into__long_sleep_[03 A0]with_your_friends_[03 A0]and_the_other_ugly__Earth_People[AE]_[PAUSE]_Stop_singing[AE]
+677:_Foolish_one"_you__cannot_do_a_thing_[03 A0]with_your_meager__powers[AE][AE][AE]_[03 A0]Powers_worthy_of__a_lowly_insect[AE]_[PAUSE]_Ú_____You_alone"_[03 A0]I_may_save_you[AE]__Just_you_alone[AE]_[03 A0]Board_our__Mother_Ship_with_me[AE]_[PAUSE]_[AE][AE][AE]then"_fall_into__long_sleep_[03 A0]with_your_friends_[03 A0]and_the_other_ugly__Earth_People[AE]_[PAUSE]_Stop_singing[AE]
+678:_Ú_____You_alone"_[03 A0]I_may_save_you[AE]__Just_you_alone[AE]_[03 A0]Board_our__Mother_Ship_with_me[AE]_[PAUSE]_[AE][AE][AE]then"_fall_into__long_sleep_[03 A0]with_your_friends_[03 A0]and_the_other_ugly__Earth_People[AE]_[PAUSE]_Stop_singing[AE]
+679:_[AE][AE][AE]then"_fall_into__long_sleep_[03 A0]with_your_friends_[03 A0]and_the_other_ugly__Earth_People[AE]_[PAUSE]_Stop_singing[AE]
+67A:_Stop_singing[AE]
+67B:_STOP_singing_
+67C:_STOP___Stop_the_song_
+67D:_STOP_IT____STOP_THAT_SONG_
+67E:_You_puny_little__Earth_bugs___Shut_up"_and__STOP_singing__
+67F:_The_SONG[AE][AE][AE]
+680:_STOP_IT___
+681:______
+682:_Stop[AE][AE][AE]__Pleeease"_stop_
+683:________
+684:_[AE][AE][AE][AE][AE][AE][AE][AE]
+685:_How_could_I_be__defeated_[03 A0]by_a_song__like_that__[PAUSE]_I_will[AE][AE][AE]__sometime[AE][AE][AE]_[PAUSE]_Ú_____We_SHALL_meet_again__[PAUSE]_Ú_¡_dodged__swiftly[AE]
+686:_I_will[AE][AE][AE]__sometime[AE][AE][AE]_[PAUSE]_Ú_____We_SHALL_meet_again__[PAUSE]_Ú_¡_dodged__swiftly[AE]
+687:_Ú_____We_SHALL_meet_again__[PAUSE]_Ú_¡_dodged__swiftly[AE]
+688:System_Error____
+689:System_Error____
+68A:System_Error____
+68B:System_Error____
+68C:System_Error____
+68D:System_Error____
+68E:System_Error____
+68F:System_Error____
+690:System_Error____
+691:System_Error____
+692:System_Error____
+693:System_Error____
+694:System_Error____
+695:System_Error____
+696:System_Error____
+697:System_Error____
+698:System_Error____
+699:System_Error____
+69A:System_Error____
+69B:System_Error____
+69C:System_Error____
+69D:System_Error____
+69E:System_Error____
+69F:System_Error____
+6A0:System_Error____
+6A1:System_Error____
+6A2:System_Error____
+6A3:System_Error____
+6A4:
+6A5:@ÚÙ__didn_t_do__anything[AE]_
+6A6:@ÚÙ__gave__ÚÝ__to__Ú
+6A7:@ÚÙ__put__ÚÝ__in__Ú
+6A8:@Ú
+6A9:@ÚÃ__threw__ÚÝ__out_of__ÚÙ__s_bag[AE]_
+6AA:@ÚÃ__took__ÚÝ__from__ÚÙ__s_bag__[03 C0]and_placed_it_in__Ú
+6AB:System_Error____
+6AC:System_Error____
+6AD:System_Error____
+6AE:System_Error____
+6AF:@ÚÙ__ate__ÚÝ_[AE]_
+6B0:@ÚÙ__drank__ÚÝ_[AE]_
+6B1:@recovered_by__Üä
+6B2:@increased_by__Üä
+6B3:@ÚÙ__s_HP_is_
+6B4:@ÚÙ__s_PP_is_
+6B5:@ÚÙ__s_ENERGY_is_
+6B6:@ÚÙ__s_SPEED_is_
+6B7:@ÚÙ__s_WISDOM_is_
+6B8:@ÚÙ__s_STRENGTH_is_
+6B9:@ÚÙ__s_FORCE_is_
+6BA:@ÚÙ__took_out_a__Magic_Herb_from_the__Big_Bag_and_USEd_it[AE]_
+6BB:@ÚÙ__started___dropping_the__Crumbs[AE]_
+6BC:@You_can_t_USE__Bread_until_old__Crumbs_are_USEd_up[AE]_
+6BD:@ÚÃ__returned__to_the_head_of_the__trail[AE][AE][AE]_[03 C0]by_following_the__Crumbs_that_had__been_dropped[AE]_
+6BE:@ÚÙ__tied_the__Ribbon_into__her_hair[AE]_
+6BF:@If_that_is_true"__push_the_POWER_off"_[03 C0]but_remember_to__hold_in_RESET__
+6C0:@ÚÙ__measured_the__lengths_of_many__things[AE]_
+6C1:@When_the_Big_Bag__was_emptied"_[03 C0]it_disappeared__into_thin_air[AE]_
+6C2:@The_credit_limit_of__the_Telephone_Card__has_been_reached[AE]_
+6C3:@The_poison_was__neutralized_from__ÚÙ__s_body[AE]_
+6C4:@ÚÙ__was_rid__of_the_cold[AE]_
+6C5:@ÚÙ__squeezed__the_PSI,Power__Stone[AE]_
+6C6:@The_PSI,Power__Stone_became_an__ordinary_stone[AE]_
+6C7:@ÚÙ__tried__ÚÝ_[AE]_
+6C8:@There_isn_t_enough__power_left_to_try__that[AE]_
+6C9:@ÚÙ__has__returned_to_the__scene[AE]_
+6CA:@The_Diary_was_hard__to_read"_but_opened__up_to_this_page[AE][AE][AE]_[03 C0]"PASSWORD'_[03 C0][AE][AE][AE][AE]_the_one_who__lost_the_tail[AE]_[03 C0]The_forgotten_one[AE][AE][AE]__[AE][AE][AE]the_ship__that_sails[AE][AE][AE]_
+6CB:@Ú
+6CC:@The_Ocarina__played_on_and_on[AE][AE][AE]_
+6CD:@Did_you_hear_it__
+6CE:@This_place_is_not__on_the_map[AE]_
+6CF:@ÚÃ__checked__the_map[AE]_
+6D0:@Stopped_by_some__mysterious_force[AE]_
+6D1:@The_Repel_Ring__has_lost_its__mysterious_power[AE]_
+6D2:System_Error____
+6D3:System_Error____
+6D4:System_Error____
+6D5:System_Error____
+6D6:System_Error____
+6D7:System_Error____
+6D8:System_Error____
+6D9:System_Error____
+6DA:System_Error____
+6DB:System_Error____
+6DC:System_Error____
+6DD:System_Error____
+6DE:System_Error____
+6DF:System_Error____
+6E0:System_Error____
+6E1:System_Error____
+6E2:System_Error____
+6E3:System_Error____
+6E4:System_Error____
+6E5:System_Error____
+6E6:System_Error____
+6E7:System_Error____
+6E8:System_Error____
+6E9:System_Error____
+6EA:System_Error____
+6EB:System_Error____
+6EC:System_Error____
+6ED:System_Error____
+6EE:System_Error____
+6EF:System_Error____
+6F0:System_Error____
+6F1:System_Error____
+6F2:System_Error____
+6F3:System_Error____
+6F4:_This_software_is_an_illegal_copy_of_a_Nintendo_game[AE]_The_use"_possession_or_sale_of_this_counterfeit_cartridge_is_illegal_and_infringes_Nintendo_copyrights[AE]____________Nintendo_Co[AE]"_Ltd[AE]___________Kyoto"_Japan_/___________Redmond_WA"_USA[AE]__This_illegal_copy_of_NES_EARTH_BOUND_will_no_longer_function[AE]__
+6F5:System_Error____
+6F6:System_Error____
+6F7:System_Error____
+6F8:System_Error____
+6F9:System_Error____
+6FA:System_Error____
+6FB:System_Error____
+6FC:System_Error____
+6FD:System_Error____
+6FE:________
+6FF:At_the_summit_of_Mt[AE]_Itoi"_Ú8__is_reunited_with_her_mom_as_the_rest_of_the_freed_Earth_people_exit_the_cave[AE]_
+700:_Úò_"_his_health_fully__recovered"_now_sings_daily__at_The_Live_Show[AE]_
+701:__The_kidnapped_grown,ups___return_to_their_lonely___children_in_Youngtown[AE]_
+702:"Ú8_'_I_promise_I_won_t_forget_you_so_I_will_not_say_Good,Bye"_just_,__til_we_meet_again__
+703:_Úx__returns_to_a_hero_s__welcome_at_Twinkle__Elementary_School[AE]_
+704:Son"_your_sisters_and_I_are_so_happy_to_see_you_back_in_one_piece[AE]_How_unbelievable_that_you_are_not_hungry[AE]_
+705:_A_letter_from_Ú__"__I_miss_him_so_much[AE]_I_hope__we_can_get_together_again__soon[AE]_
+706:_Well"_now_that_the_Earth_s__crisis_is_finally_over"_I__think_I_ll_just_lay_down__for_a_moment_and_Zzzzzzzzz_
+707:_I_know_that_boy_is_home[AE]__Come_on_son_and_answer_the__phone[AE]_Something_new_has__come_up_and[AE][AE][AE]_
+708:ÚÙ_
+709:SHIGESATO_ITOI
+70A:MIYUKI_KURE
+70B:AKIO_OHMORI
+70C:RITSUO_KAMIMURA
+70D:KEIICHI_SUZUKI
+70E:HIROKAZU_TANAKA
+70F:SHINBO_MINAMI
+710:TATSUYA_ISHII
+711:TOTTORI
+712:KAZUYA_NAKATANI
+713:TAKAYUKI_ONODERA
+714:MOTOO_YASUMA
+715:MASAYUKI_KAMEYAMA
+716:HIDEO_KON
+717:KATSUTOMO_MAEIWA
+718:KUNIKO_SAKURAI
+719:MASAHIRO_TATEMOTO
+71A:TAKASHI_KAWAGUCHI
+71B:KEIZOH_KATOH
+71C:MOTOHIRO_ISHII
+71D:AKIHITO_TODA
+71E:YUKARI_SAITOH
+71F:PHIL_SANDHOP
+720:TOSHIKO_WATSON
+721:YUKA_NAKATA
+722:HIROKO_FAULKNER
+723:TONY_HARMAN
+724:DAYV_BROOKS
+725:NORIYUKI_MINAMI
+726:BIN_OHGAWARA
+727:YOSHIHISA_WADA
+728:HIKONORI_SUZUKI
+729:TAKAO_SHIMIZU
+72A:SHIGERU_MIYAMOTO
+72B:HIROSHI_YAMAUCHI
+72C:System_Error____
+72D:System_Error____
+72E:System_Error____
+72F:System_Error____
+730:System_Error____
+731:System_Error____
+732:System_Error____
+733:System_Error____
+734:System_Error____
+735:System_Error____
+736:System_Error____
+737:System_Error____
+738:System_Error____
+739:System_Error____
+73A:System_Error____
+73B:System_Error____
+73C:System_Error____
+73D:System_Error____
+73E:System_Error____
+73F:System_Error____
+740:System_Error____
+741:System_Error____
+742:System_Error____
+743:System_Error____
+744:System_Error____
+745:System_Error____
+746:System_Error____
+747:System_Error____
+748:System_Error____
+749:System_Error____
+74A:System_Error____
+74B:System_Error____
+74C:System_Error____
+74D:System_Error____
+74E:System_Error____
+74F:System_Error____
+750:System_Error____
+751:System_Error____
+752:System_Error____
+753:System_Error____
+754:System_Error____
+755:System_Error____
+756:System_Error____
+757:System_Error____
+758:System_Error____
+759:System_Error____
+75A:System_Error____
+75B:System_Error____
+75C:System_Error____
+75D:System_Error____
+75E:System_Error____
+75F:System_Error____
+760:System_Error____
+761:System_Error____
+762:System_Error____
+763:System_Error____
+764:System_Error____
+765:System_Error____
+766:System_Error____
+767:System_Error____
+768:System_Error____
+769:System_Error____
+76A:System_Error____
+76B:System_Error____
+76C:System_Error____
+76D:System_Error____
+76E:System_Error____
+76F:System_Error____
+770:System_Error____
+771:System_Error____
+772:System_Error____
+773:System_Error____
+774:System_Error____
+775:System_Error____
+776:System_Error____
+777:System_Error____
+778:System_Error____
+779:System_Error____
+77A:System_Error____
+77B:System_Error____
+77C:System_Error____
+77D:System_Error____
+77E:System_Error____
+77F:System_Error____
+780:System_Error____
+781:System_Error____
+782:System_Error____
+783:System_Error____
+784:System_Error____
+785:System_Error____
+786:System_Error____
+787:System_Error____
+788:System_Error____
+789:System_Error____
+78A:System_Error____
+78B:System_Error____
+78C:System_Error____
+78D:System_Error____
+78E:System_Error____
+78F:System_Error____
+790:System_Error____
+791:System_Error____
+792:System_Error____
+793:System_Error____
+794:System_Error____
+795:System_Error____
+796:System_Error____
+797:System_Error____
+798:System_Error____
+799:System_Error____
+79A:System_Error____
+79B:System_Error____
+79C:System_Error____
+79D:System_Error____
+79E:System_Error____
+79F:System_Error____
+7A0:System_Error____
+7A1:System_Error____
+7A2:System_Error____
+7A3:System_Error____
+7A4:System_Error____
+7A5:System_Error____
+7A6:System_Error____
+7A7:System_Error____
+7A8:System_Error____
+7A9:System_Error____
+7AA:System_Error____
+7AB:System_Error____
+7AC:System_Error____
+7AD:System_Error____
+7AE:System_Error____
+7AF:System_Error____
+7B0:System_Error____
+7B1:System_Error____
+7B2:System_Error____
+7B3:System_Error____
+7B4:System_Error____
+7B5:System_Error____
+7B6:System_Error____
+7B7:System_Error____
+7B8:System_Error____
+7B9:System_Error____
+7BA:System_Error____
+7BB:System_Error____
+7BC:System_Error____
+7BD:System_Error____
+7BE:System_Error____
+7BF:System_Error____
+7C0:System_Error____
+7C1:System_Error____
+7C2:System_Error____
+7C3:System_Error____
+7C4:System_Error____
+7C5:System_Error____
+7C6:System_Error____
+7C7:System_Error____
+7C8:System_Error____
+7C9:System_Error____
+7CA:System_Error____
+7CB:System_Error____
+7CC:System_Error____
+7CD:System_Error____
+7CE:System_Error____
+7CF:
+7D0:
+7D1:
+7D2:
+7D3:
+7D4:
+7D5:
+7D6:
+7D7:
+7D8:
+7D9:
+7DA:
+7DB:
+7DC:
+7DD:
+7DE:
+7DF:
+7E0:
+7E1:
+7E2:
+7E3:
+7E4:
+7E5:
+7E6:
+7E7:
+7E8:
+7E9:
+7EA:
+7EB:
+7EC:
+7ED:
+7EE:
+7EF:
+7F0:
+7F1:
+7F2:
+7F3:
+7F4:
+7F5:
+7F6:
+7F7:
+7F8:
+7F9:
+7FA:
+7FB:
+7FC:
+7FD:
+7FE:
+7FF:
+800:
+801:
+802:
+803:
+804:
+805:
+806:
+807:
+808:
+809:
+80A:
+80B:
+80C:
+80D:
+80E:
+80F:
+810:
+811:
+812:
+813:
+814:
+815:
+816:
+817:
+818:
+819:
+81A:
+81B:
+81C:
+81D:
+81E:
+81F:
+820:
+821:
+822:
+823:
+824:
+825:
+826:
+827:
+828:
+829:
+82A:
+82B:
+82C:
+82D:
+82E:
+82F:
+830:
+831:
+832:
+833:
+834:
+835:
+836:
+837:
+838:
+839:
+83A:
+83B:
+83C:
+83D:
+83E:
+83F:
+840:
+841:
+842:
+843:
+844:
+845:
+846:
+847:
+848:
+849:
+84A:
+84B:
+84C:
+84D:
+84E:
+84F:
+850:
+851:
+852:
+853:
+854:
+855:
+856:
+857:
+858:
+859:
+85A:
+85B:
+85C:
+85D:
+85E:
+85F:
+860:
+861:
+862:
+863:
+864:
+865:
+866:
+867:
+868:
+869:
+86A:
+86B:
+86C:
+86D:
+86E:
+86F:
+870:
+871:
+872:
+873:
+874:
+875:
+876:
+877:
+878:
+879:
+87A:
+87B:

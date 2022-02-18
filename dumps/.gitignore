@@ -1,0 +1,9 @@
+# ignore all roms and save files
+*.gba
+*.sav
+*.sgm
+*.bak
+*.ups
+
+# ignore OS files
+Thumbs.db
