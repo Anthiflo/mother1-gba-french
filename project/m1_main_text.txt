@@ -3397,7 +3397,7 @@
 670: 
 670-E: [END]
 671:    
-671-E: [END]
+671-E: d[03 5E][END]
 672:  
 672-E: vaincu[END]
 673:   
@@ -3429,7 +3429,7 @@
 680:   
 680-E: L'équipe d[03 5E][END]
 681:   
-681-E: l'équipe d[03 5E][END]
+681-E: de l'équipe d[03 5E][END]
 682:   
 682-E: vaincue[END]
 683:   
@@ -3588,7 +3588,7 @@
 6CF: @[03 1A] checked the map.[BREAK]
 6CF-E: @[03 1A] consulte la carte.[BREAK]
 6D0: @Some sort of force is[BREAK]pushing [03 16][03 17][BREAK]back.[BREAK]
-6D0-E: @Une sorte de force repousse[BREAK][03 71][03 16].[BREAK]
+6D0-E: @Une force mystérieuse[BREAK]bloque l'action[BREAK][03 71][03 16].[BREAK]
 // appel ligne 671 ou 681
 6D1: @The Repel Ring's mysterious[BREAK]power wore off.[BREAK]
 6D1-E: @Le mystérieux pouvoir de[BREAK]la Bague répulsive s'est[BREAK]dissipé.[BREAK]
