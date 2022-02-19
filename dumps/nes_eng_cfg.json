@@ -1,0 +1,25 @@
+{
+	"start_addr": "30010",
+	"has_pointers": true,
+	"nb_entries": "7D0",
+	"text_offset": "60010",
+	"addr_size": 3,
+	"endian": "little",
+	"char_table": "nes_eng_chars.txt",
+	"end_byte": 0,
+	"cc_bytes": {
+		"03": {
+			"arguments":1
+		},
+		"21": {
+			"arguments":2
+		},
+		"23": {
+			"arguments":4
+		}
+	},
+	"known_commands": {
+		"03 C0": "PAUSE",
+		"03 02": "ALTPAUSE"
+	}
+}

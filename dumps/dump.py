@@ -1,21 +1,31 @@
 import re
 import sys
 import os
+import json
 
-POINTER_ADDR = "30010" #"F27A90"
-NB_POINTERS = "87C"
-ROM_OFFSET = "0" #"8000000"
-TEXT_OFFSET = "60010" #"0"
-ADDR_SIZE = 3 #4
-ENDIAN = "little"
-CC_BYTE = 3
+START_ADDR = "start_addr"
+HAS_POINTERS = "has_pointers"
+NB_ENTRIES = "nb_entries"
+TEXT_OFFSET = "text_offset"
+ADDR_SIZE = "addr_size"
+ENDIAN = "endian"
+CHAR_TABLE = "char_table"
+END_BYTE = "end_byte"
+CC_BYTES = "cc_bytes"
+CC_ARGUMENTS = "arguments"
+KNOWN_COMMANDS = "known_commands"
+
+def initConfig(filename):
+    cfgFile = open(filename,"r",encoding="utf-8")
+    cfg = json.load(cfgFile)
+    return cfg
 
 def initCharTable(filename):
     table = {}
     charFile = open(filename,"r",encoding="utf-8")
     charLines = charFile.readlines()   
     for charLine in charLines:
-        lineMatch = re.match("^(..) (.*)$", charLine)
+        lineMatch = re.match("^(..) (.+)$", charLine)
         if(lineMatch):
             charCode = int(lineMatch.group(1),16)
             char = lineMatch.group(2)
@@ -26,73 +36,87 @@ def initCharTable(filename):
     charFile.close()
     return table
 
-def initCCList():
-    lst = {}
-    lst[2]="PAUSE"
-    return lst
-
-def dumpPointers(file):
-    file.seek(int(POINTER_ADDR,16))
+def dumpPointers(file, cfg):
     pointers = []
-    for i in range(int(NB_POINTERS,16)):
-        addr = int.from_bytes(file.read(ADDR_SIZE), ENDIAN)
-        pointers.append(addr - int(ROM_OFFSET,16) + int(TEXT_OFFSET,16))
+    if (cfg[HAS_POINTERS]):
+        file.seek(int(cfg[START_ADDR],16))
+        for i in range(int(cfg[NB_ENTRIES],16)):
+            addr = int.from_bytes(file.read(cfg[ADDR_SIZE]), cfg[ENDIAN])
+            pointers.append(addr + int(cfg[TEXT_OFFSET],16))
     return pointers
+    
+def dumpOneLine(file, offset, charTable, cfg):
+    dumpedLine = ""
+    if (offset > 0):
+        file.seek(offset)
+    stopRead = False
+    while(not stopRead):
+        curByte = int.from_bytes(file.read(1), cfg[ENDIAN])
+        if (curByte == cfg[END_BYTE]):
+            stopRead = True
+        if (curByte in charTable):
+            dumpedLine += charTable[curByte]
+        else:
+            hexByte = "{0:02X}".format(curByte)
+            bytesStr = hexByte
+            if (hexByte in cfg[CC_BYTES]):
+                for i in range(cfg[CC_BYTES][hexByte][CC_ARGUMENTS]):
+                     paramByte = int.from_bytes(file.read(1), cfg[ENDIAN])
+                     hexParamByte = "{0:02X}".format(paramByte)
+                     bytesStr += " " + hexParamByte
+            if (bytesStr in cfg[KNOWN_COMMANDS]):
+                bytesStr = cfg[KNOWN_COMMANDS][bytesStr]
+            dumpedLine += "[" + bytesStr + "]"
+    return dumpedLine
 
-def dumpLines(file, pointers, charTable, ccList):
+def dumpLines(file, pointers, charTable, cfg):
     lines = []
-    for i in range(int(NB_POINTERS,16)):
-        dumpedLine = ""
-        if (pointers[i] > 0):
-            file.seek(pointers[i])
-            curByte = int.from_bytes(file.read(1), ENDIAN)
-            isCC = False
-            while(curByte != 0):
-                if (isCC):
-                    if (curByte in ccList):
-                        newChar = ccList[curByte]
-                    else:
-                        newChar =  "{0:02X}".format(CC_BYTE) + " "
-                        newChar += "{0:02X}".format(curByte)
-                    newChar = "[" + newChar + "]"
-                    isCC = False
-                else:
-                    if (curByte in charTable):
-                        newChar = charTable[curByte]
-                    else:
-                        newChar = "[" + "{0:02X}".format(curByte) + "]"
-                    isCC = (curByte == CC_BYTE)
-                if (not isCC):
-                    dumpedLine += newChar
-                curByte = int.from_bytes(file.read(1), ENDIAN)
-        lines.append(dumpedLine)
+    if (cfg[HAS_POINTERS]):
+        for i in range(int(cfg[NB_ENTRIES],16)):
+            dumpedLine = ""
+            if (pointers[i] > 0):
+                dumpedLine = dumpOneLine(file, pointers[i],charTable,cfg)
+            lines.append(dumpedLine)
+    else:
+        offset = int(cfg[START_ADDR],16)
+        for i in range(int(cfg[NB_ENTRIES],16)):
+            dumpedLine = dumpOneLine(file, offset,charTable,cfg)
+            lines.append(dumpedLine)
+            offset = -1
+            
     return lines
 
-def outputToFile(filename,lines):
+def outputToFile(filename,lines,addPrefix):
     output = open(filename,"w",encoding="utf-8")
-    for idx,line in enumerate(lines):
-        output.write("{0:03X}".format(idx) + ":" + line + "\n")
+    if (addPrefix):
+        for idx,line in enumerate(lines):
+            output.write("{0:03X}".format(idx) + ":" + line + "\n")
+    else:
+        output.write("\n???:".join(lines))
     output.close()
 
-def outputToScreen(lines):
-    for idx,line in enumerate(lines):
-        print("{0:03X}".format(idx) + ":" + line + "\n")
+def outputToScreen(lines,addPrefix):
+    if (addPrefix):
+        for idx,line in enumerate(lines):
+            print("{0:03X}".format(idx) + ":" + line + "\n")
+    else:
+        print("\n???:".join(lines))
    
 def displayHelp():
-    print("Syntax: " + os.path.basename(sys.argv[0]) + " rom_file text_table [output_file]")
+    print("Syntax: " + os.path.basename(sys.argv[0]) + " rom_file cfg_file [output_file]")
    
 def main():
-    charTable = initCharTable(sys.argv[2])
-    ccList = initCCList()
+    cfg = initConfig(sys.argv[2])
+    charTable = initCharTable(cfg[CHAR_TABLE])
     file = open(sys.argv[1],"rb")
-    dumpedPointers = dumpPointers(file)    
-    dumpedLines = dumpLines(file, dumpedPointers, charTable, ccList)
+    dumpedPointers = dumpPointers(file, cfg)    
+    dumpedLines = dumpLines(file, dumpedPointers, charTable, cfg)
     file.close()
 
     if (len(sys.argv) > 3):
-        outputToFile(sys.argv[3], dumpedLines)
+        outputToFile(sys.argv[3], dumpedLines, cfg[HAS_POINTERS])
     else:
-        outputToScreen(dumpedLines)
+        outputToScreen(dumpedLines, cfg[HAS_POINTERS])
         
 if (len(sys.argv) < 3):
     displayHelp()

@@ -1,7 +1,6 @@
 00 [END]
 01  
 02 [BREAK]
-03 [03]
 04 [04]
 05 ぁ
 06 あ
@@ -172,7 +171,7 @@ AA (
 AB )
 AC [..]
 AD ,
-AE .
+AE 。
 AF /
 B0 0
 B1 1
@@ -217,11 +216,11 @@ D7 W
 D8 X
 D9 Y
 DA Z
-DB _
-DC :
-DD ;
-DE !
-DF ?
+DB
+DC ：
+DD ；
+DE ！
+DF ？
 E0 .
 E1 a
 E2 b
@@ -249,8 +248,8 @@ F7 w
 F8 x
 F9 y
 FA z
-FB _
+FB
 FC *
-FD -
-FE é
+FD ー
+FE 
 FF [NOTE]

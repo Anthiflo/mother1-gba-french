@@ -1,0 +1,20 @@
+{
+	"start_addr": "30010",
+	"has_pointers": false,
+	"nb_entries": "7D0",
+	"text_offset": "60010",
+	"addr_size": 3,
+	"endian": "little",
+	"char_table": "nes_jap_chars.txt",
+	"end_byte": 0,
+	"cc_bytes": {
+		"21": {
+			"arguments":2
+		},
+		"23": {
+			"arguments":4
+		}
+	},
+	"known_commands": {
+	}
+}
