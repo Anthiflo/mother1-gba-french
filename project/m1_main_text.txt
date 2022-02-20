@@ -170,7 +170,7 @@
 04A: @Oh, it's [03 16], the hero![BREAK][PAUSE]@You have tiger droppings[BREAK]all over your clothes, you[BREAK]know.[BREAK][PAUSE]@Oh, I'm just kidding![BREAK][PAUSE]@Sorry, I don't have[BREAK]anything to give you this[BREAK]time...[BREAK][PAUSE]Wahahaha![BREAK]
 04A-E: @Voilà [03 10], le héros[4F]![BREAK][PAUSE]@Tu as de la bave de tigre[BREAK]partout sur tes habits, tu[BREAK]sais.[BREAK][PAUSE]@Ah, je plaisante[4F]![BREAK][PAUSE]@Navré, je n'ai rien à te[BREAK]donner cette fois...[BREAK][PAUSE]Wahahaha[4F]![BREAK]
 04B: @Everyone's talking about a[BREAK]girl with special powers.[BREAK]Have you heard about her?[BREAK][PAUSE]@I bet she'd be a great help[BREAK]to you on your journey.[BREAK]
-04B-E: @Tout le monde parle d'une[BREAK]fille avec des pouvoirs[BREAK]spéciaux.[BREAK][PAUSE]Tu es au courant ?[BREAK][PAUSE]@Je suis sûr qu'elle te[BREAK]serait d'une grande aide[BREAK]dans ton périple.[BREAK]
+04B-E: @Tout le monde parle d'une[BREAK]fille avec des pouvoirs[BREAK]spéciaux.[BREAK][PAUSE]Tu es au courant ?[BREAK][PAUSE]@Je suis sûre qu'elle te[BREAK]serait d'une grande aide[BREAK]dans ton périple.[BREAK]
 04C: @I have plenty of extra zoo[BREAK]keys.[BREAK][PAUSE]@Here, have another.[BREAK]
 04C-E: @J'ai une tonne de clés de[BREAK]rechange pour le zoo.[BREAK][PAUSE]@Tiens, prends-en une autre.[BREAK]
 04D: @As you can see, all our[BREAK]animals have escaped.[BREAK]
@@ -330,9 +330,11 @@
 09A: @Outside?[BREAK][PAUSE]What is this "outside" you[BREAK]speak of?[BREAK]
 09A-E: @Dehors[4F]?[BREAK][PAUSE]C'est quoi "dehors"[4F]?[BREAK]
 09B: @I'm so embarrassed I wish I[BREAK]could crawl into a hole.[BREAK][PAUSE]@If only there were holes to[BREAK]crawl into...[BREAK]
-09B-E: @J'ai tellement honte que[BREAK]j'aimerais pouvoir me[BREAK]terrer dans un trou.[BREAK][PAUSE]@Si seulement il y avait des[BREAK]trous dans le coin...[BREAK]
+09B-E: @Je suis tellement gênée que[BREAK]j'aimerais pouvoir me[BREAK]terrer dans un trou.[BREAK][PAUSE]@Si seulement il y avait des[BREAK]trous dans le coin...[BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=0
 09C: @I am the mysterious[BREAK]goods-keeper.[BREAK][PAUSE]@Can I help you?[BREAK]
-09C-E: @Je suis le mysté-[BREAK]rieux garde-objets.[BREAK][PAUSE]@Je peux t'aider[4F]?[BREAK]
+09C-E: @Je suis la mysté-[BREAK]rieuse gardienne[BREAK]des objets.[BREAK][PAUSE]@Je peux t'aider[4F]?[BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 09D: @I'm great at impressions,[BREAK]you know![BREAK]
 09D-E: @Je suis doué pour les[BREAK]imitations, tu sais[4F]![BREAK]
 09E: @There's a whole bunch of[BREAK]holes east of town.[BREAK][PAUSE]@I'm not sure which hole it[BREAK]is, but you can hear[BREAK]otherworldly sounds coming[BREAK]from one.[BREAK]
@@ -1151,8 +1153,10 @@
 21D-E: @Attention, il est facile de[BREAK]perdre des objets à[BREAK]proximité de ce panneau.[BREAK]
 21E: @Incredibly enough, you[BREAK]found dentures under the[BREAK]sign![BREAK]
 21E-E: @Aussi incroyable que cela[BREAK]puisse paraître, vous[BREAK]trouvez un dentier sous le[BREAK]panneau[4F]![BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=0
 21F: @Hi there! Not[BREAK]feeling well, are[BREAK]we?[BREAK][PAUSE]@Then I can heal you[BREAK]up in a jiffy![BREAK]
 21F-E: @Salutations ![BREAK]Alors, on ne se[BREAK]sent pas bien ?[BREAK][PAUSE]@Je peux te soigner[BREAK]en un tournemain ![BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 220: @Come to the science lab.[BREAK]
 220-E: @Viens au labo de sciences.[BREAK]
 221: 
@@ -4111,7 +4115,7 @@
 7D2-E: 
 // #MAXLENGTH=26 #AUTOWRAP=1 #MAXLINES=2 #EXTRALASTLINES=1
 7D3: [03 20] suddenly attacked!
-7D3-E: [03 E0][03 D0][03 C0] attaque soudainement[4F]!
+7D3-E: [03 E0][03 D0][03 C0] vous attaque soudainement[4F]!
 7D4: [03 20] attacks!
 7D4-E: [03 E2][03 D0][03 C0] attaque[4F]!
 7D5: [03 20] fired the tank cannon!
@@ -4132,7 +4136,7 @@
 7DB: [03 2C]
 7DB-E: [03 2C]
 7DC: [03 21] took [03 23] damage!
-7DC-E: [03 EA][03 D8][03 C8] perd [03 23] PV[4F]!
+7DC-E: [03 EA][03 D8][03 C8] perd [03 23][4F]PV[4F]!
 7DD: [BREAK]         YOU WON![BREAK]
 7DD-E: [BREAK]        VICTOIRE[4F]![BREAK]
 7DE: [BREAK][03 16][03 17] was defeated...[BREAK]
@@ -4235,9 +4239,9 @@
 80C: [03 20] is asleep...
 80C-E: [03 E2][03 D0][03 C0] dort profondément...
 80D: [03 21] recovered [03 23] PP!
-80D-E: [03 EA][03 D8][03 C8] récupère [03 23] PP[4F]!
+80D-E: [03 EA][03 D8][03 C8] récupère [03 23][4F]PP[4F]!
 80E: [03 21] recovered [03 23] HP!
-80E-E: [03 EA][03 D8][03 C8] récupère [03 23] PV[4F]!
+80E-E: [03 EA][03 D8][03 C8] récupère [03 23][4F]PV[4F]!
 80F: [03 20] replenished energy!
 80F-E: [03 E2][03 D0][03 C0] est réalimenté[03 E4] en énergie[4F]!
 810: But no one came.
