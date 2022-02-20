@@ -149,27 +149,27 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 0FE602A [01][01][01][01][01][01]Nouvelle partie
 
 // Text used at the top of the save slot windows #OVERRIDE
-0FE500C Niv.
+0FE500D Niv.
 0FE6003 EMPLACEMENT ( )
-0FE5015 Vitesse
+0FE5016 Vitesse
 
 // The first three numbers are the X coordinate for the cursor for each save slot window #OVERRIDE
 0F2A07A [02]
 0F2A08E [02]
 0F2A0A2 [02]
-0FE502B Jouer
+0FE502E Jouer
 
 // The first three numbers are the X coordinate for the cursor for each save slot window #OVERRIDE
 0F2A07E [08]
 0F2A092 [08]
 0F2A0A6 [08]
-0FE5031 Copier
+0FE5034 Copier
 
 // The first three numbers are the X coordinate for the cursor for each save slot window #OVERRIDE
 0F2A082 [0F]
 0F2A096 [0F]
 0F2A0AA [0F]
-0FE5038 Effacer
+0FE503B Effacer
 
 // The first three numbers are the X coordinate for the cursor for each save slot window
 // These are text speed options, from Very Slow to Very Fast

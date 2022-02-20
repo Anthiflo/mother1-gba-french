@@ -1216,7 +1216,7 @@ more_field_control_codes:
     pop     {r0}
     bx      r0
 
-//------------------------------------------------------------------------------------------------------------------------------
+//=====================================================================================
 // Jumpman’s function for French elision.
 // Input parameter: r0
 // r0 values from 0 to D: 0 Ninten, 1 Ana, 2 Lloyd, 3 Teddy, 4 Pippi, 5 EVE, 6 Garuda
@@ -1225,7 +1225,7 @@ more_field_control_codes:
 // r0 = E => current party leader (matches control code [03 16])
 // r0 = F => favorite food (matches control code [03 15])
 // Returns 1 in r0 if the fav food or character name starts with a vowel, 0 otherwise.
-//------------------------------------------------------------------------------------------------------------------------------
+//=====================================================================================
 
 general:
 .has_elision:
@@ -1344,6 +1344,16 @@ mov  r0,#0
 pop  {r1}
 bx   lr
 
+
+//======================================================================
+// Relocate code chunk for cursor fix on file select screen
+//======================================================================
+
+file_menu_code_reloc:
+lsl  r4,r4,#0x18
+lsr  r4,r4,#0x18
+mov  r1,r4
+bx   lr
 
 
 //======================================================================

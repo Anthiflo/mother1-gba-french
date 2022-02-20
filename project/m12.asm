@@ -53,6 +53,8 @@ org $8F0D3DC; dd $8FE8000
 
 // "Override this file?" window (before copy)
 org $8F27181; incbin m1_window_file_menu_5.bin // #OVERRIDDEN
+// Move file window to clear the cursor correctly after copy (requires to relocate some code)
+org $8F0D128; bl file_menu_code_reloc; mov r0,#0;
 
 // lower box erasing stuff
 org $8F2713D; db $01
