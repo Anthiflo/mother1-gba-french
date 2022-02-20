@@ -45,18 +45,18 @@
 // Stats/equipment menu #OVERRIDE
 0FE482A Statut
 0FE483C PSI
-0FE48E4 Équipement
-0FE497B Mélodies
-0FE485F Niv. 
-0FE4878 PV
-0FE48B9 Attaque
-0FE48D4 Défense
-0FE48F5 Fougue
-0FE490E Vitesse
-0FE4927 Sagesse
-0FE4940 Vigueur
-0FE4959 Force
-0FE498D Exp.
+0FE48E5 Équipement
+0FE497C Mélodies
+0FE485F Niveau
+0FE4879 PV 
+0FE48BA Attaque
+0FE48D5 Défense
+0FE48F6 Fougue
+0FE490F Vitesse
+0FE4928 Sagesse
+0FE4941 Vigueur
+0FE495A Force
+0FE498E Exp.
 
 // Used when displaying yes/no questions in main script #OVERRIDE
 0FE7102 Oui
