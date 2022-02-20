@@ -185,8 +185,16 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 // Displayed when copying a save file from one slot to another #OVERRIDE
 0FE700F Vers quel emplacement ?
 
-// Displayed when erasing a file
 // These first two numbers are the X coordinates of the name and level number #OVERRIDE
+// Displayed when overriding a file to copy it #OVERRIDE
+0F0D33A [05]
+0F0D34A [10]
+0F27194 Niv.
+0F271A3 Écraser ce fichier ?
+0F271C1 Oui   Non
+
+// These first two numbers are the X coordinates of the name and level number
+// Displayed when erasing a file #OVERRIDE
 0F0D396 [05]
 0F0D3A6 [10]
 0FE8017 Niv.
