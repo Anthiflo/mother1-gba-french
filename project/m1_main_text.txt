@@ -1454,7 +1454,7 @@
 2AD: @This hotel is cheap.[BREAK][PAUSE]@But that's about the only[BREAK]thing it has going for it.[BREAK]
 2AD-E: @Cet hôtel est pas cher.[BREAK][PAUSE]@Mais c'est bien son seul[BREAK]atout.[BREAK]
 2AE: @There was a landslide and[BREAK]now big rocks are blocking[BREAK]the railroad tracks.[BREAK][PAUSE]@The train can't get[BREAK]through.[BREAK]
-2AE-E: @Il y a eu un éboulement et[BREAK]maintenant de gros rochers[BREAK]bloquent les rails.[BREAK][PAUSE]@Le train ne peut pas[BREAK]passer.[BREAK]
+2AE-E: @Il y a eu un éboulement et[BREAK]maintenant de gros rochers[BREAK]bloquent la voie ferrée.[BREAK][PAUSE]@Le train ne peut pas[BREAK]passer.[BREAK]
 2AF: @You understand animal talk,[BREAK]right?[BREAK][PAUSE]@Then I'll give you a hint:[BREAK]try checking me.[BREAK][PAUSE]@Woof![BREAK]
 2AF-E: @Tu comprends le langage[BREAK]animal, pas vrai ?[BREAK][PAUSE]@Alors voici un indice :[BREAK]essaie de m'examiner.[BREAK][PAUSE]@Ouaf ![BREAK]
 2B0: @You don't have enough[BREAK]money. That's too bad.[BREAK][PAUSE]@Please come again some[BREAK]other time.[BREAK]
@@ -1496,7 +1496,7 @@
 2C0: 
 2C0-E: 
 2C1: @With the tracks ruined, the[BREAK]train has stopped running.[BREAK][PAUSE]@Quit with all the pesky[BREAK]questions, will ya?[BREAK][PAUSE]@Geez, you're persistent.[BREAK][PAUSE]@You're gonna make me cry[BREAK]with all your questions.[BREAK]
-2C1-E: @Les rails sont détruits, du[BREAK]coup le train ne fonctionne[BREAK]plus.[BREAK][PAUSE]@Arrête de me poser toutes[BREAK]ces fichues questions, tu[BREAK]veux ?[BREAK][PAUSE]@Bon sang, tu t'obstines.[BREAK][PAUSE]@Tu vas finir par me faire[BREAK]pleurer à force, avec tes[BREAK]questions.
+2C1-E: @Les rails sont détruits, du[BREAK]coup le train ne circule[BREAK]plus.[BREAK][PAUSE]@Arrête de me poser toutes[BREAK]ces fichues questions, tu[BREAK]veux ?[BREAK][PAUSE]@Bon sang, tu t'obstines.[BREAK][PAUSE]@Tu vas finir par me faire[BREAK]pleurer à force, avec tes[BREAK]questions.
 2C2: @Don't just stand there![BREAK]Get moving![BREAK]
 2C2-E: @Reste pas planté[03 6E] là ![BREAK]Bouge ![BREAK]
 2C3: @You look like you've been[BREAK]through a lot.[BREAK][PAUSE]@Well, now you can sit back,[BREAK]relax, and regret it all.[BREAK]
@@ -1522,13 +1522,13 @@
 2CD: @Go to school, you![BREAK][PAUSE]@You're a student, aren't[BREAK]you?![BREAK]
 2CD-E: @Toi ! Va à l'école ![BREAK][PAUSE]@Tu es un élève, non ?![BREAK]
 2CE: @How are we going to get the[BREAK]rocks off the train tracks?[BREAK][PAUSE]@If we let city hall take[BREAK]care of it, they'll be[BREAK]there well into next year![BREAK]
-2CE-E: @Comment va-t-on débarrasser[BREAK]les rails de ces rochers ?[BREAK][PAUSE]@Si on laisse la mairie s'en[BREAK]charger, on n'est pas près[BREAK]de reprendre le train ![BREAK]
+2CE-E: @Comment va-t-on dégager ces[BREAK]rochers de la voie ferrée ?[BREAK][PAUSE]@Si on laisse la mairie s'en[BREAK]charger, on n'est pas près[BREAK]de reprendre le train ![BREAK]
 2CF: @I heard there's a gigantic[BREAK]rocket in the Duncan[BREAK]Factory way up north.[BREAK]
-2CF-E: @Apparemment, il y aurait[BREAK]une fusée gigantesque à[BREAK]l'usine Duncan, au nord.[BREAK]
+2CF-E: @Apparemment, il y aurait[BREAK]une fusée gigantesque à[BREAK]l'usine de Duncan, au nord.[BREAK]
 2D0: @Don't assume I'm just an[BREAK]ordinary old guy.[BREAK][PAUSE]@Although I actually am.[BREAK]
 2D0-E: @Ne me traite pas comme un[BREAK]petit vieux ordinaire.[BREAK][PAUSE]@... Même si j'en suis un.[BREAK]
 2D1: @You know...[BREAK][PAUSE]@If it were up to me...[BREAK][PAUSE]@I'd probably use a Duncan[BREAK]Factory rocket to blow up[BREAK]the rocks on the tracks.[BREAK]
-2D1-E: @Tu sais...[BREAK][PAUSE]@Si ça ne tenait qu'à moi,[BREAK]@j'utiliserais une fusée de[BREAK]l'usine Duncan[BREAK][PAUSE]pour détruire les rochers[BREAK]qui bloquent les rails.[BREAK]
+2D1-E: @Tu sais...[BREAK][PAUSE]@Si ça ne tenait qu'à moi,[BREAK]@je détruirais les rochers[BREAK]qui bloquent la voie ferrée[BREAK][PAUSE]avec une fusée de l'usine[BREAK]de Duncan.[BREAK]
 2D2: @My husband is an important[BREAK]man at Twinkle Elementary[BREAK]School.[BREAK][PAUSE]@He's so important that he[BREAK]doesn't eat packed lunches[BREAK]from home.[BREAK]
 2D2-E: @Mon mari est une personne[BREAK]importante de l'école[BREAK]primaire Léclat.[BREAK][PAUSE]@Il trop important pour[BREAK]manger des paniers-repas[BREAK]préparés à la maison.[BREAK]
 2D3: @Have you been to the Sweet[BREAK]Little Factory?[BREAK]
@@ -3888,7 +3888,7 @@
 760: "Great-Grandfather's Diary"[BREAK]@The diary of [03 10]'s[BREAK]great-grandfather.[BREAK][PAUSE]@It's filled with writing,[BREAK]but it's in such bad shape[BREAK]that it's mostly illegible.
 760-E: "Journal arrière-grd-père"[BREAK]@Le journal de l'arrière-[BREAK]grand-père d[03 50][03 10].[BREAK][PAUSE]@Il est rempli d'écritures,[BREAK]mais il est en si mauvais[BREAK]état que c'est quasiment[BREAK]illisible.
 761: "Pass"[BREAK]@"Duncan Factory Employee"[BREAK]is written on it.
-761-E: "Passe"[BREAK]@Il comporte l'inscription :[BREAK]"Employé usine Duncan".
+761-E: "Passe"[BREAK]@Il comporte l'inscription :[BREAK]"Employé usine de Duncan".
 762: "Show Ticket"[BREAK]@"Every Day All Night[BREAK]Rock 'n' Roll Live Show"[BREAK]is written on it.
 762-E: "Billet de spectacle"[BREAK]@Il y est écrit : "Spectacle[BREAK]live de rock 'n' roll tous[BREAK]les soirs".
 763: 
