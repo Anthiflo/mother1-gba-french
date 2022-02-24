@@ -245,7 +245,7 @@ ENEMY-62C-50:
 ENEMY-62D-51: Crotale
 
 //Tarantula
-ENEMY-62E-52: Tarantule
+ENEMY-62E-52: Tarentule
 
 //Tough Croc
 ENEMY-62F-53: Crocodile tenace

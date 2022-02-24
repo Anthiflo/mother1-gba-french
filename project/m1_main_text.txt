@@ -338,7 +338,7 @@
 09D: @I'm great at impressions,[BREAK]you know![BREAK]
 09D-E: @Je suis doué pour les[BREAK]imitations, tu sais[4F]![BREAK]
 09E: @There's a whole bunch of[BREAK]holes east of town.[BREAK][PAUSE]@I'm not sure which hole it[BREAK]is, but you can hear[BREAK]otherworldly sounds coming[BREAK]from one.[BREAK]
-09E-E: @Il y a tout un tas de[BREAK]trous à l'est de la ville.[BREAK][PAUSE]@On peut entendre des bruits[BREAK]surnaturels sortir d'un de[BREAK]ces trous, mais je ne sais[BREAK]pas trop lequel.[BREAK]
+09E-E: @Il y a tout un tas de trous[BREAK]à l'est de la ville.[BREAK][PAUSE]@On peut entendre des bruits[BREAK]surnaturels sortir d'un de[BREAK]ces trous, mais je ne sais[BREAK]pas trop lequel.[BREAK]
 09F: 
 09F-E: 
 0A0: 
@@ -384,9 +384,11 @@
 0B4: @I've heard about a man who[BREAK]was forgotten...[BREAK][PAUSE]@But I forget what his story[BREAK]was.[BREAK]
 0B4-E: @J'ai entendu parler d'un[BREAK]homme que tout le monde a[BREAK]oublié...[BREAK][PAUSE]@Je te raconterais bien son[BREAK]histoire, mais je l'ai[BREAK]oubliée.[BREAK]
 0B5: @Though you may not[BREAK]believe it, I'm a[BREAK]healer.[BREAK][PAUSE]@I can restore your[BREAK]PP or heal friends[BREAK]turned to stone.[BREAK][PAUSE]@So, what can I do[BREAK]for you?[BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 0B5-E: @Crois-le ou non,[BREAK]mais je suis un[BREAK]guérisseur.[BREAK][PAUSE]@Je peux restaurer[BREAK]les PP,[BREAK][PAUSE]ou guérir les amis[BREAK]transformés en[BREAK]pierre.[BREAK][PAUSE]@Alors, que puis-je[BREAK]faire pour toi[4F]?[BREAK]
 0B6: @...That's what I figured.[BREAK]
 0B6-E: @... C'est bien ce[BREAK]que je pensais.
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 0B7: @Don't carry so much cash[BREAK]with you.[BREAK][PAUSE]@Go think things over.[BREAK]See you later.[BREAK]
 0B7-E: @Ne garde pas autant[BREAK]d'argent sur toi.[BREAK][PAUSE]@Va réfléchir à tout ça.[BREAK]À plus tard.[BREAK]
 // context?
@@ -936,7 +938,7 @@
 1B7: @A big flying ship took all[BREAK]the grownups away.[BREAK]
 1B7-E: @Un gros vaisseau volant a[BREAK]enlevé tous les grands.[BREAK]
 1B8: @It's great having no[BREAK]grownups around![BREAK][PAUSE](sniffle sob)[BREAK]
-1B8-E: @C'est super sans les[BREAK]grands dans les parages ![BREAK][PAUSE](snif sanglote)[BREAK]
+1B8-E: @C'est super sans les grands[BREAK]dans les parages ![BREAK][PAUSE](snif sanglote)[BREAK]
 1B9: @I want milk![BREAK]
 1B9-E: @Je veux du lait ![BREAK]
 1BA: @I want milk, too![BREAK]
@@ -1180,7 +1182,7 @@
 22A: @I can buy your [03 1D][BREAK]for $[03 1E].[BREAK][PAUSE]@Is that okay with you?[BREAK]
 22A-E: @Je peux te racheter t[03 4B][BREAK][03 1D] pour [03 1E]$.[BREAK][PAUSE]@Ça te va[4F]?[BREAK]
 22B: @[03 3E] took out his[BREAK]great-grandfather's diary[BREAK]and read these words aloud:[BREAK][PAUSE]"...That which was left[BREAK]behind by the ship that[BREAK]soars the heavens."[BREAK]
-22B-E: @[03 10] sort le journal de[BREAK]son arrière-grand-père et[BREAK]prononce à voix haute :[BREAK][PAUSE]"... Qu'a laissée[BREAK]derrière lui le vaisseau[BREAK]s'élevant dans les cieux."[BREAK]
+22B-E: @[03 10] sort le journal de[BREAK]son arrière-grand-père et[BREAK]prononce à voix haute :[BREAK][PAUSE]"... Qu'a laissée derrière[BREAK]lui le vaisseau s'élevant[BREAK]dans les cieux."[BREAK]
 22C: 
 22C-E: 
 22D: 
@@ -1201,12 +1203,14 @@
 234-E: @Je peux t'aider[4F]?[BREAK]
 235: 
 235-E: 
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 236: @Your [03 1D]?[BREAK][PAUSE]@I'll take good[BREAK]care of it.[BREAK][PAUSE]@Do you want me to[BREAK]hold on to anything[BREAK]else?[BREAK]
 236-E: @T[03 4B][03 1D][4F]?[BREAK][PAUSE]@J'en prendrai bien[BREAK]soin.[BREAK][PAUSE]@Tu veux que je[BREAK]garde autre chose[4F]?[BREAK]
 237: @Okay, then. Be[BREAK]careful out there.[BREAK]
 237-E: @Compris. Fais[BREAK]attention à toi.[BREAK]
 238: @Your [03 1D]?[BREAK][PAUSE]@Sure thing. Take[BREAK]good care of it,[BREAK]okay?[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]take with you?[BREAK]
 238-E: @T[03 4B][03 1D][4F]?[BREAK][PAUSE]@Ça marche.[BREAK]Prends-en bien[BREAK]soin, d'accord[4F]?[BREAK][PAUSE]@Est-ce que tu veux[BREAK]récupérer autre[BREAK]chose[4F]?[BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 239: @There was a landslide up by[BREAK]Santa Claus Station, so the[BREAK]train can't get through.[BREAK]
 239-E: @Il y a eu un éboulement[BREAK]près de la gare de l'Union,[BREAK]de ce fait le train ne peut[BREAK]plus passer.[BREAK]
 23A: @The [03 1D], yes?[BREAK]
@@ -1215,14 +1219,18 @@
 23B-E: @On dirait que tu ne peux[BREAK]pas porter plus d'objets.[BREAK]
 23C: 
 23C-E: 
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 23D: @Oh. You don't seem[BREAK]to have enough[BREAK]money.[BREAK]
 23D-E: @Oh. Tu ne sembles[BREAK]pas avoir assez[BREAK]d'argent.[BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 23E: @Oh, my. It looks like you[BREAK]can't hold any more items.[BREAK]
 23E-E: @Mince alors, on dirait que[BREAK]tu ne peux pas porter[BREAK]davantage d'objets.[BREAK]
 23F: @You don't have[BREAK]enough money.[BREAK][PAUSE]@Come back again[BREAK]when you do.[BREAK]
 23F-E: @Tu n'as pas assez[BREAK]d'argent.[BREAK][PAUSE]@Reviens quand tu[BREAK]en auras.[BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 240: @Bye! Take care![BREAK]
 240-E: @À plus[4F]! Fais[BREAK]attention à toi[4F]![BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 241: 
 241-E: 
 242: @Oh, my. You can't carry any[BREAK]more things.[BREAK][PAUSE]@In that case, I'll give it[BREAK]to you the next time I see[BREAK]you.[BREAK]
@@ -1425,6 +1433,7 @@
 2A1-E: Certificat[BREAK][PAUSE]J'atteste par la présente[BREAK]que :[BREAK]   [03 14][BREAK][PAUSE]a marché sur la mine[BREAK]terrestre du désert Yucca.[BREAK][PAUSE]Merci de ne pas dévoiler[BREAK]son emplacement à d'autres[BREAK]joueurs.[BREAK][PAUSE]  - Shigesato Itoi[BREAK][BREAK]
 2A2: @It looks like you slept[BREAK]well.[BREAK][PAUSE]@Where are you off to today?[BREAK][PAUSE]@Well, take care![BREAK]
 2A2-E: @On dirait que tu as bien[BREAK]dormi.[BREAK][PAUSE]@Où est-ce que tu comptes[BREAK]aller aujourd'hui ?[BREAK][PAUSE]@Bon, fais attention à toi ![BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 2A3: @Oh, you're not here[BREAK]to visit someone?[BREAK][PAUSE]@If you are the[BREAK]patient, come into[BREAK]the back room.[BREAK]
 2A3-E: @Oh, tu n'es pas[BREAK]venu rendre visite[BREAK]à quelqu'un ?[BREAK][PAUSE]@Si c'est toi le[BREAK]patient, va dans la[BREAK]pièce du fond.[BREAK]
 // from eb
@@ -1435,6 +1444,7 @@
 // eb quote but also slightly fixed up
 // eb quote but also slightly fixed up
 
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 2A5: @The cold this year is[BREAK]especially bad.[BREAK][PAUSE]@It's made me so scrawny...[BREAK]
 2A5-E: @Le rhume de cette année est[BREAK]particulièrement virulent.[BREAK][PAUSE]@J'ai perdu tellement de[BREAK]poids...[BREAK]
 2A6: @I don't have a cold.[BREAK][PAUSE]Cough cough.[BREAK][PAUSE]@Oh, that wasn't a cough.[BREAK][PAUSE]it's just something I say[BREAK]out of habit.[BREAK][PAUSE]@Cough cough.[BREAK]
@@ -1645,6 +1655,7 @@
 309-E: @Merci.[BREAK][PAUSE]@Bonne journée.[BREAK]
 30A: @Oh, you've changed your[BREAK]mind?[BREAK][PAUSE]@Well, please come again.[BREAK]
 30A-E: @Oh, tu as changé d'avis ?[BREAK][PAUSE]@D'accord, bonne journée.[BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 30B: @I'm so glad that[BREAK]you recovered,[BREAK][03 1B].[BREAK][PAUSE]@Come back any time[BREAK]you need.[BREAK]
 30B-E: @Je suis contente[BREAK]que tu ailles[BREAK]mieux, [03 1B].[BREAK][PAUSE]@Reviens dès que tu[BREAK]en auras besoin.[BREAK]
 30C: @Oh, isn't that your[BREAK]friend, though?[BREAK][PAUSE]@They really could[BREAK]die, you know...[BREAK]
@@ -1665,6 +1676,7 @@
 313-E: @Ah, d'accord.[BREAK]Comme tu veux.[BREAK]
 314: @I need to charge[BREAK]you $[03 1E]. Okay?[BREAK]
 314-E: @Ça te coûtera[BREAK][03 1E]$. D'accord ?[BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 315: @Welcome.[BREAK]@It's $[03 1E] per night here.[BREAK][PAUSE]@Will you be staying?[BREAK]
 315-E: @Bienvenue.[BREAK]@La nuit est à [03 1E]$ ici.[BREAK][PAUSE]@Tu veux une chambre ?[BREAK]
 316: @Oh, that's too bad.[BREAK][PAUSE]@Well, come back again.[BREAK]
@@ -1673,12 +1685,14 @@
 317-E: @Bonne nuit ![BREAK]
 318: @Good morning.[BREAK][PAUSE]@Please come back again.[BREAK]We look forward to it.[BREAK]
 318-E: @Bonne journée.[BREAK][PAUSE]@Au plaisir de ta prochaine[BREAK]visite.[BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 319: @[03 1B] was just[BREAK]brought in, and is[BREAK]still unconscious.[BREAK][PAUSE]@Please pay $[03 1E][BREAK]for the doctor's[BREAK]fee.[BREAK]
 319-E: @On vient de[BREAK]recevoir [03 1B],[BREAK]toujours évanoui[03 6B].[BREAK][PAUSE]@Les honoraires du[BREAK]médecin s'élèvent[BREAK]à [03 1E]$[BREAK]
 31A: @Who are you here to[BREAK]see?[BREAK]
 31A-E: @Qui es-tu venu[BREAK]voir ?[BREAK]
 31B: 
 31B-E: 
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 31C: @Dad's not home.[BREAK][PAUSE]@I don't understand money,[BREAK]but I can do other stuff.[BREAK][PAUSE]@So don't worry. You can[BREAK]stay here tonight if you[BREAK]want.[BREAK]
 31C-E: @Papa est pas là.[BREAK][PAUSE]@L'argent, moi j'y comprends[BREAK]rien, mais je peux faire[BREAK]d'autres trucs.[BREAK][PAUSE]@[03 76][BREAK]
 // appel ligne 676 ou 686
@@ -1697,12 +1711,14 @@
 321-E: 
 322:   Store     Take
 322-E:   Stocker  Prendre
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 323: @You don't have any[BREAK]items.[BREAK]
 323-E: @Tu n'as aucun[BREAK]objet.[BREAK]
 324: @You haven't left[BREAK]any items with me.[BREAK]
 324-E: @Tu ne m'as laissé[BREAK]aucun objet.[BREAK]
 325: @Hold on...[BREAK][PAUSE]@The storeroom is[BREAK]full,[BREAK][PAUSE]so I can't store[BREAK]any more stuff.[BREAK]
 325-E: @Une minute...[BREAK][PAUSE]@Ma réserve est[BREAK]pleine.[BREAK][PAUSE]Je ne peux rien[BREAK]stocker de plus.[BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 326: @WELCOME[BREAK]
 326-E: @BONJOUR[BREAK]
 327: @INSUFFICIENT FUNDS[BREAK]
@@ -1744,8 +1760,10 @@
 338-E:   Continuer    Arrêter
 339: @[03 3E] picked up the[BREAK]telephone.[BREAK]
 339-E: @[03 3E] décroche le[BREAK]téléphone.[BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 33A: @I'm sorry, but you[BREAK]don't seem to have[BREAK]enough money.[BREAK]
 33A-E: @Excuse-moi, mais on[BREAK]dirait que tu n'as[BREAK]pas assez d'argent.[BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 33B: @Oh, I'm so sorry. You don't[BREAK]have enough money.[BREAK]
 33B-E: @Oh, je regrette mais tu[BREAK]n'as pas assez d'argent.[BREAK]
 33C: @This is only my humble[BREAK]opinion, but you probably[BREAK]shouldn't carry any more[BREAK]things.[BREAK]
@@ -1780,6 +1798,7 @@
 34A-E: @Fifi[4F]![BREAK][PAUSE]@Oh, Dieu merci[4F]![BREAK]Elle est saine et sauve[4F]![BREAK][PAUSE]@Je crois que le maire était[BREAK]aussi à sa recherche.[BREAK][PAUSE]@Tu devrais probablement[BREAK]aller le voir.[BREAK]
 34B: @Someone's in here![BREAK]...Wait, this isn't a[BREAK]bathroom.[BREAK][PAUSE]@I have my hands full at the[BREAK]moment. Come back later.[BREAK]
 34B-E: @Occupé[4F]![BREAK]... Une minute, ce ne sont[BREAK]pas des toilettes.[BREAK][PAUSE]@J'ai déjà assez à faire[BREAK]pour le moment. Reviens[BREAK]plus tard.[BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 34C: @Who's been[BREAK]poisoned?[BREAK]
 34C-E: @Qui est[BREAK]empoisonné[4F]?[BREAK]
 34D: @Who shall I soften?[BREAK]
@@ -1788,6 +1807,7 @@
 34E-E: @Cette personne[BREAK]n'est pas[BREAK]empoisonnée[4F]![BREAK]
 34F: @Wait, they haven't[BREAK]been turned to[BREAK]stone![BREAK]
 34F-E: @Mais cette personne[BREAK]n'est pas changée[BREAK]en pierre[4F]![BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 350: @They used to make loads of[BREAK]Bottle Rockets there.[BREAK]
 350-E: @Avant, ils fabriquaient des[BREAK]tonnes de Fusées crayons[BREAK]là-bas.[BREAK]
 // Fait suite à une phrase qui parle de l’usine
@@ -2009,14 +2029,16 @@
 3B9-E: @Ils ont enfin levé la loi[BREAK]martiale.[BREAK][PAUSE]@Ils ont réagi de façon un[BREAK]peu trop excessive, si tu[BREAK]veux mon avis.[BREAK]
 3BA: @There's an old rocket here.[BREAK]
 3BA-E: @C'est une vieille fusée.[BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 3BB: @You came to get[BREAK]your items, right?[BREAK][PAUSE]@Okay, here you go![BREAK]
-3BB-E: @Tu es venu[BREAK]récupérer tes objets,[BREAK]pas vrai ?[BREAK][PAUSE]@Okay, les voilà ![BREAK]
+3BB-E: @Tu es venu[BREAK]récupérer tes[BREAK]objets, pas vrai ?[BREAK][PAUSE]@OK, les voilà ![BREAK]
 3BC: @I gave you all your[BREAK]items.[BREAK][PAUSE]But come seem me[BREAK]again sometime![BREAK]
 3BC-E: @Je t'ai rendu tous[BREAK]tes objets.[BREAK][PAUSE]Mais n'hésite pas à[BREAK]revenir me voir ![BREAK]
 3BD: @I'm Minnie.[BREAK]
 3BD-E: @Je suis Minnie.[BREAK]
 3BE:   Refresh   Soften
 3BE-E:   PP   Dépétrifier
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 3BF: @[03 13]: You two probably[BREAK]wanna be alone, huh?[BREAK][PAUSE]I'll just be catchin' some[BREAK]Zs over here, then.[BREAK]
 3BF-E: @[03 13] : Vous voulez sans[BREAK]doute être seuls tous les[BREAK]deux, hein ?[BREAK][PAUSE]Je vais aller me taper une[BREAK]sieste par là, alors.[BREAK]
 3C0: @Oh no! I'm too late![BREAK]
@@ -2033,8 +2055,10 @@
 3C5-E: @[03 16] n'arrive pas à le[BREAK]faire fonctionner.[BREAK]
 3C6: @But [03 11] managed to get[BREAK]it running.[BREAK]
 3C6-E: @Mais [03 11] parvient à le[BREAK]mettre en route.[BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 3C7: @The [03 1D],[BREAK]right?[BREAK][PAUSE]@I'll be sure to[BREAK]send it to [03 10]'s[BREAK]house.[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]store?[BREAK]
 3C7-E: @L[03 49][03 1D],[BREAK]c'est ça ?[BREAK][PAUSE]@Je m'assurerai de[BREAK]l'envoyer chez[BREAK][03 10].[BREAK][PAUSE]@Y a-t-il autre[BREAK]chose que tu veux[BREAK]que je stocke ?[BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 3C8: @What are we trapped inside[BREAK]these cramped things for?[BREAK][PAUSE]@What's going to happen to[BREAK]us?[BREAK]
 3C8-E: @Pourquoi sommes-nous[BREAK]enfermés dans ces machins[BREAK]étroits ?[BREAK][PAUSE]@Qu'est-ce qui va nous[BREAK]arriver[4F]?[BREAK]
 3C9: Sweet Little Factory[BREAK]
@@ -2052,7 +2076,7 @@
 3CF: @A key to the basement is[BREAK]hanging from the dog's[BREAK]collar.[BREAK]
 3CF-E: @La clé de la cave est[BREAK]accrochée au collier du[BREAK]chien.[BREAK]
 3D0: @Heh heh heh! I'm a[BREAK]meddlesome mouse![BREAK][PAUSE]@In towns, there are some[BREAK]houses you can go inside[BREAK]and some you can't.[BREAK][PAUSE]@Houses with round doors or[BREAK]signs on them are the ones[BREAK]you can go into.[BREAK][PAUSE]@If you try to go into any[BREAK]of the other ones, you'll[BREAK]just hit your head.[BREAK][PAUSE]@Well, bye![BREAK]
-3D0-E: @Hé hé hé ! Je suis une[BREAK]souris fouineuse ![BREAK][PAUSE]@En ville, tu peux entrer[BREAK]dans certaines maisons et[BREAK]pas dans d'autres.[BREAK][PAUSE]@Si la porte est arrondie[BREAK]ou accompagnée d'une[BREAK]enseigne, tu peux entrer.[BREAK][PAUSE]@Sinon, tu risques de te[BREAK]cogner la tête.[BREAK][PAUSE]@Allez, à plus ![BREAK]
+3D0-E: @Hé hé hé ! Je suis une[BREAK]souris fouineuse ![BREAK][PAUSE]@En ville, tu peux entrer[BREAK]dans certaines maisons et[BREAK]pas dans d'autres.[BREAK][PAUSE]@Si la porte est arrondie ou[BREAK]accompagnée d'une enseigne,[BREAK]tu peux entrer.[BREAK][PAUSE]@Sinon, tu risques de te[BREAK]cogner la tête.[BREAK][PAUSE]@Allez, à plus ![BREAK]
 3D1: 
 3D1-E: 
 3D2: @Remember, teleportation[BREAK]isn't something to be toyed[BREAK]with.[BREAK]
@@ -2075,6 +2099,7 @@
 // tournure neutre
 3DA: @His breathing is rough. He[BREAK]looks like he's in pain.[BREAK]
 3DA-E: @Il respire difficilement.[BREAK]Il semble souffrir.[BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 3DB: @You don't have any[BREAK]friends to give[BREAK]items to yet.[BREAK]
 3DB-E: @Tu n'as pas encore[BREAK]d'amis à qui donner[BREAK]des objets.[BREAK]
 3DC: @Oh, the[BREAK][03 1D]?[BREAK][PAUSE]@Here you go. Take[BREAK]good care of it.[BREAK][PAUSE]@Is there anything[BREAK]else you want to[BREAK]take with you?[BREAK]
@@ -2083,6 +2108,7 @@
 3DD-E: @On dirait que tu[BREAK]ne peux rien[BREAK]porter de plus.[BREAK][PAUSE]@Dois-je donner[BREAK]ceci à quelqu'un[BREAK]d'autre ?[BREAK]
 3DE: @The storeroom is[BREAK]full.[BREAK]
 3DE-E: @La réserve est[BREAK]pleine.[BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 3DF: @Once Queen Mary finished[BREAK]speaking to [03 10], she[BREAK]disappeared into the wind.[BREAK][PAUSE]And then the land of[BREAK]Magicant itself vanished[BREAK]without a trace.[BREAK][PAUSE]@Magicant had actually been[BREAK]an illusion born of Mary's[BREAK]conciousness.[BREAK]
 3DF-E: @Une fois son discours à[BREAK][03 10] terminé, la reine[BREAK]Mary se volatilisa.[BREAK][PAUSE]Puis le monde de Magicant[BREAK]tout entier disparut sans[BREAK]laisser de trace.[BREAK][PAUSE]@Magicant était en réalité[BREAK]une illusion née de la[BREAK]conscience de Mary.[BREAK]
 3E0: @It was I who called you[BREAK]here.[BREAK][PAUSE]@[03 10]![BREAK][PAUSE][03 12]![BREAK][PAUSE][03 11]![BREAK][PAUSE][03 13]![BREAK][PAUSE]@And all courageous children[BREAK]out there...[BREAK][PAUSE]@The time is now![BREAK]
@@ -3789,7 +3815,7 @@
 72B: "Bomb"[BREAK]@Probably only [03 11] can[BREAK]use this.
 72B-E: "Bombe"[BREAK]@Seul [03 11] semble pouvoir[BREAK]l'utiliser.
 72C: "Super Bomb"[BREAK]@"Danger! Explosive!" is[BREAK]written on it.[BREAK][PAUSE]@Leave this in [03 11]'s[BREAK]hands.
-72C-E: "Super bombe"[BREAK]@Porte la mention :[BREAK]"Danger ! Explosif !"[BREAK][PAUSE]Laissez [03 11] s'en[BREAK]charger
+72C-E: "Super bombe"[BREAK]@Porte la mention :[BREAK]"Danger ! Explosif !"[BREAK][PAUSE]Laissez [03 11] s'en[BREAK]charger.
 72D: "Laser Beam"[BREAK]@If that weakling [03 11][BREAK]were to wield this...
 72D-E: "Rayon laser"[BREAK]@Si jamais cette mauviette[BREAK]d[03 52][03 11] venait à l'avoir[BREAK]entre les mains...
 72E: "Death Beam"[BREAK]@If that cowardly [03 11][BREAK]were to wield this, he'd[BREAK]really be something.

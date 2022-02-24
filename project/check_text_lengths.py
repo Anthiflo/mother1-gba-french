@@ -1,5 +1,6 @@
 import re
 import textwrap
+import sys
 
 LENGTH_CHAR_NAME = 6
 LENGTH_ITEM_NAME = 11
@@ -173,10 +174,24 @@ for line in lines:
                 print("WARNING! Too many lines at " + lineId + ": “" + "/".join(breakLines) + "”")
                 nbTooLong += 1
             
+            previousLineLength = maxLen
+            
             for breakLine in breakLines:
                 if (len(breakLine) > maxLen):
                     print("WARNING! Too long line at " + lineId + ": “" + breakLine + "”")
                     nbTooLong += 1
+                
+                if (len(sys.argv) > 1):
+                    firstWord = breakLine.split(" ")[0]
+                    if (len(firstWord) > 0 and len(firstWord) + previousLineLength < maxLen
+                    and (firstWord.isupper() or firstWord.islower())):
+                        print("WARNING! At " + lineId + ": “" + firstWord + "” could fit before [BREAK]")
+                        nbTooLong += 1
+                
+                    if (len(breakLine) > 0 and (breakLine[-1] == "," or breakLine[-1] == "." or breakLine[-1] == "?" or breakLine[-1] == "!")):
+                        previousLineLength = maxLen
+                    else:
+                        previousLineLength = len(breakLine)
                     
         forcedStrings.clear()
         forcedLengths.clear()
