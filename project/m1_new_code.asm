@@ -1357,6 +1357,45 @@ bx   lr
 
 
 //======================================================================
+// Gender for status ailment names
+//======================================================================
+ailment_gender:
+
+.call_from_status_bar:
+push {lr}
+mov  r3,#2                     // gender "2" = abbreviated (instead of "0" or "1")
+bl   0x8F0CBD0
+pop  {pc}
+
+.call_from_status_screen:
+push {lr}
+mov  r2,r8                            // character index to r2
+mov  r1,r0                            // put main parameter aside (status ailment)
+ldr  r0,=#0x3003190                   // ids for party members
+add  r0,r0,r2                         
+ldrb r0,[r0,#0x8]                     // id for current party member
+sub  r0,#1                            
+bl   general.is_female_from_char_id   // is current party member female
+mov  r3,r0                            // gender parameter will be r3
+mov  r0,r1                            // put main parameter back
+bl   0x8F0CBD0
+pop  {pc}
+
+.text_line_with_gender:
+push {lr}
+cmp  r3,#0
+bne  +
+add  r0,#0x38
++
+cmp  r3,#1
+bne  +
+add  r0,#0x40
++
+bl   0x8F0CB3C
+pop  {pc}
+
+
+//======================================================================
 // Intro screen stuff
 //======================================================================
 

@@ -196,7 +196,7 @@ org $8FE4000; incbin m1_window_command_menu.bin // #OVERRIDDEN
 org $8F0B188; dd $8FE4800
 org $8FE4800; incbin m1_window_status_menu.bin // #OVERRIDDEN
 org $8F0C6B4; db $04    // fix status menu number alignment
-org $8F0CC78; mov r0,#8 // empty status ailment = 8 characters, like the others
+org $8F0CC78; mov r0,#0xC // empty status ailment = 8 characters, like the others
 
 // alter main dialogue box
 org $8F0CAE4; bl choose_text_window_type
@@ -259,8 +259,24 @@ org $8F07FCE; bl yes_no_cursor
 org $8F0C100; cmp r0,#0x7F
 org $8F0C106; bl more_field_control_codes; nop; nop
 
-// change position of status ailment info
-org $8F0AF86; mov r0,#0
+// change position of status ailment and other info in status bar
+//org $8F0AF48; mov r0,#1  // character name
+//org $8F0AF6A; mov r1,#4  // HP
+org $8F0AF86; mov r0,#0    // status effect
+//org $8F0AFA6; mov r1,#9
+
+// gender for status ailment effects
+org $8F0AF8E; bl ailment_gender.call_from_status_bar
+org $8F0C4BC; bl ailment_gender.call_from_status_screen
+
+org $8F0CBE4; bl ailment_gender.text_line_with_gender
+org $8F0CBF4; bl ailment_gender.text_line_with_gender
+org $8F0CC0A; bl ailment_gender.text_line_with_gender
+org $8F0CC1E; bl ailment_gender.text_line_with_gender
+org $8F0CC32; bl ailment_gender.text_line_with_gender
+org $8F0CC46; bl ailment_gender.text_line_with_gender
+org $8F0CC5A; bl ailment_gender.text_line_with_gender
+org $8F0CC6E; bl ailment_gender.text_line_with_gender
 
 //========================================================================================
 //                  FIXES TO BUGS IN THE ORIGINAL MOTHER 1 PROGRAMMING

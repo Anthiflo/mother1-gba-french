@@ -2488,9 +2488,10 @@
 4A8: Uncon.
 4A8-E:  Évanoui
 4A9:  Stone
-4A9-E:  [5E][5F][60][61][62][63][64]
+4A9-E:  [5D][5E][5F][60][61][62][63]
 4AA: Paral.
-4AA-E:  [66][67][68][69][6A][6B][6C]
+4AA-E:  [55][56][57][58][59][5A][5B]
+//  [65][66][67][68][69][6A][6B]
 4AB: Asleep
 4AB-E:  Endormi
 4AC: Flust.
@@ -2597,38 +2598,44 @@
 4DE-E: 
 4DF: 
 4DF-E: 
+// In status menu (male)
 4E0: 
-4E0-E: 
-4E1: 
-4E1-E: 
-4E2: 
-4E2-E: 
-4E3: 
-4E3-E: 
-4E4: 
-4E4-E: 
-4E5: 
-4E5-E: 
-4E6: 
-4E6-E: 
-4E7: 
-4E7-E: 
-4E8: 
-4E8-E: 
-4E9: 
-4E9-E: 
-4EA: 
-4EA-E: 
-4EB: 
-4EB-E: 
-4EC: 
-4EC-E: 
-4ED: 
-4ED-E: 
-4EE: 
-4EE-E: 
-4EF: 
-4EF-E: 
+4E0-E:      Évanoui
+4E1:       
+4E1-E:     Pétrifié
+4E2:       
+4E2-E:     Paralysé
+4E3:       
+4E3-E:      Endormi
+4E4:       
+4E4-E:      Troublé
+4E5:       
+4E5-E:       Confus
+4E6:       
+4E6-E:   Empoisonné
+//   [8D][8E][8F][90][91][92][93][94][95][96]
+4E7:       
+4E7-E:      Enrhumé
+// In status menu (female)
+4E8:       
+4E8-E:     Évanouie
+4E9:   
+4E9-E:    Pétrifiée
+//     [7D][7E][7F][80][81][82][83][84]
+4EA:       
+4EA-E:    Paralysée
+//     [85][86][87][88][89][8A][8B][8C]
+4EB:       
+4EB-E:     Endormie
+4EC:       
+4EC-E:     Troublée
+4ED:       
+4ED-E:      Confuse
+4EE:       
+4EE-E:  Empoisonnée
+//  [6D][6E][6F][70][71][72][73][74][75][76][77]
+4EF:       
+4EF-E:     Enrhumée
 4F0: 
 4F0-E: 
 4F1: 
