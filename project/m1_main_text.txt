@@ -3137,247 +3137,367 @@
 5DB-E: 
 5DC: 
 5DC-E: 
-// #MAXLENGTH=12 #AUTOWRAP=0 #MAXLINES=1 #EXTRALASTLINES=0
+// #MAXLENGTH=14 #AUTOWRAP=0 #MAXLINES=1 #EXTRALASTLINES=0 01
 5DD: Territ. Oak
-5DD-E: GrosTronchou
+5DD-E: Gros Tronchou
+// #MAXLENGTH=14 02
 5DE: Dragon
 5DE-E: Dragon
+// #MAXLENGTH=14 03
 5DF: R-7038
 5DF-E: R-7038
+// #MAXLENGTH=14 04
 5E0: Elephant
 5E0-E: Éléphant
+// #MAXLENGTH=14 05
 5E1: Bear
 5E1-E: Ours
+// #MAXLENGTH=14 06
 5E2: Bigfoot
 5E2-E: Bigfoot
+// #MAXLENGTH=14 07
 5E3: Mad Truck
 5E3-E: Camion fou
+// #MAXLENGTH=14 08
 5E4: Old Robot
 5E4-E: Vieux robot
+// #MAXLENGTH=12 09
 5E5: Mega-Borg
 5E5-E: Méga-Borg
+// #MAXLENGTH=12 0A
 5E6: Gargoyle
 5E6-E: Gargouille
+// #MAXLENGTH=12 0B
 5E7: Gabilan
 5E7-E: Gabilan
+// #MAXLENGTH=14 0C
 5E8: Gorilla
 5E8-E: Gorille
+// #MAXLENGTH=12 0D
 5E9: Bison
 5E9-E: Bison
+// #MAXLENGTH=14 0E
 5EA: Tiger
 5EA-E: Tigre
+// #MAXLENGTH=14 0F
 5EB: Mad Car
-5EB-E: VoitureFolle
+5EB-E: Voiture folle
+// #MAXLENGTH=14 10
 5EC: Raeb Yddet
 5EC-E: Nounours
+// #MAXLENGTH=12 11
 5ED: Magisnail
 5ED-E: Magiscargot
+// #MAXLENGTH=12 12
 5EE: Titany
 5EE-E: Titanie
+// #MAXLENGTH=14 13
 5EF: Giygas
 5EF-E: Giygas
+// #MAXLENGTH=12 14
 5F0: Eagle
 5F0-E: Aigle
+// #MAXLENGTH=12 15
 5F1: Wolf
 5F1-E: Loup
+// #MAXLENGTH=12 16
 5F2: Gull Bandit
 5F2-E: GoélandBandt
+// #MAXLENGTH=12 17
 5F3: Crocodile
 5F3-E: Crocodile
+// #MAXLENGTH=14 18
 5F4: Atomic Robot
-5F4-E: RobotAtomiq.
+5F4-E: Robot atomique
+// #MAXLENGTH=14 19
 5F5: Cave Master
-5F5-E: RoiProfondrs
+5F5-E: RoiProfondeurs
+// #MAXLENGTH=14 1A
 5F6: Fugitive
 5F6-E: Fugitif
+// #MAXLENGTH=14 1B
 5F7: BB Gang Boss
 5F7-E: Chef BB Gang
+// #MAXLENGTH=14 1C
 5F8: Barbot
 5F8-E: Barbot
+// #MAXLENGTH=14 1D
 5F9: Jane
 5F9-E: Jane
+// #MAXLENGTH=12 1E
 5FA: Starman
 5FA-E: Starman
+// #MAXLENGTH=14 1F
 5FB: Ulrich
 5FB-E: Ulrich
+// #MAXLENGTH=14 20
 5FC: Brainger
 5FC-E: Cerebrum
+// #MAXLENGTH=12 21
 5FD: Mook
 5FD-E: Mook
+// #MAXLENGTH=12 22
 5FE: Armor
 5FE-E: Armure
+// #MAXLENGTH=12 23
 5FF: Oak
 5FF-E: Tronchou
+// #MAXLENGTH=14 24
 600: Redneck
 600-E: Péquenaud
+// #MAXLENGTH=14 25
 601: Hippie
 601-E: Hippie
+// #MAXLENGTH=14 26
 602: Bag Lady
 602-E: Excentrique
+// #MAXLENGTH=14 27
 603: Gang Member
-603-E: Membre gang
+603-E: Membre du gang
+// #MAXLENGTH=14 28
 604: Dr. Distorto
 604-E: Dr Distorto
+//
 605: 
 605-E: 
+// #MAXLENGTH=14 2A
 606: Gang Zombie
-606-E: ZombiMafieux
+606-E: Zombie mafieux
+// #MAXLENGTH=14 2B
 607: PseudoZombie
-607-E: PseudoZombie
+607-E: Pseudo zombie
+// #MAXLENGTH=12 2C
 608: Crow
 608-E: Corbeau
+// #MAXLENGTH=14 2D
 609: Snake
 609-E: Serpent
+// #MAXLENGTH=12 2E
 60A: Hyena
 60A-E: Hyène
+// #MAXLENGTH=12 2F
 60B: Lynx
 60B-E: Lynx
+// #MAXLENGTH=12 30
 60C: Centipede
 60C-E: Scolopendre
+// #MAXLENGTH=12 31
 60D: Dust Ghost
 60D-E: Esprit crado
+// #MAXLENGTH=12 32
 60E: Fly
 60E-E: Mouche
+// #MAXLENGTH=12 33
 60F: Arachnid!
 60F-E: Araignée
+// #MAXLENGTH=12 34
 610: Scorpion
 610-E: Scorpion
+// #MAXLENGTH=14 35
 611: Rope
 611-E: Corde
+// #MAXLENGTH=14 36
 612: Fireball
 612-E: Boule de feu
+// #MAXLENGTH=14 37
 613: Swoosh
 613-E: Zieux
+// #MAXLENGTH=14 38
 614: Bonus Swoosh
 614-E: Zieux Bonus
+// #MAXLENGTH=12 39
 615: Ghost
 615-E: Fantôme
+// #MAXLENGTH=12 3A
 616: Li'l Saucer
 616-E: P'tit OVNI
+// #MAXLENGTH=12 3B
 617: Mr. Batty
 617-E: M. Batou
+// #MAXLENGTH=14 3C
 618: Starman Jr.
 618-E: Starman Jr
+// #MAXLENGTH=12 3D
 619: Skunk
 619-E: Putois
+// #MAXLENGTH=14 3E
 61A: BloodyZombie
 61A-E: ZombieSang.
+// #MAXLENGTH=12 3F
 61B: Rat
 61B-E: Rat
+// #MAXLENGTH=14 40
 61C: Bomber
 61C-E: Bombœuf
+//
 61D: 
 61D-E: 
+// #MAXLENGTH=14 42
 61E: Doll
 61E-E: Poupée
+// #MAXLENGTH=14 43
 61F: Lamp
 61F-E: Lampe
+//
 620: 
 620-E: 
+//
 621: 
 621-E: 
+// #MAXLENGTH=14 46
 622: Biopede
 622-E: ScolpdreBio.
+// #MAXLENGTH=14 47
 623: Bio-Scorpion
 623-E: ScorpionBio.
+//
 624: 
 624-E: 
+// 
 625: 
 625-E: 
+// #MAXLENGTH=14 4A
 626: Red Snake
-626-E: SerpentRouge
+626-E: Serpent rouge
+// #MAXLENGTH=14 4B
 627: Lone Wolf
-627-E: LoupSoltaire
+627-E: Loup solitaire
+// #MAXLENGTH=14 4C
 628: Polar Bear
 628-E: Ours polaire
+//
 629: 
 629-E: 
+//
 62A: 
 62A-E: 
+//
 62B: 
 62B-E: 
+//
 62C: 
 62C-E: 
+// #MAXLENGTH=14 51
 62D: Rattlesnake
 62D-E: Crotale
+// #MAXLENGTH=12 52
 62E: Tarantula
 62E-E: Tarentule
+// #MAXLENGTH=12 53
 62F: Tough Croc
 62F-E: Croco tenace
+//
 630: 
 630-E: 
+// #MAXLENGTH=12 55
 631: Buffalo
 631-E: Buffle
+//
 632: 
 632-E: 
+// #MAXLENGTH=12 57
 633: Bio-Bat
 633-E: BatouBioniq.
+// #MAXLENGTH=14 58
 634: Stray Dog
 634-E: Chien errant
+// #MAXLENGTH=14 59
 635: Devil Car
-635-E: VoitureDémon
+635-E: Voiture démon
+// #MAXLENGTH=14 5A
 636: Devil Truck
 636-E: Camion démon
+// #MAXLENGTH=14 5B
 637: Death Truck
 637-E: Camion tueur
+// #MAXLENGTH=14 5C
 638: Alarm Ghost
 638-E: Fantôme SOS
+//
 639: 
 639-E: 
+// #MAXLENGTH=14 5E
 63A: Woosh Swoosh
 63A-E: Katzieux
+// #MAXLENGTH=14 5F
 63B: Papa Swoosh
 63B-E: Papa Zieux
+// #MAXLENGTH=14 60
 63C: Swooshette
 63C-E: Maman Zieux
+//
 63D: 
 63D-E: 
+//
 63E: 
 63E-E: 
+// #MAXLENGTH=14 63
 63F: Sky Yddet
 63F-E: Nounourciel
+//
 640: 
 640-E: 
+// #MAXLENGTH=12 65
 641: Giga-Borg
 641-E: Giga-Borg
+// #MAXLENGTH=14 66
 642: Last Borg
 642-E: Borg ultime
+// #MAXLENGTH=14 67
 643: Scrapper
 643-E: Robot cassé
+// #MAXLENGTH=14 68
 644: Death Barbot
 644-E: Barbot tueur
+// #MAXLENGTH=12 69
 645: Omega Saucer
 645-E: OVNI Oméga
+// #MAXLENGTH=14 6A
 646: Caroline
 646-E: Caroline
+// #MAXLENGTH=14 6B
 647: Star Miner
 647-E: Bombétoile
+// #MAXLENGTH=14 6C
 648: NuclearRobot
-648-E: SprRobotAtom
+648-E: SuperRobotAtom
+// #MAXLENGTH=14 6D
 649: Suzie
 649-E: Suzie
+// #MAXLENGTH=12 6E
 64A: Blue Starman
 64A-E: Starman bleu
+// #MAXLENGTH=12 6F
 64B: Satania
 64B-E: Satanie
+// #MAXLENGTH=12 70
 64C: Titanian
 64C-E: Titanien
+// #MAXLENGTH=12 71
 64D: Mook Senior
 64D-E: Mook senior
+//
 64E: 
 64E-E: 
+// #MAXLENGTH=12 73
 64F: Zombie
 64F-E: Zombie
+// #MAXLENGTH=14 74
 650: Mean Zombie
 650-E: Zombie cruel
+// #MAXLENGTH=12 75
 651: Silver Wolf
 651-E: Loup argenté
+// #MAXLENGTH=14 76
 652: R-7037
 652-E: R-7037
+// #MAXLENGTH=14 77
 653: Grizzly
 653-E: Grizzly
+// #MAXLENGTH=14 78
 654: R-7038XX
 654-E: R-7038XX
+// #MAXLENGTH=12 79
 655: Last Starman
 655-E: StarmnUltime
 656: 
