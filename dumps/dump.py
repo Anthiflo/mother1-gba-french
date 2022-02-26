@@ -90,17 +90,19 @@ def outputToFile(filename,lines,addPrefix):
     output = open(filename,"w",encoding="utf-8")
     if (addPrefix):
         for idx,line in enumerate(lines):
-            output.write("{0:03X}".format(idx) + ":" + line + "\n")
+            output.write("{0:03X}".format(idx) + "-E: " + line + "\n")
     else:
-        output.write("\n???:".join(lines))
+        defaultPrefix = "???-E: "
+        output.write(defaultPrefix + ("\n" + defaultPrefix).join(lines))
     output.close()
 
 def outputToScreen(lines,addPrefix):
     if (addPrefix):
         for idx,line in enumerate(lines):
-            print("{0:03X}".format(idx) + ":" + line + "\n")
+            print("{0:03X}".format(idx) + "-E: " + line + "\n")
     else:
-        print("\n???:".join(lines))
+        defaultPrefix = "???-E: "
+        print(defaultPrefix + ("\n" + defaultPrefix).join(lines))
    
 def displayHelp():
     print("Syntax: " + os.path.basename(sys.argv[0]) + " rom_file cfg_file [output_file]")

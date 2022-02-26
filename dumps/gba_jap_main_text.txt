@@ -1,2172 +1,2172 @@
-000:System Error！[BREAK][END]
-001:@おにいちゃん こわい。[BREAK]でんきスタンドが くるったように[BREAK]あばれだしたの。[BREAK][END]
-002:@おにいちゃーん！[BREAK]おうちが こわれちゃうよう！[BREAK][END]
-003:@ウェーン。[BREAK][END]
-004:@はい おにいちゃん ジュース。[BREAK]おなかすいたでしょ。[BREAK][END]
-005:@こわーい！[BREAK]おにんぎょうが あばれだしたの！[BREAK][END]
-006:@こわかったぁ。[BREAK]あっ！ おにんぎょうのなかに[BREAK]なにかあるみたい。[BREAK][END]
-007:
-008:@わたし ミミーよ。[BREAK]ミニーと まちがえちゃいや。[BREAK][END]
-009:@だいじょうぶだった？[BREAK][03 10][BREAK][PAUSE]@このいえは いったい[BREAK]どうなっているのかしら。[BREAK]オロオロ。[BREAK][PAUSE]@こんなときに パパがいてくれたら[BREAK]いいのかもしれないけど[..][..][BREAK][END]
-00A:@あなたって おもってたより[BREAK]ずっと ゆうかんなこだったのね。[BREAK][PAUSE]@[..][..]でも あなたを[BREAK]つらいたびに だしたくないわ。[BREAK][END]
-00B:@まぁ ずいぶんきずついて[..][..][BREAK][END]
-00C:@えーと つぎのレベルまで[..][..][BREAK][END]
-00D:@また[BREAK][03 15]が たべたくなったら[BREAK]かえってくるのよ。[BREAK][END]
-00E:@ふむふむ[..][..] そうか[BREAK]それは ラップげんしょうだな。[BREAK][PAUSE]@どうすればいいのかは[..][..][BREAK]パパにもわからないな。[BREAK][PAUSE]@しかし ひいおじいさんが[BREAK]PSIの けんきゅうを[BREAK]していたはずだ。[BREAK][PAUSE]@ちかしつをさがせば[BREAK]なにか わかるかもしれない。[BREAK][PAUSE]@ちかしつのカギは[..][..][BREAK]どこかに つけておいたんだが[..][..][BREAK][PAUSE]@わすれた。[BREAK][PAUSE]@とにかく おまえだけがたよりだ。[BREAK]いまこそ ぼうけんのときだ。[BREAK]すすめ [03 10]！[BREAK][PAUSE]@みんなを まもってくれ。[BREAK][END]
-00F:
-010:
-011:
-012:
-013:@ガチャン ツーツーツー[BREAK][END]
-014:@あ パパだ。[BREAK][END]
-015:@[03 10]の ぎんこうこうざに[BREAK][03 18]ドル[BREAK]ふりこんでおいたからね。[BREAK][PAUSE]@おまえ[03 17]が[BREAK]つかったぶんと さしひきで[BREAK][PAUSE][03 19]ドル[BREAK]ぎんこうに はいっているはずだ。[BREAK][PAUSE]@だいじに つかいなさい。[BREAK][END]
-016:@おせっかいかもしれないが[BREAK]ちょっと きゅうけいしては[BREAK]どうかね。[BREAK][END]
-017:@そうか。[BREAK]じゃ きろくしとくよ。[BREAK][END]
-018:@そうか。[BREAK]ま ちきゅうの ききだからな。[BREAK][END]
-019:
-01A:
-01B:@そうか。[BREAK]パパも もう きょうは[BREAK]やすもうと おもってたところだ。[BREAK][PAUSE]@たたかいのきろくは[BREAK]つけといたよ。[BREAK][PAUSE]@おやすみ[..][..][BREAK][END]
-01C:@おたがい よくやったよな。[BREAK][PAUSE]@それじゃ スイッチを OFFに[BREAK]しなさい。 わかったね。[BREAK][END]
-01D:@[03 16]も ママににて[BREAK]がんばりやだなぁ。[BREAK][PAUSE]@むりするなよ。[BREAK][END]
-01E:@それはそうと なんのようだい？[BREAK][END]
-01F:
-020:
-021:@がんばれよ。[BREAK][END]
-022:
-023:@こんにちは。[BREAK]わたしも ピッピも[BREAK]すっごく げんきよ。[BREAK][END]
-024:@おまえ まさか[BREAK]みなみの はかばから[BREAK]きたんじゃないだろうな。[BREAK][END]
-025:@おまえ すごいな。[BREAK][END]
-026:@おまえ まさか[BREAK]ゾンビじゃないだろうな。[BREAK]ゾンビか？[BREAK][END]
-027:@ゾ ゾ ゾンビの[..][..][BREAK]バカッ！ ヒャーー[BREAK][END]
-028:@ほんとに にんげんか？[BREAK][END]
-029:@よく ここまで こられたな。[BREAK][END]
-02A:@やっぱりな[..][..][BREAK][END]
-02B:@おれ  こわくて[BREAK]おもらししそうだよ。[BREAK][END]
-02C:@こわかったよなぁ。[BREAK][END]
-02D:@ゾンビー！[BREAK][END]
-02E:@フフフフフ[..][..][BREAK]おまえも ゾンビに なれ！[BREAK][END]
-02F:@ししゃたちを うごかしている[BREAK]なにものかが いるらしい。[BREAK][END]
-030:@おわかいの やるではないか。[BREAK][END]
-031:@このまちも ゾンビに[BREAK]せんりょうされてしまうのか。[BREAK][END]
-032:@あら カナリアのヒナね。[BREAK]カナリアむらで てにいれたの？[BREAK][END]
-033:@へーえ。[BREAK][END]
-034:@カナリアむらの ことりなら[BREAK]きれいなうたを[BREAK]うたうはずだものね。[BREAK][END]
-035:@わたし カナリアむらの[BREAK]おじさんに あこがれてるのよ。[BREAK][END]
-036:@ちょうちょうさんは[BREAK]ゆうきのある すけっとを[BREAK]さがしておられる。[BREAK][END]
-037:@はかばに こどもが[BREAK]まよいこんだっていうけど[BREAK]たすかったのかなぁ。[BREAK][END]
-038:@おまえ[..][..][BREAK]ほんとに はかばに いくつもりか？[BREAK][END]
-039:@じょうしきを わきまえた[BREAK]こどもだと おもったな オレは。[BREAK][END]
-03A:@どうぶつたちは[BREAK]くるって あばれだすし[BREAK][PAUSE]@しにんは[BREAK]ゾンビになっておそってくるし[..][..][BREAK][PAUSE]@どうすればいいのよ。[BREAK]ヒーヒー[..][..][BREAK][END]
-03B:@あなたって スゴイ！[BREAK][END]
-03C:
-03D:@おまえんち ポルターガイストに[BREAK]みまわれなかったか？[BREAK]おれんちなんか たいへんだったぜ。[BREAK][END]
-03E:@どうぶつえんは[BREAK]くるったどうぶつが これいじょう[BREAK]にげださないよう[BREAK][PAUSE]かんぜんに へいさしたそうだぜ。[BREAK][END]
-03F:@パンは たべることもできるけれど[BREAK]ちぎって パンくずにすると[BREAK]めじるしに なるんじゃないかな。[BREAK][PAUSE]@[..][..]おせっかい ですけどね。[BREAK][END]
-040:@きみでは むりかなぁ。[BREAK]きたいしてるんだけどなぁ。[BREAK][END]
-041:@いやなに[..][..][BREAK]はかばに こどもがまよいこんでね。[BREAK][PAUSE]@つぎの ちょうちょうせんきょも[BREAK]ちかいし[..][..][BREAK][..][..]たすけてチョーダイ！[BREAK][END]
-042:@えっ いってくれるか。[BREAK]たすけだして くれるってか。[BREAK][END]
-043:@そのこが まいごになった[BREAK]ピッピちゃんかね。[BREAK][PAUSE]@いやいや すばらしい。[BREAK][PAUSE]@みどころのあるしょうねんだと[BREAK]おもって いたが。[BREAK][PAUSE]@はくしゅ パチパチパチ[..][..][BREAK][PAUSE]@よかったねぇ[BREAK]かわいいピッピちゃん。[BREAK][PAUSE]@ママに ちょうちょうさんに[BREAK]たすけてもらったと[BREAK]ちゃんというんだよ。[BREAK][PAUSE]@[03 16]くんにも[BREAK]しょうきんを [03 1E]ドル[BREAK]あげよう。 ホレッ。[BREAK][END]
-044:
-045:
-046:@ところで[BREAK]ついでといっては なんだが[BREAK][PAUSE]@どうぶつえんの じけんのほうも[BREAK]ひとがんばりしてみちゃ[BREAK]くれないかね？[BREAK][END]
-047:@そうか やっぱりいってくれるか！[BREAK][03 16]くん きみも[BREAK]ほんとに ゲームずきだねぇ。[BREAK][PAUSE]@どうぶつえんの カギは[BREAK]じょやくの アボットから[BREAK]もらいなさい。[BREAK][END]
-048:@はい[BREAK]これが どうぶつえんのカギです。[BREAK][END]
-049:@いきてかえって きみは えいゆう！[BREAK]からだのぐあいさえよければ[BREAK]わたしも いくんだけど[..][..][BREAK][END]
-04A:@おお[BREAK]えいゆうの [03 16]くん。[BREAK]ふくに とらのふんがついているよ。[BREAK][PAUSE]@あ うそ うそ。[BREAK]こんどは なにも[BREAK]あげるものがないが[..][..][BREAK][PAUSE]ワハハハハハ。[BREAK][END]
-04B:@ふしぎな しょうじょの[BREAK]うわさは きいてるかしら？[BREAK][PAUSE]@きっと きみの たびを[BREAK]たすけてくれると おもうの。[BREAK][END]
-04C:@どうぶつえんのカギくらい[BREAK]いくらでもあります。[BREAK]はい またひとつあげましょう。[BREAK][END]
-04D:@みてのとおり どうぶつたちは[BREAK]みんなにげだしちまった。[BREAK][END]
-04E:@いるのは カナリアのヒナだけだ。[BREAK]かうかね？[BREAK][END]
-04F:@じゃ [03 1E]ドルで かうかね？[BREAK][END]
-050:@うたをしらないカナリアだからなぁ。[BREAK][END]
-051:@かわいがってね。 ありがとさん。[BREAK][END]
-052:@ただでも いらないかね？[BREAK]もっていきな。[BREAK][END]
-053:@カナリアは まだ げんきかね。[BREAK][END]
-054:@どうぶつたちは きっと なにかに[BREAK]あやつられていると おもうの。[BREAK][END]
-055:@どうぶつは かわいいわよね。[BREAK][END]
-056:@うふっ。[BREAK][END]
-057:@バーカ！[BREAK][END]
-058:@いらっしゃいませ。[BREAK]また ごへんぴんですね。[BREAK][END]
-059:@[03 16]の こころに[BREAK]なにかが といかけてきている。[BREAK][END]
-05A:@ああ よかった。[BREAK][END]
-05B:@これからも とうデパートを[BREAK]よろしくおひきたてくださいませね。[BREAK]うっふん。[BREAK][END]
-05C:@デパートの 1かいに[BREAK]ちょきんを おろせる きかいが[BREAK]できたのは いいんだけどね。[BREAK][PAUSE]@キャなんとかカードが ないと[BREAK]おろせないってのが ふべんね。[BREAK][END]
-05D:
-05E:@いいてんきじゃ。 しかし[BREAK]それがどうしたと いうのだろう。[BREAK][END]
-05F:@ありゃ きみのカナリアは[BREAK]うたひめローラのこどもじゃないか。[BREAK]ローラに とどけてやっておくれ。[BREAK][END]
-060:@きみは なにか たいせつなことを[BREAK]わすれているな。 かなしいことだ。[BREAK][END]
-061:@ローラは どこにいたかな[..][..][BREAK][END]
-062:@うたひめローラが うたを[BREAK]おもいだしてくれたようだ。[BREAK]きみも メロディーをおぼえたかい？[BREAK][END]
-063:@だーめだ そりゃ。[BREAK][END]
-064:@うたは ちからなり[..][..][BREAK]まことに そのとおりじゃ。[BREAK][END]
-065:@わたしは まいごのピッピだよ。[BREAK]あなたって ゆうき あるね。[BREAK][END]
-066:@この おちょうしもの。 ハハハ。[BREAK][END]
-067:@ゆうきあるわよ。[BREAK]また いつか どこかで[BREAK]あえるといいね？[BREAK][END]
-068:@うれしい。 このバッジは[BREAK]やくそくのしるしよ。[BREAK]ハイ うけとって。[BREAK][END]
-069:@すきなひとがいるのね。[BREAK]きっと[..][..][BREAK][END]
-06A:@じゃ ここでバイバイ。[BREAK][PAUSE]@わたしの もっている グッズは[BREAK]あとで わたしのうちに[BREAK]とりにきてね。[BREAK][PAUSE]@ところで[..][..][BREAK]わたしのくつした みじかすぎる？[BREAK][END]
-06B:
-06C:@こたえなくてもよかったのに。[BREAK]かわいいひと[..][..][BREAK][END]
-06D:@キャッキャッキャッ[BREAK](おまえの かあさんでべそ！)[BREAK][END]
-06E:@[03 16][03 17]は[BREAK]<かみのしっぽは どこにある。>[BREAK]という こえをきいた。[BREAK][END]
-06F:@ありゃりゃ。 かわったふくを[BREAK]きているな おめぇ。[BREAK][PAUSE]@そんなにめだつふくを きてると[BREAK]まものが よってくるだよ。[BREAK][END]
-070:
-071:@しあわせは あるいてこない。[BREAK]だども ふしあわせも[BREAK]あるいちゃこねぇよなぁ。[BREAK][END]
-072:@さいなんに であいたくなかったら[BREAK]いっぽも あるかねぇこった。[BREAK][END]
-073:@そうか[BREAK]ふしあわせは あるくか[..][..][BREAK]しらなんだ。[BREAK][END]
-074:@おらの センスを みとめただか。[BREAK]おめぇも カッコイイあだなが[BREAK]ほしいだな？[BREAK][END]
-075:@できた。[BREAK]いまから おめぇは[BREAK]うすのろぶた [03 16]だ。[BREAK][PAUSE]@おしゃれな ムードになったぞ。[BREAK][END]
-076:@そうか。 ざんねんだな。[BREAK][END]
-077:@やぁ うすのろぶた[03 16]。[BREAK][END]
-078:@しあわせについて[BREAK]てつがくしてるやつに あったか？[BREAK][END]
-079:@やつは[BREAK]あだなをつける めいじんなんだ。[BREAK]さいこうに センスが いいんだぜ。[BREAK][END]
-07A:@あわなきゃ わかれもないわけだ。[BREAK][END]
-07B:@あわなきゃ わかれもないっていう[BREAK]かんがえのおとこに あったか？[BREAK][END]
-07C:@おれも そんなかんがえかた[BREAK]してるんだ。[BREAK][END]
-07D:@あったほうが ためになるぞ。[BREAK][END]
-07E:@クイーンマリーの いずみで[BREAK]すっかり げんきになったわ。[BREAK][END]
-07F:@クイーンマリーのいずみは[BREAK]とおいのが つらいわよねぇ。[BREAK]わかりにくい ばしょにあるし。[BREAK][END]
-080:@この こわれたイヤリングを[BREAK]いずみにもっていって まほうの[BREAK]イヤリングにするの。[BREAK][END]
-081:@いずみのふしぎなおとを きくと[BREAK]それだけで おちつくよなぁ。[BREAK][END]
-082:@もっと みなみ。[BREAK]みちにまよったのかい。[BREAK][PAUSE]@ごめん ごめん[BREAK]いま おしえたのは[BREAK]トイレのばしょだった。[BREAK][PAUSE]@クイーンマリーの いずみなら[BREAK]おしろから にしに いくんだよ。[BREAK][END]
-083:
-084:@スプーンを まげちゃったら[BREAK]ごはんが たべにくいや。[BREAK]おにいちゃんもとに もどせる？[BREAK][END]
-085:@はやく もどして。[BREAK][PAUSE]@([03 10]は[BREAK]PSIのちからで スプーンを[BREAK]もとに もどしてやった。)[BREAK][PAUSE]@あんがと。[BREAK]パクパク モシャモシャ。[BREAK]うちにこんやは とまっていきなよ？[BREAK][END]
-086:@どうしてぇ！？[BREAK][END]
-087:@あなた へんなかんじの かたね。[BREAK]でも にくめないタイプ[..][..][BREAK][END]
-088:@よかった。[BREAK][END]
-089:@うぇーん。 ひとのしんせつは[BREAK]うけるものだよ。[BREAK][END]
-08A:@あら たびのかた[BREAK]うちで おしょくじしていったら？[BREAK][PAUSE]@さぁ[BREAK]きょうのメニューは なんでしょう？[BREAK]わかる？[BREAK][END]
-08B:@まぁ どうしてわからないのかしら。[BREAK]あやしいひと！[BREAK][END]
-08C:@そう [03 15]。[BREAK][PAUSE]@あなたのこころを よんで[BREAK][03 15]にしたのよ。[BREAK]おいしい？[BREAK][END]
-08D:
-08E:
-08F:@うちは がっきや だったんだけど[BREAK]ちゅうもんした オカリナが[BREAK]ぜんぜん できてこないの。[BREAK][PAUSE]@もう あきらめたーっと。[BREAK][END]
-090:@あら そう。[BREAK][END]
-091:@ありがとう[BREAK]ベッドのよういも できてるわ。[BREAK]ゆっくりおやすみ。[BREAK][END]
-092:@えんりょしないで[BREAK]また とまっていきなよ。[BREAK][END]
-093:@おまえ[BREAK]なんか このくにに なじまない[BREAK]かおしてるなぁ？[BREAK][END]
-094:@きぼうのオカリナができたんだ。[BREAK][PAUSE]@きみのしってる メロディーが[BREAK]ながれるんだよ。[BREAK][PAUSE]@ほしいか？[BREAK][END]
-095:
-096:@すなおな しょうねんだな。[BREAK]はい どうぞ。 アハハハハ。[BREAK][END]
-097:@ほしいって かおに かいてあるよ。[BREAK]アハハハハ もっていきな。[BREAK][END]
-098:@よっ ぼうず げんきか。[BREAK][END]
-099:@マジカントのくにに[BREAK]でぐちなんてものが あるものかね。[BREAK]アハハハ。[BREAK][END]
-09A:@そと？[BREAK]そとのせかいって なんのこったね？[BREAK][END]
-09B:@あなが あったら[BREAK]はいりたいですわ。[BREAK]もし あったら だけどね。[BREAK][END]
-09C:@わたしは ふしぎな[BREAK]にもつあずかりにん。[BREAK][PAUSE]@ごようですか？[BREAK][END]
-09D:@ぼく ものまねが うまいんだぜ。[BREAK][END]
-09E:@まちの ひがしのほうに[BREAK]あなが たくさんあるんだ。[BREAK][PAUSE]@どの あなか わからないんだけど[BREAK]べつの せかいの おとが[BREAK]きこえてくるんだ。[BREAK][END]
-09F:
-0A0:
-0A1:@あかいくさを ひっこぬいて[BREAK]いずみにつければ なんと[BREAK]マジックハーブになるだよ。[BREAK][END]
-0A2:@でっかいふくろは いるかね？[BREAK][END]
-0A3:@じゃ あんたのキャッシュカードを[BREAK]しばらくかしてくれんかね。[BREAK][END]
-0A4:@マジックハーブが 30たんいも[BREAK]はいっているんだぜ。[BREAK][END]
-0A5:@ありがとう かならず かえすよ。[BREAK]なんか[BREAK]カッコイイな とおもってね。[BREAK][END]
-0A6:@あんたは にんげんを[BREAK]うたがうことを しっとるな。[BREAK]そのほうが いいかもしれんが[..][..][BREAK][END]
-0A7:@ああ キャッシュカードを[BREAK]かえさなきゃな。[BREAK][END]
-0A8:@クイーンは いま ちょっと[BREAK]からだの ぐあいがわるいの。[BREAK][END]
-0A9:@あやしい かおだな。[BREAK]わしのナゾナゾがわかったら[BREAK]ここをとおして やるけどな[..][..][BREAK][END]
-0AA:@そうでした。[BREAK]こたえは わに にひき。[BREAK][PAUSE]@もんだいは[BREAK]まだ かんがえてなかったんだよ[BREAK]ヘヘヘ。[BREAK][END]
-0AB:@ごきげんよう。[BREAK][END]
-0AC:
-0AD:@クイーンの うたを[BREAK]また ききたいな。[BREAK][END]
-0AE:@ハロー！[BREAK]おれは てつがくしていたところだ。[BREAK][PAUSE]@ギターのおとが じゃまで ものを[BREAK]かんがえられないよ。[BREAK][PAUSE]@あっ！[BREAK]じぶんが ギターをひいていたのか。[BREAK]まいった まいった。[BREAK][PAUSE]@[..][..][..][..][..][..][..][..][BREAK][PAUSE]@ここからの はなしは[BREAK]ぜったいに ないしょなんだが[BREAK][PAUSE]すっごく つよくなったら[BREAK]おれに あいにこい。[BREAK][PAUSE]@それと このことは[BREAK]ぜったいに わすれないように[BREAK]メモなんか しとくと いいぞ。[BREAK][END]
-0AF:
-0B0:@おれを むししようとしたな。[BREAK]さみしいもんだぜ。[BREAK]こんなところで ひとりぼっちでさ。[BREAK][PAUSE]@できることなら なんでもするぜ。[BREAK]ホラッ！[BREAK][END]
-0B1:@うれしいよなー[BREAK]おまえらが きてくれて。[BREAK][PAUSE]@わかってるって[BREAK]やってほしいことは。[BREAK]ホラッ！[BREAK][END]
-0B2:@おれ ついに うたをつくったんだ。[BREAK]きけ！[BREAK]おんがくずきの ぼうけんか[03 17]よ。[BREAK][PAUSE]<キューピーにんぎょう なぜなくの[BREAK]それは カナリアが なくからよ[BREAK][PAUSE]サルが うたえば ピアノもうたう[BREAK]ピアノは おばけが ひくのかな[BREAK][PAUSE]さばくのサボテン さみしそう[BREAK]ひとりで よなよな うたってる[BREAK][PAUSE]ドラゴンたおれて おんぷがのこる[BREAK]イ[??]が うたって やまをのぼる[BREAK][PAUSE]XXいしの さいごの うたは[BREAK]クイーンマリーに とどくかな[BREAK][PAUSE]ラララ ふしぎなララバイよ[BREAK]ララバイ バイバイ さようなら>[BREAK][PAUSE]@いいうただろ。[BREAK]いいうただよなぁ[..][..][BREAK][END]
-0B3:@もりのおくに こどくをあいする[BREAK]ギターひきが いるの。[BREAK][PAUSE]@ちょっといいおとこで[..][..][BREAK]しかも すっごく しじんなの。[BREAK][END]
-0B4:@わすれられたおとこの はなしを[BREAK]きいたことが あるけど[BREAK][PAUSE]@どんな はなしか わすれちゃった。[BREAK][END]
-0B5:@しんじようが しんじまいが[BREAK]わたしは ヒーラー。[BREAK][PAUSE]@PPを かいふくしたり[BREAK]いしになったのを なおせるが[BREAK]さて どうしたい？[BREAK][END]
-0B6:@[..][..]そんなきが[..][..]したわ。[BREAK][END]
-0B7:@げんきんを そんなに もつな。[BREAK]かんがえなおせ。 さいなら。[BREAK][END]
-0B8:@おれは うたわないサルだ。[BREAK][PAUSE]@でも ふつうサルってのは[BREAK]うたわないもんだ。[BREAK]しつもんは あるか？[BREAK][END]
-0B9:@ぐもんだね[..][..]どうせ。[BREAK][END]
-0BA:@よかった。[BREAK]つっこんだ しつもんをされたら[BREAK]どうしようと おもってたんだ。[BREAK][PAUSE]@それにしても おまえ[BREAK]クイーンマリーに かおが[BREAK]にてるなぁ。[BREAK][PAUSE]@どうしてだろ。[BREAK][END]
-0BB:@あんた[03 17]に あったら[BREAK]いおうと おもってたんだ。[BREAK][PAUSE]@せんろが なおって[BREAK]でんしゃが[BREAK]とおれるように なったってね。[BREAK][END]
-0BC:@わたし[BREAK]いっしょうに いちどでいいから[BREAK]おしろに はいって[BREAK][PAUSE]@マリーさまの おかおを[BREAK]はいけんしたいわ。[BREAK][END]
-0BD:@たまに クイーンマリーは[BREAK]うなされてるんだ。[BREAK][PAUSE]@わるいこを しかりつけるような[BREAK]ことをいって[BREAK][PAUSE]@こわい こわい となきさけぶのさ。[BREAK][PAUSE]@そして[BREAK]うたを うたいはじめるんだ。[BREAK]ほんのすこしだけ[..][..][BREAK][PAUSE]@で おもいだせないって[BREAK]くるしがってさ。 あせびっしょり[BREAK]かいて めざめるわけさ。[BREAK][PAUSE]@クイーンマリーは むかし[BREAK]よっぽど かなしい[BREAK]ひどいめに あったのかな。[BREAK][END]
-0BE:@でも[BREAK]おんなのこにしか あげないよ。[BREAK][END]
-0BF:@ぐーぐーぐー[..][..][BREAK][END]
-0C0:
-0C1:@うそつきめ！[BREAK][END]
-0C2:@あなた[03 17]が このくにのひとで[BREAK]ないことは みんなしってるわ。[BREAK]でも なかまだと おもっているの。[BREAK][PAUSE]@めのうのつりばり さえあれば[BREAK]いつでもかえってこられるはず。[BREAK][END]
-0C3:@きっと また かえってくるのよ。[BREAK]くるしいときに ここに[..][..][BREAK][PAUSE]@みんな あなた[03 17]を[BREAK]すきなんだから。[BREAK][END]
-0C4:@ようこそ [03 16]。[BREAK][PAUSE]@このマジカントこくでは みんなが[BREAK]ともだちになれるし ほしいものは[BREAK]すきなだけ えられるのですよ。[BREAK][PAUSE]@えっ[BREAK]わたしのうたが ききたいの？[BREAK][PAUSE]@ごめんなさい。[BREAK]どうしても おもいだせない。[BREAK][PAUSE]@いつか きっと[BREAK]おもいだして うたえるはず[..][..][BREAK][PAUSE]@あのうたを うたえたときに[BREAK]そう[..][..]なにかが おこるの。[BREAK][END]
-0C5:
-0C6:
-0C7:
-0C8:
-0C9:
-0CA:@[..][..]。[BREAK][END]
-0CB:@あなた[03 17]の おぼえてきたうたを[BREAK]わたしに きかせて。[BREAK][PAUSE][END]
-0CC:@そう。 そう[..][..]このうただった。[BREAK][END]
-0CD:@ああ[..][..]ギーグ[..][..][BREAK][END]
-0CE:
-0CF:@わたし このマジカントこくが[BREAK]きえて なくなっちゃう[BREAK]ゆめをみたのよ。[BREAK][PAUSE]@まだ[BREAK]しんぞうが ドキドキしてるわ。[BREAK][END]
-0D0:
-0D1:@ぼくは ぢめんを およぐねこ。[BREAK]ぼくの てのなかに[BREAK]はいってるものを あててごらん。[BREAK][END]
-0D2:@ぼくの てのなかに[BREAK]はいっているものが みえたかい？[BREAK][PAUSE]@そう。 リボン。[BREAK]ふしぎなちからのわくリボンさ。[BREAK][END]
-0D3:@おんなのこには[BREAK]このふしぎなリボンを あげようね。[BREAK][END]
-0D4:@おれは およぐ ねこ。[BREAK][PAUSE]@よわいこに ゆうきと ちからを[BREAK]あたえる キャンディを[BREAK]しってるかい？[BREAK][END]
-0D5:@そうか。 でも きみは[BREAK]つよいこだから いらないな。[BREAK][END]
-0D6:@そっちの メガネのこは[BREAK]よわそうだから あげような。[BREAK][END]
-0D7:
-0D8:@キャンディ おいしかっただろ？[BREAK][END]
-0D9:@おたすけじいさんを[BREAK]よびたかったら[BREAK]マリーの いずみに ゆくのだ。[BREAK][PAUSE]@こころの さけびで やってくる。[BREAK]こころの さけびだ！[BREAK][END]
-0DA:
-0DB:@(おきゃくは さわいだ。)[BREAK][PAUSE]@あの ぼうしかぶった いしは[BREAK]なんなんだよ！ ブーブー。[BREAK][END]
-0DC:@よんだか？[BREAK][END]
-0DD:@そうか。 さいなら。[BREAK][END]
-0DE:@おかねが ひつようか？[BREAK][END]
-0DF:@やくにたってるかい？[BREAK][END]
-0E0:@そうか。[BREAK][03 19]ドル[BREAK]ぎんこうに あるようだが[BREAK][PAUSE]@いくら ひきだす？[BREAK][END]
-0E1:@えいやっ ホカホカ。[BREAK]だいじにつかえよ。 さいなら。[BREAK][END]
-0E2:@そんなに ひきだせないぞ。[BREAK]やりなおせ。 さいなら。[BREAK][END]
-0E3:@おれは わすれられたおとこ[BREAK]いないも どうぜん。[BREAK][PAUSE]@きずいてくれなくても[BREAK]よかったのに[..][..][BREAK][PAUSE]@おれのことなんか[BREAK]むしして いいんだ。[BREAK][END]
-0E4:@おれは どこにもいないおとこ[BREAK]やさしいことばなんて[BREAK]かけてくれたら こまっちゃうぜ。[BREAK][PAUSE]@ひとこいしく なったら[BREAK]いきていけない。[BREAK][END]
-0E5:@おれのことばは[BREAK]いつも ひとりごと。[BREAK][PAUSE]@うまれたときから きょうまで[BREAK]ずっと ひとりでいたおとこ。[BREAK][END]
-0E6:@うんがいいとか わるいとか。[BREAK]そんなことは おれには[BREAK]かんけいないね。[BREAK][PAUSE]@いきをするのに せいいっぱいさ。[BREAK][END]
-0E7:@なぜ そんなにしつこく[BREAK]おれに はなしかけるんだ。[BREAK][PAUSE]@おまえも[BREAK]わすれられたおとこなのか？[BREAK][END]
-0E8:@うそを つけ。[BREAK]おまえを まってる おんなのこの[BREAK]ところへ かえれ！！[BREAK][END]
-0E9:@そうさ。 そうだよな。[BREAK]そうなんだ。[BREAK][PAUSE]@おまえも はやく おれのことを[BREAK]むししろよ。[BREAK][END]
-0EA:@そうだ。 ありがとうよ。[BREAK][END]
-0EB:@もちきれないようだな。[BREAK]また でなおしておいで。[BREAK][END]
-0EC:@マザーズデイのあたりは なんか[BREAK]とんでもない じけんが[BREAK]おこってるらしいな。[BREAK][END]
-0ED:@ゾンビが ゆうかいされて[BREAK]どうぶつが どうしたとか[..][..][BREAK]めちゃくちゃらしいな。[BREAK][END]
-0EE:<サンクスギビングのまちに[BREAK]          ようこそ！！[BREAK][PAUSE][BREAK]CMーー[BREAK]やすくて はやくて いいおとこ。[BREAK][PAUSE]いしゃは ビッグベン*ケーシーに[BREAK]かぎる。[BREAK][PAUSE]いまなら とくべつ[BREAK]おおやすちりょう！！[BREAK][PAUSE]いのちは しんでもまもりたいもの>[BREAK][END]
-0EF:
-0F0:
-0F1:@まずマネーをみせてください。[BREAK]ちりょうは それからです。[BREAK][PAUSE]@みせないなら[BREAK]こちらから きんがくを いいます。[BREAK][PAUSE]@[03 1E]ドルで[BREAK]あなた[03 17]は なおる。[BREAK][PAUSE]@これ あかじ かくごの[BREAK]しゅっけつサービスです。[BREAK]OK？[BREAK][END]
-0F2:
-0F3:@はい。 たしかに[03 1E]ドル。[BREAK][PAUSE]@はい もうなおりました。[BREAK][PAUSE]@また おおけがを[BREAK]してきてくださいね。[BREAK]やすくしとくから。[BREAK][END]
-0F4:@そうですか。[BREAK]そうぎやにでも[BREAK]でんわしときましょう。[BREAK][END]
-0F5:@かいげんれいが とかれるまで[BREAK]この はしを とおすなと[BREAK][PAUSE]@ちょうちょうさんから[BREAK]めいれいされているのだ。[BREAK][PAUSE]@どうぶつえんの ひがしの はしを[BREAK]とおりなさい。[BREAK][END]
-0F6:@きみ がっこうは どうしたの。[BREAK]きょうは おやすみじゃないはずよ。[BREAK][END]
-0F7:@きたの ダンカンこうじょうから[BREAK]バッテリーを かっぱらってきた。[BREAK][END]
-0F8:@このこうじょうは[BREAK]ダンカンさんの もちものです。[BREAK][PAUSE]@つうこうきょかしょうは[BREAK]もっていますか？[BREAK][END]
-0F9:@こりゃ[BREAK]きげんぎれですぜ おにいさん。[BREAK]ひろったものだな。[BREAK][PAUSE]@あやしいやつ[..][..][BREAK][PAUSE]@おれの めを みろ！！[BREAK][END]
-0FA:
-0FB:@すげぇ ばけものに[BREAK]やられちまった。[BREAK][PAUSE]@えきにいくなら[BREAK]かくごしたほうが いいぜ。[BREAK][END]
-0FC:
-0FD:@マザーズデイの まちの[BREAK]かいげんれいは[BREAK]とかれたんだってな。[BREAK][PAUSE]@ってことは あのはしも[BREAK]とおれるように なったってことだ。[BREAK]ドゥ ユー アンダスタン？[BREAK][END]
-0FE:
-0FF:
-100:@よわむし[03 11]のやつを[BREAK]いじめてたんだけど[BREAK]にげられちまった。[BREAK][END]
-101:@おい [03 11][..][..][BREAK]よわむしけむし！[BREAK][END]
-102:@よわむし[03 11]のやつを[BREAK]いじめてたんですよね せんぱい。[BREAK][END]
-103:@なんだ ひやかしか！[BREAK][END]
-104:@[03 11]ったら ばくやくを[BREAK]もちだしちゃったらしいの。[BREAK][PAUSE]@せんせいに みつかったら[BREAK]たいへんだわ。[BREAK][END]
-105:@[03 11][BREAK]めがねが ずれてるわよ。[BREAK][END]
-106:@あたし スージー。[BREAK]ミス*いなかまちにえらばれたのよ。[BREAK]きれい？[BREAK][END]
-107:@あなたも すてきよ。[BREAK][END]
-108:@あなたのほうが ブス！[BREAK]うすのろぶたって かんじよ！[BREAK][END]
-109:@おくじょうのドアが[BREAK]しまっててよぉ。[BREAK][PAUSE]@トランジスタラジオでも[BREAK]ききながら[BREAK][PAUSE]@サボろうと[BREAK]おもってたのによぉ なっ？！[BREAK][END]
-10A:@むくちな やつ。[BREAK][END]
-10B:@たいいくの せんこうに[BREAK]たたかれた。[BREAK][PAUSE]@ふりょうに なっちまおうかなぁ[BREAK][..][..]おれ。[BREAK][END]
-10C:@じぶんのがっこうで[BREAK]まいごになるなんて[BREAK][..][..]ほんとに もうっ！[BREAK][END]
-10D:@おくじょうのドアが[BREAK]あかないって いうのか。[BREAK][END]
-10E:
-10F:@ぶくぶくふとるばっかしでよ。[BREAK]ひでぇおんなだろ？[BREAK][END]
-110:@こどもにゃ わからねぇ。[BREAK]じんせいのかなしみは[..][..][BREAK][END]
-111:@おまえに うちのにょうぼうのことを[BREAK]そんなふうにいわれる すじあいは[BREAK]ないね。 でてってくれ。[BREAK][END]
-112:@わかいときゃ かわいかったんだ。[BREAK]そうさ いいところもあるんだよ。[BREAK][PAUSE]@ま おちゃでものんでくかい？[BREAK][END]
-113:
-114:@はなしのわかるこどもだな。[BREAK]あ おくじょうに[BREAK]いきたいんだっけな。[BREAK][PAUSE]@じゃ ついておいで。[BREAK][END]
-115:@としよりを だいじにしないと[BREAK]おとなになって なきをみるぞ。[BREAK][END]
-116:@なんだ[BREAK]こんなあぶないものを もって。[BREAK]これは あずかっておくぞ。[BREAK][END]
-117:@ま おちゃを のみなって。[BREAK]なッ。[BREAK][END]
-118:@ろうかを はしるんじゃ[BREAK]ありませんよ！[BREAK][END]
-119:@コラッ みかけないこどもだな。[BREAK]このがっこうの せいとか？[BREAK][END]
-11A:@そうか ろうかをはしるなよ。[BREAK][END]
-11B:@もちものを みせてみろ。[BREAK][PAUSE]@あぶないものは[BREAK]もっていないだろうな。[BREAK][END]
-11C:
-11D:@きみは だれだ！[BREAK]ぼくは ここからでないぞ。[BREAK][PAUSE]@でたら きっと[BREAK]いじめられるんだから。[BREAK][END]
-11E:@ぼくが[BREAK]だいじなともだちだって！？[BREAK][PAUSE]@じゃあ りかしつから ばくやくを[BREAK]もちだしたことを[BREAK]だまっててくれるか？[BREAK][END]
-11F:@いま でる。[BREAK][END]
-120:@ぼく [03 11]。[BREAK]スイートリトルこうじょうで[BREAK]つくってたっていう[BREAK][PAUSE]ペンシルロケットを[BREAK]とばして みたくてさ。[BREAK][END]
-121:@つかれてるでしょ。[BREAK]とまっていけば？[BREAK][END]
-122:
-123:@わぁっ[BREAK]これが あの うわさの[BREAK]ペンシルロケットか。[BREAK][PAUSE]@これなら おなじものを[BREAK]つくれるかもしれないぞ。[BREAK][PAUSE]@りかしつに きてくれ。[BREAK][END]
-124:@[03 11][BREAK]<いいぞ！[BREAK]よし このスイッチを オンだな。[BREAK][PAUSE][..][..]きっと。 あっ。>[BREAK][END]
-125:@[03 11][BREAK]<こんどこそ よわむしのぼくが[BREAK]たたかう ばんだ。[BREAK][PAUSE][03 13]！ きみは[BREAK]ここで やすんでいてくれ。>[BREAK][END]
-126:@わしは じぶんでもわかっておるが[BREAK]このがっこうに かくれすんでいる[BREAK]かわりもののせんせいだ。[BREAK][PAUSE]@けんきゅうひが ほしい。[BREAK]わしの はつめいを[BREAK]かってくれんか？[BREAK][END]
-127:
-128:@じゃ メニューをみてくれ。[BREAK][END]
-129:@おとしだまくらい もってるだろう。[BREAK][END]
-12A:
-12B:@また いつでも きてくれ。[BREAK]いいものをつくっておくからな。[BREAK][END]
-12C:@あれから はつめいが[BREAK]すすんどらんのだよ。[BREAK]むかしの メニューをみるか？[BREAK][END]
-12D:@さっき ラジオで きいたんだけど[BREAK]あっちもこっちも パニックらしい。[BREAK]このえきだけは おいらがまもるぞ。[BREAK][END]
-12E:
-12F:@きしゃが どこまで はしれるかは[BREAK]ほしょうできないけど うんちんは[BREAK]とるよ。[BREAK][PAUSE]@きしゃにのるかい？[BREAK][END]
-130:@([03 16]は[BREAK]ぶきを とりあげられた。)[BREAK][END]
-131:
-132:
-133:
-134:@じゃ [03 1E]ドルになります。[BREAK][END]
-135:
-136:
-137:@きみの もってる ぼうしは[BREAK][PAUSE]スノーマンのまちの[BREAK][03 12]ちゃんの[BREAK]わすれものらしいね。[BREAK][PAUSE]@とどけてあげたまえ。[BREAK][END]
-138:@ながいき しなされ。[BREAK][END]
-139:@にょうぼうを さがしに[BREAK]イースターの まちに いく[BREAK]ところだよ[BREAK][PAUSE]@でも せんろが こわれたとかで[BREAK]おてあげなんだ。[BREAK][END]
-13A:@ちいさなおせっかいが ゲームを[BREAK]おもしろくするコツですな。[BREAK][END]
-13B:
-13C:@はい あげる。[BREAK][END]
-13D:@ペテンひげをはやしたおとこを[BREAK]みかけたか？[BREAK][END]
-13E:@にげられたようだな。[BREAK]あきらめて ちゅうしゃいはんでも[BREAK]つかまえよう。[BREAK][END]
-13F:@とんでもない サギしなんだ。[BREAK]みかけたらおしえてくれ。[BREAK][END]
-140:@おっと ぼうず このかねを[BREAK]あずかってくれ。[BREAK][PAUSE]@けいかんに あってもしらんぷり[BREAK]するんだぞ。[BREAK][END]
-141:@もちにげするなよ！[BREAK][END]
-142:@さからうんじゃねえ！[BREAK][END]
-143:@ひとが ひっしでにげてるときに[BREAK]はなしかけるんじゃないよッ！[BREAK][END]
-144:@すごく はらのでた おとこを[BREAK]みたか？[BREAK][END]
-145:@にげられたようだな。[BREAK]あきらめてスピードいはんでも[BREAK]つかまえよう。[BREAK][END]
-146:@[03 15]を 5にんまえも[BREAK]くいにげしたんだ。[BREAK]みかけたらおしえてくれ。[BREAK][END]
-147:@ああ はらがきつい。 ゲーップ。[BREAK][END]
-148:@このまちも[BREAK]ぶっそうになったもんだ。[BREAK][PAUSE]@だけど バレンタインのまちよりは[BREAK]ましだよ。[BREAK][END]
-149:@オー イエーッ！ のってるかい？[BREAK][END]
-14A:@イエイッ！ おいらのうたを[BREAK]ききたいかい？[BREAK][END]
-14B:@おいらは じてんしゃにのってるぜ。[BREAK][END]
-14C:@もう おわかれのじかんに[BREAK]なっちまうのかい[..][..][BREAK][END]
-14D:
-14E:@ドラゴンの こもりうた きいた？[BREAK][END]
-14F:@ハロウィーンのまちのどこかに[..][..][BREAK][PAUSE]@ゆ[BREAK][PAUSE]@ゆっ[BREAK][PAUSE]@ゆゆゆゆ[BREAK][PAUSE]@ゆうれいやしきが あるそうよ。[BREAK]ぜったいに いかないほうがいいわ。[BREAK][END]
-150:
-151:@なんでもいいから ものをくれ。[BREAK][PAUSE]@くれ。[BREAK][PAUSE]@ください。[BREAK][PAUSE]@くれますか？[BREAK][END]
-152:@おれいは ぜひ させてもらうよ。[BREAK][END]
-153:@いいものを あげるんだけどなぁ。[BREAK][END]
-154:@なにをくれるね？[BREAK][END]
-155:@ありがとうよ。 これはおれいの[BREAK]ノミとシラミだ。[BREAK]もっていってくれ。[BREAK][END]
-156:@カゼが はやってて[..][..][BREAK]ハーックショーイ！[BREAK]んちくしょおっ！[BREAK][END]
-157:@やまのなかに[..][..][BREAK][PAUSE]@かぜひとつひかずに[BREAK]300ねん いきてるっていう[BREAK]よげんしゃのじいさんがいるらしい。[BREAK][END]
-158:@ひひぇひゃひょ ひょひょひへ[BREAK]ふはく ひゃひぇひぇひゃひんひゃ。[BREAK][END]
-159:@いまの せんせいと[BREAK]ふつうに しゃべるのは[BREAK]わたしでも むりです。[BREAK][END]
-15A:@おお[BREAK]いればを さがしてくれたおれいに[BREAK]ながいきのひけつをおしえてやろう。[BREAK][PAUSE]@うがいを よく することじゃ。[BREAK][PAUSE]@カゼをひいたら うがいでなおせ。[BREAK][PAUSE]@わしの とくせいの[BREAK]うがいぐすりを もっていきなさい。[BREAK]ホレ。[BREAK][END]
-15B:
-15C:@また うがいぐすりですか？[BREAK]さぁ もっていきなさい。[BREAK][PAUSE]@こんどは[03 1E]ドル[BREAK]いただきますよ。[BREAK]ガラガラッ ペッ。[BREAK][END]
-15D:@カゼがげんいんで[BREAK]しんじゃったやつも いるらしいぜ。[BREAK][END]
-15E:@ハロウィーンのまちの[BREAK]ゆうれいやしきの はなしは[BREAK]きいたかい？[BREAK][END]
-15F:@だれもいないやしきから[BREAK]ピアノの メロディーが[BREAK]きこえてくるんだってな。[BREAK][END]
-160:@しらなきゃ しらないほうがいい。[BREAK][END]
-161:@ふっふっふっふふふ。[BREAK][END]
-162:@だれも いないよ。 くっくっく。[BREAK][END]
-163:@これは あくむ。[BREAK]さめることのない わるいゆめ[..][..][BREAK]ひっひっひ。[BREAK][END]
-164:@か  え  れ[BREAK][END]
-165:@ギャーーーーーッ！[BREAK][END]
-166:@[03 16]！ しぬぞ。[BREAK]ひっひっひっひっひっひっひっひっ[BREAK][..][..]くくくくく。[BREAK][END]
-167:@あっしは[BREAK]あやしい ねずみじゃありやせん。[BREAK][PAUSE]@ピアノのあるへや[..][..][BREAK]へっへっへ。[BREAK][END]
-168:@ゆうれいやしきは[BREAK]ローズマリーさんの ものだ。[BREAK][END]
-169:@おれのうちも[BREAK]ゆうれいがでるように[BREAK]なったんだけどさ。[BREAK][PAUSE]@うさぎごやみたいに せまいから[BREAK]イヤだって でてったよ。[BREAK][END]
-16A:@わたしは[BREAK]このまちの にんげんというよりは[BREAK]ゲームのアシスタントなの。[BREAK][PAUSE]@あなた メモしわすれていること[BREAK]あるんじゃない？[BREAK][PAUSE]@ひとつのヒントを[BREAK][03 1E]ドルで おしえるけど[BREAK]かう？[BREAK][END]
-16B:
-16C:@あら ずいぶん じしんがあるのね。[BREAK]じゃ もう あわないようにするわ。[BREAK][END]
-16D:@ヒントは3つまでよ。[BREAK]あとは[..][..]  ひ*み*つ。[BREAK][END]
-16E:@このハロウィーンのまちで[BREAK]いちばんの ひょうきんものが[BREAK]おれさ。[BREAK][PAUSE]@ほかのやつらって[BREAK]なんか インキだろ？[BREAK][END]
-16F:@そうなんだよな。[BREAK]おれも ほんとは あかるいほうでも[BREAK]ないんだ[..][..][BREAK][END]
-170:@そうかなぁ。[BREAK][PAUSE]@おれ[BREAK]じぶんが くらいのかも[BREAK]しれないな。[BREAK][END]
-171:@うちのやしきが[BREAK]ばけもののすみかに[BREAK]なってしまって[..][..][BREAK][PAUSE]@わしらは こんなところでくらして[BREAK]いるですよ。[BREAK][END]
-172:@[03 11][BREAK]<きみの もってる[BREAK]ロケットの ねんりょうは[BREAK][PAUSE]ほらっ ぼくのもってる この[..][..][BREAK][PAUSE]@すっごいだろ。 あっ！>[BREAK][END]
-173:
-174:@くらくて よくみえないが[BREAK]あんた[03 17]は もしかすると[BREAK][PAUSE]@スノーマンまちの きょうかいの[BREAK]むすめさん[03 17]だな[..][..] たしか[BREAK][03 12]ちゃん[..][..] とかいう。[BREAK][PAUSE]@おかあさんは ずっとおくのへやに[BREAK]とじこめられて いるはずだ。[BREAK][PAUSE]@しかし わたしたちを[BREAK]いま たすけるのは むりだ。[BREAK][PAUSE]@とにかく あの マザーシップを[BREAK]なんとか できなければ[..][..][BREAK][END]
-175:@おお！[BREAK]うちゅうくうかんへと とびさった。[BREAK]あるいみで だいせいこうだ。[BREAK][END]
-176:@まぁ あなたって ほんとうに[BREAK]すてきなかた[..][..][BREAK][PAUSE]@いつまでも[BREAK]みつめていたいくらい[..][..][BREAK][PAUSE]@あなたなら きっと あのやしきを[BREAK]とりもどして くれるわね[..][..][BREAK][PAUSE]@ハイ これが あのいえのカギよ。[BREAK]うふっ。[BREAK][END]
-177:@ぼくちゃん[BREAK][03 10]っていうの。[BREAK][PAUSE]@もとの なまえは[BREAK]バグエラー*ローズマリー[BREAK]っていうんだ。[BREAK][END]
-178:@[03 10]のバカ！[BREAK][PAUSE]@いえ[BREAK]うちのこに いったんですのよ。[BREAK][END]
-179:@ゆうれいは[BREAK]まだ でるみたいだけど[BREAK][PAUSE]あなたって ほんとうに[BREAK]ゆうかんなかた！[BREAK][PAUSE]@わたし[..][..][BREAK]むすこに あなた[03 17]の なまえを[BREAK]いただきましたのよ。[BREAK][END]
-17A:@しゅうてんの スノーマンえきだ。[BREAK][END]
-17B:@イースターのまちでは[BREAK]じゅうみんが ぜんぶ[BREAK]かみかくしにあっちまったらしいよ。[BREAK][END]
-17C:@ママが イースターのまちに[BREAK]いってるの。[BREAK][PAUSE]@なんにちも れんらくがないから[BREAK]パパとさがしにいくのよ。[BREAK][END]
-17D:@ハロウィーンのまちの[BREAK]ゆうれいやしきには いったか？[BREAK][END]
-17E:@こんど ゆっくり[BREAK]はなしを きかせてくれ。[BREAK][PAUSE]@おれは コワイはなしが[BREAK]だいすきなんだ。[BREAK][END]
-17F:@おれは いきたくないけど[BREAK]おまえ いくといいぞ。[BREAK][END]
-180:@このスノーマンのまちは[BREAK]さむいから カゼひくなよ。[BREAK][PAUSE]@はみがきも しろよ。[BREAK][PAUSE]@ゴホッ ゴホッ[..][..][BREAK][END]
-181:
-182:@じんせいは ゲームよ。[BREAK]やすんだり もどったりも[BREAK]だいじなのよ。[BREAK][END]
-183:@[03 12]が[BREAK]がっこうやすんでるから[BREAK]しんぱいでよう。[BREAK][END]
-184:@おれ [03 12]のことが[BREAK]しんぱいで しんぱいで[BREAK]よるも ねられねぇ。[BREAK][END]
-185:
-186:@かねが たりないぜ。[BREAK][END]
-187:@あれあれ ハナミズがたれてるよ。[BREAK][END]
-188:@ちょっと このゲームをしている[BREAK]プレイヤー のかたに[BREAK]かわってくれないか。[BREAK][END]
-189:@だいじな ようじが あるんだ。[BREAK][END]
-18A:@もしもし いつも [03 10]が[BREAK]おせわになっております。[BREAK][PAUSE]@わたくし そのこのちちで[BREAK]ございますが[BREAK][PAUSE]@あなたさまの おなまえを[BREAK]きかせて いただこうと[BREAK]ぞんじまして[..][..][BREAK][PAUSE]@よろしくおねがい いたします。[BREAK][END]
-18B:@どうも おいそがしいところを[BREAK]ありがとうございました。[BREAK][PAUSE]@わたくしも いそがしいので[BREAK]では これでしつれいいたします。[BREAK][END]
-18C:@[03 16][..][..]でしょ？[BREAK][END]
-18D:@ふざけないでね。[BREAK][END]
-18E:@わたしが[BREAK]ママを さがしにいくために[BREAK][PAUSE]あなた[03 17]の たすけが[BREAK]ひつようだったの。[BREAK]まっていたわ[..][..][03 16]。[BREAK][PAUSE]@まず イースターのまちへ[BREAK]いってみましょう。[BREAK][END]
-18F:@あなたに とってもよくにたひとを[BREAK]ゆめで みたことがあるわ。[BREAK][END]
-190:@[03 10][..][..]そばにいて？[BREAK][END]
-191:@いやっ！[BREAK]そばにいて[..][..]おねがい。[BREAK][END]
-192:@しずかね。 おどりましょ？[BREAK][END]
-193:@[..][..]そうね。[BREAK]こんなことしてるときじゃないわね。[BREAK]ごめんなさい。[BREAK][END]
-194:@[03 10][..][..][BREAK]わたしのこと すき？[BREAK][END]
-195:@[03 11]ったら どうしたの。[BREAK][END]
-196:@ドラゴンは ねむっている。[BREAK][PAUSE]@いまの [03 16]には[BREAK]まだ ドラゴンを[BREAK]おこすことは できない。[BREAK][END]
-197:@[03 16]のけはいを かんじて[BREAK]ドラゴンが めをさました。[BREAK][PAUSE]<ワタシヨリ ヨワイモノニ[BREAK]コノ ガクフヲ ワタスコトハ[BREAK]デキナイ。>[BREAK][END]
-198:
-199:@むすめの[03 12]は[BREAK]おくびょうだけれど[BREAK][PAUSE]やさしいこころと ふしぎなちからを[BREAK]もっている。[BREAK][END]
-19A:@あなたがたは[BREAK]かならず しょうりする。[BREAK][PAUSE]@わたしたちのいのりが[BREAK]きっと ちかいうちに[BREAK]ききとどけられるだろう。[BREAK][PAUSE]@いまは おやすみ。[BREAK][END]
-19B:@[03 3E]は おとしものの[BREAK]つうこうきょかしょうを みつけた。[BREAK][END]
-19C:@[03 16][03 17]は[BREAK]ロケットに のりこんだ。[BREAK][END]
-19D:@アドベントのさばくに[BREAK]おじいちゃんがいるの。[BREAK]もしあったら よろしくね。[BREAK][END]
-19E:@わたしは[BREAK]よいひとの しかばねです。[BREAK][PAUSE]@だから おそいかかったり[BREAK]しませんよ。[BREAK][END]
-19F:@わたし めじるしとして[BREAK]べんりでしょ。[BREAK][END]
-1A0:@したいに はなしかけるなんて[BREAK]どきょうのあるこどもだなぁ。[BREAK][END]
-1A1:@わたしゃ ラクダのホネですが[BREAK]さばくでの あるきかたを[BREAK]しりたいですか？[BREAK][END]
-1A2:@みぎあしが しずみこむまえに[BREAK]ひだりあしを だす。[BREAK][PAUSE]@ひだりあしが しずむまえに[BREAK]みぎあしを だす。[BREAK][PAUSE]@これが わかるのに ひゃくねんも[BREAK]かかったです。[BREAK][END]
-1A3:@おしえたいなぁ。 しりたいですか？[BREAK][END]
-1A4:@このゲームのなかで[BREAK]いちばん たいくつなのは[BREAK]このアドベントのさばくなんです。[BREAK][PAUSE]@でも ほんとに ぢらいには[BREAK]きをつけてね。[BREAK][END]
-1A5:<アドベントさばく[BREAK]ゆうらんひこうは いかがかね？>[BREAK][END]
-1A6:@わしは まえのまえの[BREAK]せんそうのときに このさばくに[BREAK]ぢらいをうめたんじゃ。[BREAK][PAUSE]@ぜんぶ ほりおこしたつもりだったが[BREAK]どうしても ひとつだけみつからん。[BREAK]きをつけてくれよ。[BREAK][END]
-1A7:@おお ひこうきにのるか？[BREAK][END]
-1A8:@では みんなのぶんで[BREAK][03 1E]ドルいただこうか。[BREAK][PAUSE]@チケットの はんけんは[BREAK]なくさないようにな。[BREAK][PAUSE]@すごいぞ。 このはんけんを[BREAK]10まいためると せんしゃに[BREAK]のれるのじゃ。[BREAK][PAUSE]@うれしそうじゃな ハハハ。[BREAK][END]
-1A9:@ねだんがたかいから むりもないか。[BREAK][END]
-1AA:@おお！ 10まい たまったのか。[BREAK]よしよし せんしゃをかしてやろう。[BREAK][PAUSE]@うれしそうじゃな ハハハ。[BREAK][END]
-1AB:@せんしゃを こわしたな。[BREAK]わしのだいじな せんしゃを[..][..][BREAK]オロオロ。[BREAK][PAUSE]@せんしゃの しゅうりひを[BREAK]べんしょうしてくれ。[BREAK][03 1E]ドルだぞ。[BREAK][PAUSE]@いますぐはらうか？[BREAK][END]
-1AC:
-1AD:@ああよかった。 いざ さらば。[BREAK][END]
-1AE:@わしは おこったぞ。[BREAK]うっうっうううう[..][..][BREAK][END]
-1AF:
-1B0:@パパいない。 ママいない。[BREAK][END]
-1B1:@ぼくわ もんばんだ。[BREAK]おまえわ だれだ。[BREAK][END]
-1B2:@あ あやしいやつわ[BREAK]やっつけるぞ[..][..]ブルブル。[BREAK][END]
-1B3:@ガリクソンさんちの あかちゃんは[BREAK]なんかへん。 ぜったいへん。[BREAK]なんか すごいきがするわ。[BREAK][END]
-1B4:@えーと 2たす3は5。[BREAK]8ひく4は4[..][..] おれは[BREAK]いつも べんきょうしてるんだ。[BREAK][END]
-1B5:@ママー！ さみしいよー[BREAK][END]
-1B6:@パパー！ さみしいよー[BREAK][END]
-1B7:@でっかい そらとぶふねが[BREAK]おとなたちを みんな[BREAK]つれてっちゃったの。[BREAK][END]
-1B8:@おとなたちが いなくて[BREAK]せいせいしたぜ グスン。[BREAK][END]
-1B9:@おねえちゃん オッパイ！[BREAK][END]
-1BA:@ぼくも オッパイ！[BREAK][END]
-1BB:@オッパイ！[BREAK][END]
-1BC:@パパや ママを つれもどして。[BREAK]おねがいします。[BREAK][END]
-1BD:@あ どうも。 ぼく[BREAK]トム*ガリクソンっていいます。[BREAK]しゅみは じこしょうかいです。[BREAK][END]
-1BE:@このベビーは ふしぎなちからを[BREAK]もっているって[BREAK]いつかママがいってたわ。[BREAK][END]
-1BF:
-1C0:@アプー アプー バブバブ。[BREAK][END]
-1C1:@わたしは このベビーの いしき。[BREAK]わたしも あなたたちと おなじ[BREAK]エスパーだ。[BREAK][PAUSE]@テレポートの ちからを[BREAK]もっている。[BREAK][PAUSE]@あなたの しっている ところなら[BREAK]どこにでもいける。[BREAK][PAUSE]@([03 10][03 17]は[BREAK]ベビーの いしきから[BREAK][PAUSE]テレポーテーションの PSIを[BREAK]うけついだ。)[BREAK][END]
-1C2:
-1C3:
-1C4:
-1C5:
-1C6:@とうちゃんたちの こえが[BREAK]やまのほうで きこえたような[BREAK]きがするんだ。[BREAK][PAUSE]@でも やまは バレンタインのまちの[BREAK]むこうなんだ。[BREAK]とおすぎて ぼくには いけない。[BREAK][END]
-1C7:@なんだよ。 もちきれないんじゃ[BREAK]やれないよ。[BREAK][END]
-1C8:@つきひは たったが[BREAK]おまえは まだ みせいねんだな。[BREAK][END]
-1C9:@きをつけて あるきなよ[BREAK]おまえたち。[BREAK]へっへっへ[..][..][BREAK][END]
-1CA:@まったく ブラックブラッドだんの[BREAK]やつらときたひにゃ[..][..][BREAK][END]
-1CB:@ブラックブラッドだんってなまえは[BREAK]ながいから みんなブラブラだんと[BREAK]よんでいるのよ。[BREAK][END]
-1CC:@おまえ[03 17][BREAK]ブラブラだんの なかまじゃ[BREAK]ないだろうね。[BREAK][END]
-1CD:@やまのうえに くろいくもが[BREAK]かかってからというものは[BREAK][PAUSE]ひとも まちも[BREAK]おかしくなっちまったよ。[BREAK][END]
-1CE:@よっ！ よっ！[BREAK]そっちのおふたりさんは[BREAK]こいびとどうしかね？[BREAK][END]
-1CF:@あいしあってるかい。 イエー。[BREAK][END]
-1D0:@いいや こころのおくには[BREAK]あいが めばえちゃってるんじゃ[BREAK]ないの。[BREAK][END]
-1D1:@ライブハウスのチケットあるよ。[BREAK][03 1E]ドルで かうかね？[BREAK][END]
-1D2:@ほれよ！[BREAK]デパートじゃ うりきれだもんな。[BREAK][END]
-1D3:@ケチンボなガキどもだぜ。[BREAK][END]
-1D4:@いいことおしえてあげるわよ。[BREAK]しりたい？[BREAK][END]
-1D5:@ブラブラだんのボスの[BREAK][03 13]って ほんみょうは[BREAK][03 13]ざえもんっていうのよ。[BREAK][PAUSE]@うわさだけどね。[BREAK][END]
-1D6:@きっと こうかいするわよ。[BREAK][END]
-1D7:@がくやを のぞいちゃダメよ。[BREAK]どえらいめに あうからね。[BREAK][END]
-1D8:
-1D9:@すいたらしい ひと。[BREAK]ふーん [03 16]っていうの。[BREAK]ビールをおごるわ。 のんで。[BREAK][END]
-1DA:@あら まだこどもだったのね。[BREAK]おとなになったら またおいで。[BREAK][END]
-1DB:@もうビールは おごらないわ。[BREAK][END]
-1DC:@はんせいしたか？[BREAK][END]
-1DD:@もう にどとしないなら[BREAK]かえってよろしい。[BREAK][PAUSE]@あぶないものは[BREAK]あずかっておくからな。[BREAK][END]
-1DE:@じゃ もういちにち[BREAK]あたまをひやしていろ。[BREAK][END]
-1DF:@へっへっへ[BREAK]このあいだ [03 1D]が[BREAK]てに はいったんだよ。[BREAK][PAUSE]@[03 1E]ドルで かわないか？[BREAK][END]
-1E0:@おかねが たりないぞ。[BREAK]うっうっううう[..][..][BREAK][END]
-1E1:@[03 13]は[BREAK]やまのばけものに りょうしんを[BREAK]ころされてしまったの。[BREAK][PAUSE]@それまではやさしくて[BREAK]ひょうきんなこだったのよ。[BREAK][END]
-1E2:@[03 13]が むかしのように[BREAK]やさしくなってくれたら[BREAK]うれしいな。[BREAK][END]
-1E3:@あんた[03 17]も うたうかね。[BREAK][END]
-1E4:@じゃあ けいきのいいやつを[BREAK]やってくれ。[BREAK][END]
-1E5:@シャイな こだね。[BREAK][END]
-1E6:
-1E7:@[03 12]ちゃんっ！[BREAK]いやなに ぼうしに なまえが[BREAK]かいてあったからさ。[BREAK][END]
-1E8:@おまえのつれてた おんなのこ[BREAK]かわいかったなぁ。[BREAK][END]
-1E9:@いいうたを きかせてくれたな。[BREAK]サンキュー。[BREAK][PAUSE]@おまえたちか？[BREAK]おれの なかまを[BREAK]かわいがってくれたのは。[BREAK][END]
-1EA:@ゆるさねぇ！[BREAK][END]
-1EB:@わかっているんだ！[BREAK][END]
-1EC:@アハハハ たいしたやつだ。[BREAK][03 10]って いったっけな。[BREAK]ドロウにしねぇか[..][..] ハアハア[BREAK][PAUSE]@おやじと おふくろの かたきを[BREAK]とりてぇ。 いっしょに やまへ[BREAK]いこうじゃないか？[BREAK][END]
-1ED:
-1EE:@どうか うちの [03 10]の[BREAK]ちからになって あげてください。[BREAK][END]
-1EF:@[03 3E]は テレホンカードを[BREAK]つかった。[BREAK][END]
-1F0:@そうか[BREAK]きっと いいふりょうチームが[BREAK]できるぜ。 カンパイ！[BREAK][END]
-1F1:
-1F2:
-1F3:@たのむ おれは きっと[BREAK]おまえらの やくにたつから。[BREAK][END]
-1F4:@もしもし あ パパだ。[BREAK]こんなところにでてくるつもりじゃ[BREAK]なかったんだが[..][..][BREAK][PAUSE]@いいかげんにしなさい！[BREAK]はやく Aボタンをおすんだ。[BREAK][END]
-1F5:@おい そこのメガネやろう。[BREAK]おまえはたたかいには むいてねぇ。[BREAK][PAUSE]@しばらくここで[BREAK]からだを やすめてな。[BREAK]にもつは おれが かりていくぜ。[BREAK][END]
-1F6:
-1F7:@ちからだけじゃ やつらには[BREAK]かてねぇ。[BREAK][PAUSE]@でも おれたちは かならず[BREAK]へいわを とりもどせる。[BREAK]しんじてるぜ。[BREAK][END]
-1F8:@[03 13][BREAK]<ふたりとも[BREAK]なに あかくなってんだよ。[BREAK][PAUSE]さっさと いこうぜ！>[BREAK][END]
-1F9:@きがえちゅうだよォ。 エッチ！[BREAK][END]
-1FA:@わたしは [03 11]のちちです。[BREAK][PAUSE]@[03 10]のパパのいうとおり[BREAK]ちゃんと プレイヤーのなまえは[BREAK]いいましたか？[BREAK][END]
-1FB:@じゃ いいんです。[BREAK][PAUSE]@[03 11]を かばってあげて[BREAK]くださいね。[BREAK]よわむしなんだから[..][..][BREAK][END]
-1FC:@じゃ もういっかい[BREAK]てつずき しましょうね。[BREAK][END]
-1FD:@ホーリーローリーマウンテンに[BREAK]ゆくまえに みなとにいくべきじゃ。[BREAK]これ ほんと。[BREAK][END]
-1FE:@[..][..]いちごあじの[BREAK]とうふをたべたことがあるかな？[BREAK][END]
-1FF:@こんどみつけたら[BREAK]もってきてくれないか。[BREAK]おれいに いいものをやるから。[BREAK][END]
-200:@そうか。 こんな いなかじゃ[BREAK]まだ うっていないのかなぁ。[BREAK][END]
-201:@おお いちごあじのとうふだ。[BREAK]ありがとう。[BREAK][PAUSE]@では おみやげに[BREAK]いいものを あげよう。[BREAK][END]
-202:
-203:
-204:@きずを おったら ここへおいで。[BREAK][PAUSE]@すこしばかりの たべものも[BREAK]ちりょうのくすりも[BREAK]そまつだがベッドもある。[BREAK][END]
-205:
-206:@おい [03 11]くん。[BREAK]きみの なけなしのゆうきを[BREAK]つかうときが きたようだぞ。[BREAK][END]
-207:@おいで こどもたち。[BREAK]なにが ひつようなんだい？[BREAK][END]
-208:@ワタシノ ナハ イ[??]。[BREAK]アナタヲ マッテイタ。[BREAK][PAUSE]@ワタシノ チチハ じょーじ。[BREAK]ウチュウノ ハテニ ツレテイカレ[BREAK]モドッテキタ ヒト。[BREAK][PAUSE]@アナタヲ マモル[BREAK]ワタシノ ツトメ。[BREAK][END]
-209:
-20A:
-20B:
-20C:
-20D:@にもつを もって[BREAK]くろうしてるんでしょ。[BREAK][END]
-20E:@[03 10]！ [03 10]！[BREAK][PAUSE]@たたかいに つかれたようだな。[BREAK]もういちど チャレンジするか？[BREAK][END]
-20F:@[03 10]は[BREAK]さいごのきりょくを ふりしぼって[BREAK]たたかいのばに ふっかつした。[BREAK][PAUSE]@がんばってくれ [03 10]！[BREAK][END]
-210:@[03 10]は[BREAK]わるいゆめを みたのだ。[BREAK][PAUSE]@がんばれ！ [03 10]！[BREAK][END]
-211:@だれに わたす？[BREAK][END]
-212:@もちきれない みたいだけど[BREAK]ほかの ひとに わたす？[BREAK][END]
-213:@まだ グッズがのこっているから[BREAK]とりにきてね。[BREAK][END]
-214:@[03 10]ちゃんの[BREAK]おともだちなの？[BREAK][PAUSE]@ふうーん。 でも このグッズは[BREAK][03 10]ちゃんの だから[BREAK]わたすわけには いかないわ。[BREAK][END]
-215:@よわむし[03 11]は[BREAK]くたばっちまったのかい。[BREAK][END]
-216:<ウェルカム トゥ マザーズデイ>[BREAK][END]
-217:<シュークリームどうぶつえん[BREAK]        かんりじむしょ>[BREAK][END]
-218:<うみの てんぼうだい>[BREAK][END]
-219:@そんなひとは いないみたいだけど[BREAK]わたしの おもいちがいかなぁ[..][..][BREAK][END]
-21A:@あかいくさは いずみのみずに[BREAK]つけると すっごくげんきな[BREAK]マジックハーブに なりました。[BREAK][END]
-21B:@そんなやつが どこにおるのだ！[BREAK][END]
-21C:@[03 1D]だね。[BREAK]ありがとう たすかるよ。[BREAK][END]
-21D:<このカンバンの あたり[BREAK]おとしものを しやすいので[BREAK]ちゅうい してください。>[BREAK][END]
-21E:@カンバンのしたに なんと[BREAK]いればが おちていた。[BREAK][END]
-21F:@はいはい[BREAK]どこか ぐあいが わるいわけね。[BREAK]いっぱつで なおしてあげるからね。[BREAK][END]
-220:@りかしつにきてくれ。[BREAK][END]
-221:
-222:@ふしぎな げんしょうは[BREAK]ひとまず おさまった。[BREAK][END]
-223:@つかいかたを せつめいするから[BREAK]よくみておくんだよ。[BREAK]いいか このスイッチを[..][..][BREAK][PAUSE]@あっ しまった おしちゃった。[BREAK][END]
-224:@[03 10]のすきな[BREAK][03 15]を つくるわ。[BREAK][PAUSE]@それをたべて ゆっくりおやすみ。[BREAK][END]
-225:
-226:
-227:
-228:@どうしましょ[BREAK] どうしましょ[BREAK]  どうしましょ[BREAK][PAUSE]@どうしましょ[BREAK] どうしましょ[BREAK][PAUSE]@どうしましょ[BREAK][PAUSE]@うちのピッピが まいごになったの。[BREAK][PAUSE]@マザーズデイの まちにいくなら[BREAK]ちょうちょうさんに[BREAK]れんらくしてくださいな。[BREAK][PAUSE]@オロオロ  ウロウロ。[BREAK][END]
-229:@どれを おひきとりしましょう？[BREAK][END]
-22A:@[03 1D]は[BREAK][03 1E]ドルで[BREAK]おひきとりしますが[BREAK][PAUSE]それで よろしいですか？[BREAK][END]
-22B:@[03 3E]は[BREAK]そうそふのにっきの なかから[BREAK]つずきのことばをみつけ[BREAK][PAUSE]よみあげた。[BREAK][PAUSE]@<あまかけるふねの わすれもの>[BREAK][END]
-22C:
-22D:
-22E:@うそ ついてるだろう。[BREAK]おれには おみとおしさ。[BREAK][END]
-22F:@(おきゃくは さわいだ。)[BREAK][PAUSE]@3にんの グループって[BREAK]いったくせに[BREAK]3にん いないじゃないか！[BREAK][PAUSE]ブーブー[BREAK][END]
-230:@どれを あずけるの？[BREAK][END]
-231:
-232:@ドラゴンは ながい ながい[BREAK]ねむりの ときに はいっていた。[BREAK][END]
-233:@([03 3E]は[BREAK]そっと がくふを よんだ。)[BREAK][END]
-234:@なにか ごよう？[BREAK][END]
-235:
-236:@[03 1D]ね。[BREAK]だいじに しまっとくね。[BREAK]ほかに あずかるものは ある？[BREAK][END]
-237:@じゃあ きをつけてね。[BREAK][END]
-238:@[03 1D]ね。[BREAK]だいじにしてね。[BREAK]ほかに もっていくものは ある？[BREAK][END]
-239:@サンタクロースの えきの ちかくで[BREAK]がけくずれが あって[BREAK]きしゃが はしれないんだ。[BREAK][END]
-23A:@[03 1D]で[BREAK]ございますね？[BREAK][END]
-23B:@おきゃくさま[03 17][BREAK]それいじょう[BREAK]おもちになれないようですよ。[BREAK][END]
-23C:
-23D:@おや かねが たりないようだな。[BREAK][END]
-23E:@おや もちきれないようだな。[BREAK][END]
-23F:@これじゃあ おかねが たりないよ。[BREAK]でなおしておいで。[BREAK][END]
-240:@きをつけて いってらっしゃい。[BREAK][END]
-241:
-242:@あら もてないの。[BREAK]それじゃあ こんど[BREAK]おあいした ときにね。[BREAK][END]
-243:@ほらっ くすりだ。[BREAK][END]
-244:@じゃあ ゆっくり おやすみ。[BREAK][END]
-245:
-246:@イクラ ヒキダシマスカ？[BREAK][END]
-247:@イクラ アズケマスカ？[BREAK][END]
-248:@さ まちにかえりましょ！[BREAK][END]
-249:@あら もちきれないみたい。[BREAK]ざんねんだったわね。[BREAK][END]
-24A:@もてないのか？ ざんねんだな。[BREAK][END]
-24B:@もてないのなら またおいで。[BREAK][END]
-24C:
-24D:@どのコースが いいかね？[BREAK][END]
-24E:
-24F:
-250:@いればが ないと[BREAK]うまく しゃべれんのじゃ。[BREAK][END]
-251:@まだ たりないようじゃな。[BREAK][END]
-252:
-253:
-254:
-255:
-256:
-257:
-258:@くせんしている ごようすね[..][..][BREAK]し*ん*ぱ*い。[BREAK][END]
-259:@がんばってね。[BREAK][END]
-25A:@リーダーは どいつだ。[BREAK]おもいしらせてやる！！[BREAK][END]
-25B:@ブラブラだんは あいかわらずよ。[BREAK][END]
-25C:
-25D:@おれを おこらせないでくれ。[BREAK][END]
-25E:@[03 3E]は[BREAK]つうこうきょかしょうを[BREAK]こっそり てにいれた。[BREAK][END]
-25F:@おや おかねがたりないようですね。[BREAK][END]
-260:@おや[BREAK]それいじょう もてないようですね。[BREAK][END]
-261:@わたしは[BREAK]はかせの じょしゅAであります。[BREAK][PAUSE]@わたくしも いちごあじのとうふが[BREAK]たべたいであります。[BREAK][END]
-262:@おっいしそう！[BREAK][PAUSE]@ありがとう。 おれいに[BREAK]みみよりの じょうほうを[BREAK]あげようね。[BREAK][PAUSE]@ホーリーローリーマウンテンの[BREAK]みずうみに すっごいロボットが[BREAK]しずんでるんだ。[BREAK][PAUSE]@たぶん まだ うごくはずだぞ。[BREAK][END]
-263:@わしは じょしゅAににていますが[BREAK]じょしゅBでございます。[BREAK][PAUSE]@わしも[BREAK]おおいに いちごあじのとうふを[BREAK]ほっしております。[BREAK][END]
-264:@おお！ おお！ うれしゅうござる。[BREAK]この のろいのことばを[BREAK]おもちかえりくだされ。[BREAK][END]
-265:  きずぐすり  ねむり[END]
-266:@もちきれないのか[..][..][BREAK]あとで わすれずに とりにおいで。[BREAK][END]
-267:@でかぶくろを とりにきたんだね。[BREAK]まっていたよ。[BREAK][END]
-268:@でかぶくろは[BREAK]あんたに プレゼントするよ。[BREAK][END]
-269:@たいしたもんだいじゃねぇな。[BREAK][PAUSE]@そんなことより[BREAK]うちのにょうぼうだよ。[BREAK][PAUSE]@まいあさ ひるまで[BREAK]ねむってやがって[BREAK]べんとうも つくらねぇ。[BREAK][PAUSE]@ひでぇはなしだろ？[BREAK][END]
-26A:@あっ [03 12]が[BREAK]しんでる。[BREAK][END]
-26B:@いつも ありがとう。[BREAK]おれいに[..][..][BREAK][PAUSE]@せいこうを いのっているよ。[BREAK][END]
-26C:@わたしは ローラよ。[BREAK][END]
-26D:
-26E:
-26F:
-270:@あらま[BREAK]えいゆうの [03 10]くん。[BREAK]ひとりでかえってくるとは[..][..][BREAK][PAUSE][..][..]きゅうけいですかな？[BREAK][END]
-271:@ちいさいおじょうちゃん。[BREAK]ここは きみみたいなこどもが[BREAK]ひとりでくるところじゃないのよ。[BREAK][END]
-272:
-273:@やあ [03 16]くん！[BREAK]げんきで やっているかね。[BREAK][END]
-274:@おはよう おにいちゃん。[BREAK]よく ねむれたみたいね。[BREAK][END]
-275:@またきてね。 きっとだよ。[BREAK][END]
-276:@おはよう！[BREAK][END]
-277:@ここにいる サルは[BREAK]うそつきが おおいから[BREAK]きをつけなよ。[BREAK][END]
-278:@うふふっ おれって[BREAK]サルにみえるかな？[BREAK][END]
-279:@[..][..]じつはタヌキなんだ。[BREAK]ばけてるのさ。[BREAK][END]
-27A:@おまえ めがいいなぁ。[BREAK]まいった。[BREAK][END]
-27B:@ゲームなんか やめちまおうぜ。[BREAK][END]
-27C:@おまえ ほんとうにいいのか。[BREAK][END]
-27D:@ま しょうがねえな。[BREAK][END]
-27E:@おれのスピードに おいつけたな。[BREAK]たいしたもんだ。[BREAK]ほれっ いいものをやるぜ。[BREAK][END]
-27F:@みぎにまがって ひだりにまがると[BREAK]いいものがあるよ。[BREAK][END]
-280:@へいわそうにみえるけど[BREAK]ここは くらくていけないよね。[BREAK][END]
-281:@とにかく まっすぐあるけ！[BREAK]しんじつってのは[BREAK]まっすぐゆくところにある。[BREAK][END]
-282:あたしは レディよ。[BREAK]きやすく はなしかけないでね。[BREAK][END]
-283:@おれ ほんとは おとこだよ。[BREAK][END]
-284:
-285:@ランララランラ ラララララ。[BREAK]あ このメロディーのことは[BREAK]きにかけないでくれ。[BREAK][END]
-286:@おまえ ここにたどりつくまでに[BREAK]どれくらいのじかんを かけた？[BREAK][PAUSE]@いや ただきいてみただけさ。[BREAK][END]
-287:@いいはなしがあるんだけど[BREAK]きくか？[BREAK][END]
-288:@[..][..]あのな[BREAK]ともだちは たいせつにしろよ。[BREAK]そういうことだ。[BREAK][END]
-289:@ちてきこうきしんの ないやつめ！[BREAK][END]
-28A:@このおくに いってはならん！[BREAK][END]
-28B:@おれは ここのサルどもは[BREAK]しんようしていない。[BREAK]うそつきばかりだからな。[BREAK][PAUSE]@みぎ ひだり ひだり[BREAK]そして みぎだ。[BREAK][END]
-28C:@ひきかえせ！[BREAK]そして つまり[BREAK][PAUSE]ひきかえしたく なかったら[BREAK]そのままゆけ！[BREAK][END]
-28D:@うみのみえるまちでは[BREAK]あたらしい なかまに[BREAK]であうであろうぞ。[BREAK][END]
-28E:@おら むくちな サルだ。[BREAK][PAUSE]@おらは おしゃべりは にがてだ。[BREAK][PAUSE]@[..][..][..]な。[BREAK][PAUSE]@[..][..][..]。[BREAK][END]
-28F:@このあたりには[BREAK]めがみさまが いるんだぞ。[BREAK][END]
-290:@サルのいうことは[BREAK]うそばっかりだと おもうなよ。[BREAK][END]
-291:@わたしが サルのボスだが[BREAK]ほかのサルたちのウソつきぶりには[BREAK]あたまを なやませておる。[BREAK][PAUSE]@まっすぐ すすんで[BREAK]みぎに でぐちがある。[BREAK][END]
-292:@しっぱいしたなぁ[..][..] ほんと。[BREAK]こんなとこにきちゃってさ[BREAK]しっぱいだったよ。[BREAK][END]
-293:@たすけて おにいちゃん！[BREAK][END]
-294:@あっ でんわだ！[BREAK][03 10] おねがい。[BREAK][END]
-295:@わたくしが ちょうちょう[..][..][BREAK]じゃなくて[BREAK]じょやくの アボットです。[BREAK][PAUSE]@ちょうちょうさんは あちらです。[BREAK][END]
-296:@あとでいいこと おしえてあげる。[BREAK][END]
-297:@あ また とまりにきたんだね。[BREAK][END]
-298:@まあ たびのおかた。[BREAK][END]
-299:@ゆうれいやしきが[BREAK]ばけものたいじ だとおもったら[BREAK]おおまちがい。[BREAK][PAUSE]メロディーが あるのよ。[BREAK][END]
-29A:
-29B:@[03 12]は きっとどこかで[BREAK]げんきでいると しんじています。[BREAK][END]
-29C:@みせいねんだな。 ほどうする。[BREAK][END]
-29D:
-29E:
-29F:@おまえ[BREAK]ぢらい ふんだんだってな。[BREAK][PAUSE]@おれは[BREAK]いぬのくそ ふんだことあるぜ。[BREAK][END]
-2A0:@おまえ[BREAK]アドベントさばくとかってところで[BREAK]うんこ ふんだんだってな。[BREAK][PAUSE]だっせぇ！[BREAK][END]
-2A1:   <にんていしょう>[BREAK][03 14][BREAK]どの[BREAK][PAUSE]@あなたは アドベントさばくにおいて[BREAK]たしかに ぢらいを ふんだことを[BREAK]みとめます。[BREAK][PAUSE]@このばしょは[BREAK]ほかの プレイヤーには[BREAK]ひみつにしておいてください。[BREAK][PAUSE]        いとい しげさと[BREAK][END]
-2A2:@よくねてたようね。[BREAK]きょうは どちらにおでかけかしら。[BREAK]いってらっしゃーい。[BREAK][END]
-2A3:@あら ごめんかいじゃないんですか？[BREAK]かんじゃさんなら[BREAK]おくのへやへどうぞ。[BREAK][END]
-2A4:@そういうかたは[BREAK]にゅういんしていらっしゃいません。[BREAK][END]
-2A5:@ことしのカゼは[BREAK]なかなかひどいよ。[BREAK]げっそり やせちまった。[BREAK][END]
-2A6:@わたしは カゼひいてないの。[BREAK]ゴホン ゴホン。[BREAK][PAUSE]@あ これは セキじゃなくて[BREAK]くちぐせよ。 ゴホン ゴホン。[BREAK][END]
-2A7:@つかれたら ホテル。[BREAK]ねむくなったら ホテル。[BREAK]ま そういうことだね。[BREAK][END]
-2A8:@あ どうも。 へへへへ。[BREAK][END]
-2A9:@ここは レストラン ランラン[BREAK]たのしい レストラン ランラン[BREAK]たのしい？[BREAK][END]
-2AA:@どこのまちでも[BREAK]レストランの しはいにんって[BREAK]ミュージカルっぽいのかしら。[BREAK][END]
-2AB:@ぼくも [03 15]は[BREAK]おいしいとおもうなぁ。[BREAK][END]
-2AC:@ここらのホテルは[BREAK]マザーズデイ あたりと[BREAK]せつびは おなじなのに[BREAK][PAUSE]りょうきんが たかいね。[BREAK]ブツブツ[..][..][BREAK][END]
-2AD:@この ホテルは やすいね。[BREAK]やすいってだけが とりえだね。[BREAK][END]
-2AE:@がけくずれで おおいわが[BREAK]せんろをふさいでしまってねぇ。[BREAK]きしゃが とおれないのよ。[BREAK][END]
-2AF:@きみって どうぶつのことばが[BREAK]わかるんだね。[BREAK][PAUSE]@じゃ おしえてあげるけど[BREAK]ぼくを チェックしてごらん。[BREAK][PAUSE]@ワンッ。[BREAK][END]
-2B0:@おかねが たりないわ。[BREAK]ざんねんね。[BREAK]また ききにいらっしゃいよ。[BREAK][END]
-2B1:@いらっしゃいませ。[BREAK]こちらのメニューをごらんください。[BREAK][END]
-2B2:@ありがとうございます。[BREAK][03 1D] ワン[BREAK]テイクアウト プリーズ！[BREAK][END]
-2B3:
-2B4:
-2B5:@かれ[..][..]もう[..][..][BREAK]こないかもしれない。[BREAK][END]
-2B6:@たのしんでってね。[BREAK][END]
-2B7:@ボーイさん ワインリストまだぁ？[BREAK][END]
-2B8:@[03 15]が たべてみたいわ。[BREAK][END]
-2B9:
-2BA:
-2BB:@ゾンビたちに[BREAK]かみのこころを つたえて[BREAK][PAUSE]いいひとに なってほしいと[BREAK]ねがっている。[BREAK][PAUSE]@でも ゾンビは[..][..]コワイ！[BREAK][END]
-2BC:@ピッピだよ！[BREAK]ほんとに あえたね[BREAK][03 16]ちゃん。[BREAK][PAUSE]@わたしも ママに ないしょで[BREAK]こんなところまで[BREAK]あそびにきてるのよ。[BREAK][END]
-2BD:@あら[BREAK]ようちえんで となりのせきだった[BREAK][PAUSE]はなたらしの[BREAK][03 16]ちゃんじゃない？[BREAK][PAUSE]@ひとまちがいかしら？[BREAK][END]
-2BE:@くいにげしないでね。[BREAK][..][..]しつれいだけど。[BREAK][END]
-2BF:@あなた[BREAK]しょくよくおうせい みたいね。[BREAK][END]
-2C0:
-2C1:@きしゃは うごいてないよ。[BREAK]せんろを こわされちまったからね。[BREAK][PAUSE]@あんまり[BREAK]つっこんだ しつもんをするな。[BREAK][PAUSE]@しつこいなぁ[BREAK]ないちゃうぞ オレだって。[BREAK][END]
-2C2:@たちどまらないで さっさとあるけ！[BREAK][END]
-2C3:@けっこう[BREAK]くろうしたかおしてるなあ おまえ。[BREAK]ま ゆっくり はんせいしろよ。[BREAK][END]
-2C4:@だいかつやくの うわさは[BREAK]きいてるわ。[BREAK][PAUSE]@あなたって[BREAK]やっぱり ゆうきあるのね。[BREAK][END]
-2C5:@カナリアむらは[BREAK]きたにのぼって にしのほうがくだ。[BREAK][PAUSE]@あそこは[BREAK]にゅうえんりょうも タダだし[BREAK]いくといいぞ。[BREAK][END]
-2C6:@まちやくばに[BREAK]びじんのひしょが いるんだよな。[BREAK]1かいの うけつけさ。[BREAK][END]
-2C7:@はーら へったー。[BREAK][END]
-2C8:@ファミコンしてるじかんがあったら[BREAK]べんきょうしなさいって[BREAK]むすこに いってやったわよ。[BREAK][END]
-2C9:@おまえって[BREAK]あかるいかおしてるなぁ。[BREAK][END]
-2CA:@このまちに ダンカンが[BREAK]れいのみせを[BREAK]つくろうとしているの。[BREAK][PAUSE]@わたしは だいはんたい！[BREAK][END]
-2CB:@ぼくも おいしゃさんになって[BREAK]けがにんを たすけて[BREAK][PAUSE]おおもうけ したいな。[BREAK][END]
-2CC:@えっ ほんとに？[BREAK]あやしいアンケートじゃ[BREAK]ないのになぁ。[BREAK][END]
-2CD:@がっこういけよ がっこう！[BREAK]がくせいさんだろ？[BREAK][END]
-2CE:@せんろの うえの おおいわは[BREAK]どうやって どかすんだろうねぇ。[BREAK][PAUSE]@やくしょに まかせておいたら[BREAK]らいねんになっちまうぜ。[BREAK][END]
-2CF:@ずうっと きたの[BREAK]ダンカンさんの だいこうじょうには[BREAK][PAUSE]とてつもなく でかいロケットが[BREAK]あるんだよな。[BREAK][END]
-2D0:@おれを ただのおじさんと[BREAK]おもうなよ。[BREAK][PAUSE]@じっさい そうなんだけどさ。[BREAK][END]
-2D1:@おれさぁ[..][..][BREAK]せんろの おおいわなんてさ[..][..][BREAK][PAUSE]@ダンカンこうじょうの ロケットで[BREAK]ぶっとばしちまえば[BREAK]いいと おもうんだよね。[BREAK][END]
-2D2:@わたしのしゅじんは[BREAK]ティンクルしょうがっこうの[BREAK]えらいひとなのよ。[BREAK][PAUSE]@おひるの おべんとうは[BREAK]たべないひとなの。[BREAK][END]
-2D3:@スイートリトルこうじょうには[BREAK]いったか？[BREAK][END]
-2D4:@まちのそとには コワイばけものが[BREAK]うようよしてるんだろ。[BREAK][PAUSE]@おれ かねとられるんじゃないかと[BREAK]おもってさ。 しんぱい！[BREAK][END]
-2D5:@ラララ たんぽぽの わたげを[BREAK]そーらーに ラララ[BREAK][PAUSE]@わたしは[BREAK]おんがくが いちばんすき。[BREAK][END]
-2D6:@おくじょうのカギを[BREAK]ようむいんさんが もってるんだけど[BREAK][PAUSE]かしてくれないのよ。[BREAK][END]
-2D7:@やまのうえの[BREAK]よげんしゃの おじいさんは[BREAK][PAUSE]きまえがいいから もちきれないほど[BREAK]ものをくれるの。[BREAK][END]
-2D8:@ちいさいころに[BREAK]トンネルを あるいて[BREAK]とおったことが あるんだ。[BREAK][PAUSE]@したいを みにいったんだ。[BREAK][END]
-2D9:@ここは じゅうたくち だから[BREAK]しずかにあるきなさい。[BREAK][END]
-2DA:@あなたたち のはらに[BREAK]たべものとかを[BREAK]すてたりしたことない？[BREAK][PAUSE]@ま ゲームだから[BREAK]しょうがないけどね。[BREAK][END]
-2DB:@はっ！！[BREAK]いま おふろばの けんきゅうを[BREAK]しているんだ。[BREAK][PAUSE]@だいがくの しゅくだいでさ。[BREAK][PAUSE]@[..][..]ほんとだよ！[BREAK][END]
-2DC:@じてんしゃがあると[BREAK]べんりなのになぁ。[BREAK][END]
-2DD:@はーらへったー[BREAK][PAUSE]@って いうとおもったろ。[BREAK]いわないよ。 へってるけど。[BREAK][END]
-2DE:@わたし とかいが すき。[BREAK]わたし おしゃれが すき。[BREAK][END]
-2DF:@おれは ちょうのうりょく なんて[BREAK]しんじてない。[BREAK][END]
-2E0:@わたしは かげのうすい おとこ[BREAK]きえたように みえることさえ[BREAK]あります。[BREAK][END]
-2E1:@わたし このまちがすき！[BREAK]となりの ハロウィーンの まちは[BREAK]こわいところよ。[BREAK][END]
-2E2:@あなたは[BREAK]ほとけさまを しんじますか？[BREAK][END]
-2E3:@かぜぐすりの[BREAK]よくきくやつを もってたら[BREAK]みせで たかく かってくれるぜ。[BREAK][END]
-2E4:@わたしは[BREAK]ようきな ゆうびんや ランラン。[BREAK][PAUSE]@ローズマリーさんの[BREAK]ひっこしさきは どこ ランラン。[BREAK][END]
-2E5:@ローズマリーさんの[BREAK]げんじゅうしょを[BREAK]さがしてる ゆうびんやさんに[BREAK][PAUSE]どうぞ つたえてくださいな。[BREAK][PAUSE]@それは[BREAK]ずっと ひがしなのよと[BREAK][PAUSE]@ランランラン。[BREAK][END]
-2E6:@ローズマリーのむすめって[BREAK]かんじわるいッ！[BREAK][END]
-2E7:@ダウンタウンの ビルのあたりは[BREAK]ばけものが うーようよでねぇ。[BREAK]みんな こっちに にげてきたんだ。[BREAK][END]
-2E8:@なんか よう？[BREAK][END]
-2E9:@わたしは[BREAK]しゅぎょうちゅうの よげんしゃ。[BREAK][PAUSE]@あなたは このえきから[BREAK]ふたたび サンタクロースのえきに[BREAK]ゆくであろう。[BREAK][PAUSE]@わかんないけどね。[BREAK][END]
-2EA:@[03 12]ちゃんの いえは[BREAK]おてら[..][..]じゃなくて[BREAK]きょうかいだよ。[BREAK][PAUSE]@あ しってたか。[BREAK][END]
-2EB:@きょうかいなら[BREAK]もっと ひがしの やまのなかさ。[BREAK][PAUSE]@ゴホッゴホッ[..][..]ゴホッ[..][..][BREAK][END]
-2EC:@こどもは げんきだなぁ。[BREAK]そんな うすぎで。[BREAK][PAUSE]@ゴホッゴホゴホッ[..][..]ゴホン。[BREAK][END]
-2ED:@アドベントさばくの ラクダのほねに[BREAK]あったら よろしくな。[BREAK]ちょっと しってるラクダなんだ。[BREAK][END]
-2EE:@すこしぐらいの ケガだったら[BREAK]ここでなおしてあげますよ。[BREAK][PAUSE]@でも びょうきだったら ちゃんと[BREAK]びょういんで みてもらってね。[BREAK][END]
-2EF:@[03 11]って しょうらいは[BREAK]コンピュータかんけいの しごとに[BREAK]つくんじゃないかな。[BREAK][END]
-2F0:@しーっ！[BREAK]としょしつで おおごえだしちゃ[BREAK]いっけないのよォ！[BREAK][PAUSE]@ハッハッハーーーックション！！[BREAK][END]
-2F1:@わたしを[BREAK]せかいいちの つりしと[BREAK]しって やってきたのかね。[BREAK][PAUSE]@いや それほどでもないが[..][..][BREAK][PAUSE]@じゃ これから 1じかんほど[BREAK]じまんばなしをするか[..][..][BREAK][END]
-2F2:@じゃまだよ。 がきども！[BREAK][END]
-2F3:@おらおら[..][..][BREAK][END]
-2F4:@おれ HPひくいけど[BREAK]がんばってみるぜ！[BREAK][END]
-2F5:@おれ[..][..]たぶん[..][..][BREAK]おまえと たたかうと[BREAK][PAUSE]まけるとおもう。[BREAK][END]
-2F6:@おれは つよい。[BREAK]くちばっかしだけどな。[BREAK][END]
-2F7:@[03 13]の あにきがいたら[BREAK]おまえなんか ゆびさきで[BREAK]ヒョイッ さ。[BREAK][END]
-2F8:@カンバンの もじは[BREAK]ちゃんと よんどるかね？[BREAK][END]
-2F9:@もし どこかのさばくで[BREAK]かおのあるサボテンを[BREAK]みつけたら[..][..][BREAK][PAUSE]@とても こわいざますわね。[BREAK][END]
-2FA:@つりびとに はなしかけると[BREAK]はなしが ながくて いけないね。[BREAK][END]
-2FB:@しょうがく いちねんせいだったら[BREAK]さかあがりくらい[BREAK]できるものよねぇ。[BREAK][END]
-2FC:@こちらのエレベーターで[BREAK]てんぼうだいまで[BREAK]おあがりください。[BREAK][END]
-2FD:@ここの てんぼうだいから[BREAK]みえる しまで けむりがでてたよ。[BREAK]だれか すんでいるのかなぁ？[BREAK][PAUSE]@ぼうえんきょうで みてみれば[BREAK]よかったなあ。[BREAK][END]
-2FE:@ぼく さかあがりできないのよ。[BREAK][END]
-2FF:@わたしは[BREAK]ひきざんの くりさがりが[BREAK]まだ よくわからない。[BREAK][END]
-300:@いちごあじのとうふって[BREAK]とかいのほうで[BREAK]はやってるらしいな。[BREAK][PAUSE]@くってみてぇよ。[BREAK][END]
-301:@はら へったな。[BREAK][END]
-302:@おれを ただのおじさんと[BREAK]おもうなよ。[BREAK][PAUSE]@って うちのパパのくちぐせなの。[BREAK][END]
-303:@あなた ちこくよね！[BREAK][END]
-304:@りかしつで[BREAK]へんなせんせいを みなかったぁ？[BREAK][PAUSE]@[..][..]わたし みた。[BREAK][END]
-305:@あのゲーム やった？[BREAK]おれ まだ やってないんだ。[BREAK][END]
-306:@いらっしゃいませ。[BREAK]なにを さしあげましょう？[BREAK][END]
-307:@もうしわけありません。[BREAK]そのしなは[BREAK]ただいまうりきれで ございます。[BREAK][END]
-308:@あら おやめになるんですか？[BREAK]ざんねんですが[..][..][BREAK][PAUSE]@またの ごらいてんを[BREAK]おまちしております。[BREAK][END]
-309:@ありがとうございました。[BREAK]また ごりようください。[BREAK][END]
-30A:@おや やめるんですか？[BREAK]では またきてくださいね。[BREAK][END]
-30B:@[03 1B]さん[BREAK]げんきになって よかったわね。[BREAK]また いつでもどうぞ！[BREAK][END]
-30C:@あら あなたのおともだちでしょ？[BREAK]ほんとに しんじゃいますよ。[BREAK][END]
-30D:@はいはい[BREAK]ひとり [03 1E]ドルで[BREAK]しんさつしてあげましょうね。[BREAK][END]
-30E:@ほんとに ちりょうは いらない？[BREAK]あっそ。[BREAK][END]
-30F:@わたしのみたてでは[BREAK]どこも わるくないようだよ。[BREAK][END]
-310:@はい すっかりよくなったよ。[BREAK][END]
-311:
-312:@しんじようが しんじまいが[BREAK]わたしは ヒーラー。[BREAK]どうしたい？[BREAK][END]
-313:@おお そうか。 そうしなさい。[BREAK][END]
-314:@[03 1E]ドル[BREAK]いただいておこうか。[BREAK][END]
-315:@いらっしゃいませ。[BREAK]ひとばん [03 1E]ドルに[BREAK]なりますが おとまりになりますか？[BREAK][END]
-316:@それは ざんねんです。[BREAK]また いらしてくださいね。[BREAK][END]
-317:@では ごゆっくり。[BREAK][END]
-318:@おはようございます。[BREAK]また おたちよりください。[BREAK]おまちしております。[BREAK][END]
-319:@[03 1B]さんでしたら[BREAK]さっき はこびこまれましたよ。[BREAK]いしきが もどらないんですが[..][..][BREAK][PAUSE]@ちりょうひを [03 1E]ドル[BREAK]おしはらい ください。[BREAK][END]
-31A:@どなたに ごめんかいですか？[BREAK][END]
-31B:
-31C:@パパは るすです。[BREAK]だから[BREAK]おかねのことは わかんないけど[BREAK][PAUSE]ほかは[BREAK]ぼくが ちゃんとやりますから[BREAK]あんしんして とまってください。[BREAK][END]
-31D:@おはよう。[BREAK]また とまりにきてね。[BREAK]ひとりぼっちで さみしいんだ。[BREAK][END]
-31E:@なんだ とまっていかないの[..][..][BREAK][PAUSE]@パパがいなくても ぼくがちゃんと[BREAK]かわりをするから[BREAK]だいじょうぶなのに[..][..][BREAK][END]
-31F:@あらっ チケットがなきゃ[BREAK]はいれないわよ。[BREAK][END]
-320:@しかし[..][..][..][BREAK]なにもなかった。[BREAK][END]
-321:
-322:  あずける   もちだす[END]
-323:@なにももってないじゃない。[BREAK][END]
-324:@なにも あずかってないわよ。[BREAK][END]
-325:@ちょっとまって[..][..][..][BREAK][PAUSE]@そうこが いっぱいだから[BREAK]もうあずかれないよ。[BREAK][END]
-326:@イラッシャイマセ[BREAK][END]
-327:@ザンダカガ タリマセン[BREAK][END]
-328:
-329:@オカネガ タリマセン[BREAK][END]
-32A:@モウシワケ アリマセン[BREAK][PAUSE]トリヒキ ゲンドガクヲ[BREAK]コエマシタノデ[BREAK]オアズカリ デキマセン[BREAK][END]
-32B:@アリガトウ ゴザイマシタ[BREAK][END]
-32C:@にんぎょうの なかには[BREAK]ふるい オルゴールが[BREAK]かくされていた。[BREAK][PAUSE]@[03 3E]は[BREAK]オルゴールをあけた。[BREAK][PAUSE]@とぎれとぎれに[BREAK]メロディーがながれた。[BREAK][END]
-32D:@ ？[BREAK][END]
-32E:@ありがとう ございました。[BREAK][END]
-32F:@おれ ぶきをてにいれる[BREAK]いいルートを もっているんだ。[BREAK][PAUSE]@そのうち すごいぶきを[BREAK]てにいれられる かもな。[BREAK][END]
-330:
-331:@[03 16][03 17]は[BREAK]たたかいに かった。[BREAK][END]
-332:  ヒキダス   アズケル[END]
-333:@ゲンザイ é[03 19][DOUBLEZERO][BREAK]オアズカリ シテイマス[BREAK][END]
-334:@カギが かかっている。[BREAK][END]
-335:@カギが あわないようだ。[BREAK][END]
-336:@[03 16][03 17]は[BREAK]カギをあけて なかにはいった。[BREAK][END]
-337:  きろくする  とくにない[END]
-338:  つずける   おわる[END]
-339:@[03 3E]は[BREAK]じゅわきを とった。[BREAK][END]
-33A:@しつれいですが[..][..][BREAK]おかねが たりないようですよ。[BREAK][END]
-33B:@まあ おきゃくさま[BREAK]おかねが たりませんわ。[BREAK][END]
-33C:@おきゃくさま[BREAK]それいじょうおもちになろうなんて[BREAK][PAUSE]おやめになったほうが[BREAK]よろしいとおもいます。[BREAK][END]
-33D:@っはい！ もうなおってる。[BREAK]すごいでしょ。[BREAK][END]
-33E:@もうしわけありません。[BREAK][03 1D]は[BREAK]かいとれません。[BREAK][END]
-33F:@うたひめローラは わがこ と[BREAK]たいめんして おおよろこびで[BREAK]うたを うたいはじめた。[BREAK][END]
-340:@[03 16]は[BREAK]メロディーをおぼえた。[BREAK][END]
-341:@カナリアが うたっている。[BREAK][END]
-342:@サルは[BREAK]どうぶつえんのカギをぬすんだ。[BREAK][END]
-343:@ロボットは ふるく[BREAK]さびついていた。[BREAK][END]
-344:@[03 10]の けはいを[BREAK]かんじた しゅんかん[BREAK][PAUSE]ロボットは[BREAK]いのちを ふきこまれた。[BREAK][END]
-345:@[03 1B]は [03 1E][BREAK][END]
-346:@がんばりなさい。[BREAK][END]
-347:
-348:@いずみの みずにふれると[BREAK]すっごく げんきになりました。[BREAK][END]
-349:
-34A:@ピッピ！[BREAK]よかったわ よかったわ。[BREAK]ほんとによかった。[BREAK][PAUSE]@ちょうちょうさんも[BREAK]ピッピを さがしてくれてるはずよ。[BREAK][PAUSE]@ちゃんと ごあいさつに[BREAK]いってきてちょうだい。[BREAK][END]
-34B:@はいってます！[BREAK]って ここはトイレじゃないけどな。[BREAK][PAUSE]@いま てがはなせないんだ。[BREAK]あとでおいで。[BREAK][END]
-34C:@だれが どくに やられたんだね？[BREAK][END]
-34D:@だれを やわらかくしようかね[..][..]？[BREAK][END]
-34E:@どくなんか ない！[BREAK][END]
-34F:@かたくなって ないじゃないか。[BREAK][END]
-350:@あそこは むかし[BREAK]ペンシルロケットを[BREAK]じゃんじゃん つくってたんだよ。[BREAK][END]
-351:@うちの にょうぼうは[BREAK]しょだいの ミスいなかまち[BREAK]だったんだ。[BREAK][END]
-352:@カギは あけたよ。[BREAK]おくじょうは けしきがいいぞ。[BREAK][END]
-353:@あとで ダンカンのだいこうじょうに[BREAK]いこう。[BREAK][PAUSE]@あそこには すっごいロケットが[BREAK]あるらしいんだ。[BREAK][END]
-354:@みんなが ぼくのことを[BREAK]よわむしとか けむしとか[BREAK]アホタレとか[BREAK][PAUSE]うわさしてなかったかなぁ。[BREAK][END]
-355:@いや[..][..]あさになってしまったな。[BREAK][END]
-356:@としよりを たいせつにしなさいね。[BREAK]ゴホゴホ。[BREAK][END]
-357:@チビ！[BREAK]きやすく はなしかけんじゃねぇよ。[BREAK][END]
-358:@ある[BREAK]ファミコンソフトのはなしだけどね。[BREAK][PAUSE]@マザーって タイトルに[BREAK]きまったらしいんだけど[BREAK][PAUSE]ジョン*レノンの まねだよな。[BREAK][END]
-359:
-35A:@レインディアの えきにいる[BREAK]おばあさんは とっても[BREAK]たいせつなものを くれるんだけど[BREAK][PAUSE]@あなた[03 17]は あったかしら[..][..][BREAK][END]
-35B:@さいごの ヒントよ。[BREAK]マジカントこくの ギターひきの[BREAK]うたは ぜひ きいてね。[BREAK][END]
-35C:@なにか あるなとおもったら[BREAK]こまめに チェックするといいぞ。[BREAK][END]
-35D:@うたうサルは しみじみとうたった。[BREAK][END]
-35E:@サボテンは うたう。[BREAK]なぜか うたう。[BREAK]せつせつと うたいつずけた。[BREAK][END]
-35F:@ピアノは ひとりでに[BREAK]けんばんが うごいて[BREAK]えんそうを はじめた。[BREAK][END]
-360:@ドラゴンは いがいと すなおに[BREAK]ふるい がくふを みせてくれた。[BREAK][PAUSE]@こんな うただった。[BREAK][END]
-361:@ロボット イ[??]は[BREAK]はかいされ うごかなくなった。[BREAK][PAUSE]@イ[??]の むねのあたりから[BREAK]おんがくが ながれてきた。[BREAK][END]
-362:<よにも めずらしい うたうさるは[BREAK]とう シュークリームどうぶつえんに[BREAK]しか おりません。>[BREAK][END]
-363:@かいだんの うえの とびらには[BREAK]おおきな じょうまえが[BREAK]かかっている。[BREAK][END]
-364:@わたしは スノーマンのまちの[BREAK]ひとたちのために ここにのこるが[BREAK]どうか[..][..]きをつけて[..][..]いって。[BREAK][END]
-365:@おかねが たりません。[BREAK][END]
-366:@やっぱり こわいから[BREAK][03 10]ちゃん[BREAK]さきに あるいてよ。[BREAK][END]
-367:@よくみると とびらの カギは[BREAK]こわれていた。[BREAK][03 3E]は とびらを あけた。[BREAK][END]
-368:@あっ [03 13]さん[BREAK]こんにちは ッス。[BREAK][END]
-369:@[03 13]のアニキを はやく[BREAK]カムバックさせてくれよう！[BREAK][END]
-36A:@あ だめだめ。[BREAK][03 1D]は[BREAK]あずかれないのよ。[BREAK][PAUSE]@わたし わがままなの。[BREAK][END]
-36B:<[03 10]の[BREAK]えいえんのしもべ。[BREAK][PAUSE]ゆうかんなる フライングマンせんし[BREAK]ここに ねむる。>[BREAK][END]
-36C:<[03 10]の[BREAK]うちなる ちから。[BREAK][PAUSE]ゆうかんなる フライングマンせんし[BREAK]ここに ねむる。>[BREAK][END]
-36D:<[03 10]の[BREAK]ぜんなる こころ。[BREAK][PAUSE]ゆうかんなる フライングマンせんし[BREAK]ここに ねむる。>[BREAK][END]
-36E:<[03 10]の[BREAK]おおいなる かなしみ。[BREAK][PAUSE]ゆうかんなる フライングマンせんし[BREAK]ここに ねむる。>[BREAK][END]
-36F:<[03 10]の[BREAK]ち と にく。[BREAK][PAUSE]ゆうかんなる フライングマンせんし[BREAK]ここに ねむる。>[BREAK][END]
-370:@ちょうちょうさんの めいれいで[BREAK][PAUSE]どうぶつえんの じけんが[BREAK]かいけつするまで[BREAK]ここは とおれないんだぞ。[BREAK][PAUSE]@ちょっと ロコツな[BREAK]やりかただけどな。[BREAK][END]
-371:@このおくの やまのどうくつに[BREAK]へんな いわが あるんだぞ。[BREAK][PAUSE]@あんまりへんだから[BREAK]けんぶつすると いいぞ。[BREAK][END]
-372:@ところで[..][..][BREAK]おまえ[03 17] テレパシーとかが[BREAK]できるんだってな。[BREAK][PAUSE]@だいひょうばんだぞ。[BREAK][PAUSE]@この にんきもの！[BREAK][END]
-373:@あんた[03 17][BREAK]スノーマンに いくのかい？[BREAK][END]
-374:@このぼうしを ひろったんだけど[BREAK]スノーマンにいる おんなのこの[BREAK]ものらしいの。[BREAK][PAUSE]@とどけてあげて ちょうだいな。[BREAK][END]
-375:@たのみたいことが あったんだけど[BREAK]ざんねんだわ。[BREAK][END]
-376:@かっこいいしょうねんは[BREAK]どくとくの うたをうたった。[BREAK][PAUSE]@[03 16]は[BREAK]このメロディーは[BREAK]さすがに おぼえられなかった。[BREAK][END]
-377:@すみません。[BREAK]ちょっと アンケートに[BREAK]こたえていただけますか？[BREAK][END]
-378:
-379:@あなたは[BREAK]きしゃの うんちんを[BREAK]たかいと おもいますか？[BREAK][END]
-37A:@あなたは[BREAK]ふしぎなメガホンを[BREAK]つかいましたか？[BREAK][END]
-37B:@ごきょうりょく[BREAK]ありがとうございました。[BREAK]おれいの テレホンカードです。[BREAK][END]
-37C:@すいません。 ちょっと[..][..][BREAK]アンケートに[..][..][..][BREAK][PAUSE]@あっ[BREAK]まえに おねがいしましたっけね。[BREAK][END]
-37D:@こころの さけびを ききつけて[BREAK]おたすけじいさんが[BREAK]とうじょうした。[BREAK][END]
-37E:@[03 3E]は[BREAK]カンオケを あけた。[BREAK]カンオケのなかから[..][..]！！[BREAK][END]
-37F:@[03 16]は[BREAK]ぼうえんきょうを のぞいた。[BREAK][END]
-380:@うみが きれいだった。[BREAK][END]
-381:@むこうのしまで[BREAK]なにかが ひかった！[BREAK][END]
-382:@カプセルのなかから[BREAK]なにかが とびだした。[BREAK][END]
-383:@[03 12][BREAK]<パパ[..][..]いまは[..][..]さよなら。[BREAK][PAUSE]つぎに あうときは[BREAK]きっと ママといっしょよ！[BREAK][PAUSE][..][..]いのっててください。>[BREAK][END]
-384:[END]
-385:@だれに はなしているのだ。[BREAK][END]
-386:@なに？[BREAK][END]
-387:@もんだいなし。[BREAK][END]
-388:@(The voice of Queen[BREAK]Mary speaks)[BREAK][PAUSE]@I am the[BREAK]consciousness of[BREAK]Maria.[BREAK][PAUSE]@[03 10][03 3F] use my[BREAK]last power！[BREAK][PAUSE]@Then[03 3F] as the voice[BREAK]became a whisper of[BREAK]wind...[BREAK][PAUSE]@The rock[BREAK]disintegrated.[BREAK][PAUSE]@Leaving only a[BREAK]pile of very fine[BREAK]sand at their feet.[BREAK][END]
-389:
-38A:
-38B:@ぶきを おさがしでしたら[BREAK]こちらは いかがでしょうか。[BREAK][END]
-38C:@ありがとうございました。[BREAK][END]
-38D:
-38E:@[03 1A]は[BREAK][03 1C]を つかった。[BREAK][END]
-38F:@[03 1A]は[BREAK][03 1C]を[BREAK]つかえない。[BREAK][END]
-390:@やめてください。[BREAK][END]
-391:@[03 1A]は[BREAK][03 1C]を[BREAK]そうびした。[BREAK][END]
-392:@[03 1A]は[BREAK][03 1C]を[BREAK]そうびできない。[BREAK][END]
-393:@[03 1A]は[BREAK][03 1C]を[BREAK]すててしまった。[BREAK][END]
-394:@[03 1C]は[BREAK]すててはいけない。[BREAK][END]
-395:@[03 1A]は [03 1B]に[BREAK][03 1C]を[BREAK]わたした。[BREAK][END]
-396:@[03 1C]は[BREAK]わたせない。[BREAK][END]
-397:@[03 1B]は[BREAK]これいじょう ものをもてない。[BREAK][END]
-398:@なにも おこらない。[BREAK][END]
-399:@[03 3E]は[BREAK]プレゼントのはこを あけた。[BREAK][END]
-39A:@[03 1D]が あった。[BREAK][END]
-39B:@[03 16][03 17]は[BREAK][03 1D]を てにいれた。[BREAK][END]
-39C:
-39D:@しかし これいじょう[BREAK]ものを もてない。[BREAK][END]
-39E:
-39F:
-3A0:
-3A1:@しかし からっぽだった。[BREAK][END]
-3A2:  ドクをけす  やわらかくする[END]
-3A3:<みなみ*マザーズデイ[BREAK] きた *シュークリーム[BREAK]        どうぶつえん>[BREAK][END]
-3A4:<このおく カナリアむら。[BREAK] しぜんを たいせつにしよう！>[BREAK][END]
-3A5:<マザーズデイ まちやくば>[BREAK][END]
-3A6:<にし*うみのてんぼうだい[BREAK] きた*バレンタインみなと[BREAK]       うみをきれいに！>[BREAK][END]
-3A7:<にし *バレンタイン[BREAK] ひがし*ホーリーローリー[BREAK]          マウンテン>[BREAK][END]
-3A8:<にし    *ヒーラーのいえ[BREAK] はしのむこう*はかば[BREAK]    ひとりあるき きけん！>[BREAK][END]
-3A9:<にし *マザーズデイ[BREAK] ひがし*サンクスギビング>[BREAK][END]
-3AA:<シュークリームどうぶつえんは[BREAK]    にしに 700メートル>[BREAK][END]
-3AB:<スノーマンきょうかい このおく>[BREAK][END]
-3AC:<にし *バレンタイン[BREAK] みなみ*しっちたい>[BREAK][END]
-3AD:<サンクスギビングおおどおり[BREAK] みなみ*ティンクル[BREAK]        しょうがっこう>[BREAK][END]
-3AE:<[03 10] の いえ>[BREAK][END]
-3AF:<サンクスギビングへ ようこそ！[BREAK] にし*マザーズデイ[BREAK] きた*サンタクロースえき>[BREAK][END]
-3B0:<にし *ヒーラーのいえ[BREAK] ひがし*レインディアえき[BREAK] みなみ*レインディアのまち>[BREAK][END]
-3B1:<にし *ハロウィーンダウンタウン[BREAK] ひがし*ハロウィーン[BREAK]         じゅうたくち>[BREAK][END]
-3B2:<ひがし*しっちたい>[BREAK][END]
-3B3:<このさき[BREAK] ローズマリーさんの しゆうち>[BREAK][END]
-3B4:<バレンタイン けいさつしょ>[BREAK][END]
-3B5:<れいのみせ[BREAK]      けんせつよていち[BREAK]   ダンカンけんせつがいしゃ>[BREAK][END]
-3B6:@アニハ ウツクシク[BREAK]タオレタト キキマス。[BREAK][PAUSE]@ハカヲ タテテ[BREAK]テアツク トムライマシタ。[BREAK][PAUSE]@ツギハ ワタシノ バンデス。[BREAK][END]
-3B7:@ワタシモ ハヤク[BREAK]アナタノ オテツダイガ シタイ。[BREAK][END]
-3B8:@ワタシハ ふらいんぐまん。[BREAK]アナタノ チカラニナル。[BREAK]ソノタメニ ウマレテキタ。[BREAK][END]
-3B9:@かいげんれいは とかれた。[BREAK]ちょっと おおげさだったけどな。[BREAK][END]
-3BA:@ふるぼけた ロケットだ。[BREAK][END]
-3BB:@グッズを とりにきたのね。[BREAK]はい どうぞ。[BREAK][END]
-3BC:@グッズは ぜんぶわたしたわよ。[BREAK]でも また あいにきてね。[BREAK][END]
-3BD:@わたし ミニーよ。[BREAK][END]
-3BE:  きをいれる  やわらかくする[END]
-3BF:@[03 13][BREAK]<おまえら[BREAK]ふたりで いたいんだろう。[BREAK][PAUSE]おれ ここで ねてるわ。>[BREAK][END]
-3C0:@しまった！ まにあわなかった。[BREAK][END]
-3C1:@[..][..]よかった。[BREAK][END]
-3C2:@[03 13][BREAK]<おい！ なんか[BREAK]とんでもないおとが したぜ。>[BREAK][END]
-3C3:@[03 13][BREAK]<ほーんとかよ！？>[BREAK][END]
-3C4:@ボートは[BREAK]エンジンの ちょうしが[BREAK]わるいようだ。[BREAK][END]
-3C5:@[03 16]には[BREAK]うごかすことが できない。[BREAK][END]
-3C6:@しかし [03 11]は[BREAK]じょうずに エンジンを[BREAK]かけることが できた。[BREAK][END]
-3C7:@[03 1D]ですね。[BREAK]ちゃんと [03 10]さんの[BREAK]うちへ おくっておきますね。[BREAK][PAUSE]@ほかに あずかるものは[BREAK]ありますか？[BREAK][END]
-3C8:@こんな せまいなかに[BREAK]とじこめられて[..][..][BREAK]これから どうなるんだろう。[BREAK][END]
-3C9:<スイートリトル こうじょう>[BREAK][END]
-3CA:@やまのうえの[BREAK]マザーシップに つれていかれて[BREAK]きがついたら こんなことに[..][..][BREAK][PAUSE]@なんとかしてくれ！[BREAK][END]
-3CB:@スペルの まちがいは ないですね？[BREAK][END]
-3CC:@どうぶつたちを くるわせていた[BREAK]あやしいおとは きえた。[BREAK]どうぶつえんは あんぜんになった。[BREAK][END]
-3CD:
-3CE:@だいじな せんしゃだからな。[BREAK]こわさんようにな。[BREAK][END]
-3CF:@いぬの くびわには[BREAK]ちかしつのカギが さがっていた。[BREAK][END]
-3D0:@へっへっへ あっしは[BREAK]おせっかいな ねずみです。[BREAK][PAUSE]@まちの いえには[BREAK]はいれる いえと[BREAK]はいれない いえが あります。[BREAK][PAUSE]@まるいドアと かんばんのあるドアは[BREAK]はいれる いえ。[BREAK][PAUSE]@あとは はいろうとしても[BREAK]あたまを ぶつけるだけでさぁ。[BREAK][PAUSE]@さいなら。[BREAK][END]
-3D1:
-3D2:@テレポーテーションを[BREAK]おもちゃに するんじゃないぞ。[BREAK][END]
-3D3:@ほんとうの こどものように[BREAK]かわいがったのに[..][..][BREAK][END]
-3D4:@しっぽを ふってた[BREAK]あかちゃんだった[..][..][BREAK]こもりうたを[..][..]でも[..][..][BREAK][END]
-3D5:@ああ ジョージ！[BREAK]あなたの つま マリアです。[BREAK][PAUSE]@あなたのまつ てんごくに[BREAK]わたしも いまから むかいます[..][..][BREAK][END]
-3D6:@キャッシュカードヲ イレテクダサイ[BREAK][END]
-3D7:@そんなに げんきんを[BREAK]もちあるいては いけない。[BREAK][END]
-3D8:@このまえの[BREAK]セーブデータまで もどるが[BREAK]それで よいのか？[BREAK][END]
-3D9:@<はい>って いったのに[BREAK]もってないじゃないか。[BREAK]アハハハハ。[BREAK][END]
-3DA:@こきゅうが みだれて[BREAK]くるしそうだ。[BREAK][END]
-3DB:@まだ グッズをわたせる[BREAK]なかまが いない。[BREAK][END]
-3DC:@[03 1D]ですね。[BREAK]たしかに おわたししましたよ。[BREAK][PAUSE]@ほかに もっていくものは[BREAK]ありますか？[BREAK][END]
-3DD:@もちきれない みたいだけど[BREAK]ほかのひとに わたしますか？[BREAK][END]
-3DE:@そうこが いっぱいです。[BREAK][END]
-3DF:@クイーンマリーは[BREAK][03 10]に かたりおえると[BREAK]かぜのなかに きえていった。[BREAK][PAUSE]@そして マジカントのくにも[BREAK]また あとかたもなく[BREAK]かききえた。[BREAK][PAUSE]@マジカントのくに とは[BREAK]マリーのいしきが うみだした[BREAK]まぼろしだったのだ。[BREAK][END]
-3E0:@わたしが[BREAK]あなた[03 17]を よんだのです。[BREAK][PAUSE]@[03 10]！[BREAK][PAUSE][03 12]！[BREAK][03 11]！[BREAK][03 13]！[BREAK][PAUSE]@そして すべての[BREAK]ゆうきある こどもたち。[BREAK][PAUSE]@いまが そのときです！[BREAK][END]
-3E1:@しーっ！ わたくしどもも[BREAK]あなた[03 17]と おなじように[BREAK]あっちの せかいの にんげんです。[BREAK][PAUSE]@おかねさえ いただければ[BREAK]マジカントの すばらしいおみやげを[BREAK]わけて さしあげますよ。[BREAK][PAUSE]@ヒッヒッヒ。[BREAK][END]
-3E2:@でんしゃにのらないと オレみたいに[BREAK]なっちゃうぜ。[BREAK][END]
-3E3:@ほかに ございますか？[BREAK][END]
-3E4:@ようこそ [03 16][..][..][BREAK][PAUSE]@かならず ここまで[BREAK]たどりつくことができると[BREAK]しんじていました。[BREAK][PAUSE]@そのむかし [03 10]の[BREAK]そうそぼ マリアは[BREAK][PAUSE]@8つのメロディー それぞれに[BREAK]せいいっぱいの あいをちりばめ[BREAK][PAUSE]@まだみぬ あなた[03 17]への[BREAK]おくりものとしたのです[..][..][BREAK][PAUSE][END]
-3E5:@クリスタルの かがやきを あびて[BREAK]ぜんいん かんぜんに かいふくした！[BREAK][END]
-3E6:
-3E7:[END]
-3E8:[END]
-3E9:でかぶくろ[END]
-3EA:テレホンカード[END]
-3EB:パンくず[END]
-3EC:まよけのゆびわ[END]
-3ED:ITEM05[END]
-3EE:メモリーチップ[END]
-3EF:[END]
-3F0:[END]
-3F1:[END]
-3F2:ナイフ[END]
-3F3:サバイバルナイフ[END]
-3F4:アシガルソード[END]
-3F5:KATANA[END]
-3F6:ショックガン[END]
-3F7:エアガン[END]
-3F8:ボロのバット[END]
-3F9:ふつうのバット[END]
-3FA:いいバット[END]
-3FB:さいこうのバット[END]
-3FC:フライパン[END]
-3FD:いいフライパン[END]
-3FE:とびきりのフライパン[END]
-3FF:スリングショット[END]
-400:ブーメラン[END]
-401:さっちゅうスプレー[END]
-402:スーパースプレー[END]
-403:ノミとシラミ[END]
-404:あいのことば[END]
-405:のろいのことば[END]
-406:ねばねばマシン[END]
-407:やみのライト[END]
-408:いしのもと[END]
-409:どくばり[END]
-40A:かえんほうしゃき[END]
-40B:ボム[END]
-40C:スーパーボム[END]
-40D:レーザービーム[END]
-40E:デスビーム[END]
-40F:ITEM39[END]
-410:ロープ[END]
-411:[END]
-412:[END]
-413:[END]
-414:[END]
-415:やすらぎのコイン[END]
-416:まもりのコイン[END]
-417:まふうじのコイン[END]
-418:ようせいのうでわ[END]
-419:てんしのうでわ[END]
-41A:めがみのうでわ[END]
-41B:しずくのペンダント[END]
-41C:ほのおのペンダント[END]
-41D:だいちのペンダント[END]
-41E:うみのペンダント[END]
-41F:ITEM55[END]
-420:ITEM56[END]
-421:ITEM57[END]
-422:[END]
-423:[END]
-424:オレンジジュース[END]
-425:フライドポテト[END]
-426:マジックハーブ[END]
-427:ハンバーガー[END]
-428:スポーツドリンク[END]
-429:きずぐすり[END]
-42A:ぜんそくスプレー[END]
-42B:どくけし[END]
-42C:うがいぐすり[END]
-42D:いちごとうふ[END]
-42E:ITEM70[END]
-42F:パン[END]
-430:エンジェルシード[END]
-431:サイパワーストーン[END]
-432:[END]
-433:ふしぎなリボン[END]
-434:ふしぎなキャンディ[END]
-435:ITEM77[END]
-436:スピードカプセル[END]
-437:ウィズダムカプセル[END]
-438:フィジカルカプセル[END]
-439:フォースカプセル[END]
-43A:ファイトカプセル[END]
-43B:[END]
-43C:[END]
-43D:ちかしつのカギ[END]
-43E:どうぶつえんのカギ[END]
-43F:ゆうれいやしきのカギ[END]
-440:そうそふのにっき[END]
-441:つうこうきょかしょう[END]
-442:ライブのチケット[END]
-443:[END]
-444:[END]
-445:[END]
-446:[END]
-447:カナリアのこども[END]
-448:ITEM96[END]
-449:ペンシルロケット[END]
-44A:ぼうし[END]
-44B:いれば[END]
-44C:チケットのはんけん[END]
-44D:ICチップ[END]
-44E:きぼうのオカリナ[END]
-44F:ITEM103[END]
-450:フランクリンバッジ[END]
-451:ゆうじょうのゆびわ[END]
-452:ITEM106[END]
-453:めのうのつりばり[END]
-454:さいしゅうへいき[END]
-455:ものさし[END]
-456:キャッシュカード[END]
-457:あかいくさ[END]
-458:ふしぎなメガホン[END]
-459:ちず[END]
-45A:[END]
-45B:[END]
-45C:[END]
-45D:[END]
-45E:[END]
-45F:[END]
-460:[END]
-461:[END]
-462:[END]
-463:[END]
-464:[END]
-465:[END]
-466:[END]
-467:ざひょう[END]
-468:[END]
-469:テレパシー[END]
-46A:テレポーテーション[END]
-46B:[END]
-46C:[END]
-46D:[END]
-46E:[END]
-46F:[END]
-470:ライフアップ[ALPHA][END]
-471:ライフアップ[BETA][END]
-472:ライフアップ[GAMMA][END]
-473:ライフアップ[PIZ][END]
-474:ライフアップ[OMEGA][END]
-475:[END]
-476:[END]
-477:[END]
-478:ヒーリング[ALPHA][END]
-479:ヒーリング[BETA][END]
-47A:ヒーリング[GAMMA][END]
-47B:ヒーリング[PIZ][END]
-47C:スーパーヒーリング[END]
-47D:サイコシールド[ALPHA][END]
-47E:サイコシールド[BETA][END]
-47F:パワーシールド[END]
-480:ブレインショック[END]
-481:ブレインサイクロン[END]
-482:さいみんじゅつ[END]
-483:パラライシス[END]
-484:ダークネス[END]
-485:サイマグネット[END]
-486:シールドオフ[END]
-487:サイコブロック[END]
-488:オフェンスアップ[END]
-489:ディフェンスアップ[ALPHA][END]
-48A:ディフェンスアップ[BETA][END]
-48B:クイックアップ[END]
-48C:ディフェンスダウン[ALPHA][END]
-48D:ディフェンスダウン[BETA][END]
-48E:じげんスリップ[END]
-48F:さいみんじゅつ[END]
-490:PKフリーズ[ALPHA][END]
-491:PKフリーズ[BETA][END]
-492:PKフリーズ[GAMMA][END]
-493:PKフリーズ[OMEGA][END]
-494:PKファイアー[ALPHA][END]
-495:PKファイアー[BETA][END]
-496:PKファイアー[GAMMA][END]
-497:PKファイアー[OMEGA][END]
-498:PKビーム[ALPHA][END]
-499:PKビーム[BETA][END]
-49A:PKビーム[GAMMA][END]
-49B:PKビーム[OMEGA][END]
-49C:PKサンダー[ALPHA][END]
-49D:PKサンダー[BETA][END]
-49E:PKサンダー[GAMMA][END]
-49F:[END]
-4A0:[END]
-4A1:[END]
-4A2:[END]
-4A3:[END]
-4A4:[END]
-4A5:[END]
-4A6:[END]
-4A7:[END]
-4A8:いしきふめい[END]
-4A9:いしになった[END]
-4AA:まひしている[END]
-4AB:ねむっている[END]
-4AC:こんらんした[END]
-4AD:まどわされた[END]
-4AE:どくをうけた[END]
-4AF:かぜをひいた[END]
-4B0:[END]
-4B1:Aコース[END]
-4B2:Bコース[END]
-4B3:Cコース[END]
-4B4:ヒント1[END]
-4B5:ヒント2[END]
-4B6:ヒント3[END]
-4B7:どくけし[END]
-4B8:どくけし[END]
-4B9:どくけし[END]
-4BA:どくけし[END]
-4BB:ロケット(ほんもの)[END]
-4BC:タイムマシン[END]
-4BD:
-4BE:
-4BF:
-4C0:
-4C1:
-4C2:
-4C3:
-4C4:
-4C5:
-4C6:
-4C7:
-4C8:
-4C9:
-4CA:
-4CB:
-4CC:
-4CD:
-4CE:[END]
-4CF:マイホーム[END]
-4D0:マザーズデイ[END]
-4D1:サンクスギビング[END]
-4D2:レインディア[END]
-4D3:ハロウィーン[END]
-4D4:スノーマン[END]
-4D5:イースター[END]
-4D6:バレンタイン[END]
-4D7:サンタクロース[END]
-4D8:
-4D9:
-4DA:
-4DB:
-4DC:
-4DD:
-4DE:
-4DF:
-4E0:
-4E1:
-4E2:
-4E3:
-4E4:
-4E5:
-4E6:
-4E7:
-4E8:
-4E9:
-4EA:
-4EB:
-4EC:
-4ED:
-4EE:
-4EF:
-4F0:
-4F1:
-4F2:
-4F3:
-4F4:
-4F5:
-4F6:
-4F7:
-4F8:
-4F9:
-4FA:
-4FB:
-4FC:
-4FD:
-4FE:
-4FF:
-500:
-501:
-502:
-503:
-504:
-505:
-506:
-507:
-508:
-509:
-50A:
-50B:
-50C:
-50D:
-50E:
-50F:
-510:
-511:
-512:
-513:
-514:[END]
-515: たたかうべきか にげるべきか？[END]
-516: とても じゅうような ひみつを[BREAK] にぎっているようだ。[END]
-517: こいつを たおす ほうほうは[BREAK] はたして あるのだろうか？[END]
-518: おもい からだで のしかかってきたり[BREAK] ながい はなで おそってくるぞ！[END]
-519: だれかに エサを とられて[BREAK] きげんが そうとう よくない！[END]
-51A: おどろいたか？[BREAK] じつざいの かいぶつ だったのだ！[END]
-51B: はいきガスに ちゅうい。[BREAK] ぜんそくに なるぞ。[END]
-51C: ロボットには さいみんじゅつは[BREAK] きかないでしょう。[END]
-51D: PSIこうげきから みをまもる[BREAK] とくしゅな よろいを きている。[END]
-51E: にんげんを いしに してしまう[BREAK] のうりょくが ある。[END]
-51F: こんなやつは ちきゅうじょうには[BREAK] そんざいしない はずだ[..][..][END]
-520: こんな ちんぴら るいじんえんに[BREAK] からまれている ばあいではない！[END]
-521: ははおや いがいの だれもが[BREAK] おそれる つらがまえ。[END]
-522: あの おそろしい めを みたか！？[END]
-523: うんてんせきに だれも いないぞ！？[END]
-524: かれには つよい なかまが いる。[END]
-525: こいつの からは[BREAK] しんじられないほど かたい。[END]
-526: さいみんじゅつを つかってくるぞ。[END]
-527:[END]
-528: すばやさが こいつの ごじまん。[END]
-529: しんじゅみたいに しろい やつに[BREAK] きをつけろ。[END]
-52A: この どろぼう！！[END]
-52B: ワニに しょくじに さそわれても[BREAK] おことわり しなさい。[END]
-52C: あるく ねんりょうタンクだ。[END]
-52D: なにかを まもっている ようだ。[END]
-52E: FBIの しめいてはいリストの[BREAK] さいしょのほうに のっている。[END]
-52F: ねは いいやつなのかも しれない。[END]
-530: えいようふりょうの ロボット？[END]
-531: かのじょの えがおに だまされるな。[END]
-532: とおい ほしから きた おとこ。[END]
-533: げんじつせかいの いきものではない。[END]
-534: じゃあくな じっけんが うみだした[BREAK] うごきまわる のうみそ。[END]
-535: さまざまな PSIを つかいこなす。[END]
-536: こっちも よろいを みにつけたいよ。[END]
-537: あやしく うごきまわる き。[END]
-538: おこりっぽいので ようちゅうい。[END]
-539: あの かみのけの なかに おはなを[BREAK] うえたら そだつかもね。[END]
-53A: れいぞうこの ような からだつきの[BREAK] なかみは こおりの ハートだ。[END]
-53B: ふりょうの リーダーを たおせば[BREAK] かれらは まともに なるだろう。[END]
-53C: かおだけではなく[BREAK] こころも ゆがんでいる。[END]
-53D:[END]
-53E: こいつの スマッシュヒットには[BREAK] ようちゅうい。[END]
-53F: しつこい ふいうちに きをつけろ。[END]
-540: もちものは だいじょうぶ？[BREAK] こいつは どろぼうなのだ。[END]
-541: どくは もっていないはず。[BREAK] たぶん[..][..][END]
-542: わらうものが さいごに かつ。[END]
-543: こいつは ペットの ねことは[BREAK] おおちがい。[END]
-544: さっちゅうざいで やっつけろー。[END]
-545: はーーーっくしょん！！[END]
-546: さっちゅうざいが よくきくぞ。[END]
-547: さっちゅうざいを ためしてみる？[END]
-548: どくが あるが さっちゅうざいで[BREAK] やっつけることが できるのだ。[END]
-549: しばられないように しなければ。[END]
-54A: マンガから とびだして きたような[BREAK] やつだな。[END]
-54B: こいつの かおは いちばん[BREAK] かくのが かんたんです。[END]
-54C: もし こいつが マスクを したら[BREAK] だれかと くべつが つかないな。[END]
-54D: わりと へいぼんな おばけです。[END]
-54E: しょくじの おさらと おなじくらいの[BREAK] おおきさなのだが。[END]
-54F: かれにとって じんせいとは[BREAK] パズルのような ものらしい。[END]
-550: まだ ちいさいが あきらかに[BREAK] うちゅうじんだ。[END]
-551: はなを つまめ！[END]
-552: みためも こわいが[BREAK] さいごのいちげきは もっとこわい。[END]
-553: しっぽの ながい おおきな ねずみ。[END]
-554: たまごみたいだが もっと かたいぞ。[END]
-555:[END]
-556: はいごから きみを にらんでいる。[END]
-557: くうちゅうを とびまわっている！[END]
-558:[END]
-559:[END]
-55A: けんきゅうじょで きょうりょくな[BREAK] どくを さずけられた らしい。[END]
-55B: どくと いしに きをつけろ。[END]
-55C:[END]
-55D:[END]
-55E: にがすな。けいけんちを かせげるぞ。[END]
-55F: ともだちが ひとりも いないらしい。[END]
-560: じぶんの いすが こわれて[BREAK] きげんが すこぶる よくない！[END]
-561:[END]
-562:[END]
-563:[END]
-564:[END]
-565: どくけしは どこかに あるのか？[END]
-566: どく ドク どぉくぅぅー。[END]
-567: ワニに わらいかえしたり するなよ。[END]
-568:[END]
-569: じつの ちちおや でさえ[BREAK] おそれる つらがまえ。[END]
-56A:[END]
-56B: いしに されないよう ちゅうい。[END]
-56C: ノミが いるんじゃ ないだろうか。[END]
-56D: くるまには さいみんじゅつは[BREAK] きかないでしょう。[END]
-56E: トラックには さいみんじゅつは[BREAK] きかないでしょう。[END]
-56F: つぎは どうくる？[BREAK] まっすぐか？ ジグザグか？[END]
-570: おどろくと なかまを よぶぞ！[END]
-571:[END]
-572: めいしゃさんの おきにいり。[END]
-573: きをぬくな。[BREAK] パパは どこでも みているぞ。[END]
-574: ママは なんでも おみとおし！[END]
-575:[END]
-576:[END]
-577: なかまの ためなら！[END]
-578:[END]
-579: PKビームしか してこないのだが[..][END]
-57A: おにの ように つよい。[END]
-57B: オンボロに みえても[BREAK] あなどっては いけない。[END]
-57C: さいしんがた りょうさんロボット。[END]
-57D: マンホールの ふたと おなじくらいの[BREAK] おおきさなのだが。[END]
-57E: この うつくしさに だまされるな。[END]
-57F: ボムを もっていて よく つかう。[END]
-580: からだのなかに ねんりょうを[BREAK] たいりょうに たくわえている。[END]
-581: きょうりょくな PSIこうげきを[BREAK] ためらうことなく はなってくるぞ。[END]
-582: かれの しめいは だれにも[BREAK] ほらあなを ぬけさせないことだ。[END]
-583: PKフリーズを このんで つかう。[END]
-584: こいつを たおせたら えらい。[END]
-585: PSIを つかうだけではなく[BREAK] どろぼうも するそ！[END]
-586:[END]
-587: ブレインショックに きをつけろ。[END]
-588: いきなり すでで なぐりかかってくる[BREAK] らんぼうな やつ。[END]
-589: うつくしい ぎんいろの けがわが[BREAK] きらめき かがやいている。[END]
-58A: なんて おおきいんだ！[END]
-58B: どんなに ねむくても[BREAK] こいつの ベッドでは ねるなよ！[END]
-58C: あらたに かいりょうされ[BREAK] さらに つよく なっている。[END]
-58D: もっとも つよい スターマン。[END]
-58E:
-58F:
-590:
-591:
-592:
-593:[END]
-594:
-595:
-596:
-597:
-598:
-599:
-59A:
-59B:
-59C:
-59D:
-59E:
-59F:
-5A0:
-5A1:
-5A2:
-5A3:
-5A4:
-5A5:
-5A6:
-5A7:
-5A8:
-5A9:
-5AA:
-5AB:
-5AC:
-5AD:
-5AE:
-5AF:
-5B0:
-5B1:
-5B2:
-5B3:
-5B4:
-5B5:
-5B6:
-5B7:
-5B8:
-5B9:
-5BA:
-5BB:
-5BC:
-5BD:
-5BE:
-5BF:
-5C0:
-5C1:
-5C2:
-5C3:
-5C4:
-5C5:
-5C6:
-5C7:
-5C8:
-5C9:
-5CA:
-5CB:
-5CC:
-5CD:
-5CE:
-5CF:
-5D0:
-5D1:
-5D2:
-5D3:
-5D4:
-5D5:
-5D6:
-5D7:
-5D8:
-5D9:
-5DA:
-5DB:
-5DC:[END]
-5DD:だいウッドー[END]
-5DE:ドラゴン[END]
-5DF:R*7038[END]
-5E0:きょぞう[END]
-5E1:くま[END]
-5E2:ビッグフット[END]
-5E3:マッドトラック[END]
-5E4:オールドロボ[END]
-5E5:メガボーグ[END]
-5E6:ガーゴイラ[END]
-5E7:ガビラン[END]
-5E8:ゴリラ[END]
-5E9:バイソン[END]
-5EA:タイガー[END]
-5EB:マッドカー[END]
-5EC:ベアル[END]
-5ED:マジカスネイル[END]
-5EE:タイタニー[END]
-5EF:ギーグ[END]
-5F0:イーグル[END]
-5F1:オオカミ[END]
-5F2:とうぞくカモメ[END]
-5F3:ワニ[END]
-5F4:エナジーロボ[END]
-5F5:ちかたいがのぬし[END]
-5F6:だっそうはん[END]
-5F7:BBだんのボス[END]
-5F8:バーボット[END]
-5F9:ジェーン[END]
-5FA:スターマン[END]
-5FB:ミラコ[END]
-5FC:ブレインガ[END]
-5FD:ムーク[END]
-5FE:カッチュウ[END]
-5FF:ウッドー[END]
-600:おじさん[END]
-601:おにいさん[END]
-602:おばさん[END]
-603:ブラブラだん[END]
-604:ゆがみはかせ[END]
-605:[END]
-606:ギャングゾンビ[END]
-607:ゾンビもどき[END]
-608:カラス[END]
-609:スネーク[END]
-60A:ハイエナ[END]
-60B:やまねこ[END]
-60C:ムカデ[END]
-60D:ダストゴースト[END]
-60E:フライ[END]
-60F:スパイダー[END]
-610:サソリ[END]
-611:ロープ[END]
-612:ファイアボール[END]
-613:ビューン[END]
-614:おまけビューン[END]
-615:ゴースト[END]
-616:リトルソーサー[END]
-617:こうもりさん[END]
-618:スターマンのむすこ[END]
-619:スカンク[END]
-61A:ちみどろゾンビ[END]
-61B:ねずみ[END]
-61C:ボマー[END]
-61D:[END]
-61E:にんぎょう[END]
-61F:でんきスタンド[END]
-620:[END]
-621:[END]
-622:バイオムカデ[END]
-623:バイオサソリ[END]
-624:[END]
-625:[END]
-626:レッドスネーク[END]
-627:いっぴきオオカミ[END]
-628:しろくま[END]
-629:[END]
-62A:[END]
-62B:[END]
-62C:[END]
-62D:がらがらへび[END]
-62E:タランチュラ[END]
-62F:つよいワニ[END]
-630:[END]
-631:バッファロー[END]
-632:[END]
-633:バイオこうもり[END]
-634:のらイヌ[END]
-635:デビルカー[END]
-636:デビルトラック[END]
-637:デストラック[END]
-638:アラームゴースト[END]
-639:[END]
-63A:ビュンビューン[END]
-63B:パパビューン[END]
-63C:ビュビー[END]
-63D:[END]
-63E:[END]
-63F:スカイベアル[END]
-640:[END]
-641:ギガボーグ[END]
-642:ラストボーグ[END]
-643:スクラッパー[END]
-644:デスバーボット[END]
-645:オメガソーサー[END]
-646:キャロライン[END]
-647:スターマイナー[END]
-648:スーパーエナジー[END]
-649:スージー[END]
-64A:ブルースターマン[END]
-64B:サターニア[END]
-64C:タイタニアン[END]
-64D:ドムーク[END]
-64E:[END]
-64F:ゾンビ[END]
-650:ぼうりょくゾンビ[END]
-651:ぎんオオカミ[END]
-652:R*7037[END]
-653:グリズリー[END]
-654:R*7038XX[END]
-655:ラストスターマン[END]
-656:[END]
-657:[END]
-658:[END]
-659:[END]
-65A:[END]
-65B:[END]
-65C:
-65D:
-65E:
-65F:
-660:
-661:
-662:
-663:
-664:
-665:
-666:
-667:
-668:
-669:
-66A:
-66B:
-66C:
-66D:
-66E:
-66F:
-670:
-671:
-672:
-673:
-674:
-675:
-676:
-677:
-678:
-679:
-67A:
-67B:
-67C:
-67D:
-67E:
-67F:
-680:
-681:
-682:
-683:
-684:
-685:
-686:
-687:
-688:
-689:
-68A:
-68B:
-68C:
-68D:
-68E:
-68F:
-690:
-691:
-692:
-693:
-694:
-695:
-696:
-697:
-698:
-699:
-69A:
-69B:
-69C:
-69D:
-69E:
-69F:
-6A0:
-6A1:
-6A2:
-6A3:
-6A4:[END]
-6A5:@[03 1A]は[BREAK]わたすのを やめた。[BREAK][END]
-6A6:@[03 1A]は [03 1B]に[BREAK][03 1C]を あたえた。[BREAK][END]
-6A7:@[03 1A]は[BREAK][03 1B]の バッグに[BREAK][03 1C]を いれた。[BREAK][END]
-6A8:@[03 1B]は[BREAK][03 1A]の バッグから[BREAK][03 1C]を だした。[BREAK][END]
-6A9:@[03 3E]は[BREAK][03 1A]の バッグから[BREAK][03 1C]を すてた。[BREAK][END]
-6AA:@[03 3E]は[BREAK][03 1A]の バッグから[BREAK][03 1C]を だして[BREAK][PAUSE][03 1B]の バッグに いれた。[BREAK][END]
-6AB:
-6AC:
-6AD:
-6AE:
-6AF:@[03 1A]は[BREAK][03 1C]を たべた。[BREAK][END]
-6B0:@[03 1A]は[BREAK][03 1C]を のんだ。[BREAK][END]
-6B1:[03 1E] かいふくした。[BREAK][END]
-6B2:[03 1E] あがった。[BREAK][END]
-6B3:@[03 1A]の HPは[BREAK][END]
-6B4:@[03 1A]の PPは[BREAK][END]
-6B5:@[03 1A]の ファイトは[BREAK][END]
-6B6:@[03 1A]の スピードは[BREAK][END]
-6B7:@[03 1A]の かしこさは[BREAK][END]
-6B8:@[03 1A]の たいりょくは[BREAK][END]
-6B9:@[03 1A]の フォースは[BREAK][END]
-6BA:@[03 1A]は でかぶくろから[BREAK]マジックハーブを とりだして[BREAK]つかった。[BREAK][END]
-6BB:@[03 1A]は[BREAK]パンを ちぎって[BREAK]まきながら あるきだした。[BREAK][END]
-6BC:@ふるいパンくずを[BREAK]すててからでないと[BREAK]パンは つかえない。[BREAK][END]
-6BD:@[03 16][03 17]は[BREAK]パンくずを たどりながら[BREAK]もとのばしょに もどった。[BREAK][END]
-6BE:@[03 1A]は[BREAK]かみに リボンを つけた。[BREAK][END]
-6BF:@<もう スイッチを きっちまえ！>[BREAK][END]
-6C0:@いろいろなものの[BREAK]ながさが わかった。[BREAK][END]
-6C1:@でかぶくろは からになって[BREAK]かききえてしまった。[BREAK][END]
-6C2:@テレホンカードを[BREAK]つかいきってしまった。[BREAK][END]
-6C3:@[03 1A]の からだから[BREAK]どくが ぬけた。[BREAK][END]
-6C4:@[03 1A]のカゼが なおった。[BREAK][END]
-6C5:@[03 1A]は[BREAK]サイパワーストーンをにぎりしめた。[BREAK][END]
-6C6:@サイパワーストーンは[BREAK]ただの いしころに なった。[BREAK][END]
-6C7:@[03 1A]は[BREAK][03 1C]をこころみた。[BREAK][END]
-6C8:@それを こころみるだけの[BREAK]パワーは のこっていない。[BREAK][END]
-6C9:@[03 1A]は カムバックした。[BREAK][END]
-6CA:@にっきは ほとんど[BREAK]よみとれなかったが かろうじて[BREAK][PAUSE]@<あいことば[..][..][BREAK]かみのしっぽは どこにある。[BREAK]あまかけるふねの わすれもの>[BREAK][PAUSE]と よめた。[BREAK][END]
-6CB:@[03 1A]は[BREAK]すっかり やわらかくなった。[BREAK][END]
-6CC:@きぼうのオカリナを ふいた。[BREAK][END]
-6CD:@<きこえたかい？>[BREAK][END]
-6CE:@このばしょは[BREAK]ちずに のっていない。[BREAK][END]
-6CF:@[03 1A]は[BREAK]ちずを しらべた。[BREAK][END]
-6D0:@[03 16][03 17]は[BREAK]なにかの ちからに[BREAK]おしとどめられて しまった。[BREAK][END]
-6D1:@まよけのゆびわの[BREAK]ふしぎなちからは きえた。[BREAK][END]
-6D2:
-6D3:
-6D4:
-6D5:
-6D6:@[03 1A]は バッグから[BREAK][03 1C]を だして[BREAK]また もどした。[BREAK][END]
-6D7:@[03 1A]は[BREAK]いしきが ない。[BREAK][END]
-6D8:@ぜんいん かんぜんに かいふくした！[BREAK][END]
-6D9:@[03 10]は そうそふの[BREAK]かすかな きおくを かんじた！[BREAK][END]
-6DA:@おや？ イ[??]の からだの なかに[BREAK]まだ なにか あるようだ[..][..][BREAK][END]
-6DB:@あなたの キャッシュカード[BREAK]おへやに おちてたわよ。[BREAK][END]
-6DC:@あら もちきれないみたいね。[BREAK][END]
-6DD:
-6DE:
-6DF:
-6E0:@あやしげな けはいが[..][..]。[BREAK][END]
-6E1:@たいへんな ことが おきている！[BREAK][END]
-6E2:
-6E3:
-6E4:
-6E5:
-6E6:
-6E7:
-6E8:
-6E9:
-6EA:
-6EB:
-6EC:
-6ED:
-6EE:
-6EF:
-6F0:
-6F1:
-6F2:
-6F3:
-6F4:[END]
-6F5:Copyrights of Game[03 3F] Scenario[03 3F][BREAK][BREAK]Music[03 3F] but excluding the[BREAK][BREAK]copyright of Music composed by[BREAK][BREAK]Keiichi Suzuki[03 3F] reserved by[BREAK][BREAK]SHIGESATO ITOI and NINTENDO.[BREAK][BREAK]Copyright of Program reserved[BREAK][BREAK]by NINTENDO.[BREAK][END]
-6F6:
-6F7:
-6F8:
-6F9:
-6FA:
-6FB:
-6FC:
-6FD:
-6FE:[BREAK][BREAK][BREAK][BREAK][END]
-6FF:[BREAK]   ほらあなに とじこめられていた ひとたちも[BREAK]   ぜんいん ぶじに きゅうしゅつされ[BREAK]   [03 12]と ママの かんどうの さいかい。[BREAK][END]
-700:[BREAK]    [03 13]は かんぺきに げんきになり[BREAK]    いまや ライブハウスの にんきシンガーだ。[BREAK][END]
-701:[BREAK]    イースターのまちの おとなたちも[BREAK]    こどもたちの ところへ かえってきた。[BREAK]    がんばったね！ こどもたち！[BREAK][END]
-702:  ([03 12])[BREAK]    ぜったい わすれないって やくそくするわ。[BREAK]    だから <さようなら> じゃなくて[BREAK]    <またあいましょう> だね！[BREAK][END]
-703:[BREAK]    [03 11]は ヒーローとなって[BREAK]    ティンクルしょうがっこうに かえり[BREAK]    みんなに もみくちゃに されたのだった。[BREAK][END]
-704:[BREAK]  おかえり [03 10]！[BREAK]  ぶじに かえってきて ほんとうに よかった[..][..][BREAK]  すごーく おなか すいたでしょ？！[BREAK][END]
-705:[BREAK]  [03 10]から てがみが とどいた。[BREAK]  かれに あえなくて ちょっと さびしかったところ。[BREAK]  はやく また あえるといいな[..][..][BREAK][END]
-706:[BREAK] さて ちきゅうの ききも ひとまず さったことだし[BREAK] ぼくも あんしんして ゆっくり ねむろうかな[..][..][BREAK]       [..][..] Zzzzzzzz [..][..][BREAK][END]
-707:[BREAK]  あ パパだ。 おやすみのところ もうしわけないが[BREAK]  もしかしたら ゆっくり やすんでいる ばあいじゃ[BREAK]  ないかも しれないぞ[..][..][BREAK][END]
-708:
-709:"でかぶくろ"[BREAK]@マジックハーブが いっぱい つまった[BREAK]ふくろ です。[BREAK][END]
-70A:"テレホンカード"[BREAK]@こうしゅうでんわを 50かい[BREAK]かけることが できます。[BREAK][END]
-70B:"パンくず"[BREAK]@パンくずを まきはじめた ところまで[BREAK]まよわずに もどれます。[BREAK][END]
-70C:"まよけのゆびわ"[BREAK]@よわい てきを しばらくのあいだ[BREAK]とおざけることが できます。[BREAK][END]
-70D:[END]
-70E:"メモリーチップ"[BREAK]@そうそふジョージの きおくのいちぶが[BREAK]やきつけられています。[BREAK][PAUSE]@[03 10]は それをたどって[BREAK]イ[??]のところまで もどれます。[BREAK][END]
-70F:[END]
-710:[END]
-711:[END]
-712:"ナイフ"[BREAK]@[03 13]が[BREAK]つかいこなす ぶき。[BREAK][END]
-713:"サバイバルナイフ"[BREAK]@[03 13]の ぶき。[BREAK]ただのナイフより つよそうです。[BREAK][END]
-714:"アシガルソード"[BREAK]@かぎられた ひとにしか[BREAK]つかいこなせないでしょう。[BREAK][END]
-715:"KATANA"[BREAK]@この にほんせいの カタナは[BREAK][03 13]が つかえる[BREAK][PAUSE]@いちばん つよい ぶきです。[BREAK][END]
-716:"ショックガン"[BREAK]@[03 11]が つかえそうです。[BREAK][END]
-717:"エアガン"[BREAK]@とても つよい ぶきですが[BREAK][03 11]しか つかえません。[BREAK][END]
-718:"ボロのバット"[BREAK]@[03 10],これを ぶきとして[BREAK]つかってみよう！[BREAK][END]
-719:"ふつうのバット"[BREAK]@[03 10],よわい てきなら[BREAK]これで だいじょうぶ。[BREAK][END]
-71A:"いいバット"[BREAK]@[03 10]が これをもてば[BREAK]つよい てきとも たたかえます。[BREAK][END]
-71B:"さいこうのバット"[BREAK]@ゆうめいせんしゅの サインいりの[BREAK]すばらしい バット。[BREAK][END]
-71C:"フライパン"[BREAK]@[03 12]が ぶきとして[BREAK]つかいます。[BREAK][END]
-71D:"いいフライパン"[BREAK]@りょうりが こげつかない[BREAK]フライパン ですが[BREAK][PAUSE]@[03 12]の ぶきにも[BREAK]なります。[BREAK][END]
-71E:"とびきりのフライパン"[BREAK]@この おもいフライパンで[BREAK][03 12]に たたかれたら[BREAK][PAUSE]@つよい てきも たまらない。[BREAK][END]
-71F:"スリングショット"[BREAK]@だれでも つかえる おてがるな[BREAK]ぶきです。[BREAK][END]
-720:"ブーメラン"[BREAK]@とりあつかい ちゅうい。[BREAK]おもちゃでは ありません。[BREAK]みんなが つかえる ぶきです。[BREAK][END]
-721:"さっちゅうスプレー"[BREAK]@むしなどに あるていど こうかあり。[BREAK][END]
-722:"スーパースプレー"[BREAK]@しんかいはつの きょうりょくな[BREAK]さっちゅうざい。[BREAK][END]
-723:"ノミとシラミ"[BREAK]@てきに なげつけて[BREAK]こうかを みてみよう！[BREAK][END]
-724:"あいのことば"[BREAK]@？？？[BREAK][END]
-725:"のろいのことば"[BREAK]@？？？[BREAK][END]
-726:"ねばねばマシン"[BREAK]@たたかいに つかえそうな[BREAK]きも するけれど[..][..][BREAK][END]
-727:"やみのライト"[BREAK]@あかるいライトとは せいはんたいの[BREAK]ものです。[BREAK][END]
-728:[END]
-729:[END]
-72A:"かえんほうしゃき"[BREAK]@てきを こんがり やきますが[BREAK][03 11]しか つかえません。[BREAK][END]
-72B:"ボム"[BREAK]@たぶん [03 11]にしか[BREAK]あつかえないでしょう。[BREAK][END]
-72C:"スーパーボム"[BREAK]@<きけん ばくはつぶつ>と[BREAK]かかれています。[BREAK][PAUSE]@このての ものは[BREAK][03 11]に おまかせ。[BREAK][END]
-72D:"レーザービーム"[BREAK]@よわむし[03 11]も[BREAK]これを もったら[..][..][BREAK][END]
-72E:"デスビーム"[BREAK]@いくじなし[03 11]も[BREAK]これを もったら ちょっとすごい。[BREAK][END]
-72F:[END]
-730:"ロープ"[BREAK]@これで てきを しばってしまおう。[BREAK][END]
-731:[END]
-732:[END]
-733:[END]
-734:[END]
-735:"やすらぎのコイン"[BREAK]@そうびすると ディフェンスが[BREAK]すこし あがります。[BREAK][END]
-736:"まもりのコイン"[BREAK]@そうびすると ディフェンスが[BREAK]まあまあ あがります。[BREAK][END]
-737:"まふうじのコイン"[BREAK]@そうびすると ディフェンスが[BREAK]けっこう あがります。[BREAK][END]
-738:"ようせいのうでわ"[BREAK]@そうびすると ディフェンスが[BREAK]ちょっと あがります。[BREAK][END]
-739:"てんしのうでわ"[BREAK]@そうびすると ディフェンスが[BREAK]そこそこ あがります。[BREAK][END]
-73A:"めがみのうでわ"[BREAK]@そうびすると ディフェンスが[BREAK]ずいぶん あがります。[BREAK][END]
-73B:"しずくのペンダント"[BREAK]@そうびすると PKファイアーによる[BREAK]ダメージを へらすことが できます。[BREAK][END]
-73C:"ほのおのペンダント"[BREAK]@そうびすると PKフリーズによる[BREAK]ダメージを へらすことが できます。[BREAK][END]
-73D:"だいちのペンダント"[BREAK]@そうびすると PKサンダーによる[BREAK]ダメージを へらすことが できます。[BREAK][END]
-73E:"うみのペンダント"[BREAK]@そうびすると PKファイアー,[BREAK]PKフリーズ,PKサンダーによる[BREAK][PAUSE]ダメージを へらすことが できます。[BREAK][END]
-73F:[END]
-740:[END]
-741:[END]
-742:[END]
-743:[END]
-744:"オレンジジュース"[BREAK]@ビタミンCが ほうふで[BREAK]HPが すこし かいふくします。[BREAK][END]
-745:"フライドポテト"[BREAK]@ケチャップを つけても つけなくても[BREAK]HPは かいふくします。[BREAK][END]
-746:"マジックハーブ"[BREAK]@つかれたり けがをしたときに[BREAK]つかってください。[BREAK][END]
-747:"ハンバーガー"[BREAK]@てばやく HPを かいふくするための[BREAK]ファーストフード です。[BREAK][END]
-748:"スポーツドリンク"[BREAK]@どんなに つかれたときでも[BREAK]これを のんで げんきに なろう。[BREAK][END]
-749:"きずぐすり"[BREAK]@きずの てあてに つかいます。[BREAK][END]
-74A:"ぜんそくスプレー"[BREAK]@もしも [03 10]の[BREAK]ぜんそくが でてしまったら[BREAK][PAUSE]@これで なおします。[BREAK][END]
-74B:"どくけし"[BREAK]@どくを すばやく けしさります。[BREAK][END]
-74C:"うがいぐすり"[BREAK]@これで よく うがいをして[BREAK]かぜを なおそう。[BREAK][END]
-74D:"いちごとうふ"[BREAK]@ほんとうに たべてみたいと[BREAK]おもいますか？[BREAK][END]
-74E:[END]
-74F:"パン"[BREAK]@たべても いいけど[BREAK]もとの ばしょに もどれるように[BREAK][PAUSE]@ちぎって まきながら すすむことも[BREAK]できます。[BREAK][END]
-750:"エンジェルシード"[BREAK]@デーモンシードの のろいを[BREAK]ときます。[BREAK][END]
-751:"サイパワーストーン"[BREAK]@PSIパワーが いしのなかに[BREAK]ひめられて います。[BREAK][END]
-752:[END]
-753:"ふしぎなリボン"[BREAK]@おんなのこの かみに むすぶと[BREAK]<フォース>が ちょっと ふえます。[BREAK][END]
-754:"ふしぎなキャンディ"[BREAK]@よわいこが たべると[BREAK]<ファイト>が ちょっと ふえます。[BREAK][END]
-755:[END]
-756:"スピードカプセル"[BREAK]@<スピード>が アップします。[BREAK][END]
-757:"ウィズダムカプセル"[BREAK]@<かしこさ>が アップします。[BREAK][END]
-758:"フィジカルカプセル"[BREAK]@<たいりょく>が アップします。[BREAK][END]
-759:"フォースカプセル"[BREAK]@<フォース>が アップします。[BREAK][END]
-75A:"ファイトカプセル"[BREAK]@<ファイト>が アップします。[BREAK][END]
-75B:[END]
-75C:[END]
-75D:"ちかしつのカギ"[BREAK]@ちかしつに はいるときに[BREAK]ひつようです。[BREAK][END]
-75E:"どうぶつえんのカギ"[BREAK]@これで どうぶつえんの せいもんを[BREAK]あけることが できるでしょう。[BREAK][END]
-75F:"ゆうれいやしきのカギ"[BREAK]@ローズマリーさんの やしきの[BREAK]かぎです。[BREAK][END]
-760:"そうそふのにっき"[BREAK]@[03 10]の ひいおじいさんの[BREAK]にっきです。[BREAK][PAUSE]@もじが びっしり かいてありますが[BREAK]いたみが はげしく よくよめません。[BREAK][END]
-761:"つうこうきょかしょう"[BREAK]@<ダンカンこうじょう しゃいん>[BREAK]と かいてあります。[BREAK][END]
-762:"ライブのチケット"[BREAK]@<エブリデイ*オールナイト*[BREAK]ロックンロール*ライブ*ショー>[BREAK]と かいてあります。[BREAK][END]
-763:[END]
-764:[END]
-765:[END]
-766:[END]
-767:"カナリアのこども"[BREAK]@さびしそうな めを しています。[BREAK][END]
-768:[END]
-769:"ペンシルロケット"[BREAK]@[03 11]なら[BREAK]つかいかたが わかるでしょう。[BREAK][END]
-76A:"ぼうし"[BREAK]@<[03 12]>という なまえが[BREAK]ししゅうされた すてきな ぼうし。[BREAK][END]
-76B:"いれば"[BREAK]@しっかり はみがきして[BREAK]はを だいじに していれば[BREAK][PAUSE]@ひつようのない ものですね。[BREAK][END]
-76C:"チケットのはんけん"[BREAK]@<10まい あつめて せんしゃに[BREAK]のろう！>と かいてあります。[BREAK][END]
-76D:[END]
-76E:"きぼうのオカリナ"[BREAK]@これまでに あつめた メロディーを[BREAK]きくことが できます。[BREAK][END]
-76F:[END]
-770:"フランクリンバッジ"[BREAK]@いいつたえに よると[BREAK]ベン*フランクリンという ひとが[BREAK][PAUSE]@かみなりの じっけんを するとき[BREAK]おまもりに していた そうです。[BREAK][END]
-771:[END]
-772:[END]
-773:"めのうのつりばり"[BREAK]@どこにいても すぐ マジカントに[BREAK]もどることが できます。[BREAK][END]
-774:"さいしゅうへいき"[BREAK]@？？？[BREAK][END]
-775:"ものさし"[BREAK]@12インチ(やく30センチ)の[BREAK]ながさの ものさしです。[BREAK][END]
-776:"キャッシュカード"[BREAK]@ぎんこうこうざから おかねを[BREAK]だしいれする ときに つかいます。[BREAK][END]
-777:"あかいくさ"[BREAK]@いっけん ただの くさの ように[BREAK]みえますが[..][..][BREAK][END]
-778:"ふしぎなメガホン"[BREAK]@おおごえで てきを おどかします。[BREAK][END]
-779:[END]
-77A:[END]
-77B:[END]
-77C:[END]
-77D:[END]
-77E:[END]
-77F:[END]
-780:[END]
-781:[END]
-782:[END]
-783:[END]
-784:[END]
-785:[END]
-786:[END]
-787:"Debug"[BREAK]@.......[BREAK][END]
-788:
-789:
-78A:[03 14][END]
-78B:SHIGESATO ITOI[END]
-78C:MIYUKI KURE[END]
-78D:AKIO OHMORI[END]
-78E:RITSUO KAMIMURA[END]
-78F:KEIICHI SUZUKI[END]
-790:HIROKAZU TANAKA[END]
-791:SHINBO MINAMI[END]
-792:TATSUYA ISHII[END]
-793:TOTTORI[END]
-794:KAZUYA NAKATANI[END]
-795:TAKAYUKI ONODERA[END]
-796:MOTOO YASUMA[END]
-797:MASAYUKI KAMEYAMA[END]
-798:HIDEO KON[END]
-799:KATSUTOMO MAEIWA[END]
-79A:KUNIKO SAKURAI[END]
-79B:MASAHIRO TATEMOTO[END]
-79C:TAKASHI KAWAGUCHI[END]
-79D:KEIZOH KATOH[END]
-79E:MOTOHIRO ISHII[END]
-79F:AKIHITO TODA[END]
-7A0:YUKARI SAITOH[END]
-7A1:PHIL SANDHOP[END]
-7A2:TOSHIKO WATSON[END]
-7A3:YUKA NAKATA[END]
-7A4:HIROKO FAULKNER[END]
-7A5:TONY HARMAN[END]
-7A6:DAYV BROOKS[END]
-7A7:NORIYUKI MINAMI[END]
-7A8:BIN OHGAWARA[END]
-7A9:YOSHIHISA WADA[END]
-7AA:HIKONORI SUZUKI[END]
-7AB:TAKAO SHIMIZU[END]
-7AC:SHIGERU MIYAMOTO[END]
-7AD:HIROSHI YAMAUCHI[END]
-7AE:
-7AF:
-7B0:
-7B1:
-7B2:
-7B3:
-7B4:
-7B5:
-7B6:
-7B7:
-7B8:
-7B9:
-7BA:
-7BB:
-7BC:
-7BD:
-7BE:
-7BF:
-7C0:
-7C1:
-7C2:
-7C3:
-7C4:
-7C5:
-7C6:
-7C7:
-7C8:
-7C9:
-7CA:
-7CB:
-7CC:
-7CD:
-7CE:
-7CF:[END]
-7D0:[END]
-7D1:[END]
-7D2:[03 03]いあ[03 04]が [03 03]いぃ[03 04]が [END]
-7D3:[03 20]がおそいかかった！[END]
-7D4:[03 20]の こうげき！[END]
-7D5:[03 20]は[BREAK]せんしゃほうを うった！[END]
-7D6: [03 21]は[BREAK] すばやく よけた[END]
-7D7:れんぞくこうげき！[END]
-7D8:[03 20]は[BREAK][03 21]に かみついた！[END]
-7D9:[03 20]は[BREAK][03 21]を ひっかいた！[END]
-7DA:[03 20]は[BREAK][03 21]に のしかかった！[END]
-7DB:  [03 2C][END]
-7DC: [03 21]は[BREAK] [03 23]の ダメージをうけた[END]
-7DD:[BREAK]     YOU WIN！[BREAK][END]
-7DE:[BREAK][03 16][03 17]は[BREAK]たたかいに やぶれた[BREAK][END]
-7DF: [03 21]を[BREAK] やっつけた！[END]
-7E0: [03 21]は[BREAK] きずつきたおれた[END]
-7E1: しかし [03 21]は[BREAK] すでにいなかった[END]
-7E2: [03 21]には[BREAK] こうかがなかった[END]
-7E3:[03 20]は ぼうそうした！[END]
-7E4: [03 20]は ちからつきた[END]
-7E5:[03 20]の[BREAK]さいごの いちげき！！！[END]
-7E6:[03 20]からの[BREAK]こうげきのしょうたいが つかめない！[END]
-7E7: [03 21]は[BREAK] バリアに つつまれた[END]
-7E8: <おまえの おかあさんは[BREAK]  ないているぞ！>[END]
-7E9: [03 21]は いしになった[END]
-7EA:[03 20]は[BREAK]ねんえきを はきかけた！[END]
-7EB: [03 21]は[BREAK] めがみえなくなった！[END]
-7EC:[03 20]は[BREAK]しばられている[..][..][END]
-7ED:[03 20]は[BREAK]ふしぎなさけびごえをあげた！[END]
-7EE: [03 20]は[BREAK] ばくはつした！[END]
-7EF: [03 20]は[BREAK] もえあがった！[END]
-7F0: [03 21]の[BREAK] オフェンスが [03 23]あがった[END]
-7F1: [03 21]の[BREAK] オフェンスが [03 23]さがった[END]
-7F2: [03 21]の[BREAK] ディフェンスが [03 23]あがった[END]
-7F3: [03 21]の[BREAK] スピードが [03 23]あがった[END]
-7F4:[03 3C] オフェンス  [03 23][END]
-7F5:[03 3C] ディフェンス [03 23][END]
-7F6: [03 21]の[BREAK] ファイトが [03 23]さがった[END]
-7F7: [03 21]の[BREAK] ディフェンスが [03 23]さがった[END]
-7F8:[03 20]は[BREAK]ふてきに ほほえんだ[END]
-7F9: [03 21]の[BREAK] ファイトが [03 23]あがった[END]
-7FA:[03 20]は[BREAK]かっとなった！[END]
-7FB: [03 21]の[BREAK] スピードが [03 23]さがった[END]
-7FC:[03 20]は[BREAK]いしきを かきみだした！[END]
-7FD:[03 20]は[BREAK]なかまを よんだ！[END]
-7FE:[03 20]は[BREAK]たねを まいた！[END]
-7FF: なぜか [03 21]の[BREAK] けいけんちが あがった[END]
-800:[03 20]は わらいだした！[END]
-801:せんしゃは こわれてしまった[END]
-802:[03 20]は[BREAK]こわいことばを なげつけた！[END]
-803:[03 20]は[BREAK]きたないことばを なげつけた！[END]
-804:[03 20]は[BREAK]けはいを ころしている[END]
-805: せっとくに せいこうした[END]
-806: せっとくに しっぱいした[END]
-807: [03 21]を おこらせた[END]
-808: [03 21]は[BREAK] ききてきじょうたいに おちいった[END]
-809: [03 21]は[BREAK] わけがわからなくなった[END]
-80A:[03 20]は[BREAK]わけがわからなくなっている[END]
-80B: [03 21]を ねむらせた[END]
-80C:[03 20]は ねむっている[..][END]
-80D: [03 21]の[BREAK] PPが [03 23]かいふくした！[END]
-80E: [03 21]の[BREAK] HPが [03 23]かいふくした！[END]
-80F:[03 20]は[BREAK]エネルギーを ちゅうにゅうした！[END]
-810: しかし だれもきてくれなかったのだ[END]
-811: しーん[..][..][..][END]
-812: [03 21]が くわわった！[END]
-813:[03 20]は[BREAK]にげだした！[END]
-814: [..][..]だめでした[END]
-815:[03 20]は ころんだ[END]
-816:[03 20]は うごけない[..][..][END]
-817:[03 20]は[BREAK]いしになっている[..][..][END]
-818: [03 21]の PPを[BREAK] [03 23]うばった[END]
-819: [03 21]は[BREAK] うごけなくなった[END]
-81A:[03 20]は[BREAK]はいきガスを ふきかけた！[END]
-81B: [03 21]は[BREAK] どくに おかされた[END]
-81C: [03 21]は[BREAK] すいぶんを すいとられた[END]
-81D: [03 21]は[BREAK] ちょうのうりょくを ふうじられた[END]
-81E: [03 21]を[BREAK] ロープで しばった[END]
-81F: [03 21]は[BREAK] シールドに つつまれた[END]
-820: からぶりーっ！[END]
-821: しかし ちょうのうりょくは[BREAK] ふうじられていた[END]
-822: しかし [03 21]の[BREAK] フランクリンバッジが[BREAK] こうせんを はねかえした！[END]
-823: [03 21]は[BREAK] こうげきを はねかえした！[END]
-824: PPが たりない[END]
-825: [03 21]には[BREAK] こうかが なかった[END]
-826:[03 20]は[BREAK]ぜんそくの ほっさがでた[BREAK] [..][..]ゴホ ゴホ ゴホ[END]
-827:[03 20]は[BREAK]おいのりをしている[END]
-828:[03 20]は[BREAK]あいさつをして とおりすぎた[END]
-829:[03 20]は みがまえている[END]
-82A:[03 20]は[BREAK]うたを うたった！[END]
-82B:[03 20]は ガードしている[END]
-82C:[03 20]は[BREAK]にじりよってきた！[END]
-82D: [03 21]の[BREAK] からだのどくが きえた[END]
-82E: [03 21]は[BREAK] われに かえった[END]
-82F: [03 21]は[BREAK] かゆみに もだえた[END]
-830: [03 21]は[BREAK] うごきを とりもどした[END]
-831: [03 21]は[BREAK] めをさました[END]
-832: [03 21]を[BREAK] カムバックさせた！！！[END]
-833:[03 20]は[BREAK][03 22]を つかった！[END]
-834:[03 20]は[BREAK][03 22]を こころみた！[END]
-835:[03 20]は[BREAK][03 22]を[BREAK]つかうことが できない！[END]
-836:[03 20]は[BREAK]たちばを かんがえた[..][END]
-837:[03 20]は[BREAK]なにか あやしいことをした[END]
-838:[03 20]は[BREAK]ぼーっとしている[END]
-839: [03 21]の[BREAK] シールドを はかいした[END]
-83A:[03 20]は [03 21]を[BREAK]チェックした[END]
-83B:[03 3C] ねつにつよい[END]
-83C:[03 3C] さむさにつよい[END]
-83D:[03 3C] かみなりにつよい[END]
-83E:[03 3C] ひかりにつよい[END]
-83F:[03 3C] スプレーによわい[END]
-840: [03 21]の[BREAK] ぜんそくがなおった[END]
-841: [03 21]は[BREAK] やわらかくなった[END]
-842: <すき>[END]
-843: <きらい>[END]
-844: [03 21]は[BREAK] ぜんそくの ほっさがでた[END]
-845: [03 22]は[BREAK] こわれてしまった[..][..][END]
-846:[03 20]は[BREAK]デーモンシードをつかった！[END]
-847:[03 20]は[BREAK]まひガスをつかった！[END]
-848: [03 22]は[BREAK] ただの いしになった[..][..][END]
-849: [03 21]は[BREAK] われにかえった！[END]
-84A: [03 21]は[BREAK] おとなしくなった！[END]
-84B: [03 21]を たおした！[END]
-84C: [03 21]は[BREAK] はかいされた！[END]
-84D: [03 21]は[BREAK] つちにかえった！[END]
-84E: [03 21]は[BREAK] もう うごかない[END]
-84F: [03 21]は[BREAK] ポンコツになった！[END]
-850: [03 21]は[BREAK] かきけされた！[END]
-851:[03 20]は [03 21]の[BREAK][03 22]を うばった！[END]
-852:[03 20]は[BREAK]レベルが あがった！[BREAK][PAUSE][03 01][END]
-853:[03 20]は たたかいのなかで[BREAK]PSIを おぼえた！[BREAK][PAUSE][03 01][END]
-854: さいだいHPが [03 23] UP[BREAK][PAUSE][03 01][END]
-855: さいだいPPが [03 23] UP[BREAK][PAUSE][03 01][END]
-856: ファイトが [03 23] UP[BREAK][PAUSE][03 01][END]
-857: スピードが [03 23] UP[BREAK][PAUSE][03 01][END]
-858: かしこさが [03 23] UP[BREAK][PAUSE][03 01][END]
-859: たいりょくが [03 23] UP[BREAK][PAUSE][03 01][END]
-85A: フォースが [03 23] UP[BREAK][PAUSE][03 01][END]
-85B:[03 20]は[BREAK]ロープから ぬけだした[END]
-85C:[03 1D]を ひろった！[BREAK][PAUSE][03 01][END]
-85D: [03 21]は[BREAK] こんらんから たちなおった[END]
-85E:[03 20]は[BREAK]めをさました[END]
-85F:[03 20]は[BREAK]くうかんを きりさいた！[END]
-860: しかし こうかが なかった[END]
-861: [03 22]は[BREAK] からになった[..][..][END]
-862:[BREAK]しょうぶが つかない[BREAK][END]
-863:([03 16]には どこからか[BREAK]クイーンマリーのこえが きこえた)[BREAK][PAUSE]ちからでは ギーグには かてません[..][BREAK][PAUSE]どんなぶきでも かれを たおすことは[BREAK]できないでしょう[..][..][BREAK][PAUSE]でも こもりうたなら[..][BREAK]わたしがうたった あのうたなら！？！[BREAK][PAUSE][03 01][END]
-864: [03 21]は[BREAK] かんぜんに かいふくした！[END]
-865:[END]
-866:<[03 10]！[BREAK]あなたの いちぞくには ほんとうに[BREAK][PAUSE]おせわになっています>[BREAK][PAUSE][03 01][END]
-867:<おさない わたしを そだててくれた[BREAK]ジョージのつま[..][..]マリア>[BREAK][PAUSE][03 01][END]
-868:<わたしたちのほしから たいせつな[BREAK]じょうほうを ぬすみだして[BREAK][PAUSE]わたしたちに はむかおうとした[..][..][BREAK]ジョージ>[BREAK][PAUSE][03 01][END]
-869:<そして そのふうふの しそん[BREAK]また わたしたちの けいかくを[BREAK][PAUSE]じゃましようとしている[..][..][BREAK][03 10]！ あなたのことだ>[BREAK][PAUSE][03 01][END]
-86A:<もう おかえりなさい みにくい[BREAK]ちきゅうじんたちと ともに[BREAK][PAUSE]ほろびてください>[BREAK][PAUSE][03 01][END]
-86B:<その むしけらのような ちからでは[BREAK]どうすることも できない>[BREAK][PAUSE][03 01][END]
-86C:<[03 10][..][..]あなただけ[BREAK]ひとりなら たすけてあげてもよい[BREAK][PAUSE]わたしと ともに マザーシップに[BREAK]のりなさい>[BREAK][PAUSE][03 01][END]
-86D:<[..][..]ならば ともだちや みにくい[BREAK]ちきゅうじんと いっしょに ここに[BREAK][PAUSE]ねむりなさい>[BREAK][PAUSE][03 01][END]
-86E:<うたうのを やめなさい>[END]
-86F:<うたを[..][..]やめろ>[END]
-870:<う うたを やめろ！>[END]
-871:<うたを やめるんだ！>[END]
-872:<ちきゅうの むしけらども！[BREAK]だまれ！ うたうな！>[END]
-873:<うたを[..][..]>[END]
-874:<やめろ！>[END]
-875:<！！！>[END]
-876:<や[..][..]>[END]
-877:<！！！！>[END]
-878:<[..][..][..][..][..]>[END]
-879:<ナゼ コノワタシガ コンナウタニ[BREAK]ヤブレタノダ[..][..]>[BREAK][PAUSE][03 01][END]
-87A:<ワタシハ カナラズ オマエタチヲ[BREAK][..][..][..][..]マタ[..][..]イツカ[..][..]>[BREAK][PAUSE][03 01][END]
-87B:<[03 10]！ また あおう！>[BREAK][BREAK][PAUSE][03 01][END]
+000-E: System Error！[BREAK][END]
+001-E: @おにいちゃん こわい。[BREAK]でんきスタンドが くるったように[BREAK]あばれだしたの。[BREAK][END]
+002-E: @おにいちゃーん！[BREAK]おうちが こわれちゃうよう！[BREAK][END]
+003-E: @ウェーン。[BREAK][END]
+004-E: @はい おにいちゃん ジュース。[BREAK]おなかすいたでしょ。[BREAK][END]
+005-E: @こわーい！[BREAK]おにんぎょうが あばれだしたの！[BREAK][END]
+006-E: @こわかったぁ。[BREAK]あっ！ おにんぎょうのなかに[BREAK]なにかあるみたい。[BREAK][END]
+007-E: 
+008-E: @わたし ミミーよ。[BREAK]ミニーと まちがえちゃいや。[BREAK][END]
+009-E: @だいじょうぶだった？[BREAK][03 10][BREAK][PAUSE]@このいえは いったい[BREAK]どうなっているのかしら。[BREAK]オロオロ。[BREAK][PAUSE]@こんなときに パパがいてくれたら[BREAK]いいのかもしれないけど[..][..][BREAK][END]
+00A-E: @あなたって おもってたより[BREAK]ずっと ゆうかんなこだったのね。[BREAK][PAUSE]@[..][..]でも あなたを[BREAK]つらいたびに だしたくないわ。[BREAK][END]
+00B-E: @まぁ ずいぶんきずついて[..][..][BREAK][END]
+00C-E: @えーと つぎのレベルまで[..][..][BREAK][END]
+00D-E: @また[BREAK][03 15]が たべたくなったら[BREAK]かえってくるのよ。[BREAK][END]
+00E-E: @ふむふむ[..][..] そうか[BREAK]それは ラップげんしょうだな。[BREAK][PAUSE]@どうすればいいのかは[..][..][BREAK]パパにもわからないな。[BREAK][PAUSE]@しかし ひいおじいさんが[BREAK]PSIの けんきゅうを[BREAK]していたはずだ。[BREAK][PAUSE]@ちかしつをさがせば[BREAK]なにか わかるかもしれない。[BREAK][PAUSE]@ちかしつのカギは[..][..][BREAK]どこかに つけておいたんだが[..][..][BREAK][PAUSE]@わすれた。[BREAK][PAUSE]@とにかく おまえだけがたよりだ。[BREAK]いまこそ ぼうけんのときだ。[BREAK]すすめ [03 10]！[BREAK][PAUSE]@みんなを まもってくれ。[BREAK][END]
+00F-E: 
+010-E: 
+011-E: 
+012-E: 
+013-E: @ガチャン ツーツーツー[BREAK][END]
+014-E: @あ パパだ。[BREAK][END]
+015-E: @[03 10]の ぎんこうこうざに[BREAK][03 18]ドル[BREAK]ふりこんでおいたからね。[BREAK][PAUSE]@おまえ[03 17]が[BREAK]つかったぶんと さしひきで[BREAK][PAUSE][03 19]ドル[BREAK]ぎんこうに はいっているはずだ。[BREAK][PAUSE]@だいじに つかいなさい。[BREAK][END]
+016-E: @おせっかいかもしれないが[BREAK]ちょっと きゅうけいしては[BREAK]どうかね。[BREAK][END]
+017-E: @そうか。[BREAK]じゃ きろくしとくよ。[BREAK][END]
+018-E: @そうか。[BREAK]ま ちきゅうの ききだからな。[BREAK][END]
+019-E: 
+01A-E: 
+01B-E: @そうか。[BREAK]パパも もう きょうは[BREAK]やすもうと おもってたところだ。[BREAK][PAUSE]@たたかいのきろくは[BREAK]つけといたよ。[BREAK][PAUSE]@おやすみ[..][..][BREAK][END]
+01C-E: @おたがい よくやったよな。[BREAK][PAUSE]@それじゃ スイッチを OFFに[BREAK]しなさい。 わかったね。[BREAK][END]
+01D-E: @[03 16]も ママににて[BREAK]がんばりやだなぁ。[BREAK][PAUSE]@むりするなよ。[BREAK][END]
+01E-E: @それはそうと なんのようだい？[BREAK][END]
+01F-E: 
+020-E: 
+021-E: @がんばれよ。[BREAK][END]
+022-E: 
+023-E: @こんにちは。[BREAK]わたしも ピッピも[BREAK]すっごく げんきよ。[BREAK][END]
+024-E: @おまえ まさか[BREAK]みなみの はかばから[BREAK]きたんじゃないだろうな。[BREAK][END]
+025-E: @おまえ すごいな。[BREAK][END]
+026-E: @おまえ まさか[BREAK]ゾンビじゃないだろうな。[BREAK]ゾンビか？[BREAK][END]
+027-E: @ゾ ゾ ゾンビの[..][..][BREAK]バカッ！ ヒャーー[BREAK][END]
+028-E: @ほんとに にんげんか？[BREAK][END]
+029-E: @よく ここまで こられたな。[BREAK][END]
+02A-E: @やっぱりな[..][..][BREAK][END]
+02B-E: @おれ  こわくて[BREAK]おもらししそうだよ。[BREAK][END]
+02C-E: @こわかったよなぁ。[BREAK][END]
+02D-E: @ゾンビー！[BREAK][END]
+02E-E: @フフフフフ[..][..][BREAK]おまえも ゾンビに なれ！[BREAK][END]
+02F-E: @ししゃたちを うごかしている[BREAK]なにものかが いるらしい。[BREAK][END]
+030-E: @おわかいの やるではないか。[BREAK][END]
+031-E: @このまちも ゾンビに[BREAK]せんりょうされてしまうのか。[BREAK][END]
+032-E: @あら カナリアのヒナね。[BREAK]カナリアむらで てにいれたの？[BREAK][END]
+033-E: @へーえ。[BREAK][END]
+034-E: @カナリアむらの ことりなら[BREAK]きれいなうたを[BREAK]うたうはずだものね。[BREAK][END]
+035-E: @わたし カナリアむらの[BREAK]おじさんに あこがれてるのよ。[BREAK][END]
+036-E: @ちょうちょうさんは[BREAK]ゆうきのある すけっとを[BREAK]さがしておられる。[BREAK][END]
+037-E: @はかばに こどもが[BREAK]まよいこんだっていうけど[BREAK]たすかったのかなぁ。[BREAK][END]
+038-E: @おまえ[..][..][BREAK]ほんとに はかばに いくつもりか？[BREAK][END]
+039-E: @じょうしきを わきまえた[BREAK]こどもだと おもったな オレは。[BREAK][END]
+03A-E: @どうぶつたちは[BREAK]くるって あばれだすし[BREAK][PAUSE]@しにんは[BREAK]ゾンビになっておそってくるし[..][..][BREAK][PAUSE]@どうすればいいのよ。[BREAK]ヒーヒー[..][..][BREAK][END]
+03B-E: @あなたって スゴイ！[BREAK][END]
+03C-E: 
+03D-E: @おまえんち ポルターガイストに[BREAK]みまわれなかったか？[BREAK]おれんちなんか たいへんだったぜ。[BREAK][END]
+03E-E: @どうぶつえんは[BREAK]くるったどうぶつが これいじょう[BREAK]にげださないよう[BREAK][PAUSE]かんぜんに へいさしたそうだぜ。[BREAK][END]
+03F-E: @パンは たべることもできるけれど[BREAK]ちぎって パンくずにすると[BREAK]めじるしに なるんじゃないかな。[BREAK][PAUSE]@[..][..]おせっかい ですけどね。[BREAK][END]
+040-E: @きみでは むりかなぁ。[BREAK]きたいしてるんだけどなぁ。[BREAK][END]
+041-E: @いやなに[..][..][BREAK]はかばに こどもがまよいこんでね。[BREAK][PAUSE]@つぎの ちょうちょうせんきょも[BREAK]ちかいし[..][..][BREAK][..][..]たすけてチョーダイ！[BREAK][END]
+042-E: @えっ いってくれるか。[BREAK]たすけだして くれるってか。[BREAK][END]
+043-E: @そのこが まいごになった[BREAK]ピッピちゃんかね。[BREAK][PAUSE]@いやいや すばらしい。[BREAK][PAUSE]@みどころのあるしょうねんだと[BREAK]おもって いたが。[BREAK][PAUSE]@はくしゅ パチパチパチ[..][..][BREAK][PAUSE]@よかったねぇ[BREAK]かわいいピッピちゃん。[BREAK][PAUSE]@ママに ちょうちょうさんに[BREAK]たすけてもらったと[BREAK]ちゃんというんだよ。[BREAK][PAUSE]@[03 16]くんにも[BREAK]しょうきんを [03 1E]ドル[BREAK]あげよう。 ホレッ。[BREAK][END]
+044-E: 
+045-E: 
+046-E: @ところで[BREAK]ついでといっては なんだが[BREAK][PAUSE]@どうぶつえんの じけんのほうも[BREAK]ひとがんばりしてみちゃ[BREAK]くれないかね？[BREAK][END]
+047-E: @そうか やっぱりいってくれるか！[BREAK][03 16]くん きみも[BREAK]ほんとに ゲームずきだねぇ。[BREAK][PAUSE]@どうぶつえんの カギは[BREAK]じょやくの アボットから[BREAK]もらいなさい。[BREAK][END]
+048-E: @はい[BREAK]これが どうぶつえんのカギです。[BREAK][END]
+049-E: @いきてかえって きみは えいゆう！[BREAK]からだのぐあいさえよければ[BREAK]わたしも いくんだけど[..][..][BREAK][END]
+04A-E: @おお[BREAK]えいゆうの [03 16]くん。[BREAK]ふくに とらのふんがついているよ。[BREAK][PAUSE]@あ うそ うそ。[BREAK]こんどは なにも[BREAK]あげるものがないが[..][..][BREAK][PAUSE]ワハハハハハ。[BREAK][END]
+04B-E: @ふしぎな しょうじょの[BREAK]うわさは きいてるかしら？[BREAK][PAUSE]@きっと きみの たびを[BREAK]たすけてくれると おもうの。[BREAK][END]
+04C-E: @どうぶつえんのカギくらい[BREAK]いくらでもあります。[BREAK]はい またひとつあげましょう。[BREAK][END]
+04D-E: @みてのとおり どうぶつたちは[BREAK]みんなにげだしちまった。[BREAK][END]
+04E-E: @いるのは カナリアのヒナだけだ。[BREAK]かうかね？[BREAK][END]
+04F-E: @じゃ [03 1E]ドルで かうかね？[BREAK][END]
+050-E: @うたをしらないカナリアだからなぁ。[BREAK][END]
+051-E: @かわいがってね。 ありがとさん。[BREAK][END]
+052-E: @ただでも いらないかね？[BREAK]もっていきな。[BREAK][END]
+053-E: @カナリアは まだ げんきかね。[BREAK][END]
+054-E: @どうぶつたちは きっと なにかに[BREAK]あやつられていると おもうの。[BREAK][END]
+055-E: @どうぶつは かわいいわよね。[BREAK][END]
+056-E: @うふっ。[BREAK][END]
+057-E: @バーカ！[BREAK][END]
+058-E: @いらっしゃいませ。[BREAK]また ごへんぴんですね。[BREAK][END]
+059-E: @[03 16]の こころに[BREAK]なにかが といかけてきている。[BREAK][END]
+05A-E: @ああ よかった。[BREAK][END]
+05B-E: @これからも とうデパートを[BREAK]よろしくおひきたてくださいませね。[BREAK]うっふん。[BREAK][END]
+05C-E: @デパートの 1かいに[BREAK]ちょきんを おろせる きかいが[BREAK]できたのは いいんだけどね。[BREAK][PAUSE]@キャなんとかカードが ないと[BREAK]おろせないってのが ふべんね。[BREAK][END]
+05D-E: 
+05E-E: @いいてんきじゃ。 しかし[BREAK]それがどうしたと いうのだろう。[BREAK][END]
+05F-E: @ありゃ きみのカナリアは[BREAK]うたひめローラのこどもじゃないか。[BREAK]ローラに とどけてやっておくれ。[BREAK][END]
+060-E: @きみは なにか たいせつなことを[BREAK]わすれているな。 かなしいことだ。[BREAK][END]
+061-E: @ローラは どこにいたかな[..][..][BREAK][END]
+062-E: @うたひめローラが うたを[BREAK]おもいだしてくれたようだ。[BREAK]きみも メロディーをおぼえたかい？[BREAK][END]
+063-E: @だーめだ そりゃ。[BREAK][END]
+064-E: @うたは ちからなり[..][..][BREAK]まことに そのとおりじゃ。[BREAK][END]
+065-E: @わたしは まいごのピッピだよ。[BREAK]あなたって ゆうき あるね。[BREAK][END]
+066-E: @この おちょうしもの。 ハハハ。[BREAK][END]
+067-E: @ゆうきあるわよ。[BREAK]また いつか どこかで[BREAK]あえるといいね？[BREAK][END]
+068-E: @うれしい。 このバッジは[BREAK]やくそくのしるしよ。[BREAK]ハイ うけとって。[BREAK][END]
+069-E: @すきなひとがいるのね。[BREAK]きっと[..][..][BREAK][END]
+06A-E: @じゃ ここでバイバイ。[BREAK][PAUSE]@わたしの もっている グッズは[BREAK]あとで わたしのうちに[BREAK]とりにきてね。[BREAK][PAUSE]@ところで[..][..][BREAK]わたしのくつした みじかすぎる？[BREAK][END]
+06B-E: 
+06C-E: @こたえなくてもよかったのに。[BREAK]かわいいひと[..][..][BREAK][END]
+06D-E: @キャッキャッキャッ[BREAK](おまえの かあさんでべそ！)[BREAK][END]
+06E-E: @[03 16][03 17]は[BREAK]<かみのしっぽは どこにある。>[BREAK]という こえをきいた。[BREAK][END]
+06F-E: @ありゃりゃ。 かわったふくを[BREAK]きているな おめぇ。[BREAK][PAUSE]@そんなにめだつふくを きてると[BREAK]まものが よってくるだよ。[BREAK][END]
+070-E: 
+071-E: @しあわせは あるいてこない。[BREAK]だども ふしあわせも[BREAK]あるいちゃこねぇよなぁ。[BREAK][END]
+072-E: @さいなんに であいたくなかったら[BREAK]いっぽも あるかねぇこった。[BREAK][END]
+073-E: @そうか[BREAK]ふしあわせは あるくか[..][..][BREAK]しらなんだ。[BREAK][END]
+074-E: @おらの センスを みとめただか。[BREAK]おめぇも カッコイイあだなが[BREAK]ほしいだな？[BREAK][END]
+075-E: @できた。[BREAK]いまから おめぇは[BREAK]うすのろぶた [03 16]だ。[BREAK][PAUSE]@おしゃれな ムードになったぞ。[BREAK][END]
+076-E: @そうか。 ざんねんだな。[BREAK][END]
+077-E: @やぁ うすのろぶた[03 16]。[BREAK][END]
+078-E: @しあわせについて[BREAK]てつがくしてるやつに あったか？[BREAK][END]
+079-E: @やつは[BREAK]あだなをつける めいじんなんだ。[BREAK]さいこうに センスが いいんだぜ。[BREAK][END]
+07A-E: @あわなきゃ わかれもないわけだ。[BREAK][END]
+07B-E: @あわなきゃ わかれもないっていう[BREAK]かんがえのおとこに あったか？[BREAK][END]
+07C-E: @おれも そんなかんがえかた[BREAK]してるんだ。[BREAK][END]
+07D-E: @あったほうが ためになるぞ。[BREAK][END]
+07E-E: @クイーンマリーの いずみで[BREAK]すっかり げんきになったわ。[BREAK][END]
+07F-E: @クイーンマリーのいずみは[BREAK]とおいのが つらいわよねぇ。[BREAK]わかりにくい ばしょにあるし。[BREAK][END]
+080-E: @この こわれたイヤリングを[BREAK]いずみにもっていって まほうの[BREAK]イヤリングにするの。[BREAK][END]
+081-E: @いずみのふしぎなおとを きくと[BREAK]それだけで おちつくよなぁ。[BREAK][END]
+082-E: @もっと みなみ。[BREAK]みちにまよったのかい。[BREAK][PAUSE]@ごめん ごめん[BREAK]いま おしえたのは[BREAK]トイレのばしょだった。[BREAK][PAUSE]@クイーンマリーの いずみなら[BREAK]おしろから にしに いくんだよ。[BREAK][END]
+083-E: 
+084-E: @スプーンを まげちゃったら[BREAK]ごはんが たべにくいや。[BREAK]おにいちゃんもとに もどせる？[BREAK][END]
+085-E: @はやく もどして。[BREAK][PAUSE]@([03 10]は[BREAK]PSIのちからで スプーンを[BREAK]もとに もどしてやった。)[BREAK][PAUSE]@あんがと。[BREAK]パクパク モシャモシャ。[BREAK]うちにこんやは とまっていきなよ？[BREAK][END]
+086-E: @どうしてぇ！？[BREAK][END]
+087-E: @あなた へんなかんじの かたね。[BREAK]でも にくめないタイプ[..][..][BREAK][END]
+088-E: @よかった。[BREAK][END]
+089-E: @うぇーん。 ひとのしんせつは[BREAK]うけるものだよ。[BREAK][END]
+08A-E: @あら たびのかた[BREAK]うちで おしょくじしていったら？[BREAK][PAUSE]@さぁ[BREAK]きょうのメニューは なんでしょう？[BREAK]わかる？[BREAK][END]
+08B-E: @まぁ どうしてわからないのかしら。[BREAK]あやしいひと！[BREAK][END]
+08C-E: @そう [03 15]。[BREAK][PAUSE]@あなたのこころを よんで[BREAK][03 15]にしたのよ。[BREAK]おいしい？[BREAK][END]
+08D-E: 
+08E-E: 
+08F-E: @うちは がっきや だったんだけど[BREAK]ちゅうもんした オカリナが[BREAK]ぜんぜん できてこないの。[BREAK][PAUSE]@もう あきらめたーっと。[BREAK][END]
+090-E: @あら そう。[BREAK][END]
+091-E: @ありがとう[BREAK]ベッドのよういも できてるわ。[BREAK]ゆっくりおやすみ。[BREAK][END]
+092-E: @えんりょしないで[BREAK]また とまっていきなよ。[BREAK][END]
+093-E: @おまえ[BREAK]なんか このくにに なじまない[BREAK]かおしてるなぁ？[BREAK][END]
+094-E: @きぼうのオカリナができたんだ。[BREAK][PAUSE]@きみのしってる メロディーが[BREAK]ながれるんだよ。[BREAK][PAUSE]@ほしいか？[BREAK][END]
+095-E: 
+096-E: @すなおな しょうねんだな。[BREAK]はい どうぞ。 アハハハハ。[BREAK][END]
+097-E: @ほしいって かおに かいてあるよ。[BREAK]アハハハハ もっていきな。[BREAK][END]
+098-E: @よっ ぼうず げんきか。[BREAK][END]
+099-E: @マジカントのくにに[BREAK]でぐちなんてものが あるものかね。[BREAK]アハハハ。[BREAK][END]
+09A-E: @そと？[BREAK]そとのせかいって なんのこったね？[BREAK][END]
+09B-E: @あなが あったら[BREAK]はいりたいですわ。[BREAK]もし あったら だけどね。[BREAK][END]
+09C-E: @わたしは ふしぎな[BREAK]にもつあずかりにん。[BREAK][PAUSE]@ごようですか？[BREAK][END]
+09D-E: @ぼく ものまねが うまいんだぜ。[BREAK][END]
+09E-E: @まちの ひがしのほうに[BREAK]あなが たくさんあるんだ。[BREAK][PAUSE]@どの あなか わからないんだけど[BREAK]べつの せかいの おとが[BREAK]きこえてくるんだ。[BREAK][END]
+09F-E: 
+0A0-E: 
+0A1-E: @あかいくさを ひっこぬいて[BREAK]いずみにつければ なんと[BREAK]マジックハーブになるだよ。[BREAK][END]
+0A2-E: @でっかいふくろは いるかね？[BREAK][END]
+0A3-E: @じゃ あんたのキャッシュカードを[BREAK]しばらくかしてくれんかね。[BREAK][END]
+0A4-E: @マジックハーブが 30たんいも[BREAK]はいっているんだぜ。[BREAK][END]
+0A5-E: @ありがとう かならず かえすよ。[BREAK]なんか[BREAK]カッコイイな とおもってね。[BREAK][END]
+0A6-E: @あんたは にんげんを[BREAK]うたがうことを しっとるな。[BREAK]そのほうが いいかもしれんが[..][..][BREAK][END]
+0A7-E: @ああ キャッシュカードを[BREAK]かえさなきゃな。[BREAK][END]
+0A8-E: @クイーンは いま ちょっと[BREAK]からだの ぐあいがわるいの。[BREAK][END]
+0A9-E: @あやしい かおだな。[BREAK]わしのナゾナゾがわかったら[BREAK]ここをとおして やるけどな[..][..][BREAK][END]
+0AA-E: @そうでした。[BREAK]こたえは わに にひき。[BREAK][PAUSE]@もんだいは[BREAK]まだ かんがえてなかったんだよ[BREAK]ヘヘヘ。[BREAK][END]
+0AB-E: @ごきげんよう。[BREAK][END]
+0AC-E: 
+0AD-E: @クイーンの うたを[BREAK]また ききたいな。[BREAK][END]
+0AE-E: @ハロー！[BREAK]おれは てつがくしていたところだ。[BREAK][PAUSE]@ギターのおとが じゃまで ものを[BREAK]かんがえられないよ。[BREAK][PAUSE]@あっ！[BREAK]じぶんが ギターをひいていたのか。[BREAK]まいった まいった。[BREAK][PAUSE]@[..][..][..][..][..][..][..][..][BREAK][PAUSE]@ここからの はなしは[BREAK]ぜったいに ないしょなんだが[BREAK][PAUSE]すっごく つよくなったら[BREAK]おれに あいにこい。[BREAK][PAUSE]@それと このことは[BREAK]ぜったいに わすれないように[BREAK]メモなんか しとくと いいぞ。[BREAK][END]
+0AF-E: 
+0B0-E: @おれを むししようとしたな。[BREAK]さみしいもんだぜ。[BREAK]こんなところで ひとりぼっちでさ。[BREAK][PAUSE]@できることなら なんでもするぜ。[BREAK]ホラッ！[BREAK][END]
+0B1-E: @うれしいよなー[BREAK]おまえらが きてくれて。[BREAK][PAUSE]@わかってるって[BREAK]やってほしいことは。[BREAK]ホラッ！[BREAK][END]
+0B2-E: @おれ ついに うたをつくったんだ。[BREAK]きけ！[BREAK]おんがくずきの ぼうけんか[03 17]よ。[BREAK][PAUSE]<キューピーにんぎょう なぜなくの[BREAK]それは カナリアが なくからよ[BREAK][PAUSE]サルが うたえば ピアノもうたう[BREAK]ピアノは おばけが ひくのかな[BREAK][PAUSE]さばくのサボテン さみしそう[BREAK]ひとりで よなよな うたってる[BREAK][PAUSE]ドラゴンたおれて おんぷがのこる[BREAK]イ[??]が うたって やまをのぼる[BREAK][PAUSE]XXいしの さいごの うたは[BREAK]クイーンマリーに とどくかな[BREAK][PAUSE]ラララ ふしぎなララバイよ[BREAK]ララバイ バイバイ さようなら>[BREAK][PAUSE]@いいうただろ。[BREAK]いいうただよなぁ[..][..][BREAK][END]
+0B3-E: @もりのおくに こどくをあいする[BREAK]ギターひきが いるの。[BREAK][PAUSE]@ちょっといいおとこで[..][..][BREAK]しかも すっごく しじんなの。[BREAK][END]
+0B4-E: @わすれられたおとこの はなしを[BREAK]きいたことが あるけど[BREAK][PAUSE]@どんな はなしか わすれちゃった。[BREAK][END]
+0B5-E: @しんじようが しんじまいが[BREAK]わたしは ヒーラー。[BREAK][PAUSE]@PPを かいふくしたり[BREAK]いしになったのを なおせるが[BREAK]さて どうしたい？[BREAK][END]
+0B6-E: @[..][..]そんなきが[..][..]したわ。[BREAK][END]
+0B7-E: @げんきんを そんなに もつな。[BREAK]かんがえなおせ。 さいなら。[BREAK][END]
+0B8-E: @おれは うたわないサルだ。[BREAK][PAUSE]@でも ふつうサルってのは[BREAK]うたわないもんだ。[BREAK]しつもんは あるか？[BREAK][END]
+0B9-E: @ぐもんだね[..][..]どうせ。[BREAK][END]
+0BA-E: @よかった。[BREAK]つっこんだ しつもんをされたら[BREAK]どうしようと おもってたんだ。[BREAK][PAUSE]@それにしても おまえ[BREAK]クイーンマリーに かおが[BREAK]にてるなぁ。[BREAK][PAUSE]@どうしてだろ。[BREAK][END]
+0BB-E: @あんた[03 17]に あったら[BREAK]いおうと おもってたんだ。[BREAK][PAUSE]@せんろが なおって[BREAK]でんしゃが[BREAK]とおれるように なったってね。[BREAK][END]
+0BC-E: @わたし[BREAK]いっしょうに いちどでいいから[BREAK]おしろに はいって[BREAK][PAUSE]@マリーさまの おかおを[BREAK]はいけんしたいわ。[BREAK][END]
+0BD-E: @たまに クイーンマリーは[BREAK]うなされてるんだ。[BREAK][PAUSE]@わるいこを しかりつけるような[BREAK]ことをいって[BREAK][PAUSE]@こわい こわい となきさけぶのさ。[BREAK][PAUSE]@そして[BREAK]うたを うたいはじめるんだ。[BREAK]ほんのすこしだけ[..][..][BREAK][PAUSE]@で おもいだせないって[BREAK]くるしがってさ。 あせびっしょり[BREAK]かいて めざめるわけさ。[BREAK][PAUSE]@クイーンマリーは むかし[BREAK]よっぽど かなしい[BREAK]ひどいめに あったのかな。[BREAK][END]
+0BE-E: @でも[BREAK]おんなのこにしか あげないよ。[BREAK][END]
+0BF-E: @ぐーぐーぐー[..][..][BREAK][END]
+0C0-E: 
+0C1-E: @うそつきめ！[BREAK][END]
+0C2-E: @あなた[03 17]が このくにのひとで[BREAK]ないことは みんなしってるわ。[BREAK]でも なかまだと おもっているの。[BREAK][PAUSE]@めのうのつりばり さえあれば[BREAK]いつでもかえってこられるはず。[BREAK][END]
+0C3-E: @きっと また かえってくるのよ。[BREAK]くるしいときに ここに[..][..][BREAK][PAUSE]@みんな あなた[03 17]を[BREAK]すきなんだから。[BREAK][END]
+0C4-E: @ようこそ [03 16]。[BREAK][PAUSE]@このマジカントこくでは みんなが[BREAK]ともだちになれるし ほしいものは[BREAK]すきなだけ えられるのですよ。[BREAK][PAUSE]@えっ[BREAK]わたしのうたが ききたいの？[BREAK][PAUSE]@ごめんなさい。[BREAK]どうしても おもいだせない。[BREAK][PAUSE]@いつか きっと[BREAK]おもいだして うたえるはず[..][..][BREAK][PAUSE]@あのうたを うたえたときに[BREAK]そう[..][..]なにかが おこるの。[BREAK][END]
+0C5-E: 
+0C6-E: 
+0C7-E: 
+0C8-E: 
+0C9-E: 
+0CA-E: @[..][..]。[BREAK][END]
+0CB-E: @あなた[03 17]の おぼえてきたうたを[BREAK]わたしに きかせて。[BREAK][PAUSE][END]
+0CC-E: @そう。 そう[..][..]このうただった。[BREAK][END]
+0CD-E: @ああ[..][..]ギーグ[..][..][BREAK][END]
+0CE-E: 
+0CF-E: @わたし このマジカントこくが[BREAK]きえて なくなっちゃう[BREAK]ゆめをみたのよ。[BREAK][PAUSE]@まだ[BREAK]しんぞうが ドキドキしてるわ。[BREAK][END]
+0D0-E: 
+0D1-E: @ぼくは ぢめんを およぐねこ。[BREAK]ぼくの てのなかに[BREAK]はいってるものを あててごらん。[BREAK][END]
+0D2-E: @ぼくの てのなかに[BREAK]はいっているものが みえたかい？[BREAK][PAUSE]@そう。 リボン。[BREAK]ふしぎなちからのわくリボンさ。[BREAK][END]
+0D3-E: @おんなのこには[BREAK]このふしぎなリボンを あげようね。[BREAK][END]
+0D4-E: @おれは およぐ ねこ。[BREAK][PAUSE]@よわいこに ゆうきと ちからを[BREAK]あたえる キャンディを[BREAK]しってるかい？[BREAK][END]
+0D5-E: @そうか。 でも きみは[BREAK]つよいこだから いらないな。[BREAK][END]
+0D6-E: @そっちの メガネのこは[BREAK]よわそうだから あげような。[BREAK][END]
+0D7-E: 
+0D8-E: @キャンディ おいしかっただろ？[BREAK][END]
+0D9-E: @おたすけじいさんを[BREAK]よびたかったら[BREAK]マリーの いずみに ゆくのだ。[BREAK][PAUSE]@こころの さけびで やってくる。[BREAK]こころの さけびだ！[BREAK][END]
+0DA-E: 
+0DB-E: @(おきゃくは さわいだ。)[BREAK][PAUSE]@あの ぼうしかぶった いしは[BREAK]なんなんだよ！ ブーブー。[BREAK][END]
+0DC-E: @よんだか？[BREAK][END]
+0DD-E: @そうか。 さいなら。[BREAK][END]
+0DE-E: @おかねが ひつようか？[BREAK][END]
+0DF-E: @やくにたってるかい？[BREAK][END]
+0E0-E: @そうか。[BREAK][03 19]ドル[BREAK]ぎんこうに あるようだが[BREAK][PAUSE]@いくら ひきだす？[BREAK][END]
+0E1-E: @えいやっ ホカホカ。[BREAK]だいじにつかえよ。 さいなら。[BREAK][END]
+0E2-E: @そんなに ひきだせないぞ。[BREAK]やりなおせ。 さいなら。[BREAK][END]
+0E3-E: @おれは わすれられたおとこ[BREAK]いないも どうぜん。[BREAK][PAUSE]@きずいてくれなくても[BREAK]よかったのに[..][..][BREAK][PAUSE]@おれのことなんか[BREAK]むしして いいんだ。[BREAK][END]
+0E4-E: @おれは どこにもいないおとこ[BREAK]やさしいことばなんて[BREAK]かけてくれたら こまっちゃうぜ。[BREAK][PAUSE]@ひとこいしく なったら[BREAK]いきていけない。[BREAK][END]
+0E5-E: @おれのことばは[BREAK]いつも ひとりごと。[BREAK][PAUSE]@うまれたときから きょうまで[BREAK]ずっと ひとりでいたおとこ。[BREAK][END]
+0E6-E: @うんがいいとか わるいとか。[BREAK]そんなことは おれには[BREAK]かんけいないね。[BREAK][PAUSE]@いきをするのに せいいっぱいさ。[BREAK][END]
+0E7-E: @なぜ そんなにしつこく[BREAK]おれに はなしかけるんだ。[BREAK][PAUSE]@おまえも[BREAK]わすれられたおとこなのか？[BREAK][END]
+0E8-E: @うそを つけ。[BREAK]おまえを まってる おんなのこの[BREAK]ところへ かえれ！！[BREAK][END]
+0E9-E: @そうさ。 そうだよな。[BREAK]そうなんだ。[BREAK][PAUSE]@おまえも はやく おれのことを[BREAK]むししろよ。[BREAK][END]
+0EA-E: @そうだ。 ありがとうよ。[BREAK][END]
+0EB-E: @もちきれないようだな。[BREAK]また でなおしておいで。[BREAK][END]
+0EC-E: @マザーズデイのあたりは なんか[BREAK]とんでもない じけんが[BREAK]おこってるらしいな。[BREAK][END]
+0ED-E: @ゾンビが ゆうかいされて[BREAK]どうぶつが どうしたとか[..][..][BREAK]めちゃくちゃらしいな。[BREAK][END]
+0EE-E: <サンクスギビングのまちに[BREAK]          ようこそ！！[BREAK][PAUSE][BREAK]CMーー[BREAK]やすくて はやくて いいおとこ。[BREAK][PAUSE]いしゃは ビッグベン*ケーシーに[BREAK]かぎる。[BREAK][PAUSE]いまなら とくべつ[BREAK]おおやすちりょう！！[BREAK][PAUSE]いのちは しんでもまもりたいもの>[BREAK][END]
+0EF-E: 
+0F0-E: 
+0F1-E: @まずマネーをみせてください。[BREAK]ちりょうは それからです。[BREAK][PAUSE]@みせないなら[BREAK]こちらから きんがくを いいます。[BREAK][PAUSE]@[03 1E]ドルで[BREAK]あなた[03 17]は なおる。[BREAK][PAUSE]@これ あかじ かくごの[BREAK]しゅっけつサービスです。[BREAK]OK？[BREAK][END]
+0F2-E: 
+0F3-E: @はい。 たしかに[03 1E]ドル。[BREAK][PAUSE]@はい もうなおりました。[BREAK][PAUSE]@また おおけがを[BREAK]してきてくださいね。[BREAK]やすくしとくから。[BREAK][END]
+0F4-E: @そうですか。[BREAK]そうぎやにでも[BREAK]でんわしときましょう。[BREAK][END]
+0F5-E: @かいげんれいが とかれるまで[BREAK]この はしを とおすなと[BREAK][PAUSE]@ちょうちょうさんから[BREAK]めいれいされているのだ。[BREAK][PAUSE]@どうぶつえんの ひがしの はしを[BREAK]とおりなさい。[BREAK][END]
+0F6-E: @きみ がっこうは どうしたの。[BREAK]きょうは おやすみじゃないはずよ。[BREAK][END]
+0F7-E: @きたの ダンカンこうじょうから[BREAK]バッテリーを かっぱらってきた。[BREAK][END]
+0F8-E: @このこうじょうは[BREAK]ダンカンさんの もちものです。[BREAK][PAUSE]@つうこうきょかしょうは[BREAK]もっていますか？[BREAK][END]
+0F9-E: @こりゃ[BREAK]きげんぎれですぜ おにいさん。[BREAK]ひろったものだな。[BREAK][PAUSE]@あやしいやつ[..][..][BREAK][PAUSE]@おれの めを みろ！！[BREAK][END]
+0FA-E: 
+0FB-E: @すげぇ ばけものに[BREAK]やられちまった。[BREAK][PAUSE]@えきにいくなら[BREAK]かくごしたほうが いいぜ。[BREAK][END]
+0FC-E: 
+0FD-E: @マザーズデイの まちの[BREAK]かいげんれいは[BREAK]とかれたんだってな。[BREAK][PAUSE]@ってことは あのはしも[BREAK]とおれるように なったってことだ。[BREAK]ドゥ ユー アンダスタン？[BREAK][END]
+0FE-E: 
+0FF-E: 
+100-E: @よわむし[03 11]のやつを[BREAK]いじめてたんだけど[BREAK]にげられちまった。[BREAK][END]
+101-E: @おい [03 11][..][..][BREAK]よわむしけむし！[BREAK][END]
+102-E: @よわむし[03 11]のやつを[BREAK]いじめてたんですよね せんぱい。[BREAK][END]
+103-E: @なんだ ひやかしか！[BREAK][END]
+104-E: @[03 11]ったら ばくやくを[BREAK]もちだしちゃったらしいの。[BREAK][PAUSE]@せんせいに みつかったら[BREAK]たいへんだわ。[BREAK][END]
+105-E: @[03 11][BREAK]めがねが ずれてるわよ。[BREAK][END]
+106-E: @あたし スージー。[BREAK]ミス*いなかまちにえらばれたのよ。[BREAK]きれい？[BREAK][END]
+107-E: @あなたも すてきよ。[BREAK][END]
+108-E: @あなたのほうが ブス！[BREAK]うすのろぶたって かんじよ！[BREAK][END]
+109-E: @おくじょうのドアが[BREAK]しまっててよぉ。[BREAK][PAUSE]@トランジスタラジオでも[BREAK]ききながら[BREAK][PAUSE]@サボろうと[BREAK]おもってたのによぉ なっ？！[BREAK][END]
+10A-E: @むくちな やつ。[BREAK][END]
+10B-E: @たいいくの せんこうに[BREAK]たたかれた。[BREAK][PAUSE]@ふりょうに なっちまおうかなぁ[BREAK][..][..]おれ。[BREAK][END]
+10C-E: @じぶんのがっこうで[BREAK]まいごになるなんて[BREAK][..][..]ほんとに もうっ！[BREAK][END]
+10D-E: @おくじょうのドアが[BREAK]あかないって いうのか。[BREAK][END]
+10E-E: 
+10F-E: @ぶくぶくふとるばっかしでよ。[BREAK]ひでぇおんなだろ？[BREAK][END]
+110-E: @こどもにゃ わからねぇ。[BREAK]じんせいのかなしみは[..][..][BREAK][END]
+111-E: @おまえに うちのにょうぼうのことを[BREAK]そんなふうにいわれる すじあいは[BREAK]ないね。 でてってくれ。[BREAK][END]
+112-E: @わかいときゃ かわいかったんだ。[BREAK]そうさ いいところもあるんだよ。[BREAK][PAUSE]@ま おちゃでものんでくかい？[BREAK][END]
+113-E: 
+114-E: @はなしのわかるこどもだな。[BREAK]あ おくじょうに[BREAK]いきたいんだっけな。[BREAK][PAUSE]@じゃ ついておいで。[BREAK][END]
+115-E: @としよりを だいじにしないと[BREAK]おとなになって なきをみるぞ。[BREAK][END]
+116-E: @なんだ[BREAK]こんなあぶないものを もって。[BREAK]これは あずかっておくぞ。[BREAK][END]
+117-E: @ま おちゃを のみなって。[BREAK]なッ。[BREAK][END]
+118-E: @ろうかを はしるんじゃ[BREAK]ありませんよ！[BREAK][END]
+119-E: @コラッ みかけないこどもだな。[BREAK]このがっこうの せいとか？[BREAK][END]
+11A-E: @そうか ろうかをはしるなよ。[BREAK][END]
+11B-E: @もちものを みせてみろ。[BREAK][PAUSE]@あぶないものは[BREAK]もっていないだろうな。[BREAK][END]
+11C-E: 
+11D-E: @きみは だれだ！[BREAK]ぼくは ここからでないぞ。[BREAK][PAUSE]@でたら きっと[BREAK]いじめられるんだから。[BREAK][END]
+11E-E: @ぼくが[BREAK]だいじなともだちだって！？[BREAK][PAUSE]@じゃあ りかしつから ばくやくを[BREAK]もちだしたことを[BREAK]だまっててくれるか？[BREAK][END]
+11F-E: @いま でる。[BREAK][END]
+120-E: @ぼく [03 11]。[BREAK]スイートリトルこうじょうで[BREAK]つくってたっていう[BREAK][PAUSE]ペンシルロケットを[BREAK]とばして みたくてさ。[BREAK][END]
+121-E: @つかれてるでしょ。[BREAK]とまっていけば？[BREAK][END]
+122-E: 
+123-E: @わぁっ[BREAK]これが あの うわさの[BREAK]ペンシルロケットか。[BREAK][PAUSE]@これなら おなじものを[BREAK]つくれるかもしれないぞ。[BREAK][PAUSE]@りかしつに きてくれ。[BREAK][END]
+124-E: @[03 11][BREAK]<いいぞ！[BREAK]よし このスイッチを オンだな。[BREAK][PAUSE][..][..]きっと。 あっ。>[BREAK][END]
+125-E: @[03 11][BREAK]<こんどこそ よわむしのぼくが[BREAK]たたかう ばんだ。[BREAK][PAUSE][03 13]！ きみは[BREAK]ここで やすんでいてくれ。>[BREAK][END]
+126-E: @わしは じぶんでもわかっておるが[BREAK]このがっこうに かくれすんでいる[BREAK]かわりもののせんせいだ。[BREAK][PAUSE]@けんきゅうひが ほしい。[BREAK]わしの はつめいを[BREAK]かってくれんか？[BREAK][END]
+127-E: 
+128-E: @じゃ メニューをみてくれ。[BREAK][END]
+129-E: @おとしだまくらい もってるだろう。[BREAK][END]
+12A-E: 
+12B-E: @また いつでも きてくれ。[BREAK]いいものをつくっておくからな。[BREAK][END]
+12C-E: @あれから はつめいが[BREAK]すすんどらんのだよ。[BREAK]むかしの メニューをみるか？[BREAK][END]
+12D-E: @さっき ラジオで きいたんだけど[BREAK]あっちもこっちも パニックらしい。[BREAK]このえきだけは おいらがまもるぞ。[BREAK][END]
+12E-E: 
+12F-E: @きしゃが どこまで はしれるかは[BREAK]ほしょうできないけど うんちんは[BREAK]とるよ。[BREAK][PAUSE]@きしゃにのるかい？[BREAK][END]
+130-E: @([03 16]は[BREAK]ぶきを とりあげられた。)[BREAK][END]
+131-E: 
+132-E: 
+133-E: 
+134-E: @じゃ [03 1E]ドルになります。[BREAK][END]
+135-E: 
+136-E: 
+137-E: @きみの もってる ぼうしは[BREAK][PAUSE]スノーマンのまちの[BREAK][03 12]ちゃんの[BREAK]わすれものらしいね。[BREAK][PAUSE]@とどけてあげたまえ。[BREAK][END]
+138-E: @ながいき しなされ。[BREAK][END]
+139-E: @にょうぼうを さがしに[BREAK]イースターの まちに いく[BREAK]ところだよ[BREAK][PAUSE]@でも せんろが こわれたとかで[BREAK]おてあげなんだ。[BREAK][END]
+13A-E: @ちいさなおせっかいが ゲームを[BREAK]おもしろくするコツですな。[BREAK][END]
+13B-E: 
+13C-E: @はい あげる。[BREAK][END]
+13D-E: @ペテンひげをはやしたおとこを[BREAK]みかけたか？[BREAK][END]
+13E-E: @にげられたようだな。[BREAK]あきらめて ちゅうしゃいはんでも[BREAK]つかまえよう。[BREAK][END]
+13F-E: @とんでもない サギしなんだ。[BREAK]みかけたらおしえてくれ。[BREAK][END]
+140-E: @おっと ぼうず このかねを[BREAK]あずかってくれ。[BREAK][PAUSE]@けいかんに あってもしらんぷり[BREAK]するんだぞ。[BREAK][END]
+141-E: @もちにげするなよ！[BREAK][END]
+142-E: @さからうんじゃねえ！[BREAK][END]
+143-E: @ひとが ひっしでにげてるときに[BREAK]はなしかけるんじゃないよッ！[BREAK][END]
+144-E: @すごく はらのでた おとこを[BREAK]みたか？[BREAK][END]
+145-E: @にげられたようだな。[BREAK]あきらめてスピードいはんでも[BREAK]つかまえよう。[BREAK][END]
+146-E: @[03 15]を 5にんまえも[BREAK]くいにげしたんだ。[BREAK]みかけたらおしえてくれ。[BREAK][END]
+147-E: @ああ はらがきつい。 ゲーップ。[BREAK][END]
+148-E: @このまちも[BREAK]ぶっそうになったもんだ。[BREAK][PAUSE]@だけど バレンタインのまちよりは[BREAK]ましだよ。[BREAK][END]
+149-E: @オー イエーッ！ のってるかい？[BREAK][END]
+14A-E: @イエイッ！ おいらのうたを[BREAK]ききたいかい？[BREAK][END]
+14B-E: @おいらは じてんしゃにのってるぜ。[BREAK][END]
+14C-E: @もう おわかれのじかんに[BREAK]なっちまうのかい[..][..][BREAK][END]
+14D-E: 
+14E-E: @ドラゴンの こもりうた きいた？[BREAK][END]
+14F-E: @ハロウィーンのまちのどこかに[..][..][BREAK][PAUSE]@ゆ[BREAK][PAUSE]@ゆっ[BREAK][PAUSE]@ゆゆゆゆ[BREAK][PAUSE]@ゆうれいやしきが あるそうよ。[BREAK]ぜったいに いかないほうがいいわ。[BREAK][END]
+150-E: 
+151-E: @なんでもいいから ものをくれ。[BREAK][PAUSE]@くれ。[BREAK][PAUSE]@ください。[BREAK][PAUSE]@くれますか？[BREAK][END]
+152-E: @おれいは ぜひ させてもらうよ。[BREAK][END]
+153-E: @いいものを あげるんだけどなぁ。[BREAK][END]
+154-E: @なにをくれるね？[BREAK][END]
+155-E: @ありがとうよ。 これはおれいの[BREAK]ノミとシラミだ。[BREAK]もっていってくれ。[BREAK][END]
+156-E: @カゼが はやってて[..][..][BREAK]ハーックショーイ！[BREAK]んちくしょおっ！[BREAK][END]
+157-E: @やまのなかに[..][..][BREAK][PAUSE]@かぜひとつひかずに[BREAK]300ねん いきてるっていう[BREAK]よげんしゃのじいさんがいるらしい。[BREAK][END]
+158-E: @ひひぇひゃひょ ひょひょひへ[BREAK]ふはく ひゃひぇひぇひゃひんひゃ。[BREAK][END]
+159-E: @いまの せんせいと[BREAK]ふつうに しゃべるのは[BREAK]わたしでも むりです。[BREAK][END]
+15A-E: @おお[BREAK]いればを さがしてくれたおれいに[BREAK]ながいきのひけつをおしえてやろう。[BREAK][PAUSE]@うがいを よく することじゃ。[BREAK][PAUSE]@カゼをひいたら うがいでなおせ。[BREAK][PAUSE]@わしの とくせいの[BREAK]うがいぐすりを もっていきなさい。[BREAK]ホレ。[BREAK][END]
+15B-E: 
+15C-E: @また うがいぐすりですか？[BREAK]さぁ もっていきなさい。[BREAK][PAUSE]@こんどは[03 1E]ドル[BREAK]いただきますよ。[BREAK]ガラガラッ ペッ。[BREAK][END]
+15D-E: @カゼがげんいんで[BREAK]しんじゃったやつも いるらしいぜ。[BREAK][END]
+15E-E: @ハロウィーンのまちの[BREAK]ゆうれいやしきの はなしは[BREAK]きいたかい？[BREAK][END]
+15F-E: @だれもいないやしきから[BREAK]ピアノの メロディーが[BREAK]きこえてくるんだってな。[BREAK][END]
+160-E: @しらなきゃ しらないほうがいい。[BREAK][END]
+161-E: @ふっふっふっふふふ。[BREAK][END]
+162-E: @だれも いないよ。 くっくっく。[BREAK][END]
+163-E: @これは あくむ。[BREAK]さめることのない わるいゆめ[..][..][BREAK]ひっひっひ。[BREAK][END]
+164-E: @か  え  れ[BREAK][END]
+165-E: @ギャーーーーーッ！[BREAK][END]
+166-E: @[03 16]！ しぬぞ。[BREAK]ひっひっひっひっひっひっひっひっ[BREAK][..][..]くくくくく。[BREAK][END]
+167-E: @あっしは[BREAK]あやしい ねずみじゃありやせん。[BREAK][PAUSE]@ピアノのあるへや[..][..][BREAK]へっへっへ。[BREAK][END]
+168-E: @ゆうれいやしきは[BREAK]ローズマリーさんの ものだ。[BREAK][END]
+169-E: @おれのうちも[BREAK]ゆうれいがでるように[BREAK]なったんだけどさ。[BREAK][PAUSE]@うさぎごやみたいに せまいから[BREAK]イヤだって でてったよ。[BREAK][END]
+16A-E: @わたしは[BREAK]このまちの にんげんというよりは[BREAK]ゲームのアシスタントなの。[BREAK][PAUSE]@あなた メモしわすれていること[BREAK]あるんじゃない？[BREAK][PAUSE]@ひとつのヒントを[BREAK][03 1E]ドルで おしえるけど[BREAK]かう？[BREAK][END]
+16B-E: 
+16C-E: @あら ずいぶん じしんがあるのね。[BREAK]じゃ もう あわないようにするわ。[BREAK][END]
+16D-E: @ヒントは3つまでよ。[BREAK]あとは[..][..]  ひ*み*つ。[BREAK][END]
+16E-E: @このハロウィーンのまちで[BREAK]いちばんの ひょうきんものが[BREAK]おれさ。[BREAK][PAUSE]@ほかのやつらって[BREAK]なんか インキだろ？[BREAK][END]
+16F-E: @そうなんだよな。[BREAK]おれも ほんとは あかるいほうでも[BREAK]ないんだ[..][..][BREAK][END]
+170-E: @そうかなぁ。[BREAK][PAUSE]@おれ[BREAK]じぶんが くらいのかも[BREAK]しれないな。[BREAK][END]
+171-E: @うちのやしきが[BREAK]ばけもののすみかに[BREAK]なってしまって[..][..][BREAK][PAUSE]@わしらは こんなところでくらして[BREAK]いるですよ。[BREAK][END]
+172-E: @[03 11][BREAK]<きみの もってる[BREAK]ロケットの ねんりょうは[BREAK][PAUSE]ほらっ ぼくのもってる この[..][..][BREAK][PAUSE]@すっごいだろ。 あっ！>[BREAK][END]
+173-E: 
+174-E: @くらくて よくみえないが[BREAK]あんた[03 17]は もしかすると[BREAK][PAUSE]@スノーマンまちの きょうかいの[BREAK]むすめさん[03 17]だな[..][..] たしか[BREAK][03 12]ちゃん[..][..] とかいう。[BREAK][PAUSE]@おかあさんは ずっとおくのへやに[BREAK]とじこめられて いるはずだ。[BREAK][PAUSE]@しかし わたしたちを[BREAK]いま たすけるのは むりだ。[BREAK][PAUSE]@とにかく あの マザーシップを[BREAK]なんとか できなければ[..][..][BREAK][END]
+175-E: @おお！[BREAK]うちゅうくうかんへと とびさった。[BREAK]あるいみで だいせいこうだ。[BREAK][END]
+176-E: @まぁ あなたって ほんとうに[BREAK]すてきなかた[..][..][BREAK][PAUSE]@いつまでも[BREAK]みつめていたいくらい[..][..][BREAK][PAUSE]@あなたなら きっと あのやしきを[BREAK]とりもどして くれるわね[..][..][BREAK][PAUSE]@ハイ これが あのいえのカギよ。[BREAK]うふっ。[BREAK][END]
+177-E: @ぼくちゃん[BREAK][03 10]っていうの。[BREAK][PAUSE]@もとの なまえは[BREAK]バグエラー*ローズマリー[BREAK]っていうんだ。[BREAK][END]
+178-E: @[03 10]のバカ！[BREAK][PAUSE]@いえ[BREAK]うちのこに いったんですのよ。[BREAK][END]
+179-E: @ゆうれいは[BREAK]まだ でるみたいだけど[BREAK][PAUSE]あなたって ほんとうに[BREAK]ゆうかんなかた！[BREAK][PAUSE]@わたし[..][..][BREAK]むすこに あなた[03 17]の なまえを[BREAK]いただきましたのよ。[BREAK][END]
+17A-E: @しゅうてんの スノーマンえきだ。[BREAK][END]
+17B-E: @イースターのまちでは[BREAK]じゅうみんが ぜんぶ[BREAK]かみかくしにあっちまったらしいよ。[BREAK][END]
+17C-E: @ママが イースターのまちに[BREAK]いってるの。[BREAK][PAUSE]@なんにちも れんらくがないから[BREAK]パパとさがしにいくのよ。[BREAK][END]
+17D-E: @ハロウィーンのまちの[BREAK]ゆうれいやしきには いったか？[BREAK][END]
+17E-E: @こんど ゆっくり[BREAK]はなしを きかせてくれ。[BREAK][PAUSE]@おれは コワイはなしが[BREAK]だいすきなんだ。[BREAK][END]
+17F-E: @おれは いきたくないけど[BREAK]おまえ いくといいぞ。[BREAK][END]
+180-E: @このスノーマンのまちは[BREAK]さむいから カゼひくなよ。[BREAK][PAUSE]@はみがきも しろよ。[BREAK][PAUSE]@ゴホッ ゴホッ[..][..][BREAK][END]
+181-E: 
+182-E: @じんせいは ゲームよ。[BREAK]やすんだり もどったりも[BREAK]だいじなのよ。[BREAK][END]
+183-E: @[03 12]が[BREAK]がっこうやすんでるから[BREAK]しんぱいでよう。[BREAK][END]
+184-E: @おれ [03 12]のことが[BREAK]しんぱいで しんぱいで[BREAK]よるも ねられねぇ。[BREAK][END]
+185-E: 
+186-E: @かねが たりないぜ。[BREAK][END]
+187-E: @あれあれ ハナミズがたれてるよ。[BREAK][END]
+188-E: @ちょっと このゲームをしている[BREAK]プレイヤー のかたに[BREAK]かわってくれないか。[BREAK][END]
+189-E: @だいじな ようじが あるんだ。[BREAK][END]
+18A-E: @もしもし いつも [03 10]が[BREAK]おせわになっております。[BREAK][PAUSE]@わたくし そのこのちちで[BREAK]ございますが[BREAK][PAUSE]@あなたさまの おなまえを[BREAK]きかせて いただこうと[BREAK]ぞんじまして[..][..][BREAK][PAUSE]@よろしくおねがい いたします。[BREAK][END]
+18B-E: @どうも おいそがしいところを[BREAK]ありがとうございました。[BREAK][PAUSE]@わたくしも いそがしいので[BREAK]では これでしつれいいたします。[BREAK][END]
+18C-E: @[03 16][..][..]でしょ？[BREAK][END]
+18D-E: @ふざけないでね。[BREAK][END]
+18E-E: @わたしが[BREAK]ママを さがしにいくために[BREAK][PAUSE]あなた[03 17]の たすけが[BREAK]ひつようだったの。[BREAK]まっていたわ[..][..][03 16]。[BREAK][PAUSE]@まず イースターのまちへ[BREAK]いってみましょう。[BREAK][END]
+18F-E: @あなたに とってもよくにたひとを[BREAK]ゆめで みたことがあるわ。[BREAK][END]
+190-E: @[03 10][..][..]そばにいて？[BREAK][END]
+191-E: @いやっ！[BREAK]そばにいて[..][..]おねがい。[BREAK][END]
+192-E: @しずかね。 おどりましょ？[BREAK][END]
+193-E: @[..][..]そうね。[BREAK]こんなことしてるときじゃないわね。[BREAK]ごめんなさい。[BREAK][END]
+194-E: @[03 10][..][..][BREAK]わたしのこと すき？[BREAK][END]
+195-E: @[03 11]ったら どうしたの。[BREAK][END]
+196-E: @ドラゴンは ねむっている。[BREAK][PAUSE]@いまの [03 16]には[BREAK]まだ ドラゴンを[BREAK]おこすことは できない。[BREAK][END]
+197-E: @[03 16]のけはいを かんじて[BREAK]ドラゴンが めをさました。[BREAK][PAUSE]<ワタシヨリ ヨワイモノニ[BREAK]コノ ガクフヲ ワタスコトハ[BREAK]デキナイ。>[BREAK][END]
+198-E: 
+199-E: @むすめの[03 12]は[BREAK]おくびょうだけれど[BREAK][PAUSE]やさしいこころと ふしぎなちからを[BREAK]もっている。[BREAK][END]
+19A-E: @あなたがたは[BREAK]かならず しょうりする。[BREAK][PAUSE]@わたしたちのいのりが[BREAK]きっと ちかいうちに[BREAK]ききとどけられるだろう。[BREAK][PAUSE]@いまは おやすみ。[BREAK][END]
+19B-E: @[03 3E]は おとしものの[BREAK]つうこうきょかしょうを みつけた。[BREAK][END]
+19C-E: @[03 16][03 17]は[BREAK]ロケットに のりこんだ。[BREAK][END]
+19D-E: @アドベントのさばくに[BREAK]おじいちゃんがいるの。[BREAK]もしあったら よろしくね。[BREAK][END]
+19E-E: @わたしは[BREAK]よいひとの しかばねです。[BREAK][PAUSE]@だから おそいかかったり[BREAK]しませんよ。[BREAK][END]
+19F-E: @わたし めじるしとして[BREAK]べんりでしょ。[BREAK][END]
+1A0-E: @したいに はなしかけるなんて[BREAK]どきょうのあるこどもだなぁ。[BREAK][END]
+1A1-E: @わたしゃ ラクダのホネですが[BREAK]さばくでの あるきかたを[BREAK]しりたいですか？[BREAK][END]
+1A2-E: @みぎあしが しずみこむまえに[BREAK]ひだりあしを だす。[BREAK][PAUSE]@ひだりあしが しずむまえに[BREAK]みぎあしを だす。[BREAK][PAUSE]@これが わかるのに ひゃくねんも[BREAK]かかったです。[BREAK][END]
+1A3-E: @おしえたいなぁ。 しりたいですか？[BREAK][END]
+1A4-E: @このゲームのなかで[BREAK]いちばん たいくつなのは[BREAK]このアドベントのさばくなんです。[BREAK][PAUSE]@でも ほんとに ぢらいには[BREAK]きをつけてね。[BREAK][END]
+1A5-E: <アドベントさばく[BREAK]ゆうらんひこうは いかがかね？>[BREAK][END]
+1A6-E: @わしは まえのまえの[BREAK]せんそうのときに このさばくに[BREAK]ぢらいをうめたんじゃ。[BREAK][PAUSE]@ぜんぶ ほりおこしたつもりだったが[BREAK]どうしても ひとつだけみつからん。[BREAK]きをつけてくれよ。[BREAK][END]
+1A7-E: @おお ひこうきにのるか？[BREAK][END]
+1A8-E: @では みんなのぶんで[BREAK][03 1E]ドルいただこうか。[BREAK][PAUSE]@チケットの はんけんは[BREAK]なくさないようにな。[BREAK][PAUSE]@すごいぞ。 このはんけんを[BREAK]10まいためると せんしゃに[BREAK]のれるのじゃ。[BREAK][PAUSE]@うれしそうじゃな ハハハ。[BREAK][END]
+1A9-E: @ねだんがたかいから むりもないか。[BREAK][END]
+1AA-E: @おお！ 10まい たまったのか。[BREAK]よしよし せんしゃをかしてやろう。[BREAK][PAUSE]@うれしそうじゃな ハハハ。[BREAK][END]
+1AB-E: @せんしゃを こわしたな。[BREAK]わしのだいじな せんしゃを[..][..][BREAK]オロオロ。[BREAK][PAUSE]@せんしゃの しゅうりひを[BREAK]べんしょうしてくれ。[BREAK][03 1E]ドルだぞ。[BREAK][PAUSE]@いますぐはらうか？[BREAK][END]
+1AC-E: 
+1AD-E: @ああよかった。 いざ さらば。[BREAK][END]
+1AE-E: @わしは おこったぞ。[BREAK]うっうっうううう[..][..][BREAK][END]
+1AF-E: 
+1B0-E: @パパいない。 ママいない。[BREAK][END]
+1B1-E: @ぼくわ もんばんだ。[BREAK]おまえわ だれだ。[BREAK][END]
+1B2-E: @あ あやしいやつわ[BREAK]やっつけるぞ[..][..]ブルブル。[BREAK][END]
+1B3-E: @ガリクソンさんちの あかちゃんは[BREAK]なんかへん。 ぜったいへん。[BREAK]なんか すごいきがするわ。[BREAK][END]
+1B4-E: @えーと 2たす3は5。[BREAK]8ひく4は4[..][..] おれは[BREAK]いつも べんきょうしてるんだ。[BREAK][END]
+1B5-E: @ママー！ さみしいよー[BREAK][END]
+1B6-E: @パパー！ さみしいよー[BREAK][END]
+1B7-E: @でっかい そらとぶふねが[BREAK]おとなたちを みんな[BREAK]つれてっちゃったの。[BREAK][END]
+1B8-E: @おとなたちが いなくて[BREAK]せいせいしたぜ グスン。[BREAK][END]
+1B9-E: @おねえちゃん オッパイ！[BREAK][END]
+1BA-E: @ぼくも オッパイ！[BREAK][END]
+1BB-E: @オッパイ！[BREAK][END]
+1BC-E: @パパや ママを つれもどして。[BREAK]おねがいします。[BREAK][END]
+1BD-E: @あ どうも。 ぼく[BREAK]トム*ガリクソンっていいます。[BREAK]しゅみは じこしょうかいです。[BREAK][END]
+1BE-E: @このベビーは ふしぎなちからを[BREAK]もっているって[BREAK]いつかママがいってたわ。[BREAK][END]
+1BF-E: 
+1C0-E: @アプー アプー バブバブ。[BREAK][END]
+1C1-E: @わたしは このベビーの いしき。[BREAK]わたしも あなたたちと おなじ[BREAK]エスパーだ。[BREAK][PAUSE]@テレポートの ちからを[BREAK]もっている。[BREAK][PAUSE]@あなたの しっている ところなら[BREAK]どこにでもいける。[BREAK][PAUSE]@([03 10][03 17]は[BREAK]ベビーの いしきから[BREAK][PAUSE]テレポーテーションの PSIを[BREAK]うけついだ。)[BREAK][END]
+1C2-E: 
+1C3-E: 
+1C4-E: 
+1C5-E: 
+1C6-E: @とうちゃんたちの こえが[BREAK]やまのほうで きこえたような[BREAK]きがするんだ。[BREAK][PAUSE]@でも やまは バレンタインのまちの[BREAK]むこうなんだ。[BREAK]とおすぎて ぼくには いけない。[BREAK][END]
+1C7-E: @なんだよ。 もちきれないんじゃ[BREAK]やれないよ。[BREAK][END]
+1C8-E: @つきひは たったが[BREAK]おまえは まだ みせいねんだな。[BREAK][END]
+1C9-E: @きをつけて あるきなよ[BREAK]おまえたち。[BREAK]へっへっへ[..][..][BREAK][END]
+1CA-E: @まったく ブラックブラッドだんの[BREAK]やつらときたひにゃ[..][..][BREAK][END]
+1CB-E: @ブラックブラッドだんってなまえは[BREAK]ながいから みんなブラブラだんと[BREAK]よんでいるのよ。[BREAK][END]
+1CC-E: @おまえ[03 17][BREAK]ブラブラだんの なかまじゃ[BREAK]ないだろうね。[BREAK][END]
+1CD-E: @やまのうえに くろいくもが[BREAK]かかってからというものは[BREAK][PAUSE]ひとも まちも[BREAK]おかしくなっちまったよ。[BREAK][END]
+1CE-E: @よっ！ よっ！[BREAK]そっちのおふたりさんは[BREAK]こいびとどうしかね？[BREAK][END]
+1CF-E: @あいしあってるかい。 イエー。[BREAK][END]
+1D0-E: @いいや こころのおくには[BREAK]あいが めばえちゃってるんじゃ[BREAK]ないの。[BREAK][END]
+1D1-E: @ライブハウスのチケットあるよ。[BREAK][03 1E]ドルで かうかね？[BREAK][END]
+1D2-E: @ほれよ！[BREAK]デパートじゃ うりきれだもんな。[BREAK][END]
+1D3-E: @ケチンボなガキどもだぜ。[BREAK][END]
+1D4-E: @いいことおしえてあげるわよ。[BREAK]しりたい？[BREAK][END]
+1D5-E: @ブラブラだんのボスの[BREAK][03 13]って ほんみょうは[BREAK][03 13]ざえもんっていうのよ。[BREAK][PAUSE]@うわさだけどね。[BREAK][END]
+1D6-E: @きっと こうかいするわよ。[BREAK][END]
+1D7-E: @がくやを のぞいちゃダメよ。[BREAK]どえらいめに あうからね。[BREAK][END]
+1D8-E: 
+1D9-E: @すいたらしい ひと。[BREAK]ふーん [03 16]っていうの。[BREAK]ビールをおごるわ。 のんで。[BREAK][END]
+1DA-E: @あら まだこどもだったのね。[BREAK]おとなになったら またおいで。[BREAK][END]
+1DB-E: @もうビールは おごらないわ。[BREAK][END]
+1DC-E: @はんせいしたか？[BREAK][END]
+1DD-E: @もう にどとしないなら[BREAK]かえってよろしい。[BREAK][PAUSE]@あぶないものは[BREAK]あずかっておくからな。[BREAK][END]
+1DE-E: @じゃ もういちにち[BREAK]あたまをひやしていろ。[BREAK][END]
+1DF-E: @へっへっへ[BREAK]このあいだ [03 1D]が[BREAK]てに はいったんだよ。[BREAK][PAUSE]@[03 1E]ドルで かわないか？[BREAK][END]
+1E0-E: @おかねが たりないぞ。[BREAK]うっうっううう[..][..][BREAK][END]
+1E1-E: @[03 13]は[BREAK]やまのばけものに りょうしんを[BREAK]ころされてしまったの。[BREAK][PAUSE]@それまではやさしくて[BREAK]ひょうきんなこだったのよ。[BREAK][END]
+1E2-E: @[03 13]が むかしのように[BREAK]やさしくなってくれたら[BREAK]うれしいな。[BREAK][END]
+1E3-E: @あんた[03 17]も うたうかね。[BREAK][END]
+1E4-E: @じゃあ けいきのいいやつを[BREAK]やってくれ。[BREAK][END]
+1E5-E: @シャイな こだね。[BREAK][END]
+1E6-E: 
+1E7-E: @[03 12]ちゃんっ！[BREAK]いやなに ぼうしに なまえが[BREAK]かいてあったからさ。[BREAK][END]
+1E8-E: @おまえのつれてた おんなのこ[BREAK]かわいかったなぁ。[BREAK][END]
+1E9-E: @いいうたを きかせてくれたな。[BREAK]サンキュー。[BREAK][PAUSE]@おまえたちか？[BREAK]おれの なかまを[BREAK]かわいがってくれたのは。[BREAK][END]
+1EA-E: @ゆるさねぇ！[BREAK][END]
+1EB-E: @わかっているんだ！[BREAK][END]
+1EC-E: @アハハハ たいしたやつだ。[BREAK][03 10]って いったっけな。[BREAK]ドロウにしねぇか[..][..] ハアハア[BREAK][PAUSE]@おやじと おふくろの かたきを[BREAK]とりてぇ。 いっしょに やまへ[BREAK]いこうじゃないか？[BREAK][END]
+1ED-E: 
+1EE-E: @どうか うちの [03 10]の[BREAK]ちからになって あげてください。[BREAK][END]
+1EF-E: @[03 3E]は テレホンカードを[BREAK]つかった。[BREAK][END]
+1F0-E: @そうか[BREAK]きっと いいふりょうチームが[BREAK]できるぜ。 カンパイ！[BREAK][END]
+1F1-E: 
+1F2-E: 
+1F3-E: @たのむ おれは きっと[BREAK]おまえらの やくにたつから。[BREAK][END]
+1F4-E: @もしもし あ パパだ。[BREAK]こんなところにでてくるつもりじゃ[BREAK]なかったんだが[..][..][BREAK][PAUSE]@いいかげんにしなさい！[BREAK]はやく Aボタンをおすんだ。[BREAK][END]
+1F5-E: @おい そこのメガネやろう。[BREAK]おまえはたたかいには むいてねぇ。[BREAK][PAUSE]@しばらくここで[BREAK]からだを やすめてな。[BREAK]にもつは おれが かりていくぜ。[BREAK][END]
+1F6-E: 
+1F7-E: @ちからだけじゃ やつらには[BREAK]かてねぇ。[BREAK][PAUSE]@でも おれたちは かならず[BREAK]へいわを とりもどせる。[BREAK]しんじてるぜ。[BREAK][END]
+1F8-E: @[03 13][BREAK]<ふたりとも[BREAK]なに あかくなってんだよ。[BREAK][PAUSE]さっさと いこうぜ！>[BREAK][END]
+1F9-E: @きがえちゅうだよォ。 エッチ！[BREAK][END]
+1FA-E: @わたしは [03 11]のちちです。[BREAK][PAUSE]@[03 10]のパパのいうとおり[BREAK]ちゃんと プレイヤーのなまえは[BREAK]いいましたか？[BREAK][END]
+1FB-E: @じゃ いいんです。[BREAK][PAUSE]@[03 11]を かばってあげて[BREAK]くださいね。[BREAK]よわむしなんだから[..][..][BREAK][END]
+1FC-E: @じゃ もういっかい[BREAK]てつずき しましょうね。[BREAK][END]
+1FD-E: @ホーリーローリーマウンテンに[BREAK]ゆくまえに みなとにいくべきじゃ。[BREAK]これ ほんと。[BREAK][END]
+1FE-E: @[..][..]いちごあじの[BREAK]とうふをたべたことがあるかな？[BREAK][END]
+1FF-E: @こんどみつけたら[BREAK]もってきてくれないか。[BREAK]おれいに いいものをやるから。[BREAK][END]
+200-E: @そうか。 こんな いなかじゃ[BREAK]まだ うっていないのかなぁ。[BREAK][END]
+201-E: @おお いちごあじのとうふだ。[BREAK]ありがとう。[BREAK][PAUSE]@では おみやげに[BREAK]いいものを あげよう。[BREAK][END]
+202-E: 
+203-E: 
+204-E: @きずを おったら ここへおいで。[BREAK][PAUSE]@すこしばかりの たべものも[BREAK]ちりょうのくすりも[BREAK]そまつだがベッドもある。[BREAK][END]
+205-E: 
+206-E: @おい [03 11]くん。[BREAK]きみの なけなしのゆうきを[BREAK]つかうときが きたようだぞ。[BREAK][END]
+207-E: @おいで こどもたち。[BREAK]なにが ひつようなんだい？[BREAK][END]
+208-E: @ワタシノ ナハ イ[??]。[BREAK]アナタヲ マッテイタ。[BREAK][PAUSE]@ワタシノ チチハ じょーじ。[BREAK]ウチュウノ ハテニ ツレテイカレ[BREAK]モドッテキタ ヒト。[BREAK][PAUSE]@アナタヲ マモル[BREAK]ワタシノ ツトメ。[BREAK][END]
+209-E: 
+20A-E: 
+20B-E: 
+20C-E: 
+20D-E: @にもつを もって[BREAK]くろうしてるんでしょ。[BREAK][END]
+20E-E: @[03 10]！ [03 10]！[BREAK][PAUSE]@たたかいに つかれたようだな。[BREAK]もういちど チャレンジするか？[BREAK][END]
+20F-E: @[03 10]は[BREAK]さいごのきりょくを ふりしぼって[BREAK]たたかいのばに ふっかつした。[BREAK][PAUSE]@がんばってくれ [03 10]！[BREAK][END]
+210-E: @[03 10]は[BREAK]わるいゆめを みたのだ。[BREAK][PAUSE]@がんばれ！ [03 10]！[BREAK][END]
+211-E: @だれに わたす？[BREAK][END]
+212-E: @もちきれない みたいだけど[BREAK]ほかの ひとに わたす？[BREAK][END]
+213-E: @まだ グッズがのこっているから[BREAK]とりにきてね。[BREAK][END]
+214-E: @[03 10]ちゃんの[BREAK]おともだちなの？[BREAK][PAUSE]@ふうーん。 でも このグッズは[BREAK][03 10]ちゃんの だから[BREAK]わたすわけには いかないわ。[BREAK][END]
+215-E: @よわむし[03 11]は[BREAK]くたばっちまったのかい。[BREAK][END]
+216-E: <ウェルカム トゥ マザーズデイ>[BREAK][END]
+217-E: <シュークリームどうぶつえん[BREAK]        かんりじむしょ>[BREAK][END]
+218-E: <うみの てんぼうだい>[BREAK][END]
+219-E: @そんなひとは いないみたいだけど[BREAK]わたしの おもいちがいかなぁ[..][..][BREAK][END]
+21A-E: @あかいくさは いずみのみずに[BREAK]つけると すっごくげんきな[BREAK]マジックハーブに なりました。[BREAK][END]
+21B-E: @そんなやつが どこにおるのだ！[BREAK][END]
+21C-E: @[03 1D]だね。[BREAK]ありがとう たすかるよ。[BREAK][END]
+21D-E: <このカンバンの あたり[BREAK]おとしものを しやすいので[BREAK]ちゅうい してください。>[BREAK][END]
+21E-E: @カンバンのしたに なんと[BREAK]いればが おちていた。[BREAK][END]
+21F-E: @はいはい[BREAK]どこか ぐあいが わるいわけね。[BREAK]いっぱつで なおしてあげるからね。[BREAK][END]
+220-E: @りかしつにきてくれ。[BREAK][END]
+221-E: 
+222-E: @ふしぎな げんしょうは[BREAK]ひとまず おさまった。[BREAK][END]
+223-E: @つかいかたを せつめいするから[BREAK]よくみておくんだよ。[BREAK]いいか このスイッチを[..][..][BREAK][PAUSE]@あっ しまった おしちゃった。[BREAK][END]
+224-E: @[03 10]のすきな[BREAK][03 15]を つくるわ。[BREAK][PAUSE]@それをたべて ゆっくりおやすみ。[BREAK][END]
+225-E: 
+226-E: 
+227-E: 
+228-E: @どうしましょ[BREAK] どうしましょ[BREAK]  どうしましょ[BREAK][PAUSE]@どうしましょ[BREAK] どうしましょ[BREAK][PAUSE]@どうしましょ[BREAK][PAUSE]@うちのピッピが まいごになったの。[BREAK][PAUSE]@マザーズデイの まちにいくなら[BREAK]ちょうちょうさんに[BREAK]れんらくしてくださいな。[BREAK][PAUSE]@オロオロ  ウロウロ。[BREAK][END]
+229-E: @どれを おひきとりしましょう？[BREAK][END]
+22A-E: @[03 1D]は[BREAK][03 1E]ドルで[BREAK]おひきとりしますが[BREAK][PAUSE]それで よろしいですか？[BREAK][END]
+22B-E: @[03 3E]は[BREAK]そうそふのにっきの なかから[BREAK]つずきのことばをみつけ[BREAK][PAUSE]よみあげた。[BREAK][PAUSE]@<あまかけるふねの わすれもの>[BREAK][END]
+22C-E: 
+22D-E: 
+22E-E: @うそ ついてるだろう。[BREAK]おれには おみとおしさ。[BREAK][END]
+22F-E: @(おきゃくは さわいだ。)[BREAK][PAUSE]@3にんの グループって[BREAK]いったくせに[BREAK]3にん いないじゃないか！[BREAK][PAUSE]ブーブー[BREAK][END]
+230-E: @どれを あずけるの？[BREAK][END]
+231-E: 
+232-E: @ドラゴンは ながい ながい[BREAK]ねむりの ときに はいっていた。[BREAK][END]
+233-E: @([03 3E]は[BREAK]そっと がくふを よんだ。)[BREAK][END]
+234-E: @なにか ごよう？[BREAK][END]
+235-E: 
+236-E: @[03 1D]ね。[BREAK]だいじに しまっとくね。[BREAK]ほかに あずかるものは ある？[BREAK][END]
+237-E: @じゃあ きをつけてね。[BREAK][END]
+238-E: @[03 1D]ね。[BREAK]だいじにしてね。[BREAK]ほかに もっていくものは ある？[BREAK][END]
+239-E: @サンタクロースの えきの ちかくで[BREAK]がけくずれが あって[BREAK]きしゃが はしれないんだ。[BREAK][END]
+23A-E: @[03 1D]で[BREAK]ございますね？[BREAK][END]
+23B-E: @おきゃくさま[03 17][BREAK]それいじょう[BREAK]おもちになれないようですよ。[BREAK][END]
+23C-E: 
+23D-E: @おや かねが たりないようだな。[BREAK][END]
+23E-E: @おや もちきれないようだな。[BREAK][END]
+23F-E: @これじゃあ おかねが たりないよ。[BREAK]でなおしておいで。[BREAK][END]
+240-E: @きをつけて いってらっしゃい。[BREAK][END]
+241-E: 
+242-E: @あら もてないの。[BREAK]それじゃあ こんど[BREAK]おあいした ときにね。[BREAK][END]
+243-E: @ほらっ くすりだ。[BREAK][END]
+244-E: @じゃあ ゆっくり おやすみ。[BREAK][END]
+245-E: 
+246-E: @イクラ ヒキダシマスカ？[BREAK][END]
+247-E: @イクラ アズケマスカ？[BREAK][END]
+248-E: @さ まちにかえりましょ！[BREAK][END]
+249-E: @あら もちきれないみたい。[BREAK]ざんねんだったわね。[BREAK][END]
+24A-E: @もてないのか？ ざんねんだな。[BREAK][END]
+24B-E: @もてないのなら またおいで。[BREAK][END]
+24C-E: 
+24D-E: @どのコースが いいかね？[BREAK][END]
+24E-E: 
+24F-E: 
+250-E: @いればが ないと[BREAK]うまく しゃべれんのじゃ。[BREAK][END]
+251-E: @まだ たりないようじゃな。[BREAK][END]
+252-E: 
+253-E: 
+254-E: 
+255-E: 
+256-E: 
+257-E: 
+258-E: @くせんしている ごようすね[..][..][BREAK]し*ん*ぱ*い。[BREAK][END]
+259-E: @がんばってね。[BREAK][END]
+25A-E: @リーダーは どいつだ。[BREAK]おもいしらせてやる！！[BREAK][END]
+25B-E: @ブラブラだんは あいかわらずよ。[BREAK][END]
+25C-E: 
+25D-E: @おれを おこらせないでくれ。[BREAK][END]
+25E-E: @[03 3E]は[BREAK]つうこうきょかしょうを[BREAK]こっそり てにいれた。[BREAK][END]
+25F-E: @おや おかねがたりないようですね。[BREAK][END]
+260-E: @おや[BREAK]それいじょう もてないようですね。[BREAK][END]
+261-E: @わたしは[BREAK]はかせの じょしゅAであります。[BREAK][PAUSE]@わたくしも いちごあじのとうふが[BREAK]たべたいであります。[BREAK][END]
+262-E: @おっいしそう！[BREAK][PAUSE]@ありがとう。 おれいに[BREAK]みみよりの じょうほうを[BREAK]あげようね。[BREAK][PAUSE]@ホーリーローリーマウンテンの[BREAK]みずうみに すっごいロボットが[BREAK]しずんでるんだ。[BREAK][PAUSE]@たぶん まだ うごくはずだぞ。[BREAK][END]
+263-E: @わしは じょしゅAににていますが[BREAK]じょしゅBでございます。[BREAK][PAUSE]@わしも[BREAK]おおいに いちごあじのとうふを[BREAK]ほっしております。[BREAK][END]
+264-E: @おお！ おお！ うれしゅうござる。[BREAK]この のろいのことばを[BREAK]おもちかえりくだされ。[BREAK][END]
+265-E:   きずぐすり  ねむり[END]
+266-E: @もちきれないのか[..][..][BREAK]あとで わすれずに とりにおいで。[BREAK][END]
+267-E: @でかぶくろを とりにきたんだね。[BREAK]まっていたよ。[BREAK][END]
+268-E: @でかぶくろは[BREAK]あんたに プレゼントするよ。[BREAK][END]
+269-E: @たいしたもんだいじゃねぇな。[BREAK][PAUSE]@そんなことより[BREAK]うちのにょうぼうだよ。[BREAK][PAUSE]@まいあさ ひるまで[BREAK]ねむってやがって[BREAK]べんとうも つくらねぇ。[BREAK][PAUSE]@ひでぇはなしだろ？[BREAK][END]
+26A-E: @あっ [03 12]が[BREAK]しんでる。[BREAK][END]
+26B-E: @いつも ありがとう。[BREAK]おれいに[..][..][BREAK][PAUSE]@せいこうを いのっているよ。[BREAK][END]
+26C-E: @わたしは ローラよ。[BREAK][END]
+26D-E: 
+26E-E: 
+26F-E: 
+270-E: @あらま[BREAK]えいゆうの [03 10]くん。[BREAK]ひとりでかえってくるとは[..][..][BREAK][PAUSE][..][..]きゅうけいですかな？[BREAK][END]
+271-E: @ちいさいおじょうちゃん。[BREAK]ここは きみみたいなこどもが[BREAK]ひとりでくるところじゃないのよ。[BREAK][END]
+272-E: 
+273-E: @やあ [03 16]くん！[BREAK]げんきで やっているかね。[BREAK][END]
+274-E: @おはよう おにいちゃん。[BREAK]よく ねむれたみたいね。[BREAK][END]
+275-E: @またきてね。 きっとだよ。[BREAK][END]
+276-E: @おはよう！[BREAK][END]
+277-E: @ここにいる サルは[BREAK]うそつきが おおいから[BREAK]きをつけなよ。[BREAK][END]
+278-E: @うふふっ おれって[BREAK]サルにみえるかな？[BREAK][END]
+279-E: @[..][..]じつはタヌキなんだ。[BREAK]ばけてるのさ。[BREAK][END]
+27A-E: @おまえ めがいいなぁ。[BREAK]まいった。[BREAK][END]
+27B-E: @ゲームなんか やめちまおうぜ。[BREAK][END]
+27C-E: @おまえ ほんとうにいいのか。[BREAK][END]
+27D-E: @ま しょうがねえな。[BREAK][END]
+27E-E: @おれのスピードに おいつけたな。[BREAK]たいしたもんだ。[BREAK]ほれっ いいものをやるぜ。[BREAK][END]
+27F-E: @みぎにまがって ひだりにまがると[BREAK]いいものがあるよ。[BREAK][END]
+280-E: @へいわそうにみえるけど[BREAK]ここは くらくていけないよね。[BREAK][END]
+281-E: @とにかく まっすぐあるけ！[BREAK]しんじつってのは[BREAK]まっすぐゆくところにある。[BREAK][END]
+282-E: あたしは レディよ。[BREAK]きやすく はなしかけないでね。[BREAK][END]
+283-E: @おれ ほんとは おとこだよ。[BREAK][END]
+284-E: 
+285-E: @ランララランラ ラララララ。[BREAK]あ このメロディーのことは[BREAK]きにかけないでくれ。[BREAK][END]
+286-E: @おまえ ここにたどりつくまでに[BREAK]どれくらいのじかんを かけた？[BREAK][PAUSE]@いや ただきいてみただけさ。[BREAK][END]
+287-E: @いいはなしがあるんだけど[BREAK]きくか？[BREAK][END]
+288-E: @[..][..]あのな[BREAK]ともだちは たいせつにしろよ。[BREAK]そういうことだ。[BREAK][END]
+289-E: @ちてきこうきしんの ないやつめ！[BREAK][END]
+28A-E: @このおくに いってはならん！[BREAK][END]
+28B-E: @おれは ここのサルどもは[BREAK]しんようしていない。[BREAK]うそつきばかりだからな。[BREAK][PAUSE]@みぎ ひだり ひだり[BREAK]そして みぎだ。[BREAK][END]
+28C-E: @ひきかえせ！[BREAK]そして つまり[BREAK][PAUSE]ひきかえしたく なかったら[BREAK]そのままゆけ！[BREAK][END]
+28D-E: @うみのみえるまちでは[BREAK]あたらしい なかまに[BREAK]であうであろうぞ。[BREAK][END]
+28E-E: @おら むくちな サルだ。[BREAK][PAUSE]@おらは おしゃべりは にがてだ。[BREAK][PAUSE]@[..][..][..]な。[BREAK][PAUSE]@[..][..][..]。[BREAK][END]
+28F-E: @このあたりには[BREAK]めがみさまが いるんだぞ。[BREAK][END]
+290-E: @サルのいうことは[BREAK]うそばっかりだと おもうなよ。[BREAK][END]
+291-E: @わたしが サルのボスだが[BREAK]ほかのサルたちのウソつきぶりには[BREAK]あたまを なやませておる。[BREAK][PAUSE]@まっすぐ すすんで[BREAK]みぎに でぐちがある。[BREAK][END]
+292-E: @しっぱいしたなぁ[..][..] ほんと。[BREAK]こんなとこにきちゃってさ[BREAK]しっぱいだったよ。[BREAK][END]
+293-E: @たすけて おにいちゃん！[BREAK][END]
+294-E: @あっ でんわだ！[BREAK][03 10] おねがい。[BREAK][END]
+295-E: @わたくしが ちょうちょう[..][..][BREAK]じゃなくて[BREAK]じょやくの アボットです。[BREAK][PAUSE]@ちょうちょうさんは あちらです。[BREAK][END]
+296-E: @あとでいいこと おしえてあげる。[BREAK][END]
+297-E: @あ また とまりにきたんだね。[BREAK][END]
+298-E: @まあ たびのおかた。[BREAK][END]
+299-E: @ゆうれいやしきが[BREAK]ばけものたいじ だとおもったら[BREAK]おおまちがい。[BREAK][PAUSE]メロディーが あるのよ。[BREAK][END]
+29A-E: 
+29B-E: @[03 12]は きっとどこかで[BREAK]げんきでいると しんじています。[BREAK][END]
+29C-E: @みせいねんだな。 ほどうする。[BREAK][END]
+29D-E: 
+29E-E: 
+29F-E: @おまえ[BREAK]ぢらい ふんだんだってな。[BREAK][PAUSE]@おれは[BREAK]いぬのくそ ふんだことあるぜ。[BREAK][END]
+2A0-E: @おまえ[BREAK]アドベントさばくとかってところで[BREAK]うんこ ふんだんだってな。[BREAK][PAUSE]だっせぇ！[BREAK][END]
+2A1-E:    <にんていしょう>[BREAK][03 14][BREAK]どの[BREAK][PAUSE]@あなたは アドベントさばくにおいて[BREAK]たしかに ぢらいを ふんだことを[BREAK]みとめます。[BREAK][PAUSE]@このばしょは[BREAK]ほかの プレイヤーには[BREAK]ひみつにしておいてください。[BREAK][PAUSE]        いとい しげさと[BREAK][END]
+2A2-E: @よくねてたようね。[BREAK]きょうは どちらにおでかけかしら。[BREAK]いってらっしゃーい。[BREAK][END]
+2A3-E: @あら ごめんかいじゃないんですか？[BREAK]かんじゃさんなら[BREAK]おくのへやへどうぞ。[BREAK][END]
+2A4-E: @そういうかたは[BREAK]にゅういんしていらっしゃいません。[BREAK][END]
+2A5-E: @ことしのカゼは[BREAK]なかなかひどいよ。[BREAK]げっそり やせちまった。[BREAK][END]
+2A6-E: @わたしは カゼひいてないの。[BREAK]ゴホン ゴホン。[BREAK][PAUSE]@あ これは セキじゃなくて[BREAK]くちぐせよ。 ゴホン ゴホン。[BREAK][END]
+2A7-E: @つかれたら ホテル。[BREAK]ねむくなったら ホテル。[BREAK]ま そういうことだね。[BREAK][END]
+2A8-E: @あ どうも。 へへへへ。[BREAK][END]
+2A9-E: @ここは レストラン ランラン[BREAK]たのしい レストラン ランラン[BREAK]たのしい？[BREAK][END]
+2AA-E: @どこのまちでも[BREAK]レストランの しはいにんって[BREAK]ミュージカルっぽいのかしら。[BREAK][END]
+2AB-E: @ぼくも [03 15]は[BREAK]おいしいとおもうなぁ。[BREAK][END]
+2AC-E: @ここらのホテルは[BREAK]マザーズデイ あたりと[BREAK]せつびは おなじなのに[BREAK][PAUSE]りょうきんが たかいね。[BREAK]ブツブツ[..][..][BREAK][END]
+2AD-E: @この ホテルは やすいね。[BREAK]やすいってだけが とりえだね。[BREAK][END]
+2AE-E: @がけくずれで おおいわが[BREAK]せんろをふさいでしまってねぇ。[BREAK]きしゃが とおれないのよ。[BREAK][END]
+2AF-E: @きみって どうぶつのことばが[BREAK]わかるんだね。[BREAK][PAUSE]@じゃ おしえてあげるけど[BREAK]ぼくを チェックしてごらん。[BREAK][PAUSE]@ワンッ。[BREAK][END]
+2B0-E: @おかねが たりないわ。[BREAK]ざんねんね。[BREAK]また ききにいらっしゃいよ。[BREAK][END]
+2B1-E: @いらっしゃいませ。[BREAK]こちらのメニューをごらんください。[BREAK][END]
+2B2-E: @ありがとうございます。[BREAK][03 1D] ワン[BREAK]テイクアウト プリーズ！[BREAK][END]
+2B3-E: 
+2B4-E: 
+2B5-E: @かれ[..][..]もう[..][..][BREAK]こないかもしれない。[BREAK][END]
+2B6-E: @たのしんでってね。[BREAK][END]
+2B7-E: @ボーイさん ワインリストまだぁ？[BREAK][END]
+2B8-E: @[03 15]が たべてみたいわ。[BREAK][END]
+2B9-E: 
+2BA-E: 
+2BB-E: @ゾンビたちに[BREAK]かみのこころを つたえて[BREAK][PAUSE]いいひとに なってほしいと[BREAK]ねがっている。[BREAK][PAUSE]@でも ゾンビは[..][..]コワイ！[BREAK][END]
+2BC-E: @ピッピだよ！[BREAK]ほんとに あえたね[BREAK][03 16]ちゃん。[BREAK][PAUSE]@わたしも ママに ないしょで[BREAK]こんなところまで[BREAK]あそびにきてるのよ。[BREAK][END]
+2BD-E: @あら[BREAK]ようちえんで となりのせきだった[BREAK][PAUSE]はなたらしの[BREAK][03 16]ちゃんじゃない？[BREAK][PAUSE]@ひとまちがいかしら？[BREAK][END]
+2BE-E: @くいにげしないでね。[BREAK][..][..]しつれいだけど。[BREAK][END]
+2BF-E: @あなた[BREAK]しょくよくおうせい みたいね。[BREAK][END]
+2C0-E: 
+2C1-E: @きしゃは うごいてないよ。[BREAK]せんろを こわされちまったからね。[BREAK][PAUSE]@あんまり[BREAK]つっこんだ しつもんをするな。[BREAK][PAUSE]@しつこいなぁ[BREAK]ないちゃうぞ オレだって。[BREAK][END]
+2C2-E: @たちどまらないで さっさとあるけ！[BREAK][END]
+2C3-E: @けっこう[BREAK]くろうしたかおしてるなあ おまえ。[BREAK]ま ゆっくり はんせいしろよ。[BREAK][END]
+2C4-E: @だいかつやくの うわさは[BREAK]きいてるわ。[BREAK][PAUSE]@あなたって[BREAK]やっぱり ゆうきあるのね。[BREAK][END]
+2C5-E: @カナリアむらは[BREAK]きたにのぼって にしのほうがくだ。[BREAK][PAUSE]@あそこは[BREAK]にゅうえんりょうも タダだし[BREAK]いくといいぞ。[BREAK][END]
+2C6-E: @まちやくばに[BREAK]びじんのひしょが いるんだよな。[BREAK]1かいの うけつけさ。[BREAK][END]
+2C7-E: @はーら へったー。[BREAK][END]
+2C8-E: @ファミコンしてるじかんがあったら[BREAK]べんきょうしなさいって[BREAK]むすこに いってやったわよ。[BREAK][END]
+2C9-E: @おまえって[BREAK]あかるいかおしてるなぁ。[BREAK][END]
+2CA-E: @このまちに ダンカンが[BREAK]れいのみせを[BREAK]つくろうとしているの。[BREAK][PAUSE]@わたしは だいはんたい！[BREAK][END]
+2CB-E: @ぼくも おいしゃさんになって[BREAK]けがにんを たすけて[BREAK][PAUSE]おおもうけ したいな。[BREAK][END]
+2CC-E: @えっ ほんとに？[BREAK]あやしいアンケートじゃ[BREAK]ないのになぁ。[BREAK][END]
+2CD-E: @がっこういけよ がっこう！[BREAK]がくせいさんだろ？[BREAK][END]
+2CE-E: @せんろの うえの おおいわは[BREAK]どうやって どかすんだろうねぇ。[BREAK][PAUSE]@やくしょに まかせておいたら[BREAK]らいねんになっちまうぜ。[BREAK][END]
+2CF-E: @ずうっと きたの[BREAK]ダンカンさんの だいこうじょうには[BREAK][PAUSE]とてつもなく でかいロケットが[BREAK]あるんだよな。[BREAK][END]
+2D0-E: @おれを ただのおじさんと[BREAK]おもうなよ。[BREAK][PAUSE]@じっさい そうなんだけどさ。[BREAK][END]
+2D1-E: @おれさぁ[..][..][BREAK]せんろの おおいわなんてさ[..][..][BREAK][PAUSE]@ダンカンこうじょうの ロケットで[BREAK]ぶっとばしちまえば[BREAK]いいと おもうんだよね。[BREAK][END]
+2D2-E: @わたしのしゅじんは[BREAK]ティンクルしょうがっこうの[BREAK]えらいひとなのよ。[BREAK][PAUSE]@おひるの おべんとうは[BREAK]たべないひとなの。[BREAK][END]
+2D3-E: @スイートリトルこうじょうには[BREAK]いったか？[BREAK][END]
+2D4-E: @まちのそとには コワイばけものが[BREAK]うようよしてるんだろ。[BREAK][PAUSE]@おれ かねとられるんじゃないかと[BREAK]おもってさ。 しんぱい！[BREAK][END]
+2D5-E: @ラララ たんぽぽの わたげを[BREAK]そーらーに ラララ[BREAK][PAUSE]@わたしは[BREAK]おんがくが いちばんすき。[BREAK][END]
+2D6-E: @おくじょうのカギを[BREAK]ようむいんさんが もってるんだけど[BREAK][PAUSE]かしてくれないのよ。[BREAK][END]
+2D7-E: @やまのうえの[BREAK]よげんしゃの おじいさんは[BREAK][PAUSE]きまえがいいから もちきれないほど[BREAK]ものをくれるの。[BREAK][END]
+2D8-E: @ちいさいころに[BREAK]トンネルを あるいて[BREAK]とおったことが あるんだ。[BREAK][PAUSE]@したいを みにいったんだ。[BREAK][END]
+2D9-E: @ここは じゅうたくち だから[BREAK]しずかにあるきなさい。[BREAK][END]
+2DA-E: @あなたたち のはらに[BREAK]たべものとかを[BREAK]すてたりしたことない？[BREAK][PAUSE]@ま ゲームだから[BREAK]しょうがないけどね。[BREAK][END]
+2DB-E: @はっ！！[BREAK]いま おふろばの けんきゅうを[BREAK]しているんだ。[BREAK][PAUSE]@だいがくの しゅくだいでさ。[BREAK][PAUSE]@[..][..]ほんとだよ！[BREAK][END]
+2DC-E: @じてんしゃがあると[BREAK]べんりなのになぁ。[BREAK][END]
+2DD-E: @はーらへったー[BREAK][PAUSE]@って いうとおもったろ。[BREAK]いわないよ。 へってるけど。[BREAK][END]
+2DE-E: @わたし とかいが すき。[BREAK]わたし おしゃれが すき。[BREAK][END]
+2DF-E: @おれは ちょうのうりょく なんて[BREAK]しんじてない。[BREAK][END]
+2E0-E: @わたしは かげのうすい おとこ[BREAK]きえたように みえることさえ[BREAK]あります。[BREAK][END]
+2E1-E: @わたし このまちがすき！[BREAK]となりの ハロウィーンの まちは[BREAK]こわいところよ。[BREAK][END]
+2E2-E: @あなたは[BREAK]ほとけさまを しんじますか？[BREAK][END]
+2E3-E: @かぜぐすりの[BREAK]よくきくやつを もってたら[BREAK]みせで たかく かってくれるぜ。[BREAK][END]
+2E4-E: @わたしは[BREAK]ようきな ゆうびんや ランラン。[BREAK][PAUSE]@ローズマリーさんの[BREAK]ひっこしさきは どこ ランラン。[BREAK][END]
+2E5-E: @ローズマリーさんの[BREAK]げんじゅうしょを[BREAK]さがしてる ゆうびんやさんに[BREAK][PAUSE]どうぞ つたえてくださいな。[BREAK][PAUSE]@それは[BREAK]ずっと ひがしなのよと[BREAK][PAUSE]@ランランラン。[BREAK][END]
+2E6-E: @ローズマリーのむすめって[BREAK]かんじわるいッ！[BREAK][END]
+2E7-E: @ダウンタウンの ビルのあたりは[BREAK]ばけものが うーようよでねぇ。[BREAK]みんな こっちに にげてきたんだ。[BREAK][END]
+2E8-E: @なんか よう？[BREAK][END]
+2E9-E: @わたしは[BREAK]しゅぎょうちゅうの よげんしゃ。[BREAK][PAUSE]@あなたは このえきから[BREAK]ふたたび サンタクロースのえきに[BREAK]ゆくであろう。[BREAK][PAUSE]@わかんないけどね。[BREAK][END]
+2EA-E: @[03 12]ちゃんの いえは[BREAK]おてら[..][..]じゃなくて[BREAK]きょうかいだよ。[BREAK][PAUSE]@あ しってたか。[BREAK][END]
+2EB-E: @きょうかいなら[BREAK]もっと ひがしの やまのなかさ。[BREAK][PAUSE]@ゴホッゴホッ[..][..]ゴホッ[..][..][BREAK][END]
+2EC-E: @こどもは げんきだなぁ。[BREAK]そんな うすぎで。[BREAK][PAUSE]@ゴホッゴホゴホッ[..][..]ゴホン。[BREAK][END]
+2ED-E: @アドベントさばくの ラクダのほねに[BREAK]あったら よろしくな。[BREAK]ちょっと しってるラクダなんだ。[BREAK][END]
+2EE-E: @すこしぐらいの ケガだったら[BREAK]ここでなおしてあげますよ。[BREAK][PAUSE]@でも びょうきだったら ちゃんと[BREAK]びょういんで みてもらってね。[BREAK][END]
+2EF-E: @[03 11]って しょうらいは[BREAK]コンピュータかんけいの しごとに[BREAK]つくんじゃないかな。[BREAK][END]
+2F0-E: @しーっ！[BREAK]としょしつで おおごえだしちゃ[BREAK]いっけないのよォ！[BREAK][PAUSE]@ハッハッハーーーックション！！[BREAK][END]
+2F1-E: @わたしを[BREAK]せかいいちの つりしと[BREAK]しって やってきたのかね。[BREAK][PAUSE]@いや それほどでもないが[..][..][BREAK][PAUSE]@じゃ これから 1じかんほど[BREAK]じまんばなしをするか[..][..][BREAK][END]
+2F2-E: @じゃまだよ。 がきども！[BREAK][END]
+2F3-E: @おらおら[..][..][BREAK][END]
+2F4-E: @おれ HPひくいけど[BREAK]がんばってみるぜ！[BREAK][END]
+2F5-E: @おれ[..][..]たぶん[..][..][BREAK]おまえと たたかうと[BREAK][PAUSE]まけるとおもう。[BREAK][END]
+2F6-E: @おれは つよい。[BREAK]くちばっかしだけどな。[BREAK][END]
+2F7-E: @[03 13]の あにきがいたら[BREAK]おまえなんか ゆびさきで[BREAK]ヒョイッ さ。[BREAK][END]
+2F8-E: @カンバンの もじは[BREAK]ちゃんと よんどるかね？[BREAK][END]
+2F9-E: @もし どこかのさばくで[BREAK]かおのあるサボテンを[BREAK]みつけたら[..][..][BREAK][PAUSE]@とても こわいざますわね。[BREAK][END]
+2FA-E: @つりびとに はなしかけると[BREAK]はなしが ながくて いけないね。[BREAK][END]
+2FB-E: @しょうがく いちねんせいだったら[BREAK]さかあがりくらい[BREAK]できるものよねぇ。[BREAK][END]
+2FC-E: @こちらのエレベーターで[BREAK]てんぼうだいまで[BREAK]おあがりください。[BREAK][END]
+2FD-E: @ここの てんぼうだいから[BREAK]みえる しまで けむりがでてたよ。[BREAK]だれか すんでいるのかなぁ？[BREAK][PAUSE]@ぼうえんきょうで みてみれば[BREAK]よかったなあ。[BREAK][END]
+2FE-E: @ぼく さかあがりできないのよ。[BREAK][END]
+2FF-E: @わたしは[BREAK]ひきざんの くりさがりが[BREAK]まだ よくわからない。[BREAK][END]
+300-E: @いちごあじのとうふって[BREAK]とかいのほうで[BREAK]はやってるらしいな。[BREAK][PAUSE]@くってみてぇよ。[BREAK][END]
+301-E: @はら へったな。[BREAK][END]
+302-E: @おれを ただのおじさんと[BREAK]おもうなよ。[BREAK][PAUSE]@って うちのパパのくちぐせなの。[BREAK][END]
+303-E: @あなた ちこくよね！[BREAK][END]
+304-E: @りかしつで[BREAK]へんなせんせいを みなかったぁ？[BREAK][PAUSE]@[..][..]わたし みた。[BREAK][END]
+305-E: @あのゲーム やった？[BREAK]おれ まだ やってないんだ。[BREAK][END]
+306-E: @いらっしゃいませ。[BREAK]なにを さしあげましょう？[BREAK][END]
+307-E: @もうしわけありません。[BREAK]そのしなは[BREAK]ただいまうりきれで ございます。[BREAK][END]
+308-E: @あら おやめになるんですか？[BREAK]ざんねんですが[..][..][BREAK][PAUSE]@またの ごらいてんを[BREAK]おまちしております。[BREAK][END]
+309-E: @ありがとうございました。[BREAK]また ごりようください。[BREAK][END]
+30A-E: @おや やめるんですか？[BREAK]では またきてくださいね。[BREAK][END]
+30B-E: @[03 1B]さん[BREAK]げんきになって よかったわね。[BREAK]また いつでもどうぞ！[BREAK][END]
+30C-E: @あら あなたのおともだちでしょ？[BREAK]ほんとに しんじゃいますよ。[BREAK][END]
+30D-E: @はいはい[BREAK]ひとり [03 1E]ドルで[BREAK]しんさつしてあげましょうね。[BREAK][END]
+30E-E: @ほんとに ちりょうは いらない？[BREAK]あっそ。[BREAK][END]
+30F-E: @わたしのみたてでは[BREAK]どこも わるくないようだよ。[BREAK][END]
+310-E: @はい すっかりよくなったよ。[BREAK][END]
+311-E: 
+312-E: @しんじようが しんじまいが[BREAK]わたしは ヒーラー。[BREAK]どうしたい？[BREAK][END]
+313-E: @おお そうか。 そうしなさい。[BREAK][END]
+314-E: @[03 1E]ドル[BREAK]いただいておこうか。[BREAK][END]
+315-E: @いらっしゃいませ。[BREAK]ひとばん [03 1E]ドルに[BREAK]なりますが おとまりになりますか？[BREAK][END]
+316-E: @それは ざんねんです。[BREAK]また いらしてくださいね。[BREAK][END]
+317-E: @では ごゆっくり。[BREAK][END]
+318-E: @おはようございます。[BREAK]また おたちよりください。[BREAK]おまちしております。[BREAK][END]
+319-E: @[03 1B]さんでしたら[BREAK]さっき はこびこまれましたよ。[BREAK]いしきが もどらないんですが[..][..][BREAK][PAUSE]@ちりょうひを [03 1E]ドル[BREAK]おしはらい ください。[BREAK][END]
+31A-E: @どなたに ごめんかいですか？[BREAK][END]
+31B-E: 
+31C-E: @パパは るすです。[BREAK]だから[BREAK]おかねのことは わかんないけど[BREAK][PAUSE]ほかは[BREAK]ぼくが ちゃんとやりますから[BREAK]あんしんして とまってください。[BREAK][END]
+31D-E: @おはよう。[BREAK]また とまりにきてね。[BREAK]ひとりぼっちで さみしいんだ。[BREAK][END]
+31E-E: @なんだ とまっていかないの[..][..][BREAK][PAUSE]@パパがいなくても ぼくがちゃんと[BREAK]かわりをするから[BREAK]だいじょうぶなのに[..][..][BREAK][END]
+31F-E: @あらっ チケットがなきゃ[BREAK]はいれないわよ。[BREAK][END]
+320-E: @しかし[..][..][..][BREAK]なにもなかった。[BREAK][END]
+321-E: 
+322-E:   あずける   もちだす[END]
+323-E: @なにももってないじゃない。[BREAK][END]
+324-E: @なにも あずかってないわよ。[BREAK][END]
+325-E: @ちょっとまって[..][..][..][BREAK][PAUSE]@そうこが いっぱいだから[BREAK]もうあずかれないよ。[BREAK][END]
+326-E: @イラッシャイマセ[BREAK][END]
+327-E: @ザンダカガ タリマセン[BREAK][END]
+328-E: 
+329-E: @オカネガ タリマセン[BREAK][END]
+32A-E: @モウシワケ アリマセン[BREAK][PAUSE]トリヒキ ゲンドガクヲ[BREAK]コエマシタノデ[BREAK]オアズカリ デキマセン[BREAK][END]
+32B-E: @アリガトウ ゴザイマシタ[BREAK][END]
+32C-E: @にんぎょうの なかには[BREAK]ふるい オルゴールが[BREAK]かくされていた。[BREAK][PAUSE]@[03 3E]は[BREAK]オルゴールをあけた。[BREAK][PAUSE]@とぎれとぎれに[BREAK]メロディーがながれた。[BREAK][END]
+32D-E: @ ？[BREAK][END]
+32E-E: @ありがとう ございました。[BREAK][END]
+32F-E: @おれ ぶきをてにいれる[BREAK]いいルートを もっているんだ。[BREAK][PAUSE]@そのうち すごいぶきを[BREAK]てにいれられる かもな。[BREAK][END]
+330-E: 
+331-E: @[03 16][03 17]は[BREAK]たたかいに かった。[BREAK][END]
+332-E:   ヒキダス   アズケル[END]
+333-E: @ゲンザイ [FE][03 19][DOUBLEZERO][BREAK]オアズカリ シテイマス[BREAK][END]
+334-E: @カギが かかっている。[BREAK][END]
+335-E: @カギが あわないようだ。[BREAK][END]
+336-E: @[03 16][03 17]は[BREAK]カギをあけて なかにはいった。[BREAK][END]
+337-E:   きろくする  とくにない[END]
+338-E:   つずける   おわる[END]
+339-E: @[03 3E]は[BREAK]じゅわきを とった。[BREAK][END]
+33A-E: @しつれいですが[..][..][BREAK]おかねが たりないようですよ。[BREAK][END]
+33B-E: @まあ おきゃくさま[BREAK]おかねが たりませんわ。[BREAK][END]
+33C-E: @おきゃくさま[BREAK]それいじょうおもちになろうなんて[BREAK][PAUSE]おやめになったほうが[BREAK]よろしいとおもいます。[BREAK][END]
+33D-E: @っはい！ もうなおってる。[BREAK]すごいでしょ。[BREAK][END]
+33E-E: @もうしわけありません。[BREAK][03 1D]は[BREAK]かいとれません。[BREAK][END]
+33F-E: @うたひめローラは わがこ と[BREAK]たいめんして おおよろこびで[BREAK]うたを うたいはじめた。[BREAK][END]
+340-E: @[03 16]は[BREAK]メロディーをおぼえた。[BREAK][END]
+341-E: @カナリアが うたっている。[BREAK][END]
+342-E: @サルは[BREAK]どうぶつえんのカギをぬすんだ。[BREAK][END]
+343-E: @ロボットは ふるく[BREAK]さびついていた。[BREAK][END]
+344-E: @[03 10]の けはいを[BREAK]かんじた しゅんかん[BREAK][PAUSE]ロボットは[BREAK]いのちを ふきこまれた。[BREAK][END]
+345-E: @[03 1B]は [03 1E][BREAK][END]
+346-E: @がんばりなさい。[BREAK][END]
+347-E: 
+348-E: @いずみの みずにふれると[BREAK]すっごく げんきになりました。[BREAK][END]
+349-E: 
+34A-E: @ピッピ！[BREAK]よかったわ よかったわ。[BREAK]ほんとによかった。[BREAK][PAUSE]@ちょうちょうさんも[BREAK]ピッピを さがしてくれてるはずよ。[BREAK][PAUSE]@ちゃんと ごあいさつに[BREAK]いってきてちょうだい。[BREAK][END]
+34B-E: @はいってます！[BREAK]って ここはトイレじゃないけどな。[BREAK][PAUSE]@いま てがはなせないんだ。[BREAK]あとでおいで。[BREAK][END]
+34C-E: @だれが どくに やられたんだね？[BREAK][END]
+34D-E: @だれを やわらかくしようかね[..][..]？[BREAK][END]
+34E-E: @どくなんか ない！[BREAK][END]
+34F-E: @かたくなって ないじゃないか。[BREAK][END]
+350-E: @あそこは むかし[BREAK]ペンシルロケットを[BREAK]じゃんじゃん つくってたんだよ。[BREAK][END]
+351-E: @うちの にょうぼうは[BREAK]しょだいの ミスいなかまち[BREAK]だったんだ。[BREAK][END]
+352-E: @カギは あけたよ。[BREAK]おくじょうは けしきがいいぞ。[BREAK][END]
+353-E: @あとで ダンカンのだいこうじょうに[BREAK]いこう。[BREAK][PAUSE]@あそこには すっごいロケットが[BREAK]あるらしいんだ。[BREAK][END]
+354-E: @みんなが ぼくのことを[BREAK]よわむしとか けむしとか[BREAK]アホタレとか[BREAK][PAUSE]うわさしてなかったかなぁ。[BREAK][END]
+355-E: @いや[..][..]あさになってしまったな。[BREAK][END]
+356-E: @としよりを たいせつにしなさいね。[BREAK]ゴホゴホ。[BREAK][END]
+357-E: @チビ！[BREAK]きやすく はなしかけんじゃねぇよ。[BREAK][END]
+358-E: @ある[BREAK]ファミコンソフトのはなしだけどね。[BREAK][PAUSE]@マザーって タイトルに[BREAK]きまったらしいんだけど[BREAK][PAUSE]ジョン*レノンの まねだよな。[BREAK][END]
+359-E: 
+35A-E: @レインディアの えきにいる[BREAK]おばあさんは とっても[BREAK]たいせつなものを くれるんだけど[BREAK][PAUSE]@あなた[03 17]は あったかしら[..][..][BREAK][END]
+35B-E: @さいごの ヒントよ。[BREAK]マジカントこくの ギターひきの[BREAK]うたは ぜひ きいてね。[BREAK][END]
+35C-E: @なにか あるなとおもったら[BREAK]こまめに チェックするといいぞ。[BREAK][END]
+35D-E: @うたうサルは しみじみとうたった。[BREAK][END]
+35E-E: @サボテンは うたう。[BREAK]なぜか うたう。[BREAK]せつせつと うたいつずけた。[BREAK][END]
+35F-E: @ピアノは ひとりでに[BREAK]けんばんが うごいて[BREAK]えんそうを はじめた。[BREAK][END]
+360-E: @ドラゴンは いがいと すなおに[BREAK]ふるい がくふを みせてくれた。[BREAK][PAUSE]@こんな うただった。[BREAK][END]
+361-E: @ロボット イ[??]は[BREAK]はかいされ うごかなくなった。[BREAK][PAUSE]@イ[??]の むねのあたりから[BREAK]おんがくが ながれてきた。[BREAK][END]
+362-E: <よにも めずらしい うたうさるは[BREAK]とう シュークリームどうぶつえんに[BREAK]しか おりません。>[BREAK][END]
+363-E: @かいだんの うえの とびらには[BREAK]おおきな じょうまえが[BREAK]かかっている。[BREAK][END]
+364-E: @わたしは スノーマンのまちの[BREAK]ひとたちのために ここにのこるが[BREAK]どうか[..][..]きをつけて[..][..]いって。[BREAK][END]
+365-E: @おかねが たりません。[BREAK][END]
+366-E: @やっぱり こわいから[BREAK][03 10]ちゃん[BREAK]さきに あるいてよ。[BREAK][END]
+367-E: @よくみると とびらの カギは[BREAK]こわれていた。[BREAK][03 3E]は とびらを あけた。[BREAK][END]
+368-E: @あっ [03 13]さん[BREAK]こんにちは ッス。[BREAK][END]
+369-E: @[03 13]のアニキを はやく[BREAK]カムバックさせてくれよう！[BREAK][END]
+36A-E: @あ だめだめ。[BREAK][03 1D]は[BREAK]あずかれないのよ。[BREAK][PAUSE]@わたし わがままなの。[BREAK][END]
+36B-E: <[03 10]の[BREAK]えいえんのしもべ。[BREAK][PAUSE]ゆうかんなる フライングマンせんし[BREAK]ここに ねむる。>[BREAK][END]
+36C-E: <[03 10]の[BREAK]うちなる ちから。[BREAK][PAUSE]ゆうかんなる フライングマンせんし[BREAK]ここに ねむる。>[BREAK][END]
+36D-E: <[03 10]の[BREAK]ぜんなる こころ。[BREAK][PAUSE]ゆうかんなる フライングマンせんし[BREAK]ここに ねむる。>[BREAK][END]
+36E-E: <[03 10]の[BREAK]おおいなる かなしみ。[BREAK][PAUSE]ゆうかんなる フライングマンせんし[BREAK]ここに ねむる。>[BREAK][END]
+36F-E: <[03 10]の[BREAK]ち と にく。[BREAK][PAUSE]ゆうかんなる フライングマンせんし[BREAK]ここに ねむる。>[BREAK][END]
+370-E: @ちょうちょうさんの めいれいで[BREAK][PAUSE]どうぶつえんの じけんが[BREAK]かいけつするまで[BREAK]ここは とおれないんだぞ。[BREAK][PAUSE]@ちょっと ロコツな[BREAK]やりかただけどな。[BREAK][END]
+371-E: @このおくの やまのどうくつに[BREAK]へんな いわが あるんだぞ。[BREAK][PAUSE]@あんまりへんだから[BREAK]けんぶつすると いいぞ。[BREAK][END]
+372-E: @ところで[..][..][BREAK]おまえ[03 17] テレパシーとかが[BREAK]できるんだってな。[BREAK][PAUSE]@だいひょうばんだぞ。[BREAK][PAUSE]@この にんきもの！[BREAK][END]
+373-E: @あんた[03 17][BREAK]スノーマンに いくのかい？[BREAK][END]
+374-E: @このぼうしを ひろったんだけど[BREAK]スノーマンにいる おんなのこの[BREAK]ものらしいの。[BREAK][PAUSE]@とどけてあげて ちょうだいな。[BREAK][END]
+375-E: @たのみたいことが あったんだけど[BREAK]ざんねんだわ。[BREAK][END]
+376-E: @かっこいいしょうねんは[BREAK]どくとくの うたをうたった。[BREAK][PAUSE]@[03 16]は[BREAK]このメロディーは[BREAK]さすがに おぼえられなかった。[BREAK][END]
+377-E: @すみません。[BREAK]ちょっと アンケートに[BREAK]こたえていただけますか？[BREAK][END]
+378-E: 
+379-E: @あなたは[BREAK]きしゃの うんちんを[BREAK]たかいと おもいますか？[BREAK][END]
+37A-E: @あなたは[BREAK]ふしぎなメガホンを[BREAK]つかいましたか？[BREAK][END]
+37B-E: @ごきょうりょく[BREAK]ありがとうございました。[BREAK]おれいの テレホンカードです。[BREAK][END]
+37C-E: @すいません。 ちょっと[..][..][BREAK]アンケートに[..][..][..][BREAK][PAUSE]@あっ[BREAK]まえに おねがいしましたっけね。[BREAK][END]
+37D-E: @こころの さけびを ききつけて[BREAK]おたすけじいさんが[BREAK]とうじょうした。[BREAK][END]
+37E-E: @[03 3E]は[BREAK]カンオケを あけた。[BREAK]カンオケのなかから[..][..]！！[BREAK][END]
+37F-E: @[03 16]は[BREAK]ぼうえんきょうを のぞいた。[BREAK][END]
+380-E: @うみが きれいだった。[BREAK][END]
+381-E: @むこうのしまで[BREAK]なにかが ひかった！[BREAK][END]
+382-E: @カプセルのなかから[BREAK]なにかが とびだした。[BREAK][END]
+383-E: @[03 12][BREAK]<パパ[..][..]いまは[..][..]さよなら。[BREAK][PAUSE]つぎに あうときは[BREAK]きっと ママといっしょよ！[BREAK][PAUSE][..][..]いのっててください。>[BREAK][END]
+384-E: [END]
+385-E: @だれに はなしているのだ。[BREAK][END]
+386-E: @なに？[BREAK][END]
+387-E: @もんだいなし。[BREAK][END]
+388-E: @(The voice of Queen[BREAK]Mary speaks)[BREAK][PAUSE]@I am the[BREAK]consciousness of[BREAK]Maria.[BREAK][PAUSE]@[03 10][03 3F] use my[BREAK]last power！[BREAK][PAUSE]@Then[03 3F] as the voice[BREAK]became a whisper of[BREAK]wind...[BREAK][PAUSE]@The rock[BREAK]disintegrated.[BREAK][PAUSE]@Leaving only a[BREAK]pile of very fine[BREAK]sand at their feet.[BREAK][END]
+389-E: 
+38A-E: 
+38B-E: @ぶきを おさがしでしたら[BREAK]こちらは いかがでしょうか。[BREAK][END]
+38C-E: @ありがとうございました。[BREAK][END]
+38D-E: 
+38E-E: @[03 1A]は[BREAK][03 1C]を つかった。[BREAK][END]
+38F-E: @[03 1A]は[BREAK][03 1C]を[BREAK]つかえない。[BREAK][END]
+390-E: @やめてください。[BREAK][END]
+391-E: @[03 1A]は[BREAK][03 1C]を[BREAK]そうびした。[BREAK][END]
+392-E: @[03 1A]は[BREAK][03 1C]を[BREAK]そうびできない。[BREAK][END]
+393-E: @[03 1A]は[BREAK][03 1C]を[BREAK]すててしまった。[BREAK][END]
+394-E: @[03 1C]は[BREAK]すててはいけない。[BREAK][END]
+395-E: @[03 1A]は [03 1B]に[BREAK][03 1C]を[BREAK]わたした。[BREAK][END]
+396-E: @[03 1C]は[BREAK]わたせない。[BREAK][END]
+397-E: @[03 1B]は[BREAK]これいじょう ものをもてない。[BREAK][END]
+398-E: @なにも おこらない。[BREAK][END]
+399-E: @[03 3E]は[BREAK]プレゼントのはこを あけた。[BREAK][END]
+39A-E: @[03 1D]が あった。[BREAK][END]
+39B-E: @[03 16][03 17]は[BREAK][03 1D]を てにいれた。[BREAK][END]
+39C-E: 
+39D-E: @しかし これいじょう[BREAK]ものを もてない。[BREAK][END]
+39E-E: 
+39F-E: 
+3A0-E: 
+3A1-E: @しかし からっぽだった。[BREAK][END]
+3A2-E:   ドクをけす  やわらかくする[END]
+3A3-E: <みなみ*マザーズデイ[BREAK] きた *シュークリーム[BREAK]        どうぶつえん>[BREAK][END]
+3A4-E: <このおく カナリアむら。[BREAK] しぜんを たいせつにしよう！>[BREAK][END]
+3A5-E: <マザーズデイ まちやくば>[BREAK][END]
+3A6-E: <にし*うみのてんぼうだい[BREAK] きた*バレンタインみなと[BREAK]       うみをきれいに！>[BREAK][END]
+3A7-E: <にし *バレンタイン[BREAK] ひがし*ホーリーローリー[BREAK]          マウンテン>[BREAK][END]
+3A8-E: <にし    *ヒーラーのいえ[BREAK] はしのむこう*はかば[BREAK]    ひとりあるき きけん！>[BREAK][END]
+3A9-E: <にし *マザーズデイ[BREAK] ひがし*サンクスギビング>[BREAK][END]
+3AA-E: <シュークリームどうぶつえんは[BREAK]    にしに 700メートル>[BREAK][END]
+3AB-E: <スノーマンきょうかい このおく>[BREAK][END]
+3AC-E: <にし *バレンタイン[BREAK] みなみ*しっちたい>[BREAK][END]
+3AD-E: <サンクスギビングおおどおり[BREAK] みなみ*ティンクル[BREAK]        しょうがっこう>[BREAK][END]
+3AE-E: <[03 10] の いえ>[BREAK][END]
+3AF-E: <サンクスギビングへ ようこそ！[BREAK] にし*マザーズデイ[BREAK] きた*サンタクロースえき>[BREAK][END]
+3B0-E: <にし *ヒーラーのいえ[BREAK] ひがし*レインディアえき[BREAK] みなみ*レインディアのまち>[BREAK][END]
+3B1-E: <にし *ハロウィーンダウンタウン[BREAK] ひがし*ハロウィーン[BREAK]         じゅうたくち>[BREAK][END]
+3B2-E: <ひがし*しっちたい>[BREAK][END]
+3B3-E: <このさき[BREAK] ローズマリーさんの しゆうち>[BREAK][END]
+3B4-E: <バレンタイン けいさつしょ>[BREAK][END]
+3B5-E: <れいのみせ[BREAK]      けんせつよていち[BREAK]   ダンカンけんせつがいしゃ>[BREAK][END]
+3B6-E: @アニハ ウツクシク[BREAK]タオレタト キキマス。[BREAK][PAUSE]@ハカヲ タテテ[BREAK]テアツク トムライマシタ。[BREAK][PAUSE]@ツギハ ワタシノ バンデス。[BREAK][END]
+3B7-E: @ワタシモ ハヤク[BREAK]アナタノ オテツダイガ シタイ。[BREAK][END]
+3B8-E: @ワタシハ ふらいんぐまん。[BREAK]アナタノ チカラニナル。[BREAK]ソノタメニ ウマレテキタ。[BREAK][END]
+3B9-E: @かいげんれいは とかれた。[BREAK]ちょっと おおげさだったけどな。[BREAK][END]
+3BA-E: @ふるぼけた ロケットだ。[BREAK][END]
+3BB-E: @グッズを とりにきたのね。[BREAK]はい どうぞ。[BREAK][END]
+3BC-E: @グッズは ぜんぶわたしたわよ。[BREAK]でも また あいにきてね。[BREAK][END]
+3BD-E: @わたし ミニーよ。[BREAK][END]
+3BE-E:   きをいれる  やわらかくする[END]
+3BF-E: @[03 13][BREAK]<おまえら[BREAK]ふたりで いたいんだろう。[BREAK][PAUSE]おれ ここで ねてるわ。>[BREAK][END]
+3C0-E: @しまった！ まにあわなかった。[BREAK][END]
+3C1-E: @[..][..]よかった。[BREAK][END]
+3C2-E: @[03 13][BREAK]<おい！ なんか[BREAK]とんでもないおとが したぜ。>[BREAK][END]
+3C3-E: @[03 13][BREAK]<ほーんとかよ！？>[BREAK][END]
+3C4-E: @ボートは[BREAK]エンジンの ちょうしが[BREAK]わるいようだ。[BREAK][END]
+3C5-E: @[03 16]には[BREAK]うごかすことが できない。[BREAK][END]
+3C6-E: @しかし [03 11]は[BREAK]じょうずに エンジンを[BREAK]かけることが できた。[BREAK][END]
+3C7-E: @[03 1D]ですね。[BREAK]ちゃんと [03 10]さんの[BREAK]うちへ おくっておきますね。[BREAK][PAUSE]@ほかに あずかるものは[BREAK]ありますか？[BREAK][END]
+3C8-E: @こんな せまいなかに[BREAK]とじこめられて[..][..][BREAK]これから どうなるんだろう。[BREAK][END]
+3C9-E: <スイートリトル こうじょう>[BREAK][END]
+3CA-E: @やまのうえの[BREAK]マザーシップに つれていかれて[BREAK]きがついたら こんなことに[..][..][BREAK][PAUSE]@なんとかしてくれ！[BREAK][END]
+3CB-E: @スペルの まちがいは ないですね？[BREAK][END]
+3CC-E: @どうぶつたちを くるわせていた[BREAK]あやしいおとは きえた。[BREAK]どうぶつえんは あんぜんになった。[BREAK][END]
+3CD-E: 
+3CE-E: @だいじな せんしゃだからな。[BREAK]こわさんようにな。[BREAK][END]
+3CF-E: @いぬの くびわには[BREAK]ちかしつのカギが さがっていた。[BREAK][END]
+3D0-E: @へっへっへ あっしは[BREAK]おせっかいな ねずみです。[BREAK][PAUSE]@まちの いえには[BREAK]はいれる いえと[BREAK]はいれない いえが あります。[BREAK][PAUSE]@まるいドアと かんばんのあるドアは[BREAK]はいれる いえ。[BREAK][PAUSE]@あとは はいろうとしても[BREAK]あたまを ぶつけるだけでさぁ。[BREAK][PAUSE]@さいなら。[BREAK][END]
+3D1-E: 
+3D2-E: @テレポーテーションを[BREAK]おもちゃに するんじゃないぞ。[BREAK][END]
+3D3-E: @ほんとうの こどものように[BREAK]かわいがったのに[..][..][BREAK][END]
+3D4-E: @しっぽを ふってた[BREAK]あかちゃんだった[..][..][BREAK]こもりうたを[..][..]でも[..][..][BREAK][END]
+3D5-E: @ああ ジョージ！[BREAK]あなたの つま マリアです。[BREAK][PAUSE]@あなたのまつ てんごくに[BREAK]わたしも いまから むかいます[..][..][BREAK][END]
+3D6-E: @キャッシュカードヲ イレテクダサイ[BREAK][END]
+3D7-E: @そんなに げんきんを[BREAK]もちあるいては いけない。[BREAK][END]
+3D8-E: @このまえの[BREAK]セーブデータまで もどるが[BREAK]それで よいのか？[BREAK][END]
+3D9-E: @<はい>って いったのに[BREAK]もってないじゃないか。[BREAK]アハハハハ。[BREAK][END]
+3DA-E: @こきゅうが みだれて[BREAK]くるしそうだ。[BREAK][END]
+3DB-E: @まだ グッズをわたせる[BREAK]なかまが いない。[BREAK][END]
+3DC-E: @[03 1D]ですね。[BREAK]たしかに おわたししましたよ。[BREAK][PAUSE]@ほかに もっていくものは[BREAK]ありますか？[BREAK][END]
+3DD-E: @もちきれない みたいだけど[BREAK]ほかのひとに わたしますか？[BREAK][END]
+3DE-E: @そうこが いっぱいです。[BREAK][END]
+3DF-E: @クイーンマリーは[BREAK][03 10]に かたりおえると[BREAK]かぜのなかに きえていった。[BREAK][PAUSE]@そして マジカントのくにも[BREAK]また あとかたもなく[BREAK]かききえた。[BREAK][PAUSE]@マジカントのくに とは[BREAK]マリーのいしきが うみだした[BREAK]まぼろしだったのだ。[BREAK][END]
+3E0-E: @わたしが[BREAK]あなた[03 17]を よんだのです。[BREAK][PAUSE]@[03 10]！[BREAK][PAUSE][03 12]！[BREAK][03 11]！[BREAK][03 13]！[BREAK][PAUSE]@そして すべての[BREAK]ゆうきある こどもたち。[BREAK][PAUSE]@いまが そのときです！[BREAK][END]
+3E1-E: @しーっ！ わたくしどもも[BREAK]あなた[03 17]と おなじように[BREAK]あっちの せかいの にんげんです。[BREAK][PAUSE]@おかねさえ いただければ[BREAK]マジカントの すばらしいおみやげを[BREAK]わけて さしあげますよ。[BREAK][PAUSE]@ヒッヒッヒ。[BREAK][END]
+3E2-E: @でんしゃにのらないと オレみたいに[BREAK]なっちゃうぜ。[BREAK][END]
+3E3-E: @ほかに ございますか？[BREAK][END]
+3E4-E: @ようこそ [03 16][..][..][BREAK][PAUSE]@かならず ここまで[BREAK]たどりつくことができると[BREAK]しんじていました。[BREAK][PAUSE]@そのむかし [03 10]の[BREAK]そうそぼ マリアは[BREAK][PAUSE]@8つのメロディー それぞれに[BREAK]せいいっぱいの あいをちりばめ[BREAK][PAUSE]@まだみぬ あなた[03 17]への[BREAK]おくりものとしたのです[..][..][BREAK][PAUSE][END]
+3E5-E: @クリスタルの かがやきを あびて[BREAK]ぜんいん かんぜんに かいふくした！[BREAK][END]
+3E6-E: 
+3E7-E: [END]
+3E8-E: [END]
+3E9-E: でかぶくろ[END]
+3EA-E: テレホンカード[END]
+3EB-E: パンくず[END]
+3EC-E: まよけのゆびわ[END]
+3ED-E: ITEM05[END]
+3EE-E: メモリーチップ[END]
+3EF-E: [END]
+3F0-E: [END]
+3F1-E: [END]
+3F2-E: ナイフ[END]
+3F3-E: サバイバルナイフ[END]
+3F4-E: アシガルソード[END]
+3F5-E: KATANA[END]
+3F6-E: ショックガン[END]
+3F7-E: エアガン[END]
+3F8-E: ボロのバット[END]
+3F9-E: ふつうのバット[END]
+3FA-E: いいバット[END]
+3FB-E: さいこうのバット[END]
+3FC-E: フライパン[END]
+3FD-E: いいフライパン[END]
+3FE-E: とびきりのフライパン[END]
+3FF-E: スリングショット[END]
+400-E: ブーメラン[END]
+401-E: さっちゅうスプレー[END]
+402-E: スーパースプレー[END]
+403-E: ノミとシラミ[END]
+404-E: あいのことば[END]
+405-E: のろいのことば[END]
+406-E: ねばねばマシン[END]
+407-E: やみのライト[END]
+408-E: いしのもと[END]
+409-E: どくばり[END]
+40A-E: かえんほうしゃき[END]
+40B-E: ボム[END]
+40C-E: スーパーボム[END]
+40D-E: レーザービーム[END]
+40E-E: デスビーム[END]
+40F-E: ITEM39[END]
+410-E: ロープ[END]
+411-E: [END]
+412-E: [END]
+413-E: [END]
+414-E: [END]
+415-E: やすらぎのコイン[END]
+416-E: まもりのコイン[END]
+417-E: まふうじのコイン[END]
+418-E: ようせいのうでわ[END]
+419-E: てんしのうでわ[END]
+41A-E: めがみのうでわ[END]
+41B-E: しずくのペンダント[END]
+41C-E: ほのおのペンダント[END]
+41D-E: だいちのペンダント[END]
+41E-E: うみのペンダント[END]
+41F-E: ITEM55[END]
+420-E: ITEM56[END]
+421-E: ITEM57[END]
+422-E: [END]
+423-E: [END]
+424-E: オレンジジュース[END]
+425-E: フライドポテト[END]
+426-E: マジックハーブ[END]
+427-E: ハンバーガー[END]
+428-E: スポーツドリンク[END]
+429-E: きずぐすり[END]
+42A-E: ぜんそくスプレー[END]
+42B-E: どくけし[END]
+42C-E: うがいぐすり[END]
+42D-E: いちごとうふ[END]
+42E-E: ITEM70[END]
+42F-E: パン[END]
+430-E: エンジェルシード[END]
+431-E: サイパワーストーン[END]
+432-E: [END]
+433-E: ふしぎなリボン[END]
+434-E: ふしぎなキャンディ[END]
+435-E: ITEM77[END]
+436-E: スピードカプセル[END]
+437-E: ウィズダムカプセル[END]
+438-E: フィジカルカプセル[END]
+439-E: フォースカプセル[END]
+43A-E: ファイトカプセル[END]
+43B-E: [END]
+43C-E: [END]
+43D-E: ちかしつのカギ[END]
+43E-E: どうぶつえんのカギ[END]
+43F-E: ゆうれいやしきのカギ[END]
+440-E: そうそふのにっき[END]
+441-E: つうこうきょかしょう[END]
+442-E: ライブのチケット[END]
+443-E: [END]
+444-E: [END]
+445-E: [END]
+446-E: [END]
+447-E: カナリアのこども[END]
+448-E: ITEM96[END]
+449-E: ペンシルロケット[END]
+44A-E: ぼうし[END]
+44B-E: いれば[END]
+44C-E: チケットのはんけん[END]
+44D-E: ICチップ[END]
+44E-E: きぼうのオカリナ[END]
+44F-E: ITEM103[END]
+450-E: フランクリンバッジ[END]
+451-E: ゆうじょうのゆびわ[END]
+452-E: ITEM106[END]
+453-E: めのうのつりばり[END]
+454-E: さいしゅうへいき[END]
+455-E: ものさし[END]
+456-E: キャッシュカード[END]
+457-E: あかいくさ[END]
+458-E: ふしぎなメガホン[END]
+459-E: ちず[END]
+45A-E: [END]
+45B-E: [END]
+45C-E: [END]
+45D-E: [END]
+45E-E: [END]
+45F-E: [END]
+460-E: [END]
+461-E: [END]
+462-E: [END]
+463-E: [END]
+464-E: [END]
+465-E: [END]
+466-E: [END]
+467-E: ざひょう[END]
+468-E: [END]
+469-E: テレパシー[END]
+46A-E: テレポーテーション[END]
+46B-E: [END]
+46C-E: [END]
+46D-E: [END]
+46E-E: [END]
+46F-E: [END]
+470-E: ライフアップ[ALPHA][END]
+471-E: ライフアップ[BETA][END]
+472-E: ライフアップ[GAMMA][END]
+473-E: ライフアップ[PIZ][END]
+474-E: ライフアップ[OMEGA][END]
+475-E: [END]
+476-E: [END]
+477-E: [END]
+478-E: ヒーリング[ALPHA][END]
+479-E: ヒーリング[BETA][END]
+47A-E: ヒーリング[GAMMA][END]
+47B-E: ヒーリング[PIZ][END]
+47C-E: スーパーヒーリング[END]
+47D-E: サイコシールド[ALPHA][END]
+47E-E: サイコシールド[BETA][END]
+47F-E: パワーシールド[END]
+480-E: ブレインショック[END]
+481-E: ブレインサイクロン[END]
+482-E: さいみんじゅつ[END]
+483-E: パラライシス[END]
+484-E: ダークネス[END]
+485-E: サイマグネット[END]
+486-E: シールドオフ[END]
+487-E: サイコブロック[END]
+488-E: オフェンスアップ[END]
+489-E: ディフェンスアップ[ALPHA][END]
+48A-E: ディフェンスアップ[BETA][END]
+48B-E: クイックアップ[END]
+48C-E: ディフェンスダウン[ALPHA][END]
+48D-E: ディフェンスダウン[BETA][END]
+48E-E: じげんスリップ[END]
+48F-E: さいみんじゅつ[END]
+490-E: PKフリーズ[ALPHA][END]
+491-E: PKフリーズ[BETA][END]
+492-E: PKフリーズ[GAMMA][END]
+493-E: PKフリーズ[OMEGA][END]
+494-E: PKファイアー[ALPHA][END]
+495-E: PKファイアー[BETA][END]
+496-E: PKファイアー[GAMMA][END]
+497-E: PKファイアー[OMEGA][END]
+498-E: PKビーム[ALPHA][END]
+499-E: PKビーム[BETA][END]
+49A-E: PKビーム[GAMMA][END]
+49B-E: PKビーム[OMEGA][END]
+49C-E: PKサンダー[ALPHA][END]
+49D-E: PKサンダー[BETA][END]
+49E-E: PKサンダー[GAMMA][END]
+49F-E: [END]
+4A0-E: [END]
+4A1-E: [END]
+4A2-E: [END]
+4A3-E: [END]
+4A4-E: [END]
+4A5-E: [END]
+4A6-E: [END]
+4A7-E: [END]
+4A8-E: いしきふめい[END]
+4A9-E: いしになった[END]
+4AA-E: まひしている[END]
+4AB-E: ねむっている[END]
+4AC-E: こんらんした[END]
+4AD-E: まどわされた[END]
+4AE-E: どくをうけた[END]
+4AF-E: かぜをひいた[END]
+4B0-E: [END]
+4B1-E: Aコース[END]
+4B2-E: Bコース[END]
+4B3-E: Cコース[END]
+4B4-E: ヒント1[END]
+4B5-E: ヒント2[END]
+4B6-E: ヒント3[END]
+4B7-E: どくけし[END]
+4B8-E: どくけし[END]
+4B9-E: どくけし[END]
+4BA-E: どくけし[END]
+4BB-E: ロケット(ほんもの)[END]
+4BC-E: タイムマシン[END]
+4BD-E: 
+4BE-E: 
+4BF-E: 
+4C0-E: 
+4C1-E: 
+4C2-E: 
+4C3-E: 
+4C4-E: 
+4C5-E: 
+4C6-E: 
+4C7-E: 
+4C8-E: 
+4C9-E: 
+4CA-E: 
+4CB-E: 
+4CC-E: 
+4CD-E: 
+4CE-E: [END]
+4CF-E: マイホーム[END]
+4D0-E: マザーズデイ[END]
+4D1-E: サンクスギビング[END]
+4D2-E: レインディア[END]
+4D3-E: ハロウィーン[END]
+4D4-E: スノーマン[END]
+4D5-E: イースター[END]
+4D6-E: バレンタイン[END]
+4D7-E: サンタクロース[END]
+4D8-E: 
+4D9-E: 
+4DA-E: 
+4DB-E: 
+4DC-E: 
+4DD-E: 
+4DE-E: 
+4DF-E: 
+4E0-E: 
+4E1-E: 
+4E2-E: 
+4E3-E: 
+4E4-E: 
+4E5-E: 
+4E6-E: 
+4E7-E: 
+4E8-E: 
+4E9-E: 
+4EA-E: 
+4EB-E: 
+4EC-E: 
+4ED-E: 
+4EE-E: 
+4EF-E: 
+4F0-E: 
+4F1-E: 
+4F2-E: 
+4F3-E: 
+4F4-E: 
+4F5-E: 
+4F6-E: 
+4F7-E: 
+4F8-E: 
+4F9-E: 
+4FA-E: 
+4FB-E: 
+4FC-E: 
+4FD-E: 
+4FE-E: 
+4FF-E: 
+500-E: 
+501-E: 
+502-E: 
+503-E: 
+504-E: 
+505-E: 
+506-E: 
+507-E: 
+508-E: 
+509-E: 
+50A-E: 
+50B-E: 
+50C-E: 
+50D-E: 
+50E-E: 
+50F-E: 
+510-E: 
+511-E: 
+512-E: 
+513-E: 
+514-E: [END]
+515-E:  たたかうべきか にげるべきか？[END]
+516-E:  とても じゅうような ひみつを[BREAK] にぎっているようだ。[END]
+517-E:  こいつを たおす ほうほうは[BREAK] はたして あるのだろうか？[END]
+518-E:  おもい からだで のしかかってきたり[BREAK] ながい はなで おそってくるぞ！[END]
+519-E:  だれかに エサを とられて[BREAK] きげんが そうとう よくない！[END]
+51A-E:  おどろいたか？[BREAK] じつざいの かいぶつ だったのだ！[END]
+51B-E:  はいきガスに ちゅうい。[BREAK] ぜんそくに なるぞ。[END]
+51C-E:  ロボットには さいみんじゅつは[BREAK] きかないでしょう。[END]
+51D-E:  PSIこうげきから みをまもる[BREAK] とくしゅな よろいを きている。[END]
+51E-E:  にんげんを いしに してしまう[BREAK] のうりょくが ある。[END]
+51F-E:  こんなやつは ちきゅうじょうには[BREAK] そんざいしない はずだ[..][..][END]
+520-E:  こんな ちんぴら るいじんえんに[BREAK] からまれている ばあいではない！[END]
+521-E:  ははおや いがいの だれもが[BREAK] おそれる つらがまえ。[END]
+522-E:  あの おそろしい めを みたか！？[END]
+523-E:  うんてんせきに だれも いないぞ！？[END]
+524-E:  かれには つよい なかまが いる。[END]
+525-E:  こいつの からは[BREAK] しんじられないほど かたい。[END]
+526-E:  さいみんじゅつを つかってくるぞ。[END]
+527-E: [END]
+528-E:  すばやさが こいつの ごじまん。[END]
+529-E:  しんじゅみたいに しろい やつに[BREAK] きをつけろ。[END]
+52A-E:  この どろぼう！！[END]
+52B-E:  ワニに しょくじに さそわれても[BREAK] おことわり しなさい。[END]
+52C-E:  あるく ねんりょうタンクだ。[END]
+52D-E:  なにかを まもっている ようだ。[END]
+52E-E:  FBIの しめいてはいリストの[BREAK] さいしょのほうに のっている。[END]
+52F-E:  ねは いいやつなのかも しれない。[END]
+530-E:  えいようふりょうの ロボット？[END]
+531-E:  かのじょの えがおに だまされるな。[END]
+532-E:  とおい ほしから きた おとこ。[END]
+533-E:  げんじつせかいの いきものではない。[END]
+534-E:  じゃあくな じっけんが うみだした[BREAK] うごきまわる のうみそ。[END]
+535-E:  さまざまな PSIを つかいこなす。[END]
+536-E:  こっちも よろいを みにつけたいよ。[END]
+537-E:  あやしく うごきまわる き。[END]
+538-E:  おこりっぽいので ようちゅうい。[END]
+539-E:  あの かみのけの なかに おはなを[BREAK] うえたら そだつかもね。[END]
+53A-E:  れいぞうこの ような からだつきの[BREAK] なかみは こおりの ハートだ。[END]
+53B-E:  ふりょうの リーダーを たおせば[BREAK] かれらは まともに なるだろう。[END]
+53C-E:  かおだけではなく[BREAK] こころも ゆがんでいる。[END]
+53D-E: [END]
+53E-E:  こいつの スマッシュヒットには[BREAK] ようちゅうい。[END]
+53F-E:  しつこい ふいうちに きをつけろ。[END]
+540-E:  もちものは だいじょうぶ？[BREAK] こいつは どろぼうなのだ。[END]
+541-E:  どくは もっていないはず。[BREAK] たぶん[..][..][END]
+542-E:  わらうものが さいごに かつ。[END]
+543-E:  こいつは ペットの ねことは[BREAK] おおちがい。[END]
+544-E:  さっちゅうざいで やっつけろー。[END]
+545-E:  はーーーっくしょん！！[END]
+546-E:  さっちゅうざいが よくきくぞ。[END]
+547-E:  さっちゅうざいを ためしてみる？[END]
+548-E:  どくが あるが さっちゅうざいで[BREAK] やっつけることが できるのだ。[END]
+549-E:  しばられないように しなければ。[END]
+54A-E:  マンガから とびだして きたような[BREAK] やつだな。[END]
+54B-E:  こいつの かおは いちばん[BREAK] かくのが かんたんです。[END]
+54C-E:  もし こいつが マスクを したら[BREAK] だれかと くべつが つかないな。[END]
+54D-E:  わりと へいぼんな おばけです。[END]
+54E-E:  しょくじの おさらと おなじくらいの[BREAK] おおきさなのだが。[END]
+54F-E:  かれにとって じんせいとは[BREAK] パズルのような ものらしい。[END]
+550-E:  まだ ちいさいが あきらかに[BREAK] うちゅうじんだ。[END]
+551-E:  はなを つまめ！[END]
+552-E:  みためも こわいが[BREAK] さいごのいちげきは もっとこわい。[END]
+553-E:  しっぽの ながい おおきな ねずみ。[END]
+554-E:  たまごみたいだが もっと かたいぞ。[END]
+555-E: [END]
+556-E:  はいごから きみを にらんでいる。[END]
+557-E:  くうちゅうを とびまわっている！[END]
+558-E: [END]
+559-E: [END]
+55A-E:  けんきゅうじょで きょうりょくな[BREAK] どくを さずけられた らしい。[END]
+55B-E:  どくと いしに きをつけろ。[END]
+55C-E: [END]
+55D-E: [END]
+55E-E:  にがすな。けいけんちを かせげるぞ。[END]
+55F-E:  ともだちが ひとりも いないらしい。[END]
+560-E:  じぶんの いすが こわれて[BREAK] きげんが すこぶる よくない！[END]
+561-E: [END]
+562-E: [END]
+563-E: [END]
+564-E: [END]
+565-E:  どくけしは どこかに あるのか？[END]
+566-E:  どく ドク どぉくぅぅー。[END]
+567-E:  ワニに わらいかえしたり するなよ。[END]
+568-E: [END]
+569-E:  じつの ちちおや でさえ[BREAK] おそれる つらがまえ。[END]
+56A-E: [END]
+56B-E:  いしに されないよう ちゅうい。[END]
+56C-E:  ノミが いるんじゃ ないだろうか。[END]
+56D-E:  くるまには さいみんじゅつは[BREAK] きかないでしょう。[END]
+56E-E:  トラックには さいみんじゅつは[BREAK] きかないでしょう。[END]
+56F-E:  つぎは どうくる？[BREAK] まっすぐか？ ジグザグか？[END]
+570-E:  おどろくと なかまを よぶぞ！[END]
+571-E: [END]
+572-E:  めいしゃさんの おきにいり。[END]
+573-E:  きをぬくな。[BREAK] パパは どこでも みているぞ。[END]
+574-E:  ママは なんでも おみとおし！[END]
+575-E: [END]
+576-E: [END]
+577-E:  なかまの ためなら！[END]
+578-E: [END]
+579-E:  PKビームしか してこないのだが[..][END]
+57A-E:  おにの ように つよい。[END]
+57B-E:  オンボロに みえても[BREAK] あなどっては いけない。[END]
+57C-E:  さいしんがた りょうさんロボット。[END]
+57D-E:  マンホールの ふたと おなじくらいの[BREAK] おおきさなのだが。[END]
+57E-E:  この うつくしさに だまされるな。[END]
+57F-E:  ボムを もっていて よく つかう。[END]
+580-E:  からだのなかに ねんりょうを[BREAK] たいりょうに たくわえている。[END]
+581-E:  きょうりょくな PSIこうげきを[BREAK] ためらうことなく はなってくるぞ。[END]
+582-E:  かれの しめいは だれにも[BREAK] ほらあなを ぬけさせないことだ。[END]
+583-E:  PKフリーズを このんで つかう。[END]
+584-E:  こいつを たおせたら えらい。[END]
+585-E:  PSIを つかうだけではなく[BREAK] どろぼうも するそ！[END]
+586-E: [END]
+587-E:  ブレインショックに きをつけろ。[END]
+588-E:  いきなり すでで なぐりかかってくる[BREAK] らんぼうな やつ。[END]
+589-E:  うつくしい ぎんいろの けがわが[BREAK] きらめき かがやいている。[END]
+58A-E:  なんて おおきいんだ！[END]
+58B-E:  どんなに ねむくても[BREAK] こいつの ベッドでは ねるなよ！[END]
+58C-E:  あらたに かいりょうされ[BREAK] さらに つよく なっている。[END]
+58D-E:  もっとも つよい スターマン。[END]
+58E-E: 
+58F-E: 
+590-E: 
+591-E: 
+592-E: 
+593-E: [END]
+594-E: 
+595-E: 
+596-E: 
+597-E: 
+598-E: 
+599-E: 
+59A-E: 
+59B-E: 
+59C-E: 
+59D-E: 
+59E-E: 
+59F-E: 
+5A0-E: 
+5A1-E: 
+5A2-E: 
+5A3-E: 
+5A4-E: 
+5A5-E: 
+5A6-E: 
+5A7-E: 
+5A8-E: 
+5A9-E: 
+5AA-E: 
+5AB-E: 
+5AC-E: 
+5AD-E: 
+5AE-E: 
+5AF-E: 
+5B0-E: 
+5B1-E: 
+5B2-E: 
+5B3-E: 
+5B4-E: 
+5B5-E: 
+5B6-E: 
+5B7-E: 
+5B8-E: 
+5B9-E: 
+5BA-E: 
+5BB-E: 
+5BC-E: 
+5BD-E: 
+5BE-E: 
+5BF-E: 
+5C0-E: 
+5C1-E: 
+5C2-E: 
+5C3-E: 
+5C4-E: 
+5C5-E: 
+5C6-E: 
+5C7-E: 
+5C8-E: 
+5C9-E: 
+5CA-E: 
+5CB-E: 
+5CC-E: 
+5CD-E: 
+5CE-E: 
+5CF-E: 
+5D0-E: 
+5D1-E: 
+5D2-E: 
+5D3-E: 
+5D4-E: 
+5D5-E: 
+5D6-E: 
+5D7-E: 
+5D8-E: 
+5D9-E: 
+5DA-E: 
+5DB-E: 
+5DC-E: [END]
+5DD-E: だいウッドー[END]
+5DE-E: ドラゴン[END]
+5DF-E: R*7038[END]
+5E0-E: きょぞう[END]
+5E1-E: くま[END]
+5E2-E: ビッグフット[END]
+5E3-E: マッドトラック[END]
+5E4-E: オールドロボ[END]
+5E5-E: メガボーグ[END]
+5E6-E: ガーゴイラ[END]
+5E7-E: ガビラン[END]
+5E8-E: ゴリラ[END]
+5E9-E: バイソン[END]
+5EA-E: タイガー[END]
+5EB-E: マッドカー[END]
+5EC-E: ベアル[END]
+5ED-E: マジカスネイル[END]
+5EE-E: タイタニー[END]
+5EF-E: ギーグ[END]
+5F0-E: イーグル[END]
+5F1-E: オオカミ[END]
+5F2-E: とうぞくカモメ[END]
+5F3-E: ワニ[END]
+5F4-E: エナジーロボ[END]
+5F5-E: ちかたいがのぬし[END]
+5F6-E: だっそうはん[END]
+5F7-E: BBだんのボス[END]
+5F8-E: バーボット[END]
+5F9-E: ジェーン[END]
+5FA-E: スターマン[END]
+5FB-E: ミラコ[END]
+5FC-E: ブレインガ[END]
+5FD-E: ムーク[END]
+5FE-E: カッチュウ[END]
+5FF-E: ウッドー[END]
+600-E: おじさん[END]
+601-E: おにいさん[END]
+602-E: おばさん[END]
+603-E: ブラブラだん[END]
+604-E: ゆがみはかせ[END]
+605-E: [END]
+606-E: ギャングゾンビ[END]
+607-E: ゾンビもどき[END]
+608-E: カラス[END]
+609-E: スネーク[END]
+60A-E: ハイエナ[END]
+60B-E: やまねこ[END]
+60C-E: ムカデ[END]
+60D-E: ダストゴースト[END]
+60E-E: フライ[END]
+60F-E: スパイダー[END]
+610-E: サソリ[END]
+611-E: ロープ[END]
+612-E: ファイアボール[END]
+613-E: ビューン[END]
+614-E: おまけビューン[END]
+615-E: ゴースト[END]
+616-E: リトルソーサー[END]
+617-E: こうもりさん[END]
+618-E: スターマンのむすこ[END]
+619-E: スカンク[END]
+61A-E: ちみどろゾンビ[END]
+61B-E: ねずみ[END]
+61C-E: ボマー[END]
+61D-E: [END]
+61E-E: にんぎょう[END]
+61F-E: でんきスタンド[END]
+620-E: [END]
+621-E: [END]
+622-E: バイオムカデ[END]
+623-E: バイオサソリ[END]
+624-E: [END]
+625-E: [END]
+626-E: レッドスネーク[END]
+627-E: いっぴきオオカミ[END]
+628-E: しろくま[END]
+629-E: [END]
+62A-E: [END]
+62B-E: [END]
+62C-E: [END]
+62D-E: がらがらへび[END]
+62E-E: タランチュラ[END]
+62F-E: つよいワニ[END]
+630-E: [END]
+631-E: バッファロー[END]
+632-E: [END]
+633-E: バイオこうもり[END]
+634-E: のらイヌ[END]
+635-E: デビルカー[END]
+636-E: デビルトラック[END]
+637-E: デストラック[END]
+638-E: アラームゴースト[END]
+639-E: [END]
+63A-E: ビュンビューン[END]
+63B-E: パパビューン[END]
+63C-E: ビュビー[END]
+63D-E: [END]
+63E-E: [END]
+63F-E: スカイベアル[END]
+640-E: [END]
+641-E: ギガボーグ[END]
+642-E: ラストボーグ[END]
+643-E: スクラッパー[END]
+644-E: デスバーボット[END]
+645-E: オメガソーサー[END]
+646-E: キャロライン[END]
+647-E: スターマイナー[END]
+648-E: スーパーエナジー[END]
+649-E: スージー[END]
+64A-E: ブルースターマン[END]
+64B-E: サターニア[END]
+64C-E: タイタニアン[END]
+64D-E: ドムーク[END]
+64E-E: [END]
+64F-E: ゾンビ[END]
+650-E: ぼうりょくゾンビ[END]
+651-E: ぎんオオカミ[END]
+652-E: R*7037[END]
+653-E: グリズリー[END]
+654-E: R*7038XX[END]
+655-E: ラストスターマン[END]
+656-E: [END]
+657-E: [END]
+658-E: [END]
+659-E: [END]
+65A-E: [END]
+65B-E: [END]
+65C-E: 
+65D-E: 
+65E-E: 
+65F-E: 
+660-E: 
+661-E: 
+662-E: 
+663-E: 
+664-E: 
+665-E: 
+666-E: 
+667-E: 
+668-E: 
+669-E: 
+66A-E: 
+66B-E: 
+66C-E: 
+66D-E: 
+66E-E: 
+66F-E: 
+670-E: 
+671-E: 
+672-E: 
+673-E: 
+674-E: 
+675-E: 
+676-E: 
+677-E: 
+678-E: 
+679-E: 
+67A-E: 
+67B-E: 
+67C-E: 
+67D-E: 
+67E-E: 
+67F-E: 
+680-E: 
+681-E: 
+682-E: 
+683-E: 
+684-E: 
+685-E: 
+686-E: 
+687-E: 
+688-E: 
+689-E: 
+68A-E: 
+68B-E: 
+68C-E: 
+68D-E: 
+68E-E: 
+68F-E: 
+690-E: 
+691-E: 
+692-E: 
+693-E: 
+694-E: 
+695-E: 
+696-E: 
+697-E: 
+698-E: 
+699-E: 
+69A-E: 
+69B-E: 
+69C-E: 
+69D-E: 
+69E-E: 
+69F-E: 
+6A0-E: 
+6A1-E: 
+6A2-E: 
+6A3-E: 
+6A4-E: [END]
+6A5-E: @[03 1A]は[BREAK]わたすのを やめた。[BREAK][END]
+6A6-E: @[03 1A]は [03 1B]に[BREAK][03 1C]を あたえた。[BREAK][END]
+6A7-E: @[03 1A]は[BREAK][03 1B]の バッグに[BREAK][03 1C]を いれた。[BREAK][END]
+6A8-E: @[03 1B]は[BREAK][03 1A]の バッグから[BREAK][03 1C]を だした。[BREAK][END]
+6A9-E: @[03 3E]は[BREAK][03 1A]の バッグから[BREAK][03 1C]を すてた。[BREAK][END]
+6AA-E: @[03 3E]は[BREAK][03 1A]の バッグから[BREAK][03 1C]を だして[BREAK][PAUSE][03 1B]の バッグに いれた。[BREAK][END]
+6AB-E: 
+6AC-E: 
+6AD-E: 
+6AE-E: 
+6AF-E: @[03 1A]は[BREAK][03 1C]を たべた。[BREAK][END]
+6B0-E: @[03 1A]は[BREAK][03 1C]を のんだ。[BREAK][END]
+6B1-E: [03 1E] かいふくした。[BREAK][END]
+6B2-E: [03 1E] あがった。[BREAK][END]
+6B3-E: @[03 1A]の HPは[BREAK][END]
+6B4-E: @[03 1A]の PPは[BREAK][END]
+6B5-E: @[03 1A]の ファイトは[BREAK][END]
+6B6-E: @[03 1A]の スピードは[BREAK][END]
+6B7-E: @[03 1A]の かしこさは[BREAK][END]
+6B8-E: @[03 1A]の たいりょくは[BREAK][END]
+6B9-E: @[03 1A]の フォースは[BREAK][END]
+6BA-E: @[03 1A]は でかぶくろから[BREAK]マジックハーブを とりだして[BREAK]つかった。[BREAK][END]
+6BB-E: @[03 1A]は[BREAK]パンを ちぎって[BREAK]まきながら あるきだした。[BREAK][END]
+6BC-E: @ふるいパンくずを[BREAK]すててからでないと[BREAK]パンは つかえない。[BREAK][END]
+6BD-E: @[03 16][03 17]は[BREAK]パンくずを たどりながら[BREAK]もとのばしょに もどった。[BREAK][END]
+6BE-E: @[03 1A]は[BREAK]かみに リボンを つけた。[BREAK][END]
+6BF-E: @<もう スイッチを きっちまえ！>[BREAK][END]
+6C0-E: @いろいろなものの[BREAK]ながさが わかった。[BREAK][END]
+6C1-E: @でかぶくろは からになって[BREAK]かききえてしまった。[BREAK][END]
+6C2-E: @テレホンカードを[BREAK]つかいきってしまった。[BREAK][END]
+6C3-E: @[03 1A]の からだから[BREAK]どくが ぬけた。[BREAK][END]
+6C4-E: @[03 1A]のカゼが なおった。[BREAK][END]
+6C5-E: @[03 1A]は[BREAK]サイパワーストーンをにぎりしめた。[BREAK][END]
+6C6-E: @サイパワーストーンは[BREAK]ただの いしころに なった。[BREAK][END]
+6C7-E: @[03 1A]は[BREAK][03 1C]をこころみた。[BREAK][END]
+6C8-E: @それを こころみるだけの[BREAK]パワーは のこっていない。[BREAK][END]
+6C9-E: @[03 1A]は カムバックした。[BREAK][END]
+6CA-E: @にっきは ほとんど[BREAK]よみとれなかったが かろうじて[BREAK][PAUSE]@<あいことば[..][..][BREAK]かみのしっぽは どこにある。[BREAK]あまかけるふねの わすれもの>[BREAK][PAUSE]と よめた。[BREAK][END]
+6CB-E: @[03 1A]は[BREAK]すっかり やわらかくなった。[BREAK][END]
+6CC-E: @きぼうのオカリナを ふいた。[BREAK][END]
+6CD-E: @<きこえたかい？>[BREAK][END]
+6CE-E: @このばしょは[BREAK]ちずに のっていない。[BREAK][END]
+6CF-E: @[03 1A]は[BREAK]ちずを しらべた。[BREAK][END]
+6D0-E: @[03 16][03 17]は[BREAK]なにかの ちからに[BREAK]おしとどめられて しまった。[BREAK][END]
+6D1-E: @まよけのゆびわの[BREAK]ふしぎなちからは きえた。[BREAK][END]
+6D2-E: 
+6D3-E: 
+6D4-E: 
+6D5-E: 
+6D6-E: @[03 1A]は バッグから[BREAK][03 1C]を だして[BREAK]また もどした。[BREAK][END]
+6D7-E: @[03 1A]は[BREAK]いしきが ない。[BREAK][END]
+6D8-E: @ぜんいん かんぜんに かいふくした！[BREAK][END]
+6D9-E: @[03 10]は そうそふの[BREAK]かすかな きおくを かんじた！[BREAK][END]
+6DA-E: @おや？ イ[??]の からだの なかに[BREAK]まだ なにか あるようだ[..][..][BREAK][END]
+6DB-E: @あなたの キャッシュカード[BREAK]おへやに おちてたわよ。[BREAK][END]
+6DC-E: @あら もちきれないみたいね。[BREAK][END]
+6DD-E: 
+6DE-E: 
+6DF-E: 
+6E0-E: @あやしげな けはいが[..][..]。[BREAK][END]
+6E1-E: @たいへんな ことが おきている！[BREAK][END]
+6E2-E: 
+6E3-E: 
+6E4-E: 
+6E5-E: 
+6E6-E: 
+6E7-E: 
+6E8-E: 
+6E9-E: 
+6EA-E: 
+6EB-E: 
+6EC-E: 
+6ED-E: 
+6EE-E: 
+6EF-E: 
+6F0-E: 
+6F1-E: 
+6F2-E: 
+6F3-E: 
+6F4-E: [END]
+6F5-E: Copyrights of Game[03 3F] Scenario[03 3F][BREAK][BREAK]Music[03 3F] but excluding the[BREAK][BREAK]copyright of Music composed by[BREAK][BREAK]Keiichi Suzuki[03 3F] reserved by[BREAK][BREAK]SHIGESATO ITOI and NINTENDO.[BREAK][BREAK]Copyright of Program reserved[BREAK][BREAK]by NINTENDO.[BREAK][END]
+6F6-E: 
+6F7-E: 
+6F8-E: 
+6F9-E: 
+6FA-E: 
+6FB-E: 
+6FC-E: 
+6FD-E: 
+6FE-E: [BREAK][BREAK][BREAK][BREAK][END]
+6FF-E: [BREAK]   ほらあなに とじこめられていた ひとたちも[BREAK]   ぜんいん ぶじに きゅうしゅつされ[BREAK]   [03 12]と ママの かんどうの さいかい。[BREAK][END]
+700-E: [BREAK]    [03 13]は かんぺきに げんきになり[BREAK]    いまや ライブハウスの にんきシンガーだ。[BREAK][END]
+701-E: [BREAK]    イースターのまちの おとなたちも[BREAK]    こどもたちの ところへ かえってきた。[BREAK]    がんばったね！ こどもたち！[BREAK][END]
+702-E:   ([03 12])[BREAK]    ぜったい わすれないって やくそくするわ。[BREAK]    だから <さようなら> じゃなくて[BREAK]    <またあいましょう> だね！[BREAK][END]
+703-E: [BREAK]    [03 11]は ヒーローとなって[BREAK]    ティンクルしょうがっこうに かえり[BREAK]    みんなに もみくちゃに されたのだった。[BREAK][END]
+704-E: [BREAK]  おかえり [03 10]！[BREAK]  ぶじに かえってきて ほんとうに よかった[..][..][BREAK]  すごーく おなか すいたでしょ？！[BREAK][END]
+705-E: [BREAK]  [03 10]から てがみが とどいた。[BREAK]  かれに あえなくて ちょっと さびしかったところ。[BREAK]  はやく また あえるといいな[..][..][BREAK][END]
+706-E: [BREAK] さて ちきゅうの ききも ひとまず さったことだし[BREAK] ぼくも あんしんして ゆっくり ねむろうかな[..][..][BREAK]       [..][..] Zzzzzzzz [..][..][BREAK][END]
+707-E: [BREAK]  あ パパだ。 おやすみのところ もうしわけないが[BREAK]  もしかしたら ゆっくり やすんでいる ばあいじゃ[BREAK]  ないかも しれないぞ[..][..][BREAK][END]
+708-E: 
+709-E: "でかぶくろ"[BREAK]@マジックハーブが いっぱい つまった[BREAK]ふくろ です。[BREAK][END]
+70A-E: "テレホンカード"[BREAK]@こうしゅうでんわを 50かい[BREAK]かけることが できます。[BREAK][END]
+70B-E: "パンくず"[BREAK]@パンくずを まきはじめた ところまで[BREAK]まよわずに もどれます。[BREAK][END]
+70C-E: "まよけのゆびわ"[BREAK]@よわい てきを しばらくのあいだ[BREAK]とおざけることが できます。[BREAK][END]
+70D-E: [END]
+70E-E: "メモリーチップ"[BREAK]@そうそふジョージの きおくのいちぶが[BREAK]やきつけられています。[BREAK][PAUSE]@[03 10]は それをたどって[BREAK]イ[??]のところまで もどれます。[BREAK][END]
+70F-E: [END]
+710-E: [END]
+711-E: [END]
+712-E: "ナイフ"[BREAK]@[03 13]が[BREAK]つかいこなす ぶき。[BREAK][END]
+713-E: "サバイバルナイフ"[BREAK]@[03 13]の ぶき。[BREAK]ただのナイフより つよそうです。[BREAK][END]
+714-E: "アシガルソード"[BREAK]@かぎられた ひとにしか[BREAK]つかいこなせないでしょう。[BREAK][END]
+715-E: "KATANA"[BREAK]@この にほんせいの カタナは[BREAK][03 13]が つかえる[BREAK][PAUSE]@いちばん つよい ぶきです。[BREAK][END]
+716-E: "ショックガン"[BREAK]@[03 11]が つかえそうです。[BREAK][END]
+717-E: "エアガン"[BREAK]@とても つよい ぶきですが[BREAK][03 11]しか つかえません。[BREAK][END]
+718-E: "ボロのバット"[BREAK]@[03 10],これを ぶきとして[BREAK]つかってみよう！[BREAK][END]
+719-E: "ふつうのバット"[BREAK]@[03 10],よわい てきなら[BREAK]これで だいじょうぶ。[BREAK][END]
+71A-E: "いいバット"[BREAK]@[03 10]が これをもてば[BREAK]つよい てきとも たたかえます。[BREAK][END]
+71B-E: "さいこうのバット"[BREAK]@ゆうめいせんしゅの サインいりの[BREAK]すばらしい バット。[BREAK][END]
+71C-E: "フライパン"[BREAK]@[03 12]が ぶきとして[BREAK]つかいます。[BREAK][END]
+71D-E: "いいフライパン"[BREAK]@りょうりが こげつかない[BREAK]フライパン ですが[BREAK][PAUSE]@[03 12]の ぶきにも[BREAK]なります。[BREAK][END]
+71E-E: "とびきりのフライパン"[BREAK]@この おもいフライパンで[BREAK][03 12]に たたかれたら[BREAK][PAUSE]@つよい てきも たまらない。[BREAK][END]
+71F-E: "スリングショット"[BREAK]@だれでも つかえる おてがるな[BREAK]ぶきです。[BREAK][END]
+720-E: "ブーメラン"[BREAK]@とりあつかい ちゅうい。[BREAK]おもちゃでは ありません。[BREAK]みんなが つかえる ぶきです。[BREAK][END]
+721-E: "さっちゅうスプレー"[BREAK]@むしなどに あるていど こうかあり。[BREAK][END]
+722-E: "スーパースプレー"[BREAK]@しんかいはつの きょうりょくな[BREAK]さっちゅうざい。[BREAK][END]
+723-E: "ノミとシラミ"[BREAK]@てきに なげつけて[BREAK]こうかを みてみよう！[BREAK][END]
+724-E: "あいのことば"[BREAK]@？？？[BREAK][END]
+725-E: "のろいのことば"[BREAK]@？？？[BREAK][END]
+726-E: "ねばねばマシン"[BREAK]@たたかいに つかえそうな[BREAK]きも するけれど[..][..][BREAK][END]
+727-E: "やみのライト"[BREAK]@あかるいライトとは せいはんたいの[BREAK]ものです。[BREAK][END]
+728-E: [END]
+729-E: [END]
+72A-E: "かえんほうしゃき"[BREAK]@てきを こんがり やきますが[BREAK][03 11]しか つかえません。[BREAK][END]
+72B-E: "ボム"[BREAK]@たぶん [03 11]にしか[BREAK]あつかえないでしょう。[BREAK][END]
+72C-E: "スーパーボム"[BREAK]@<きけん ばくはつぶつ>と[BREAK]かかれています。[BREAK][PAUSE]@このての ものは[BREAK][03 11]に おまかせ。[BREAK][END]
+72D-E: "レーザービーム"[BREAK]@よわむし[03 11]も[BREAK]これを もったら[..][..][BREAK][END]
+72E-E: "デスビーム"[BREAK]@いくじなし[03 11]も[BREAK]これを もったら ちょっとすごい。[BREAK][END]
+72F-E: [END]
+730-E: "ロープ"[BREAK]@これで てきを しばってしまおう。[BREAK][END]
+731-E: [END]
+732-E: [END]
+733-E: [END]
+734-E: [END]
+735-E: "やすらぎのコイン"[BREAK]@そうびすると ディフェンスが[BREAK]すこし あがります。[BREAK][END]
+736-E: "まもりのコイン"[BREAK]@そうびすると ディフェンスが[BREAK]まあまあ あがります。[BREAK][END]
+737-E: "まふうじのコイン"[BREAK]@そうびすると ディフェンスが[BREAK]けっこう あがります。[BREAK][END]
+738-E: "ようせいのうでわ"[BREAK]@そうびすると ディフェンスが[BREAK]ちょっと あがります。[BREAK][END]
+739-E: "てんしのうでわ"[BREAK]@そうびすると ディフェンスが[BREAK]そこそこ あがります。[BREAK][END]
+73A-E: "めがみのうでわ"[BREAK]@そうびすると ディフェンスが[BREAK]ずいぶん あがります。[BREAK][END]
+73B-E: "しずくのペンダント"[BREAK]@そうびすると PKファイアーによる[BREAK]ダメージを へらすことが できます。[BREAK][END]
+73C-E: "ほのおのペンダント"[BREAK]@そうびすると PKフリーズによる[BREAK]ダメージを へらすことが できます。[BREAK][END]
+73D-E: "だいちのペンダント"[BREAK]@そうびすると PKサンダーによる[BREAK]ダメージを へらすことが できます。[BREAK][END]
+73E-E: "うみのペンダント"[BREAK]@そうびすると PKファイアー,[BREAK]PKフリーズ,PKサンダーによる[BREAK][PAUSE]ダメージを へらすことが できます。[BREAK][END]
+73F-E: [END]
+740-E: [END]
+741-E: [END]
+742-E: [END]
+743-E: [END]
+744-E: "オレンジジュース"[BREAK]@ビタミンCが ほうふで[BREAK]HPが すこし かいふくします。[BREAK][END]
+745-E: "フライドポテト"[BREAK]@ケチャップを つけても つけなくても[BREAK]HPは かいふくします。[BREAK][END]
+746-E: "マジックハーブ"[BREAK]@つかれたり けがをしたときに[BREAK]つかってください。[BREAK][END]
+747-E: "ハンバーガー"[BREAK]@てばやく HPを かいふくするための[BREAK]ファーストフード です。[BREAK][END]
+748-E: "スポーツドリンク"[BREAK]@どんなに つかれたときでも[BREAK]これを のんで げんきに なろう。[BREAK][END]
+749-E: "きずぐすり"[BREAK]@きずの てあてに つかいます。[BREAK][END]
+74A-E: "ぜんそくスプレー"[BREAK]@もしも [03 10]の[BREAK]ぜんそくが でてしまったら[BREAK][PAUSE]@これで なおします。[BREAK][END]
+74B-E: "どくけし"[BREAK]@どくを すばやく けしさります。[BREAK][END]
+74C-E: "うがいぐすり"[BREAK]@これで よく うがいをして[BREAK]かぜを なおそう。[BREAK][END]
+74D-E: "いちごとうふ"[BREAK]@ほんとうに たべてみたいと[BREAK]おもいますか？[BREAK][END]
+74E-E: [END]
+74F-E: "パン"[BREAK]@たべても いいけど[BREAK]もとの ばしょに もどれるように[BREAK][PAUSE]@ちぎって まきながら すすむことも[BREAK]できます。[BREAK][END]
+750-E: "エンジェルシード"[BREAK]@デーモンシードの のろいを[BREAK]ときます。[BREAK][END]
+751-E: "サイパワーストーン"[BREAK]@PSIパワーが いしのなかに[BREAK]ひめられて います。[BREAK][END]
+752-E: [END]
+753-E: "ふしぎなリボン"[BREAK]@おんなのこの かみに むすぶと[BREAK]<フォース>が ちょっと ふえます。[BREAK][END]
+754-E: "ふしぎなキャンディ"[BREAK]@よわいこが たべると[BREAK]<ファイト>が ちょっと ふえます。[BREAK][END]
+755-E: [END]
+756-E: "スピードカプセル"[BREAK]@<スピード>が アップします。[BREAK][END]
+757-E: "ウィズダムカプセル"[BREAK]@<かしこさ>が アップします。[BREAK][END]
+758-E: "フィジカルカプセル"[BREAK]@<たいりょく>が アップします。[BREAK][END]
+759-E: "フォースカプセル"[BREAK]@<フォース>が アップします。[BREAK][END]
+75A-E: "ファイトカプセル"[BREAK]@<ファイト>が アップします。[BREAK][END]
+75B-E: [END]
+75C-E: [END]
+75D-E: "ちかしつのカギ"[BREAK]@ちかしつに はいるときに[BREAK]ひつようです。[BREAK][END]
+75E-E: "どうぶつえんのカギ"[BREAK]@これで どうぶつえんの せいもんを[BREAK]あけることが できるでしょう。[BREAK][END]
+75F-E: "ゆうれいやしきのカギ"[BREAK]@ローズマリーさんの やしきの[BREAK]かぎです。[BREAK][END]
+760-E: "そうそふのにっき"[BREAK]@[03 10]の ひいおじいさんの[BREAK]にっきです。[BREAK][PAUSE]@もじが びっしり かいてありますが[BREAK]いたみが はげしく よくよめません。[BREAK][END]
+761-E: "つうこうきょかしょう"[BREAK]@<ダンカンこうじょう しゃいん>[BREAK]と かいてあります。[BREAK][END]
+762-E: "ライブのチケット"[BREAK]@<エブリデイ*オールナイト*[BREAK]ロックンロール*ライブ*ショー>[BREAK]と かいてあります。[BREAK][END]
+763-E: [END]
+764-E: [END]
+765-E: [END]
+766-E: [END]
+767-E: "カナリアのこども"[BREAK]@さびしそうな めを しています。[BREAK][END]
+768-E: [END]
+769-E: "ペンシルロケット"[BREAK]@[03 11]なら[BREAK]つかいかたが わかるでしょう。[BREAK][END]
+76A-E: "ぼうし"[BREAK]@<[03 12]>という なまえが[BREAK]ししゅうされた すてきな ぼうし。[BREAK][END]
+76B-E: "いれば"[BREAK]@しっかり はみがきして[BREAK]はを だいじに していれば[BREAK][PAUSE]@ひつようのない ものですね。[BREAK][END]
+76C-E: "チケットのはんけん"[BREAK]@<10まい あつめて せんしゃに[BREAK]のろう！>と かいてあります。[BREAK][END]
+76D-E: [END]
+76E-E: "きぼうのオカリナ"[BREAK]@これまでに あつめた メロディーを[BREAK]きくことが できます。[BREAK][END]
+76F-E: [END]
+770-E: "フランクリンバッジ"[BREAK]@いいつたえに よると[BREAK]ベン*フランクリンという ひとが[BREAK][PAUSE]@かみなりの じっけんを するとき[BREAK]おまもりに していた そうです。[BREAK][END]
+771-E: [END]
+772-E: [END]
+773-E: "めのうのつりばり"[BREAK]@どこにいても すぐ マジカントに[BREAK]もどることが できます。[BREAK][END]
+774-E: "さいしゅうへいき"[BREAK]@？？？[BREAK][END]
+775-E: "ものさし"[BREAK]@12インチ(やく30センチ)の[BREAK]ながさの ものさしです。[BREAK][END]
+776-E: "キャッシュカード"[BREAK]@ぎんこうこうざから おかねを[BREAK]だしいれする ときに つかいます。[BREAK][END]
+777-E: "あかいくさ"[BREAK]@いっけん ただの くさの ように[BREAK]みえますが[..][..][BREAK][END]
+778-E: "ふしぎなメガホン"[BREAK]@おおごえで てきを おどかします。[BREAK][END]
+779-E: [END]
+77A-E: [END]
+77B-E: [END]
+77C-E: [END]
+77D-E: [END]
+77E-E: [END]
+77F-E: [END]
+780-E: [END]
+781-E: [END]
+782-E: [END]
+783-E: [END]
+784-E: [END]
+785-E: [END]
+786-E: [END]
+787-E: "Debug"[BREAK]@.......[BREAK][END]
+788-E: 
+789-E: 
+78A-E: [03 14][END]
+78B-E: SHIGESATO ITOI[END]
+78C-E: MIYUKI KURE[END]
+78D-E: AKIO OHMORI[END]
+78E-E: RITSUO KAMIMURA[END]
+78F-E: KEIICHI SUZUKI[END]
+790-E: HIROKAZU TANAKA[END]
+791-E: SHINBO MINAMI[END]
+792-E: TATSUYA ISHII[END]
+793-E: TOTTORI[END]
+794-E: KAZUYA NAKATANI[END]
+795-E: TAKAYUKI ONODERA[END]
+796-E: MOTOO YASUMA[END]
+797-E: MASAYUKI KAMEYAMA[END]
+798-E: HIDEO KON[END]
+799-E: KATSUTOMO MAEIWA[END]
+79A-E: KUNIKO SAKURAI[END]
+79B-E: MASAHIRO TATEMOTO[END]
+79C-E: TAKASHI KAWAGUCHI[END]
+79D-E: KEIZOH KATOH[END]
+79E-E: MOTOHIRO ISHII[END]
+79F-E: AKIHITO TODA[END]
+7A0-E: YUKARI SAITOH[END]
+7A1-E: PHIL SANDHOP[END]
+7A2-E: TOSHIKO WATSON[END]
+7A3-E: YUKA NAKATA[END]
+7A4-E: HIROKO FAULKNER[END]
+7A5-E: TONY HARMAN[END]
+7A6-E: DAYV BROOKS[END]
+7A7-E: NORIYUKI MINAMI[END]
+7A8-E: BIN OHGAWARA[END]
+7A9-E: YOSHIHISA WADA[END]
+7AA-E: HIKONORI SUZUKI[END]
+7AB-E: TAKAO SHIMIZU[END]
+7AC-E: SHIGERU MIYAMOTO[END]
+7AD-E: HIROSHI YAMAUCHI[END]
+7AE-E: 
+7AF-E: 
+7B0-E: 
+7B1-E: 
+7B2-E: 
+7B3-E: 
+7B4-E: 
+7B5-E: 
+7B6-E: 
+7B7-E: 
+7B8-E: 
+7B9-E: 
+7BA-E: 
+7BB-E: 
+7BC-E: 
+7BD-E: 
+7BE-E: 
+7BF-E: 
+7C0-E: 
+7C1-E: 
+7C2-E: 
+7C3-E: 
+7C4-E: 
+7C5-E: 
+7C6-E: 
+7C7-E: 
+7C8-E: 
+7C9-E: 
+7CA-E: 
+7CB-E: 
+7CC-E: 
+7CD-E: 
+7CE-E: 
+7CF-E: [END]
+7D0-E: [END]
+7D1-E: [END]
+7D2-E: [03 03]いあ[03 04]が [03 03]いぃ[03 04]が [END]
+7D3-E: [03 20]がおそいかかった！[END]
+7D4-E: [03 20]の こうげき！[END]
+7D5-E: [03 20]は[BREAK]せんしゃほうを うった！[END]
+7D6-E:  [03 21]は[BREAK] すばやく よけた[END]
+7D7-E: れんぞくこうげき！[END]
+7D8-E: [03 20]は[BREAK][03 21]に かみついた！[END]
+7D9-E: [03 20]は[BREAK][03 21]を ひっかいた！[END]
+7DA-E: [03 20]は[BREAK][03 21]に のしかかった！[END]
+7DB-E:   [03 2C][END]
+7DC-E:  [03 21]は[BREAK] [03 23]の ダメージをうけた[END]
+7DD-E: [BREAK]     YOU WIN！[BREAK][END]
+7DE-E: [BREAK][03 16][03 17]は[BREAK]たたかいに やぶれた[BREAK][END]
+7DF-E:  [03 21]を[BREAK] やっつけた！[END]
+7E0-E:  [03 21]は[BREAK] きずつきたおれた[END]
+7E1-E:  しかし [03 21]は[BREAK] すでにいなかった[END]
+7E2-E:  [03 21]には[BREAK] こうかがなかった[END]
+7E3-E: [03 20]は ぼうそうした！[END]
+7E4-E:  [03 20]は ちからつきた[END]
+7E5-E: [03 20]の[BREAK]さいごの いちげき！！！[END]
+7E6-E: [03 20]からの[BREAK]こうげきのしょうたいが つかめない！[END]
+7E7-E:  [03 21]は[BREAK] バリアに つつまれた[END]
+7E8-E:  <おまえの おかあさんは[BREAK]  ないているぞ！>[END]
+7E9-E:  [03 21]は いしになった[END]
+7EA-E: [03 20]は[BREAK]ねんえきを はきかけた！[END]
+7EB-E:  [03 21]は[BREAK] めがみえなくなった！[END]
+7EC-E: [03 20]は[BREAK]しばられている[..][..][END]
+7ED-E: [03 20]は[BREAK]ふしぎなさけびごえをあげた！[END]
+7EE-E:  [03 20]は[BREAK] ばくはつした！[END]
+7EF-E:  [03 20]は[BREAK] もえあがった！[END]
+7F0-E:  [03 21]の[BREAK] オフェンスが [03 23]あがった[END]
+7F1-E:  [03 21]の[BREAK] オフェンスが [03 23]さがった[END]
+7F2-E:  [03 21]の[BREAK] ディフェンスが [03 23]あがった[END]
+7F3-E:  [03 21]の[BREAK] スピードが [03 23]あがった[END]
+7F4-E: [03 3C] オフェンス  [03 23][END]
+7F5-E: [03 3C] ディフェンス [03 23][END]
+7F6-E:  [03 21]の[BREAK] ファイトが [03 23]さがった[END]
+7F7-E:  [03 21]の[BREAK] ディフェンスが [03 23]さがった[END]
+7F8-E: [03 20]は[BREAK]ふてきに ほほえんだ[END]
+7F9-E:  [03 21]の[BREAK] ファイトが [03 23]あがった[END]
+7FA-E: [03 20]は[BREAK]かっとなった！[END]
+7FB-E:  [03 21]の[BREAK] スピードが [03 23]さがった[END]
+7FC-E: [03 20]は[BREAK]いしきを かきみだした！[END]
+7FD-E: [03 20]は[BREAK]なかまを よんだ！[END]
+7FE-E: [03 20]は[BREAK]たねを まいた！[END]
+7FF-E:  なぜか [03 21]の[BREAK] けいけんちが あがった[END]
+800-E: [03 20]は わらいだした！[END]
+801-E: せんしゃは こわれてしまった[END]
+802-E: [03 20]は[BREAK]こわいことばを なげつけた！[END]
+803-E: [03 20]は[BREAK]きたないことばを なげつけた！[END]
+804-E: [03 20]は[BREAK]けはいを ころしている[END]
+805-E:  せっとくに せいこうした[END]
+806-E:  せっとくに しっぱいした[END]
+807-E:  [03 21]を おこらせた[END]
+808-E:  [03 21]は[BREAK] ききてきじょうたいに おちいった[END]
+809-E:  [03 21]は[BREAK] わけがわからなくなった[END]
+80A-E: [03 20]は[BREAK]わけがわからなくなっている[END]
+80B-E:  [03 21]を ねむらせた[END]
+80C-E: [03 20]は ねむっている[..][END]
+80D-E:  [03 21]の[BREAK] PPが [03 23]かいふくした！[END]
+80E-E:  [03 21]の[BREAK] HPが [03 23]かいふくした！[END]
+80F-E: [03 20]は[BREAK]エネルギーを ちゅうにゅうした！[END]
+810-E:  しかし だれもきてくれなかったのだ[END]
+811-E:  しーん[..][..][..][END]
+812-E:  [03 21]が くわわった！[END]
+813-E: [03 20]は[BREAK]にげだした！[END]
+814-E:  [..][..]だめでした[END]
+815-E: [03 20]は ころんだ[END]
+816-E: [03 20]は うごけない[..][..][END]
+817-E: [03 20]は[BREAK]いしになっている[..][..][END]
+818-E:  [03 21]の PPを[BREAK] [03 23]うばった[END]
+819-E:  [03 21]は[BREAK] うごけなくなった[END]
+81A-E: [03 20]は[BREAK]はいきガスを ふきかけた！[END]
+81B-E:  [03 21]は[BREAK] どくに おかされた[END]
+81C-E:  [03 21]は[BREAK] すいぶんを すいとられた[END]
+81D-E:  [03 21]は[BREAK] ちょうのうりょくを ふうじられた[END]
+81E-E:  [03 21]を[BREAK] ロープで しばった[END]
+81F-E:  [03 21]は[BREAK] シールドに つつまれた[END]
+820-E:  からぶりーっ！[END]
+821-E:  しかし ちょうのうりょくは[BREAK] ふうじられていた[END]
+822-E:  しかし [03 21]の[BREAK] フランクリンバッジが[BREAK] こうせんを はねかえした！[END]
+823-E:  [03 21]は[BREAK] こうげきを はねかえした！[END]
+824-E:  PPが たりない[END]
+825-E:  [03 21]には[BREAK] こうかが なかった[END]
+826-E: [03 20]は[BREAK]ぜんそくの ほっさがでた[BREAK] [..][..]ゴホ ゴホ ゴホ[END]
+827-E: [03 20]は[BREAK]おいのりをしている[END]
+828-E: [03 20]は[BREAK]あいさつをして とおりすぎた[END]
+829-E: [03 20]は みがまえている[END]
+82A-E: [03 20]は[BREAK]うたを うたった！[END]
+82B-E: [03 20]は ガードしている[END]
+82C-E: [03 20]は[BREAK]にじりよってきた！[END]
+82D-E:  [03 21]の[BREAK] からだのどくが きえた[END]
+82E-E:  [03 21]は[BREAK] われに かえった[END]
+82F-E:  [03 21]は[BREAK] かゆみに もだえた[END]
+830-E:  [03 21]は[BREAK] うごきを とりもどした[END]
+831-E:  [03 21]は[BREAK] めをさました[END]
+832-E:  [03 21]を[BREAK] カムバックさせた！！！[END]
+833-E: [03 20]は[BREAK][03 22]を つかった！[END]
+834-E: [03 20]は[BREAK][03 22]を こころみた！[END]
+835-E: [03 20]は[BREAK][03 22]を[BREAK]つかうことが できない！[END]
+836-E: [03 20]は[BREAK]たちばを かんがえた[..][END]
+837-E: [03 20]は[BREAK]なにか あやしいことをした[END]
+838-E: [03 20]は[BREAK]ぼーっとしている[END]
+839-E:  [03 21]の[BREAK] シールドを はかいした[END]
+83A-E: [03 20]は [03 21]を[BREAK]チェックした[END]
+83B-E: [03 3C] ねつにつよい[END]
+83C-E: [03 3C] さむさにつよい[END]
+83D-E: [03 3C] かみなりにつよい[END]
+83E-E: [03 3C] ひかりにつよい[END]
+83F-E: [03 3C] スプレーによわい[END]
+840-E:  [03 21]の[BREAK] ぜんそくがなおった[END]
+841-E:  [03 21]は[BREAK] やわらかくなった[END]
+842-E:  <すき>[END]
+843-E:  <きらい>[END]
+844-E:  [03 21]は[BREAK] ぜんそくの ほっさがでた[END]
+845-E:  [03 22]は[BREAK] こわれてしまった[..][..][END]
+846-E: [03 20]は[BREAK]デーモンシードをつかった！[END]
+847-E: [03 20]は[BREAK]まひガスをつかった！[END]
+848-E:  [03 22]は[BREAK] ただの いしになった[..][..][END]
+849-E:  [03 21]は[BREAK] われにかえった！[END]
+84A-E:  [03 21]は[BREAK] おとなしくなった！[END]
+84B-E:  [03 21]を たおした！[END]
+84C-E:  [03 21]は[BREAK] はかいされた！[END]
+84D-E:  [03 21]は[BREAK] つちにかえった！[END]
+84E-E:  [03 21]は[BREAK] もう うごかない[END]
+84F-E:  [03 21]は[BREAK] ポンコツになった！[END]
+850-E:  [03 21]は[BREAK] かきけされた！[END]
+851-E: [03 20]は [03 21]の[BREAK][03 22]を うばった！[END]
+852-E: [03 20]は[BREAK]レベルが あがった！[BREAK][PAUSE][03 01][END]
+853-E: [03 20]は たたかいのなかで[BREAK]PSIを おぼえた！[BREAK][PAUSE][03 01][END]
+854-E:  さいだいHPが [03 23] UP[BREAK][PAUSE][03 01][END]
+855-E:  さいだいPPが [03 23] UP[BREAK][PAUSE][03 01][END]
+856-E:  ファイトが [03 23] UP[BREAK][PAUSE][03 01][END]
+857-E:  スピードが [03 23] UP[BREAK][PAUSE][03 01][END]
+858-E:  かしこさが [03 23] UP[BREAK][PAUSE][03 01][END]
+859-E:  たいりょくが [03 23] UP[BREAK][PAUSE][03 01][END]
+85A-E:  フォースが [03 23] UP[BREAK][PAUSE][03 01][END]
+85B-E: [03 20]は[BREAK]ロープから ぬけだした[END]
+85C-E: [03 1D]を ひろった！[BREAK][PAUSE][03 01][END]
+85D-E:  [03 21]は[BREAK] こんらんから たちなおった[END]
+85E-E: [03 20]は[BREAK]めをさました[END]
+85F-E: [03 20]は[BREAK]くうかんを きりさいた！[END]
+860-E:  しかし こうかが なかった[END]
+861-E:  [03 22]は[BREAK] からになった[..][..][END]
+862-E: [BREAK]しょうぶが つかない[BREAK][END]
+863-E: ([03 16]には どこからか[BREAK]クイーンマリーのこえが きこえた)[BREAK][PAUSE]ちからでは ギーグには かてません[..][BREAK][PAUSE]どんなぶきでも かれを たおすことは[BREAK]できないでしょう[..][..][BREAK][PAUSE]でも こもりうたなら[..][BREAK]わたしがうたった あのうたなら！？！[BREAK][PAUSE][03 01][END]
+864-E:  [03 21]は[BREAK] かんぜんに かいふくした！[END]
+865-E: [END]
+866-E: <[03 10]！[BREAK]あなたの いちぞくには ほんとうに[BREAK][PAUSE]おせわになっています>[BREAK][PAUSE][03 01][END]
+867-E: <おさない わたしを そだててくれた[BREAK]ジョージのつま[..][..]マリア>[BREAK][PAUSE][03 01][END]
+868-E: <わたしたちのほしから たいせつな[BREAK]じょうほうを ぬすみだして[BREAK][PAUSE]わたしたちに はむかおうとした[..][..][BREAK]ジョージ>[BREAK][PAUSE][03 01][END]
+869-E: <そして そのふうふの しそん[BREAK]また わたしたちの けいかくを[BREAK][PAUSE]じゃましようとしている[..][..][BREAK][03 10]！ あなたのことだ>[BREAK][PAUSE][03 01][END]
+86A-E: <もう おかえりなさい みにくい[BREAK]ちきゅうじんたちと ともに[BREAK][PAUSE]ほろびてください>[BREAK][PAUSE][03 01][END]
+86B-E: <その むしけらのような ちからでは[BREAK]どうすることも できない>[BREAK][PAUSE][03 01][END]
+86C-E: <[03 10][..][..]あなただけ[BREAK]ひとりなら たすけてあげてもよい[BREAK][PAUSE]わたしと ともに マザーシップに[BREAK]のりなさい>[BREAK][PAUSE][03 01][END]
+86D-E: <[..][..]ならば ともだちや みにくい[BREAK]ちきゅうじんと いっしょに ここに[BREAK][PAUSE]ねむりなさい>[BREAK][PAUSE][03 01][END]
+86E-E: <うたうのを やめなさい>[END]
+86F-E: <うたを[..][..]やめろ>[END]
+870-E: <う うたを やめろ！>[END]
+871-E: <うたを やめるんだ！>[END]
+872-E: <ちきゅうの むしけらども！[BREAK]だまれ！ うたうな！>[END]
+873-E: <うたを[..][..]>[END]
+874-E: <やめろ！>[END]
+875-E: <！！！>[END]
+876-E: <や[..][..]>[END]
+877-E: <！！！！>[END]
+878-E: <[..][..][..][..][..]>[END]
+879-E: <ナゼ コノワタシガ コンナウタニ[BREAK]ヤブレタノダ[..][..]>[BREAK][PAUSE][03 01][END]
+87A-E: <ワタシハ カナラズ オマエタチヲ[BREAK][..][..][..][..]マタ[..][..]イツカ[..][..]>[BREAK][PAUSE][03 01][END]
+87B-E: <[03 10]！ また あおう！>[BREAK][BREAK][PAUSE][03 01][END]

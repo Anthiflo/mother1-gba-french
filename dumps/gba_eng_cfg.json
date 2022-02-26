@@ -1,0 +1,18 @@
+{
+	"start_addr": "F27A90",
+	"has_pointers": true,
+	"nb_entries": "87C",
+	"text_offset": "-8000000",
+	"addr_size": 4,
+	"endian": "little",
+	"char_table": "gba_eng_chars.txt",
+	"end_byte": 0,
+	"cc_bytes": {
+		"03": {
+			"arguments":1
+		}
+	},
+	"known_commands": {
+		"03 02": "PAUSE"
+	}
+}
