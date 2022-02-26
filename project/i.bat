@@ -6,7 +6,7 @@ copy m12.gba test.gba
 @insert.exe 1
 @echo.
 @python check_overlap.py m12.asm insert_report.txt
-@python check_text_lengths.py
+@python check_text_lengths.py m1_main_text.txt
 @del m1_main_text_converted.txt
 @del m1_enemy_long_names_converted.txt
 @echo off

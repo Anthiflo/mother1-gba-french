@@ -57,7 +57,7 @@ def checkMaxArticleLength(filename1, filename2, prefix):
     return res
     
 def initSubstitutions():
-    textFile = open("m1_main_text.txt","r",encoding="utf-8")
+    textFile = open(sys.argv[1],"r",encoding="utf-8")
     res = [""]*16
     lines = textFile.readlines()
     for line in lines:
@@ -121,7 +121,7 @@ def initValues():
 
 initValues()
 
-textFile = open("m1_main_text.txt","r",encoding="utf-8")
+textFile = open(sys.argv[1],"r",encoding="utf-8")
 lines = textFile.readlines()
 
 for line in lines:
@@ -181,8 +181,8 @@ for line in lines:
                     print("WARNING! Too long line at " + lineId + ": “" + breakLine + "”")
                     nbTooLong += 1
                 
-                if (len(sys.argv) > 1):
-                    firstWord = breakLine.split(" ")[0]
+                if (len(sys.argv) > 2):
+                    firstWord = breakLine.lstrip().split(" ")[0]
                     if (len(firstWord) > 0 and len(firstWord) + previousLineLength < maxLen
                     and (firstWord.isupper() or firstWord.islower())):
                         print("WARNING! At " + lineId + ": “" + firstWord + "” could fit before [BREAK]")
