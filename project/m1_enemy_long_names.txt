@@ -65,7 +65,7 @@ ENEMY-5F0-14: Aigle
 ENEMY-5F1-15: Loup
 
 //Gull Bandit
-ENEMY-5F2-16: Goéland bandit
+ENEMY-5F2-16: Mouette voleuse
 
 //Crocodile
 ENEMY-5F3-17: Crocodile
@@ -113,7 +113,7 @@ ENEMY-600-24: Péquenaud
 ENEMY-601-25: Hippie
 
 //Bag Lady
-ENEMY-602-26: Excentrique
+ENEMY-602-26: Ménagère
 
 //Gang Member
 ENEMY-603-27: Membre du gang
@@ -128,7 +128,7 @@ ENEMY-605-29:
 ENEMY-606-2A: Zombie mafieux
 
 //PseudoZombie
-ENEMY-607-2B: Pseudo zombie
+ENEMY-607-2B: Pseudo-zombie
 
 //Crow
 ENEMY-608-2C: Corbeau
@@ -167,7 +167,7 @@ ENEMY-612-36: Boule de feu
 ENEMY-613-37: Zieux
 
 //Bonus Swoosh
-ENEMY-614-38: Zieux Bonus
+ENEMY-614-38: Zieux bonus
 
 //Ghost
 ENEMY-615-39: Fantôme
@@ -185,13 +185,13 @@ ENEMY-618-3C: Starman Jr
 ENEMY-619-3D: Putois
 
 //BloodyZombie
-ENEMY-61A-3E: Zombie sanguinaire
+ENEMY-61A-3E: Zombie sanglant
 
 //Rat
 ENEMY-61B-3F: Rat
 
 //Bomber
-ENEMY-61C-40: Bombœuf
+ENEMY-61C-40: Explosœuf
 
 //
 ENEMY-61D-41: 
@@ -242,7 +242,7 @@ ENEMY-62B-4F:
 ENEMY-62C-50: 
 
 //Rattlesnake
-ENEMY-62D-51: Crotale
+ENEMY-62D-51: Serpent à sonnette
 
 //Tarantula
 ENEMY-62E-52: Tarentule
@@ -272,10 +272,10 @@ ENEMY-635-59: Voiture démoniaque
 ENEMY-636-5A: Camion démoniaque
 
 //Death Truck
-ENEMY-637-5B: Camion tueur
+ENEMY-637-5B: Camion mortel
 
 //Alarm Ghost
-ENEMY-638-5C: Fantôme SOS
+ENEMY-638-5C: Fantôme S.O.S.
 
 //
 ENEMY-639-5D: 
@@ -320,7 +320,7 @@ ENEMY-645-69: OVNI Oméga
 ENEMY-646-6A: Caroline
 
 //Star Miner
-ENEMY-647-6B: Bombétoile
+ENEMY-647-6B: Déflagratœuf
 
 //NuclearRobot
 ENEMY-648-6C: Super robot atomique

@@ -518,7 +518,7 @@
 0F0: 
 0F0-E: 
 0F1: @First show me some money.[BREAK]Then I'll heal you.[BREAK][PAUSE]@Otherwise I'll have to[BREAK]charge you my own price.[BREAK][PAUSE]@I can heal you for $[03 1E].[BREAK][PAUSE]@This is my special deal[BREAK]just for you. I'm actually[BREAK]losing money doing this.[BREAK]
-0F1-E: @D'abord, fais-moi voir[BREAK]l'argent. Ensuite je te[BREAK]soigne.[BREAK][PAUSE]@Autrement je devrais fixer[BREAK]moi-même le prix.[BREAK][PAUSE]@Je peux te guérir pour[BREAK]seulement [03 1E]$.[BREAK][PAUSE]@C'est une offre rien que[BREAK]pour toi. Je perds même de[BREAK]l'argent en faisant ça.[BREAK]
+0F1-E: @D'abord, fais-moi voir[BREAK]combien tu as sur toi.[BREAK]Ensuite, je te soigne.[BREAK][PAUSE]@Autrement je devrais fixer[BREAK]moi-même le prix.[BREAK][PAUSE]@Je peux te guérir pour[BREAK]seulement [03 1E]$.[BREAK][PAUSE]@C'est une offre rien que[BREAK]pour toi. Je perds même de[BREAK]l'argent en faisant ça.[BREAK]
 0F2: 
 0F2-E: 
 0F3: @Thanks for the $[03 1E].[BREAK][PAUSE]@Okay, you're all better[BREAK]now.[BREAK][PAUSE]@Please come back sometime.[BREAK]I'll give you another nice[BREAK]deal.[BREAK]
@@ -1538,7 +1538,7 @@
 2D0: @Don't assume I'm just an[BREAK]ordinary old guy.[BREAK][PAUSE]@Although I actually am.[BREAK]
 2D0-E: @Ne me traite pas comme un[BREAK]petit vieux ordinaire.[BREAK][PAUSE]@... Même si j'en suis un.[BREAK]
 2D1: @You know...[BREAK][PAUSE]@If it were up to me...[BREAK][PAUSE]@I'd probably use a Duncan[BREAK]Factory rocket to blow up[BREAK]the rocks on the tracks.[BREAK]
-2D1-E: @Tu sais...[BREAK][PAUSE]@Si ça ne tenait qu'à moi,[BREAK]@je détruirais les rochers[BREAK]qui bloquent la voie ferrée[BREAK][PAUSE]avec une fusée de l'usine[BREAK]de Duncan.[BREAK]
+2D1-E: @Tu sais...[BREAK][PAUSE]@Si ça ne tenait qu'à moi,[BREAK]je détruirais les rochers[BREAK]qui bloquent la voie ferrée[BREAK][PAUSE]avec une fusée de l'usine[BREAK]de Duncan.[BREAK]
 2D2: @My husband is an important[BREAK]man at Twinkle Elementary[BREAK]School.[BREAK][PAUSE]@He's so important that he[BREAK]doesn't eat packed lunches[BREAK]from home.[BREAK]
 2D2-E: @Mon mari est une personne[BREAK]importante de l'école[BREAK]primaire Léclat.[BREAK][PAUSE]@Il trop important pour[BREAK]manger des paniers-repas[BREAK]préparés à la maison.[BREAK]
 2D3: @Have you been to the Sweet[BREAK]Little Factory?[BREAK]
@@ -2284,15 +2284,15 @@
 435: Item 77
 435-E: Item 77
 436: SpeedCapsul
-436-E: Capsule VIT
+436-E: CpslVitesse
 437: Wis.Capsule
-437-E: Capsule SAG
+437-E: CpslSagesse
 438: Str.Capsule
-438-E: Capsule VIG
+438-E: CpslVigueur
 439: ForceCapsul
-439-E: Capsule FOR
+439-E: CpslForce
 43A: FightCapsul
-43A-E: Capsule FGE
+43A-E: CpslFougue
 43B: 
 43B-E: 
 43C: 
@@ -2430,7 +2430,7 @@
 47E: PSI Shield[BETA]
 47E-E: Bouclier[4F][BETA]
 47F: PowerShield
-47F-E: SuperContre
+47F-E: Réflecteur
 480: Brainshock
 480-E: Choc mental
 481: BrainCyclon
@@ -2780,7 +2780,7 @@
 529: Watch out for those pearly whites!
 529-E: Gare à ses crocs nacrés[4F]!
 52A: You dirty thief!
-52A-E: Espèce de sale voleur[4F]!
+52A-E: Espèce de sale voleuse[4F]!
 52B: Always turn down an alligator's dinner invitation.
 52B-E: Déclinez toujours les invitations à dîner d'un crocodile.
 52C: It's a walking fuel tank.
@@ -2864,7 +2864,7 @@
 553: A big rat with a long tail.
 553-E: Un gros rat avec une longue queue.
 554: It looks like an egg but is harder than one.
-554-E: Elle ressemble à un [37]uf, mais en plus dur.
+554-E: Il ressemble à un [37]uf, mais en plus dur.
 555: 
 555-E: 
 556: It glares at you from afar...
@@ -2920,7 +2920,7 @@
 56F: How will it come at you next?! Straight-on, or in a zig-zag?!
 56F-E: Comment va-t-il vous foncer dessus[4F]?! En ligne droite, ou en zigzag[4F]?!
 570: Watch out, it'll call for friends if it's alarmed!
-570-E: Attention, il peut envoyer un SOS à ses amis[4F]!
+570-E: Attention, il peut envoyer un S.O.S. à ses amis[4F]!
 571: 
 571-E: 
 572: The favorite of optometrists everywhere.
@@ -2950,7 +2950,7 @@
 57E: Don't let her beauty fool you...
 57E-E: Ne vous laissez pas duper par sa beauté...
 57F: It carries bombs... and often uses them.
-57F-E: Elle transporte des bombes... et les utilise souvent.
+57F-E: Il transporte des bombes... et les utilise souvent.
 580: This robot has large amounts of fuel stored inside its body.
 580-E: Ce robot stocke une grande quantité de carburant à l'intérieur de son corps.
 581: Watch out! She won't hesitate to use powerful PSI attacks!
@@ -3202,7 +3202,7 @@
 5F1-E: Loup
 // #MAXLENGTH=12 16
 5F2: Gull Bandit
-5F2-E: GoélandBandt
+5F2-E: MouetteVolse
 // #MAXLENGTH=12 17
 5F3: Crocodile
 5F3-E: Crocodile
@@ -3250,7 +3250,7 @@
 601-E: Hippie
 // #MAXLENGTH=14 26
 602: Bag Lady
-602-E: Excentrique
+602-E: Ménagère
 // #MAXLENGTH=14 27
 603: Gang Member
 603-E: Membre du gang
@@ -3265,7 +3265,7 @@
 606-E: Zombie mafieux
 // #MAXLENGTH=14 2B
 607: PseudoZombie
-607-E: Pseudo zombie
+607-E: Pseudo-zombie
 // #MAXLENGTH=12 2C
 608: Crow
 608-E: Corbeau
@@ -3304,7 +3304,7 @@
 613-E: Zieux
 // #MAXLENGTH=14 38
 614: Bonus Swoosh
-614-E: Zieux Bonus
+614-E: Zieux bonus
 // #MAXLENGTH=12 39
 615: Ghost
 615-E: Fantôme
@@ -3322,13 +3322,13 @@
 619-E: Putois
 // #MAXLENGTH=14 3E
 61A: BloodyZombie
-61A-E: ZombieSang.
+61A-E: ZombieSanglant
 // #MAXLENGTH=12 3F
 61B: Rat
 61B-E: Rat
 // #MAXLENGTH=14 40
 61C: Bomber
-61C-E: Bombœuf
+61C-E: Explosœuf
 //
 61D: 
 61D-E: 
@@ -3346,10 +3346,10 @@
 621-E: 
 // #MAXLENGTH=14 46
 622: Biopede
-622-E: ScolpdreBio.
+622-E: ScolpdreBioniq
 // #MAXLENGTH=14 47
 623: Bio-Scorpion
-623-E: ScorpionBio.
+623-E: ScorpionBioniq
 //
 624: 
 624-E: 
@@ -3379,7 +3379,7 @@
 62C-E: 
 // #MAXLENGTH=14 51
 62D: Rattlesnake
-62D-E: Crotale
+62D-E: SerpentSonntte
 // #MAXLENGTH=12 52
 62E: Tarantula
 62E-E: Tarentule
@@ -3397,22 +3397,22 @@
 632-E: 
 // #MAXLENGTH=12 57
 633: Bio-Bat
-633-E: BatouBioniq.
+633-E: BatouBioniq
 // #MAXLENGTH=14 58
 634: Stray Dog
 634-E: Chien errant
 // #MAXLENGTH=14 59
 635: Devil Car
-635-E: Voiture démon
+635-E: VoiturDémoniaq
 // #MAXLENGTH=14 5A
 636: Devil Truck
-636-E: Camion démon
+636-E: CamionDémoniaq
 // #MAXLENGTH=14 5B
 637: Death Truck
-637-E: Camion tueur
+637-E: Camion mortel
 // #MAXLENGTH=14 5C
 638: Alarm Ghost
-638-E: Fantôme SOS
+638-E: Fantôme S.O.S.
 //
 639: 
 639-E: 
@@ -3433,7 +3433,7 @@
 63E-E: 
 // #MAXLENGTH=14 63
 63F: Sky Yddet
-63F-E: Nounourciel
+63F-E: Nounours ciel
 //
 640: 
 640-E: 
@@ -3457,7 +3457,7 @@
 646-E: Caroline
 // #MAXLENGTH=14 6B
 647: Star Miner
-647-E: Bombétoile
+647-E: Déflagratœuf
 // #MAXLENGTH=14 6C
 648: NuclearRobot
 648-E: SuperRobotAtom
