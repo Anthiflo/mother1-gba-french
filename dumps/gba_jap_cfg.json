@@ -6,7 +6,7 @@
 	"addr_size": 4,
 	"endian": "little",
 	"char_table": "gba_jap_chars.txt",
-	"end_byte": 0,
+	"end_marks": ["[END]"],
 	"cc_bytes": {
 		"03": {
 			"arguments":1

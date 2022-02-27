@@ -10,7 +10,7 @@ TEXT_OFFSET = "text_offset"
 ADDR_SIZE = "addr_size"
 ENDIAN = "endian"
 CHAR_TABLE = "char_table"
-END_BYTE = "end_byte"
+END_MARKS = "end_marks"
 CC_BYTES = "cc_bytes"
 CC_ARGUMENTS = "arguments"
 KNOWN_COMMANDS = "known_commands"
@@ -52,10 +52,9 @@ def dumpOneLine(file, offset, charTable, cfg):
     stopRead = False
     while(not stopRead):
         curByte = int.from_bytes(file.read(1), cfg[ENDIAN])
-        if (curByte == cfg[END_BYTE]):
-            stopRead = True
+        charToAdd = ""
         if (curByte in charTable):
-            dumpedLine += charTable[curByte]
+            charToAdd = charTable[curByte]
         else:
             hexByte = "{0:02X}".format(curByte)
             bytesStr = hexByte
@@ -66,7 +65,10 @@ def dumpOneLine(file, offset, charTable, cfg):
                      bytesStr += " " + hexParamByte
             if (bytesStr in cfg[KNOWN_COMMANDS]):
                 bytesStr = cfg[KNOWN_COMMANDS][bytesStr]
-            dumpedLine += "[" + bytesStr + "]"
+            charToAdd = "[" + bytesStr + "]"
+        dumpedLine += charToAdd
+        if (charToAdd in cfg[END_MARKS]):
+            stopRead = True
     return dumpedLine
 
 def dumpLines(file, pointers, charTable, cfg):
@@ -90,18 +92,18 @@ def outputToFile(filename,lines,addPrefix):
     output = open(filename,"w",encoding="utf-8")
     if (addPrefix):
         for idx,line in enumerate(lines):
-            output.write("{0:03X}".format(idx) + "-E: " + line + "\n")
+            output.write("{0:03X}".format(idx) + ": " + line + "\n")
     else:
-        defaultPrefix = "???-E: "
+        defaultPrefix = "???: "
         output.write(defaultPrefix + ("\n" + defaultPrefix).join(lines))
     output.close()
 
 def outputToScreen(lines,addPrefix):
     if (addPrefix):
         for idx,line in enumerate(lines):
-            print("{0:03X}".format(idx) + "-E: " + line + "\n")
+            print("{0:03X}".format(idx) + ": " + line + "\n")
     else:
-        defaultPrefix = "???-E: "
+        defaultPrefix = "???: "
         print(defaultPrefix + ("\n" + defaultPrefix).join(lines))
    
 def displayHelp():
