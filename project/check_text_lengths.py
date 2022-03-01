@@ -3,7 +3,7 @@ import textwrap
 import sys
 
 LENGTH_CHAR_NAME = 6
-LENGTH_ITEM_NAME = 11
+LENGTH_ITEM_NAME = 12
 LENGTH_TEAM_PREFIX = 12
 LENGTH_MONEY_AMOUNT = 5
 
@@ -77,6 +77,12 @@ def decodeLine(line):
     line = re.sub("\[END\]","", line)
     line = re.sub("\[..\]","*", line)
     line = re.sub("\[DOUBLEZERO\]", "*", line)
+    line = re.sub("\[ALPHA\]", "α", line)
+    line = re.sub("\[BETA\]", "β", line)
+    line = re.sub("\[PIZ\]", "π", line)
+    line = re.sub("\[GAMMA\]", "γ", line)
+    line = re.sub("\[OMEGA\]", "Ω", line)
+    
     line = re.sub("\[03 1[0123]\]",     exampleStr("HERO",LENGTH_CHAR_NAME), line)
     line = re.sub("\[03 1[6AB]\]",      exampleStr("HERO",LENGTH_CHAR_NAME), line)
     line = re.sub("\[03 17\]",          exampleStr("L’équipe de ",LENGTH_TEAM_PREFIX), line)

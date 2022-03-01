@@ -1214,7 +1214,7 @@
 239: @There was a landslide up by[BREAK]Santa Claus Station, so the[BREAK]train can't get through.[BREAK]
 239-E: @Il y a eu un éboulement[BREAK]près de la gare de l'Union,[BREAK]de ce fait le train ne peut[BREAK]plus passer.[BREAK]
 23A: @The [03 1D], yes?[BREAK]
-23A-E: @[03 4A][03 1D], c'est ça[4F]?[BREAK]
+23A-E: @[03 4A][03 1D][4F]?[BREAK]
 23B: @It looks you can't hold any[BREAK]more items.[BREAK]
 23B-E: @On dirait que tu ne peux[BREAK]pas porter plus d'objets.[BREAK]
 23C: 
@@ -1475,7 +1475,7 @@
 2B1: @Welcome![BREAK][PAUSE]Please have a look at our[BREAK]menu.[BREAK]
 2B1-E: @Bienvenue[4F]![BREAK][PAUSE]Jette donc un œil à notre[BREAK]menu.[BREAK]
 2B2: @Thank you.[BREAK][PAUSE]One order of [03 1D] to[BREAK]go![BREAK]
-2B2-E: @Merci.[BREAK][PAUSE]Et une commande[BREAK][03 4D][03 1D] à emporter[4F]![BREAK]
+2B2-E: @Merci.[BREAK][PAUSE]Et [03 48][03 1D] à[BREAK]emporter[4F]![BREAK]
 2B3: 
 2B3-E: 
 2B4: 
@@ -2129,12 +2129,15 @@
 3E7-E: 
 3E8: 
 3E8-E: 
+// #MAXLENGTH=12 #MAXLINES=1 #EXTRALASTLINES=0
 3E9: Big Bag
 3E9-E: GrandSac
 3EA: Phone Card
 3EA-E: CarteTéléph
+// #MAXLENGTH=11 (pluriel)
 3EB: BreadCrumbs
 3EB-E: Miettes
+// #MAXLENGTH=12
 3EC: Repel Ring
 3EC-E: BagueRépuls
 3ED: ITEM 05
@@ -2149,8 +2152,10 @@
 3F1-E: 
 3F2: Knife
 3F2-E: Couteau
+// #MAXLENGTH=11 (prix 4 chiffres)
 3F3: Surv. Knife
 3F3-E: CteauSurvie
+// #MAXLENGTH=12
 3F4: Basic Sword
 3F4-E: ÉpéeSimple
 3F5: Katana
@@ -2163,32 +2168,38 @@
 3F8-E: BatteFêlée
 3F9: Teeball Bat
 3F9-E: BatteOrdinr
+// #MAXLENGTH=11 (prix 4 chiffres)
 3FA: Sandlot Bat
 3FA-E: BatteRobust
+// #MAXLENGTH=12
 3FB: HallFameBat
-3FB-E: BatteSuprem
+3FB-E: BatteSuprême
 3FC: Frypan
 3FC-E: Poêle
 3FD: DX Frypan
-3FD-E: PoêleQualit
+3FD-E: PoêleQualité
 3FE: Best Frypan
 3FE-E: PoêleExcept
 3FF: Slingshot
 3FF-E: LancePierre
+// #MAXLENGTH=11 (prix 4 chiffres)
 400: Boomerang
 400-E: Boomerang
+// #MAXLENGTH=12
 401: Bug Spray
 401-E: Insecticide
 402: Super Spray
 402-E: SuperInsect
 403: Flea Bomb
 403-E: BombePuces
+// #MAXLENGTH=11 (pluriel)
 404: Love Words
 404-E: MotsAmour
 405: Curse Words
 405-E: MotsAmers
 406: Slime Gen.
 406-E: AprlGélatne
+// #MAXLENGTH=12
 407: Flashdark
 407-E: OmbrePoche
 408: Stone Spray
@@ -2199,12 +2210,16 @@
 40A-E: LanceFlamme
 40B: Bomb
 40B-E: Bombe
+// #MAXLENGTH=11 (prix 4 chiffres)
 40C: Super Bomb
 40C-E: SuperBombe
+// #MAXLENGTH=12
 40D: Laser Beam
 40D-E: RayonLaser
+// #MAXLENGTH=11 (prix 4 chiffres)
 40E: Death Beam
-40E-E: RayonMort
+40E-E: RayonMortel
+// #MAXLENGTH=12
 40F: ITEM 39
 40F-E: ITEM 39
 410: Rope
@@ -2220,23 +2235,27 @@
 415: Peace Coin
 415-E: PiècePaix
 416: ProtectCoin
-416-E: PièceProtct
+416-E: PièceProtect
+// #MAXLENGTH=11 (prix 4 chiffres)
 417: Magic Coin
 417-E: PièceMagiq
+// #MAXLENGTH=12
 418: Fairy Brace
 418-E: BraceletFée
 419: Angel Brace
-419-E: BraceltAnge
+419-E: BraceletAnge
+// #MAXLENGTH=11 (prix 4 chiffres)
 41A: GoddessBrac
 41A-E: BrcltDéesse
+// #MAXLENGTH=12
 41B: RainPendant
-41B-E: PendntPluie
+41B-E: PendntfPluie
 41C: FlamePendnt
-41C-E: PendntifFeu
+41C-E: PendentifFeu
 41D: EarthPendnt
-41D-E: PendntTerre
+41D-E: PendntfTerre
 41E: Sea Pendant
-41E-E: PendntifMer
+41E-E: PendentifMer
 41F: Easy Ring
 41F-E: BagueFacile
 420: Item 56
@@ -2249,10 +2268,12 @@
 423-E: 
 424: OrangeJuice
 424-E: JusOrange
+// #MAXLENGTH=11 (pluriel)
 425: FrenchFries
 425-E: Frites
+// #MAXLENGTH=12
 426: Magic Herb
-426-E: HerbeMagiq
+426-E: HerbeMagique
 427: Hamburger
 427-E: Hamburger
 428: SportsDrink
@@ -2278,7 +2299,7 @@
 432: 
 432-E: 
 433: MagicRibbon
-433-E: RubanMagiq
+433-E: RubanMagique
 434: Magic Candy
 434-E: BonbonMagiq
 435: Item 77
@@ -2290,7 +2311,7 @@
 438: Str.Capsule
 438-E: CpslVigueur
 439: ForceCapsul
-439-E: CpslForce
+439-E: CapsuleForce
 43A: FightCapsul
 43A-E: CpslFougue
 43B: 
@@ -2336,15 +2357,17 @@
 44F: Item 103
 44F-E: Objet 103
 450: Frank.Badge
-450-E: BdgeFrankln
+450-E: BdgeFranklin
 451: Friend Ring
 451-E: BagueAmitié
 452: Item 106
 452-E: Objet 106
 453: Onyx Hook
 453-E: CrochetOnyx
+// #MAXLENGTH=11 (prix 4 chiffres)
 454: Ult. Weapon
 454-E: ArmeUltime
+// #MAXLENGTH=12
 455: Ruler
 455-E: Règle
 456: ATM Card
@@ -2550,10 +2573,12 @@
 4B9-E: Antidote
 4BA: Antidote
 4BA-E: Antidote
+// #MAXLENGTH=11 (prix 4 chiffres)
 4BB: Real Rocket
 4BB-E: VraieFusée
 4BC: Time Machine
 4BC-E: MachineTemp
+// #MAXLENGTH=12
 4BD: 
 4BD-E: 
 4BE: 
@@ -2624,6 +2649,7 @@
 4DE-E: 
 4DF: 
 4DF-E: 
+// #MAXLENGTH=12 #MAXLINES=1 #EXTRALASTLINES=0
 // In status menu (male)
 4E0: 
 4E0-E:      Évanoui
@@ -3137,205 +3163,205 @@
 5DB-E: 
 5DC: 
 5DC-E: 
-// #MAXLENGTH=14 #AUTOWRAP=0 #MAXLINES=1 #EXTRALASTLINES=0 01
+// #MAXLENGTH=20 #AUTOWRAP=0 #MAXLINES=1 #EXTRALASTLINES=0 01
 5DD: Territ. Oak
 5DD-E: Gros Tronchou
-// #MAXLENGTH=14 02
+// #MAXLENGTH=20 02
 5DE: Dragon
 5DE-E: Dragon
-// #MAXLENGTH=14 03
+// #MAXLENGTH=20 03
 5DF: R-7038
 5DF-E: R-7038
-// #MAXLENGTH=14 04
+// #MAXLENGTH=20 04
 5E0: Elephant
 5E0-E: Éléphant
-// #MAXLENGTH=14 05
+// #MAXLENGTH=20 05
 5E1: Bear
 5E1-E: Ours
-// #MAXLENGTH=14 06
+// #MAXLENGTH=20 06
 5E2: Bigfoot
 5E2-E: Bigfoot
-// #MAXLENGTH=14 07
+// #MAXLENGTH=20 07
 5E3: Mad Truck
 5E3-E: Camion fou
-// #MAXLENGTH=14 08
+// #MAXLENGTH=20 08
 5E4: Old Robot
 5E4-E: Vieux robot
-// #MAXLENGTH=12 09
+// #MAXLENGTH=18 09
 5E5: Mega-Borg
 5E5-E: Méga-Borg
-// #MAXLENGTH=12 0A
+// #MAXLENGTH=18 0A
 5E6: Gargoyle
 5E6-E: Gargouille
-// #MAXLENGTH=12 0B
+// #MAXLENGTH=18 0B
 5E7: Gabilan
 5E7-E: Gabilan
-// #MAXLENGTH=14 0C
+// #MAXLENGTH=20 0C
 5E8: Gorilla
 5E8-E: Gorille
-// #MAXLENGTH=12 0D
+// #MAXLENGTH=18 0D
 5E9: Bison
 5E9-E: Bison
-// #MAXLENGTH=14 0E
+// #MAXLENGTH=20 0E
 5EA: Tiger
 5EA-E: Tigre
-// #MAXLENGTH=14 0F
+// #MAXLENGTH=20 0F
 5EB: Mad Car
 5EB-E: Voiture folle
-// #MAXLENGTH=14 10
+// #MAXLENGTH=20 10
 5EC: Raeb Yddet
 5EC-E: Nounours
-// #MAXLENGTH=12 11
+// #MAXLENGTH=18 11
 5ED: Magisnail
 5ED-E: Magiscargot
-// #MAXLENGTH=12 12
+// #MAXLENGTH=18 12
 5EE: Titany
 5EE-E: Titanie
-// #MAXLENGTH=14 13
+// #MAXLENGTH=20 13
 5EF: Giygas
 5EF-E: Giygas
-// #MAXLENGTH=12 14
+// #MAXLENGTH=18 14
 5F0: Eagle
 5F0-E: Aigle
-// #MAXLENGTH=12 15
+// #MAXLENGTH=18 15
 5F1: Wolf
 5F1-E: Loup
-// #MAXLENGTH=12 16
+// #MAXLENGTH=18 16
 5F2: Gull Bandit
-5F2-E: MouetteVolse
-// #MAXLENGTH=12 17
+5F2-E: Mouette voleuse
+// #MAXLENGTH=18 17
 5F3: Crocodile
 5F3-E: Crocodile
-// #MAXLENGTH=14 18
+// #MAXLENGTH=20 18
 5F4: Atomic Robot
 5F4-E: Robot atomique
-// #MAXLENGTH=14 19
+// #MAXLENGTH=20 19
 5F5: Cave Master
-5F5-E: RoiProfondeurs
-// #MAXLENGTH=14 1A
+5F5-E: Roi des profondeurs
+// #MAXLENGTH=20 1A
 5F6: Fugitive
 5F6-E: Fugitif
-// #MAXLENGTH=14 1B
+// #MAXLENGTH=20 1B
 5F7: BB Gang Boss
-5F7-E: Chef BB Gang
-// #MAXLENGTH=14 1C
+5F7-E: Chef du BB Gang
+// #MAXLENGTH=20 1C
 5F8: Barbot
 5F8-E: Barbot
-// #MAXLENGTH=14 1D
+// #MAXLENGTH=20 1D
 5F9: Jane
 5F9-E: Jane
-// #MAXLENGTH=12 1E
+// #MAXLENGTH=18 1E
 5FA: Starman
 5FA-E: Starman
-// #MAXLENGTH=14 1F
+// #MAXLENGTH=20 1F
 5FB: Ulrich
 5FB-E: Ulrich
-// #MAXLENGTH=14 20
+// #MAXLENGTH=20 20
 5FC: Brainger
 5FC-E: Cerebrum
-// #MAXLENGTH=12 21
+// #MAXLENGTH=18 21
 5FD: Mook
 5FD-E: Mook
-// #MAXLENGTH=12 22
+// #MAXLENGTH=18 22
 5FE: Armor
 5FE-E: Armure
-// #MAXLENGTH=12 23
+// #MAXLENGTH=18 23
 5FF: Oak
 5FF-E: Tronchou
-// #MAXLENGTH=14 24
+// #MAXLENGTH=20 24
 600: Redneck
 600-E: Péquenaud
-// #MAXLENGTH=14 25
+// #MAXLENGTH=20 25
 601: Hippie
 601-E: Hippie
-// #MAXLENGTH=14 26
+// #MAXLENGTH=20 26
 602: Bag Lady
 602-E: Ménagère
-// #MAXLENGTH=14 27
+// #MAXLENGTH=20 27
 603: Gang Member
 603-E: Membre du gang
-// #MAXLENGTH=14 28
+// #MAXLENGTH=20 28
 604: Dr. Distorto
-604-E: Dr Distorto
+604-E: Dr[4F]Distorto
 //
 605: 
 605-E: 
-// #MAXLENGTH=14 2A
+// #MAXLENGTH=20 2A
 606: Gang Zombie
 606-E: Zombie mafieux
-// #MAXLENGTH=14 2B
+// #MAXLENGTH=20 2B
 607: PseudoZombie
 607-E: Pseudo-zombie
-// #MAXLENGTH=12 2C
+// #MAXLENGTH=18 2C
 608: Crow
 608-E: Corbeau
-// #MAXLENGTH=14 2D
+// #MAXLENGTH=20 2D
 609: Snake
 609-E: Serpent
-// #MAXLENGTH=12 2E
+// #MAXLENGTH=18 2E
 60A: Hyena
 60A-E: Hyène
-// #MAXLENGTH=12 2F
+// #MAXLENGTH=18 2F
 60B: Lynx
 60B-E: Lynx
-// #MAXLENGTH=12 30
+// #MAXLENGTH=18 30
 60C: Centipede
 60C-E: Scolopendre
-// #MAXLENGTH=12 31
+// #MAXLENGTH=18 31
 60D: Dust Ghost
 60D-E: Esprit crado
-// #MAXLENGTH=12 32
+// #MAXLENGTH=18 32
 60E: Fly
 60E-E: Mouche
-// #MAXLENGTH=12 33
+// #MAXLENGTH=18 33
 60F: Arachnid!
 60F-E: Araignée
-// #MAXLENGTH=12 34
+// #MAXLENGTH=18 34
 610: Scorpion
 610-E: Scorpion
-// #MAXLENGTH=14 35
+// #MAXLENGTH=20 35
 611: Rope
 611-E: Corde
-// #MAXLENGTH=14 36
+// #MAXLENGTH=20 36
 612: Fireball
 612-E: Boule de feu
-// #MAXLENGTH=14 37
+// #MAXLENGTH=20 37
 613: Swoosh
 613-E: Zieux
-// #MAXLENGTH=14 38
+// #MAXLENGTH=20 38
 614: Bonus Swoosh
 614-E: Zieux bonus
-// #MAXLENGTH=12 39
+// #MAXLENGTH=18 39
 615: Ghost
 615-E: Fantôme
-// #MAXLENGTH=12 3A
+// #MAXLENGTH=18 3A
 616: Li'l Saucer
 616-E: P'tit OVNI
-// #MAXLENGTH=12 3B
+// #MAXLENGTH=18 3B
 617: Mr. Batty
-617-E: M. Batou
-// #MAXLENGTH=14 3C
+617-E: M.[4F]Batou
+// #MAXLENGTH=20 3C
 618: Starman Jr.
 618-E: Starman Jr
-// #MAXLENGTH=12 3D
+// #MAXLENGTH=18 3D
 619: Skunk
 619-E: Putois
-// #MAXLENGTH=14 3E
+// #MAXLENGTH=20 3E
 61A: BloodyZombie
-61A-E: ZombieSanglant
-// #MAXLENGTH=12 3F
+61A-E: Zombie sanglant
+// #MAXLENGTH=18 3F
 61B: Rat
 61B-E: Rat
-// #MAXLENGTH=14 40
+// #MAXLENGTH=20 40
 61C: Bomber
 61C-E: Explosœuf
 //
 61D: 
 61D-E: 
-// #MAXLENGTH=14 42
+// #MAXLENGTH=20 42
 61E: Doll
 61E-E: Poupée
-// #MAXLENGTH=14 43
+// #MAXLENGTH=20 43
 61F: Lamp
 61F-E: Lampe
 //
@@ -3344,25 +3370,25 @@
 //
 621: 
 621-E: 
-// #MAXLENGTH=14 46
+// #MAXLENGTH=20 46
 622: Biopede
-622-E: ScolpdreBioniq
-// #MAXLENGTH=14 47
+622-E: Scolopendre bionique
+// #MAXLENGTH=20 47
 623: Bio-Scorpion
-623-E: ScorpionBioniq
+623-E: Scorpion bionique
 //
 624: 
 624-E: 
 // 
 625: 
 625-E: 
-// #MAXLENGTH=14 4A
+// #MAXLENGTH=20 4A
 626: Red Snake
 626-E: Serpent rouge
-// #MAXLENGTH=14 4B
+// #MAXLENGTH=20 4B
 627: Lone Wolf
 627-E: Loup solitaire
-// #MAXLENGTH=14 4C
+// #MAXLENGTH=20 4C
 628: Polar Bear
 628-E: Ours polaire
 //
@@ -3377,52 +3403,52 @@
 //
 62C: 
 62C-E: 
-// #MAXLENGTH=14 51
+// #MAXLENGTH=20 51
 62D: Rattlesnake
-62D-E: SerpentSonntte
-// #MAXLENGTH=12 52
+62D-E: Serpent à sonnette
+// #MAXLENGTH=18 52
 62E: Tarantula
 62E-E: Tarentule
-// #MAXLENGTH=12 53
+// #MAXLENGTH=18 53
 62F: Tough Croc
-62F-E: Croco tenace
+62F-E: Crocodile tenace
 //
 630: 
 630-E: 
-// #MAXLENGTH=12 55
+// #MAXLENGTH=18 55
 631: Buffalo
 631-E: Buffle
 //
 632: 
 632-E: 
-// #MAXLENGTH=12 57
+// #MAXLENGTH=18 57
 633: Bio-Bat
-633-E: BatouBioniq
-// #MAXLENGTH=14 58
+633-E: Batou bionique
+// #MAXLENGTH=20 58
 634: Stray Dog
 634-E: Chien errant
-// #MAXLENGTH=14 59
+// #MAXLENGTH=20 59
 635: Devil Car
-635-E: VoiturDémoniaq
-// #MAXLENGTH=14 5A
+635-E: Voiture démoniaque
+// #MAXLENGTH=20 5A
 636: Devil Truck
-636-E: CamionDémoniaq
-// #MAXLENGTH=14 5B
+636-E: Camion démoniaque
+// #MAXLENGTH=20 5B
 637: Death Truck
 637-E: Camion mortel
-// #MAXLENGTH=14 5C
+// #MAXLENGTH=20 5C
 638: Alarm Ghost
 638-E: Fantôme S.O.S.
 //
 639: 
 639-E: 
-// #MAXLENGTH=14 5E
+// #MAXLENGTH=20 5E
 63A: Woosh Swoosh
 63A-E: Katzieux
-// #MAXLENGTH=14 5F
+// #MAXLENGTH=20 5F
 63B: Papa Swoosh
 63B-E: Papa Zieux
-// #MAXLENGTH=14 60
+// #MAXLENGTH=20 60
 63C: Swooshette
 63C-E: Maman Zieux
 //
@@ -3431,75 +3457,75 @@
 //
 63E: 
 63E-E: 
-// #MAXLENGTH=14 63
+// #MAXLENGTH=20 63
 63F: Sky Yddet
-63F-E: Nounours ciel
+63F-E: Nounours du ciel
 //
 640: 
 640-E: 
-// #MAXLENGTH=12 65
+// #MAXLENGTH=18 65
 641: Giga-Borg
 641-E: Giga-Borg
-// #MAXLENGTH=14 66
+// #MAXLENGTH=20 66
 642: Last Borg
 642-E: Borg ultime
-// #MAXLENGTH=14 67
+// #MAXLENGTH=20 67
 643: Scrapper
 643-E: Robot cassé
-// #MAXLENGTH=14 68
+// #MAXLENGTH=20 68
 644: Death Barbot
 644-E: Barbot tueur
-// #MAXLENGTH=12 69
+// #MAXLENGTH=18 69
 645: Omega Saucer
 645-E: OVNI Oméga
-// #MAXLENGTH=14 6A
+// #MAXLENGTH=20 6A
 646: Caroline
 646-E: Caroline
-// #MAXLENGTH=14 6B
+// #MAXLENGTH=20 6B
 647: Star Miner
 647-E: Déflagratœuf
-// #MAXLENGTH=14 6C
+// #MAXLENGTH=20 6C
 648: NuclearRobot
-648-E: SuperRobotAtom
-// #MAXLENGTH=14 6D
+648-E: Super robot atomique
+// #MAXLENGTH=20 6D
 649: Suzie
 649-E: Suzie
-// #MAXLENGTH=12 6E
+// #MAXLENGTH=18 6E
 64A: Blue Starman
 64A-E: Starman bleu
-// #MAXLENGTH=12 6F
+// #MAXLENGTH=18 6F
 64B: Satania
 64B-E: Satanie
-// #MAXLENGTH=12 70
+// #MAXLENGTH=18 70
 64C: Titanian
 64C-E: Titanien
-// #MAXLENGTH=12 71
+// #MAXLENGTH=18 71
 64D: Mook Senior
 64D-E: Mook senior
 //
 64E: 
 64E-E: 
-// #MAXLENGTH=12 73
+// #MAXLENGTH=18 73
 64F: Zombie
 64F-E: Zombie
-// #MAXLENGTH=14 74
+// #MAXLENGTH=20 74
 650: Mean Zombie
 650-E: Zombie cruel
-// #MAXLENGTH=12 75
+// #MAXLENGTH=18 75
 651: Silver Wolf
 651-E: Loup argenté
-// #MAXLENGTH=14 76
+// #MAXLENGTH=20 76
 652: R-7037
 652-E: R-7037
-// #MAXLENGTH=14 77
+// #MAXLENGTH=20 77
 653: Grizzly
 653-E: Grizzly
-// #MAXLENGTH=14 78
+// #MAXLENGTH=20 78
 654: R-7038XX
 654-E: R-7038XX
-// #MAXLENGTH=12 79
+// #MAXLENGTH=18 79
 655: Last Starman
-655-E: StarmnUltime
+655-E: Starman ultime
 656: 
 656-E: 
 657: 
@@ -3667,9 +3693,10 @@
 6A7: @[03 1A] put the [03 1C][BREAK]in [03 1B]'s bag.[BREAK]
 6A7-E: @[03 1A] met l[03 41][03 1C][BREAK]dans le sac d[03 5B][03 1B].[BREAK]
 6A8: @[03 1B] took the [03 1C][BREAK]from [03 1A]'s bag.[BREAK]
-6A8-E: @[03 1B] prend[BREAK]l[03 41][03 1C] dans le sac[BREAK]d[03 5A][03 1A].[BREAK]
+6A8-E: @[03 1B] prend[BREAK]l[03 41][03 1C] dans le[BREAK]sac d[03 5A][03 1A].[BREAK]
 6A9: @[03 3E] threw out the[BREAK][03 1C] that was in[BREAK][03 1A]'s bag.[BREAK]
-6A9-E: @[03 3E] sort l[03 41][03 1C][BREAK]du sac d[03 5A][03 1A] et [03 44][BREAK]jette.[BREAK]
+6A9-E: @[03 3E] sort[BREAK]l[03 41][03 1C] du sac[BREAK]d[03 5A][03 1A] et [03 44] jette.[BREAK]
+// #FORCELENGTH "[03 41]"=2
 6AA: @[03 3E] took the [03 1C][BREAK]out of [03 1A]'s bag[BREAK][PAUSE]and put it in [03 1B]'s bag.[BREAK]
 6AA-E: @[03 3E] sort l[03 41][03 1C][BREAK]du sac d[03 5A][03 1A][BREAK][PAUSE]et [03 44]met dans le sac[BREAK]d[03 5B][03 1B].[BREAK]
 6AB: 
@@ -3760,7 +3787,7 @@
 6D5: 
 6D5-E: 
 6D6: @[03 1A] took out the[BREAK][03 1C] and then put it[BREAK]away again.[BREAK]
-6D6-E: @[03 1A] sort l[03 41][03 1C][BREAK]puis [03 44]range[BREAK]immédiatement.[BREAK]
+6D6-E: @[03 1A] sort[BREAK]l[03 41][03 1C] puis[BREAK][03 44]range immédiatement.[BREAK]
 6D7: @[03 1A] is unconcious.[BREAK]
 6D7-E: @[03 1A] est évanoui[03 6A].[BREAK]
 6D8: @The entire party was[BREAK]healed![BREAK]
@@ -3939,7 +3966,7 @@
 72D: "Laser Beam"[BREAK]@If that weakling [03 11][BREAK]were to wield this...
 72D-E: "Rayon laser"[BREAK]@Si jamais cette mauviette[BREAK]d[03 52][03 11] venait à l'avoir[BREAK]entre les mains...
 72E: "Death Beam"[BREAK]@If that cowardly [03 11][BREAK]were to wield this, he'd[BREAK]really be something.
-72E-E: "Rayon de la mort"[BREAK]@Si ce lâche d[03 52][03 11] en[BREAK]venait à l'utiliser, il[BREAK]pourrait faire sensation.
+72E-E: "Rayon mortel"[BREAK]@Si ce lâche d[03 52][03 11] en[BREAK]venait à l'utiliser, il[BREAK]pourrait faire sensation.
 72F: 
 72F-E: 
 730: "Rope"[BREAK]@Use this to tie up the[BREAK]enemy.

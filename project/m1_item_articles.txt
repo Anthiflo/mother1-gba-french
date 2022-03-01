@@ -179,7 +179,7 @@ ITEM-422-39: 00
 ITEM-423-3A: 00
 
 //OrangeJuice
-ITEM-424-3B: 02
+ITEM-424-3B: 00
 
 //FrenchFries
 ITEM-425-3C: 0E

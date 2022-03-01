@@ -177,14 +177,14 @@ org $8F2762D; db $1C
 org $8F27632; db $1C
 org $8F27637; db $1C
 
-org $8F27770; db $0D   // move enemy name box left a little bit
-org $8F27776; db $0F   // expand enemy name box in battle
-org $8F2777F; db $0F
-org $8F27788; db $0F
-org $8F27791; db $0F
-org $8F2779A; db $0F
-org $8F277A3; db $0F
-org $8F10F32; db $0E   // move cursor
+org $8F27770; db $07   // move enemy name box left a little bit
+org $8F27776; db $15   // expand enemy name box in battle
+org $8F2777F; db $15
+org $8F27788; db $15
+org $8F27791; db $15
+org $8F2779A; db $15
+org $8F277A3; db $15
+org $8F10F32; db $08   // move cursor
 
 // get pre-parsing stuff to work so we can do auto line wraps
 org $8F0F226; bl copy_battle_line_to_ram
@@ -194,6 +194,20 @@ org $8F0F2DA; bl add_space_to_enemy_name
 
 // only undo auto-indenting if it's battle text
 org $8F0C088; bl possibly_ignore_auto_indents
+
+// New expanded window in battle (items/PSI)
+org $8F29F18; dd $8FE7780
+org $8FE7780; incbin m1_window_battle_item.bin
+// Adjust items to the new expanded window
+org $8F10FA0; mov r0,#6 // call the new window
+org $8F10FC2; mov r0,#0xD; mul r0,r1; nop; add r1,r0,#3 // cursor position
+org $8F10FD2; add r0,#4 // left position first item
+// Adjust PSI to the new expanded window
+org $8F11136; mov r0,#6 // call the new window
+org $8F1116A; mov r0,#0xD; mul r0,r1; nop; add r1,r0,#3 // cursor position
+org $8F1117A; add r0,#4 // left position first item
+org $8F277E4; db $03    // adjust top of window
+org $8F111AA; mov r0,#3 // cursor position on title
 
 
 //========================================================================================
@@ -207,8 +221,10 @@ org $8FE4000; incbin m1_window_command_menu.bin // #OVERRIDDEN
 // Alter the Status menu
 org $8F0B188; dd $8FE4800
 org $8FE4800; incbin m1_window_status_menu.bin // #OVERRIDDEN
-org $8F0C6B4; db $04    // fix status menu number alignment
-org $8F0CC78; mov r0,#0xC // empty status ailment = 8 characters, like the others
+org $8F0C6B4; db $04        // fix status menu number alignment
+org $8F0CC78; mov r0,#0xC   // empty status ailment = 8 characters, like the others
+org $8F0B112; mov r0,#0x11  // move list of items
+org $8F0B1D0; mov r0,#0x11  // move list of psi
 
 // alter main dialogue box
 org $8F0CAE4; bl choose_text_window_type
@@ -231,6 +247,31 @@ org $8F085B6; bl swallow_item
 org $8FE7100; incbin m1_window_yes_no.bin // #OVERRIDDEN
 org $8FE7140; incbin m1_window_yes_no_small.bin // #OVERRIDDEN
 org $8F04FCE; bl choose_yes_no_size
+
+// Expand item menu
+org $8F0B6AA; mov r0,#5 // Window title position for item menu
+org $8F0B540; mov r0,#5 // Same for PSI
+org $8F0B80C; mov r0,#5 // Same for stored items
+org $8F0B844; mov r0,#3
+org $8F0BB6C; mov r0,#3 // Same for Teleport
+org $8F26D8E; db $02 // Window arrangement
+org $8F26D97; db $18
+org $8F26DA0; db $1A
+org $8F26DA9; db $1A
+org $8F26DB2; db $1A
+org $8F26DBB; db $1A
+org $8F26DC4; db $1A
+//org $8FE4A80; incbin m1_window_item_menu.bin
+//org $8F0B750; dd $8FE4A80
+org $8F29E8A; db $03 // Cursors
+org $8F29E8E; db $03
+org $8F29E96; db $03
+org $8F29E9E; db $03
+org $8F29EA6; db $03
+org $8F29E92; db $10
+org $8F29E9A; db $10
+org $8F29EA2; db $10
+org $8F29EAA; db $10
 
 // alter the item action menus
 org $8F0B7C4; dd $8FE4B00
