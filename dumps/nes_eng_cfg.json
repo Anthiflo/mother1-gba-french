@@ -6,11 +6,8 @@
 	"addr_size": 3,
 	"endian": "little",
 	"char_table": "nes_eng_chars.txt",
-	"end_marks": ["[END]","[03 02]"],
+	"end_marks": ["[END]","[STOP]"],
 	"cc_bytes": {
-		"03": {
-			"arguments":1
-		},
 		"21": {
 			"arguments":2
 		},
@@ -19,7 +16,5 @@
 		}
 	},
 	"known_commands": {
-		"03 C0": "PAUSE",
-		"03 A0": "ALTPAUSE"
 	}
 }
