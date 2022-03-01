@@ -123,6 +123,18 @@ org $8F0BDD8; db $FC
 org $8F0BDE6; db $FC
 org $8F0BF88; db $FC
 
+// expand player naming window
+org $8F0BCD8; dd $8FE7700
+org $8FE7700; incbin m1_window_player_name.bin // #OVERRIDDEN
+org $8F29FF0; incbin m1_data_player_name_table.bin // #OVERRIDDEN
+// cursor positions
+org $8F0BC96; mov r0,#6			// initial characters
+org $8F0BCF2; add r4,r5,#6		// cursor
+org $8F0BDBC; add r0,r5,#6      // char removal
+org $8F0BDEA; add r0,r5,#6		// char removal
+org $8F0BE0A; add r0,r5,#6		// char insertion
+
+//bl $8F0CA54
 
 //========================================================================================
 //                            MOTHER 1 BATTLE-RELATED HACKS

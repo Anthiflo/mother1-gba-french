@@ -228,8 +228,12 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 0FE7AE7 Z(){} z-+'. ÚÛÜÝŸ úûüýÿ 
 0FE7B06 12345 67890 !?¡¿~ [FF]:;$/ 
 0FE7B25 [01]                       
-0FE7B44 [01]                  [C0][49][4A][4B][4C]
-0FE7B63 [01]                  [C0][4D][4E]  
+0FE7B44 [01]                 [C0]Retour
+0FE7B63 [01]                 [C0]OK    
+
+// Changes cursor position for OK/Back
+0F2A55A [15]
+0F2A59A [15]
 
 // This is the "actual table" of letters in the naming screen. When the user clicks the button
 // the program pulls the letter from this table.
@@ -459,11 +463,11 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 // PLAYER NAMING SCREEN
 //==========================================================================================================
 
-// This changes the initial layout graphics, you need to change the actual data layout below too
-0F26E8D ABCDEFG[01]HIJKLMN[01]@[49][4A][4B][4C]
-0F26EB1 OPQRSTU[01]VWXYZ.-[01]@OK  
+// This changes the initial layout graphics, you need to change the actual data layout below too #OVERRIDE
+0FE7722 ABCDEFG[01]HIJKLMN[01]@Retour
+0FE7748 OPQRSTU[01]VWXYZ.-[01]@OK
 
-// This is the actual data that gets pulled when a user selects a letter or hovers over a letter
+// This is the actual data that gets pulled when a user selects a letter or hovers over a letter #OVERRIDE
 0F29FF0 A
 0F29FF4 B
 0F29FF8 C
