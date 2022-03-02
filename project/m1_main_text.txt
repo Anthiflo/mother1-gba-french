@@ -154,7 +154,7 @@
 042: @Oh! You'll do it?![BREAK][PAUSE]@You'll go and rescue her?![BREAK]
 042-E: @Oh[4F]! C'est vrai[4F]?![BREAK][PAUSE]@Tu vas aller la sauver[4F]?![BREAK]
 043: @Oh, is this Pippi, the girl[BREAK]who got lost?[BREAK][PAUSE]@Stunning work, lad![BREAK][PAUSE]@I knew from the start that[BREAK]you showed promise![BREAK][PAUSE](clap clap applause)[BREAK][PAUSE]@You're so lucky, Pippi.[BREAK]Adorable, too.[BREAK][PAUSE]@Now remember to tell your[BREAK]mother that the mayor[BREAK]rescued you.[BREAK][PAUSE]@And for you, [03 16]...[BREAK]A $[03 1E] reward. Here.[BREAK]
-043-E: @Oh, serait-ce Fifi, la[BREAK]fille qui s'est perdue[4F]?[BREAK][PAUSE]@Beau travail, petit[4F]![BREAK][PAUSE]@Depuis le départ, je savais[BREAK]que tu tiendrais ta[BREAK]promesse ![BREAK][PAUSE](clap clap applaudit)[BREAK][PAUSE]@Tu es sacrément chanceuse,[BREAK]Fifi. Et très mignonne,[BREAK]aussi.[BREAK][PAUSE]@Bien, n'oublie pas de dire[BREAK]à ta maman que M. le maire[BREAK]t'a sauvée.[BREAK][PAUSE]@Et pour toi, [03 16]...[BREAK]Voilà une récompense de[BREAK][03 1E]$.[BREAK]
+043-E: @Oh, serait-ce Fifi, la[BREAK]fille qui s'est perdue[4F]?[BREAK][PAUSE]@Beau travail, petit[4F]![BREAK][PAUSE]@Dès le départ, je savais[BREAK]que tu avais du potentiel ![BREAK][PAUSE](clap clap applaudit)[BREAK][PAUSE]@Tu es sacrément chanceuse,[BREAK]Fifi. Et très mignonne,[BREAK]aussi.[BREAK][PAUSE]@Bien, n'oublie pas de dire[BREAK]à ta maman que M. le maire[BREAK]t'a sauvée.[BREAK][PAUSE]@Et pour toi, [03 16]...[BREAK]Voilà une récompense de[BREAK][03 1E]$.[BREAK]
 044: 
 044-E: 
 045: 
@@ -685,7 +685,7 @@
 13F: @He's a big-time scam[BREAK]artist.[BREAK][PAUSE]@If you see him, let me know[BREAK]immediately![BREAK]
 13F-E: @C'est un arnaqueur de haut[BREAK]vol.[BREAK][PAUSE]@Si tu le vois, préviens-moi[BREAK]immédiatement ![BREAK]
 140: @Whoa, hey, kid![BREAK][PAUSE]Hold on to this money for[BREAK]me, will ya?[BREAK][PAUSE]@If you run into any cops,[BREAK]act like you never saw me.[BREAK]
-140-E: @Holà, hé, gamin ![BREAK][PAUSE]Garde cet argent pour moi,[BREAK]tu veux ?[BREAK][PAUSE]@Si tu croises les flics,[BREAK]fais comme si tu m'avais[BREAK]jamais vu.[BREAK]
+140-E: @Holà, hé, petit[03 6E] ![BREAK][PAUSE]Garde cet argent pour moi,[BREAK]tu veux ?[BREAK][PAUSE]@Si tu croises les flics,[BREAK]fais comme si tu m'avais[BREAK]jamais vu.[BREAK]
 141: @Don't run off with it, now![BREAK]
 141-E: @T'enfuis pas avec ![BREAK]
 142: @You'll do what I say![BREAK]
@@ -778,7 +778,7 @@
 16B: 
 16B-E: 
 16C: @Oh. You're really confident[BREAK]about yourself.[BREAK][PAUSE]@Then I'll make sure we[BREAK]never meet again.
-16C-E: @Oh. Tu as vraiment l'air[BREAK]sûr de toi.[BREAK][PAUSE]@Dans ce cas, je m'assurerai[BREAK]qu'on ne se croise plus à[BREAK]l'avenir.
+16C-E: @Oh. Tu as vraiment l'air[BREAK]sûr[03 6E] de toi.[BREAK][PAUSE]@Dans ce cas, je m'assurerai[BREAK]qu'on ne se croise plus à[BREAK]l'avenir.
 16D: @I can give you up to three[BREAK]hints.[BREAK][PAUSE]@Everything else is a[BREAK]S-E-C-R-E-T.[BREAK]
 16D-E: @Je peux te donner jusqu'à[BREAK]trois indices.[BREAK][PAUSE]@Tout le reste est T-O-P[BREAK]S-E-C-R-E-T.[BREAK]
 16E: @I'm the most upbeat person[BREAK]here in Halloween.[BREAK][PAUSE]@Everyone else seems so[BREAK]gloomy, wouldn't you say?[BREAK]
@@ -2092,7 +2092,7 @@
 3D7: @You shouldn't carry around[BREAK]that much cash.[BREAK]
 3D7-E: @Vous ne devriez pas vous[BREAK]promener avec autant[BREAK]d'argent.[BREAK]
 3D8: @This'll return you back to[BREAK]your previous save data.[BREAK]Is that all right?[BREAK]
-3D8-E: @La partie reprendra à la[BREAK]dernière sauvegarde.[BREAK]Est-ce que ça convient ?[BREAK]
+3D8-E: @La partie reprendra à la[BREAK]dernière sauvegarde.[BREAK]Cela vous convient-il ?[BREAK]
 // tournure neutre
 3D9: @You said yes, but you don't[BREAK]have a save file![BREAK][PAUSE]Ahahaha![BREAK]
 3D9-E: @Mais il n'existe aucune[BREAK]partie enregistrée ![BREAK][PAUSE]Ha ha ha ha ![BREAK]
