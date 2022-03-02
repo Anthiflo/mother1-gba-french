@@ -3226,18 +3226,18 @@
 // #MAXLENGTH=18 15
 5F1: Wolf
 5F1-E: Loup
-// #MAXLENGTH=18 16
+// #MAXLENGTH=18 16 TODO agrandir
 5F2: Gull Bandit
-5F2-E: Mouette voleuse
+5F2-E: MouetteVoleuse
 // #MAXLENGTH=18 17
 5F3: Crocodile
 5F3-E: Crocodile
 // #MAXLENGTH=20 18
 5F4: Atomic Robot
 5F4-E: Robot atomique
-// #MAXLENGTH=20 19
+// #MAXLENGTH=20 19 TODO agrandir
 5F5: Cave Master
-5F5-E: Roi des profondeurs
+5F5-E: Roi profondeurs
 // #MAXLENGTH=20 1A
 5F6: Fugitive
 5F6-E: Fugitif
@@ -3370,12 +3370,12 @@
 //
 621: 
 621-E: 
-// #MAXLENGTH=20 46
+// #MAXLENGTH=20 46 TODO agrandir
 622: Biopede
-622-E: Scolopendre bionique
-// #MAXLENGTH=20 47
+622-E: ScolopndreBioniq
+// #MAXLENGTH=20 47 TODO agrandir
 623: Bio-Scorpion
-623-E: Scorpion bionique
+623-E: ScorpionBionique
 //
 624: 
 624-E: 
@@ -3403,15 +3403,15 @@
 //
 62C: 
 62C-E: 
-// #MAXLENGTH=20 51
+// #MAXLENGTH=20 51 TODO agrandir
 62D: Rattlesnake
-62D-E: Serpent à sonnette
+62D-E: SerpentSonnette
 // #MAXLENGTH=18 52
 62E: Tarantula
 62E-E: Tarentule
-// #MAXLENGTH=18 53
+// #MAXLENGTH=18 53 TODO agrandir
 62F: Tough Croc
-62F-E: Crocodile tenace
+62F-E: Croco tenace
 //
 630: 
 630-E: 
@@ -3427,12 +3427,12 @@
 // #MAXLENGTH=20 58
 634: Stray Dog
 634-E: Chien errant
-// #MAXLENGTH=20 59
+// #MAXLENGTH=20 59 TODO agrandir
 635: Devil Car
-635-E: Voiture démoniaque
-// #MAXLENGTH=20 5A
+635-E: VoitureDémoniaq
+// #MAXLENGTH=20 5A TODO agrandir
 636: Devil Truck
-636-E: Camion démoniaque
+636-E: CamionDémoniaque
 // #MAXLENGTH=20 5B
 637: Death Truck
 637-E: Camion mortel
@@ -3484,9 +3484,9 @@
 // #MAXLENGTH=20 6B
 647: Star Miner
 647-E: Déflagratœuf
-// #MAXLENGTH=20 6C
+// #MAXLENGTH=20 6C TODO agrandir
 648: NuclearRobot
-648-E: Super robot atomique
+648-E: SuperRobotAtomiq
 // #MAXLENGTH=20 6D
 649: Suzie
 649-E: Suzie
