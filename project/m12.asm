@@ -260,15 +260,7 @@ org $8F0B540; mov r0,#5 // Same for PSI
 org $8F0B80C; mov r0,#5 // Same for stored items
 org $8F0B844; mov r0,#3
 org $8F0BB6C; mov r0,#3 // Same for Teleport
-org $8F26D8E; db $02 // Window arrangement
-org $8F26D97; db $18
-org $8F26DA0; db $1A
-org $8F26DA9; db $1A
-org $8F26DB2; db $1A
-org $8F26DBB; db $1A
-org $8F26DC4; db $1A
-//org $8FE4A80; incbin m1_window_item_menu.bin
-//org $8F0B750; dd $8FE4A80
+org $8F26D8C; incbin m1_window_item_menu.bin
 org $8F29E8A; db $03 // Cursors
 org $8F29E8E; db $03
 org $8F29E96; db $03
