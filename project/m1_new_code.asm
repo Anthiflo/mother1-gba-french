@@ -422,7 +422,7 @@ perform_auto_wrap:
 
    .main_wrap_code:
    add  r4,#0x1                 // char_loc++
-   cmp  r4,#0x1B
+   cmp  r4,#0x1C
    blt  .no_wrap_needed         // if curr_width < box_width, go to no_wrap_needed to update the width and such
 
    mov  r4,#0                   // if we're executing this, then width >= box_width, so do curr_width = 0 now
@@ -596,7 +596,7 @@ control_code_1D:
 
 control_code_20:
   push {r0,lr}
-  ldr  r0,=#0x3003640
+  ldr  r0,=#0x3003820
   bl   strcopy
   pop  {r0}
   add  r0,#0x2
@@ -607,7 +607,7 @@ control_code_20:
 
 control_code_21:
   push {r0,lr}
-  ldr  r0,=#0x3003610
+  ldr  r0,=#0x3003800
   bl   strcopy
   pop  {r0}
   add  r0,#0x2

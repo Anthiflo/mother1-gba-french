@@ -145,14 +145,14 @@ org $8F0AEFC; dd $8FE7400
 org $8FE7400; incbin m1_window_char_stats.bin // #OVERRIDDEN
 
 // alter main battle text box design
-org $8F275E6; db $01
-org $8F275EC; db $1A
-org $8F275F5; db $1A
-org $8F275FE; db $1A
-org $8F27607; db $1A
-org $8F27610; db $1A
-org $8F2761A; db $1A
-org $8F27616; db $02
+org $8F275E6; db $00
+org $8F275EC; db $1C
+org $8F275F5; db $1C
+org $8F275FE; db $1C
+org $8F27607; db $1C
+org $8F27610; db $1C
+org $8F2761A; db $1C
+org $8F27616; db $01
 
 // repoint and set up "Can't use this" battle text
 org $8F29F40; dd $8FE78A0
@@ -209,6 +209,12 @@ org $8F1117A; add r0,#4 // left position first item
 org $8F277E4; db $03    // adjust top of window
 org $8F111AA; mov r0,#3 // cursor position on title
 
+// Relocate actor/target name in RAM to allow for longer names
+org $8F0C48C; dd $3003800
+org $8F0F26C; dd $3003800
+org $8F0C480; dd $3003820
+org $8F0F264; dd $3003820
+//org $88BD4BA; dd $3003800 // probably wrong, this address is unrelated
 
 //========================================================================================
 //                              MOTHER 1 OVERWORLD HACKS
