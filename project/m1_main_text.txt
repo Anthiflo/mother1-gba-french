@@ -518,7 +518,7 @@
 0F0: 
 0F0-E: 
 0F1: @First show me some money.[BREAK]Then I'll heal you.[BREAK][PAUSE]@Otherwise I'll have to[BREAK]charge you my own price.[BREAK][PAUSE]@I can heal you for $[03 1E].[BREAK][PAUSE]@This is my special deal[BREAK]just for you. I'm actually[BREAK]losing money doing this.[BREAK]
-0F1-E: @D'abord, fais-moi voir[BREAK]combien tu as sur toi.[BREAK]Ensuite, je te soigne.[BREAK][PAUSE]@Autrement je devrais fixer[BREAK]moi-même le prix.[BREAK][PAUSE]@Je peux te guérir pour[BREAK]seulement [03 1E]$.[BREAK][PAUSE]@C'est une offre rien que[BREAK]pour toi. Je perds même de[BREAK]l'argent en faisant ça.[BREAK]
+0F1-E: @D'abord, fais-moi voir[BREAK]combien tu as sur toi.[BREAK]Ensuite, je te soigne.[BREAK][PAUSE]@Autrement, je serais obligé[BREAK]de t'imposer un prix fixe.[BREAK][PAUSE]@Je peux te guérir pour[BREAK]seulement [03 1E]$.[BREAK][PAUSE]@C'est une offre rien que[BREAK]pour toi. Je perds même de[BREAK]l'argent en faisant ça.[BREAK]
 0F2: 
 0F2-E: 
 0F3: @Thanks for the $[03 1E].[BREAK][PAUSE]@Okay, you're all better[BREAK]now.[BREAK][PAUSE]@Please come back sometime.[BREAK]I'll give you another nice[BREAK]deal.[BREAK]
@@ -719,7 +719,7 @@
 150: 
 150-E: 
 151: @Give me something.[BREAK]Anything.[BREAK][PAUSE]@Gimme.[BREAK][PAUSE]@Please.[BREAK][PAUSE]@Pretty please?[BREAK]
-151-E: @Donne-moi un truc.[BREAK]N'importe quoi.[BREAK][PAUSE]@Aboule.[BREAK][PAUSE]@S'il te plaît ?[BREAK][PAUSE]@Allez steuplait...[BREAK]
+151-E: @Donne-moi un truc.[BREAK]N'importe quoi.[BREAK][PAUSE]@Aboule.[BREAK][PAUSE]@S'il te plaît ?[BREAK][PAUSE]@Allez steuplaît...[BREAK]
 152: @I'll give you something in[BREAK]return, of course.[BREAK]
 152-E: @Je te donnerai quelque[BREAK]chose en retour, bien sûr.[BREAK]
 153: @I was gonna give you[BREAK]something good in return,[BREAK]too...[BREAK]
@@ -733,7 +733,7 @@
 157: @I heard there's a prophetic[BREAK]old man in the mountains[BREAK][PAUSE]who's lived for 300 years[BREAK]without ever catching a[BREAK]cold.[BREAK]
 157-E: @J'ai entendu une histoire[BREAK]sur un vieil homme qui vit[BREAK]dans la montagne.[BREAK][PAUSE]Apparemment, il aurait vécu[BREAK]300 ans sans jamais[BREAK]attraper de rhume.[BREAK]
 158: @A aann aak eey ell iiow ma[BREAK]ennas.[BREAK]
-158-E: @Hé hegdu gnon kanguier[BREAK]kégueu baah.[BREAK]
+158-E: @Hé hegdu gnon kenguier[BREAK]kégueu baah.[BREAK]
 159: @Not even I can hold a[BREAK]normal conversation with[BREAK]him like this...[BREAK]
 159-E: @Même moi je n'arrive pas à[BREAK]discuter avec lui dans[BREAK]l'état où il est...[BREAK]
 15A: @Oh! In exchange for finding[BREAK]my dentures,[BREAK][PAUSE]I'll share with you my[BREAK]secret to living a long[BREAK]life.[BREAK][PAUSE]@And that secret is...[BREAK][PAUSE]...to gargle all the time.[BREAK][PAUSE]@If you catch a cold, go and[BREAK]gargle until it's gone.[BREAK][PAUSE]@Here. Take some of my[BREAK]special mouthwash with you.[BREAK]
@@ -850,7 +850,7 @@
 18E: @I've been waiting for you.[BREAK][PAUSE]@I need your help to find my[BREAK]mom.[BREAK][PAUSE]@Let's start by seeing[BREAK]what's happening in the[BREAK]town of Easter.[BREAK]
 18E-E: @Je t'attendais.[BREAK][PAUSE]@J'ai besoin de ton aide[BREAK]pour retrouver ma mère.[BREAK][PAUSE]@Commençons par aller voir[BREAK]ce qui s'est passé dans la[BREAK]ville de Youngtown.[BREAK]
 18F: @You know, I had a dream[BREAK]about someone who looked[BREAK]just like you...[BREAK]
-18F-E: @Tu sais, j'ai rêvé de[BREAK]quelqu'un qui te ressem-[BREAK]blait trait pour trait...[BREAK]
+18F-E: @Tu sais, j'ai rêvé de[BREAK]quelqu'un qui te[BREAK]ressemblait trait pour[BREAK]trait...[BREAK]
 190: @[03 10]...[BREAK]Please stay with me.[BREAK]
 190-E: @[03 10]...[BREAK]S'il te plaît, reste avec[BREAK]moi.[BREAK]
 191: @No! Stay with me...[BREAK][PAUSE]Please...[BREAK]
@@ -4346,7 +4346,7 @@
 7E8: "You're a disgrace to your mom!"
 7E8-E: "Tu fais honte à ta mère[4F]!"
 7E9: [03 21] turned to stone!
-7E9-E: [03 EA][03 D8][03 C8] se transforme en pierre[4F]!
+7E9-E: [03 EA][03 D8][03 C8] est changé[03 EC] en pierre[4F]!
 7EA: [03 20] spewed a a sticky substance!
 7EA-E: [03 E2][03 D0][03 C0] crache une substance collante[4F]!
 7EB: [03 21] was blinded!
