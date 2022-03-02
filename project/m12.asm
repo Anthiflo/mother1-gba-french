@@ -170,12 +170,12 @@ org $8FE7960; incbin m1_window_cant_use_other_item.bin // #OVERRIDDEN
 org $8F2789C; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01	//#OVERRIDDEN
 org $8F278B3; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01	//#OVERRIDDEN
 
-org $8F2761F; db $01   // make the game delete the battle box properly
-org $8F27623; db $1C
-org $8F27628; db $1C
-org $8F2762D; db $1C
-org $8F27632; db $1C
-org $8F27637; db $1C
+org $8F2761F; db $00   // make the game delete the battle box properly
+org $8F27623; db $1E
+org $8F27628; db $1E
+org $8F2762D; db $1E
+org $8F27632; db $1E
+org $8F27637; db $1E
 
 org $8F27770; db $07   // move enemy name box left a little bit
 org $8F27776; db $15   // expand enemy name box in battle
