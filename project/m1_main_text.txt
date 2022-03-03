@@ -7,8 +7,8 @@
 //										+8 si le code de l’objet est 1D
 // [03 5X]		élision persos/plat		0-7 persos principaux / F plat				[03 10-13], [03 15-16], [03 1A-1B]
 //										/ E leader / A-B acteur ou cible
-// [03 6X]		genre persos			0-7 persos principaux						[03 10-13], [03 16], [03 1A-1B]
-//										/ E leader / A-B acteur ou cible
+// [03 6X]		genre persos			0-1 acteur ou cible / 2 leader				[03 16], [03 1A-1B]
+//										+(4/8/C) pour le type de féminin
 // [03 7X]		pluriel équipe			0-F pour spécifier la ligne appelée à partir
 //										de 670-E (singulier) ou 680-E (pluriel)
 // 
@@ -100,9 +100,9 @@
 027: @Oh, yeah? W-w-well...[BREAK][PAUSE]You're a big stupid zombie[BREAK]head! Waaaah! Eek![BREAK]
 027-E: @Ah ouais[4F]? A-A-Alors...[BREAK][PAUSE]Tu n'es qu'une sale[BREAK]andouille de zombie[4F]![BREAK]Ouaaah[4F]! Hii[4F]![BREAK]
 028: @Are you really a human?[BREAK]
-028-E: @Tu es vraiment humain[03 6E][4F]?[BREAK]
+028-E: @Tu es vraiment humain[03 62][4F]?[BREAK]
 029: @I'm amazed you made it this[BREAK]far.[BREAK]
-029-E: @Je suis impressionné que tu[BREAK]sois arrivé[03 6E] jusqu'ici.[BREAK]
+029-E: @Je suis impressionné que tu[BREAK]sois arrivé[03 62] jusqu'ici.[BREAK]
 02A: @I knew it...[BREAK]
 02A-E: @Je le savais...[BREAK]
 02B: @I'm so scared I'm about to[BREAK]wet my pants...[BREAK]
@@ -685,7 +685,7 @@
 13F: @He's a big-time scam[BREAK]artist.[BREAK][PAUSE]@If you see him, let me know[BREAK]immediately![BREAK]
 13F-E: @C'est un arnaqueur de haut[BREAK]vol.[BREAK][PAUSE]@Si tu le vois, préviens-moi[BREAK]immédiatement ![BREAK]
 140: @Whoa, hey, kid![BREAK][PAUSE]Hold on to this money for[BREAK]me, will ya?[BREAK][PAUSE]@If you run into any cops,[BREAK]act like you never saw me.[BREAK]
-140-E: @Holà, hé, petit[03 6E] ![BREAK][PAUSE]Garde cet argent pour moi,[BREAK]tu veux ?[BREAK][PAUSE]@Si tu croises les flics,[BREAK]fais comme si tu m'avais[BREAK]jamais vu.[BREAK]
+140-E: @Holà, hé, petit[03 62] ![BREAK][PAUSE]Garde cet argent pour moi,[BREAK]tu veux ?[BREAK][PAUSE]@Si tu croises les flics,[BREAK]fais comme si tu m'avais[BREAK]jamais vu.[BREAK]
 141: @Don't run off with it, now![BREAK]
 141-E: @T'enfuis pas avec ![BREAK]
 142: @You'll do what I say![BREAK]
@@ -766,7 +766,7 @@
 165: @Gyaaaa![BREAK]
 165-E: @Ghyaaah ![BREAK]
 166: @[03 16].[BREAK][PAUSE]@You're going to die.[BREAK][PAUSE]@Heeheehee hehehe![BREAK][PAUSE]...Keeheeheehee![BREAK]
-166-E: @[03 16].[BREAK][PAUSE]@Tu vas mourir.[BREAK][PAUSE]@Hiihiihii héhéhé[4F]![BREAK][PAUSE]... Kiihiihihii ![BREAK]
+166-E: @[03 16].[BREAK][PAUSE]@Tu vas mourir.[BREAK][PAUSE]@Hiihiihii héhéhé[4F]![BREAK][PAUSE]... Kiihiihiihii ![BREAK]
 167: @A suspicious rat... I am[BREAK]not.[BREAK][PAUSE]@The room with the piano...[BREAK][PAUSE]@Heheheh...![BREAK]
 167-E: @Je suis... une souris tout[BREAK]à fait normale.[BREAK][PAUSE]@La salle avec le piano...[BREAK][PAUSE]@Hé hé hé...[4F]![BREAK]
 168: @The haunted house belongs[BREAK]to the Rosemarys.[BREAK]
@@ -778,7 +778,7 @@
 16B: 
 16B-E: 
 16C: @Oh. You're really confident[BREAK]about yourself.[BREAK][PAUSE]@Then I'll make sure we[BREAK]never meet again.
-16C-E: @Oh. Tu as vraiment l'air[BREAK]sûr[03 6E] de toi.[BREAK][PAUSE]@Dans ce cas, je m'assurerai[BREAK]qu'on ne se croise plus à[BREAK]l'avenir.
+16C-E: @Oh. Tu as vraiment l'air[BREAK]sûr[03 62] de toi.[BREAK][PAUSE]@Dans ce cas, je m'assurerai[BREAK]qu'on ne se croise plus à[BREAK]l'avenir.
 16D: @I can give you up to three[BREAK]hints.[BREAK][PAUSE]@Everything else is a[BREAK]S-E-C-R-E-T.[BREAK]
 16D-E: @Je peux te donner jusqu'à[BREAK]trois indices.[BREAK][PAUSE]@Tout le reste est T-O-P[BREAK]S-E-C-R-E-T.[BREAK]
 16E: @I'm the most upbeat person[BREAK]here in Halloween.[BREAK][PAUSE]@Everyone else seems so[BREAK]gloomy, wouldn't you say?[BREAK]
@@ -971,7 +971,7 @@
 1C7-E: @Ah, ça craint. Je peux pas[BREAK]t'en donner. T'as déjà trop[BREAK]de trucs sur toi.[BREAK]
 // place de concert (réf. 1D1), mais le "en" devrait couvrir pas mal de cas
 1C8: @Time has passed, but you're[BREAK]still underage.[BREAK]
-1C8-E: @Le temps passe, mais tu es[BREAK]toujours mineur[03 6E].[BREAK]
+1C8-E: @Le temps passe, mais tu es[BREAK]toujours mineur[03 62].[BREAK]
 1C9: @You really oughtta watch[BREAK]where you're walking.[BREAK][PAUSE]@Heheheh...[BREAK]
 1C9-E: @Tu f'rais bien de r'garder[BREAK]où tu marches.[BREAK][PAUSE]@Héhéhé...[BREAK]
 1CA: @Oh, that blasted Black[BREAK]Blood Gang...
@@ -1008,7 +1008,7 @@
 1D9-E: @T'es trop chou, toi.[BREAK][PAUSE]@Oh, tu t'appelles [03 16] ?[BREAK][PAUSE]@Allez, c'est ma tournée, je[BREAK]t'offre une bière ?[BREAK]
 // "trop chou" neutre en genre
 1DA: @Oh, you're still a kid?[BREAK][PAUSE]@Come back when you're[BREAK]older, then.[BREAK]
-1DA-E: @Oh, t'es encore qu'un[03 6E][BREAK]gamin[03 6E] ?[BREAK][PAUSE]@Reviens quand tu seras plus[BREAK]grand[03 6E], alors.[BREAK]
+1DA-E: @Oh, t'es encore qu'un[03 62][BREAK]gamin[03 62] ?[BREAK][PAUSE]@Reviens quand tu seras plus[BREAK]grand[03 62], alors.[BREAK]
 1DB: @Forget it. No more drinks[BREAK]from me.[BREAK]
 1DB-E: @Non, oublie. Mon ardoise[BREAK]est déjà pleine.[BREAK]
 1DC: @Now do you regret what you[BREAK]did?[BREAK]
@@ -1420,7 +1420,7 @@
 29B: @I have faith that [03 12] is[BREAK]doing well somewhere out[BREAK]there.
 29B-E: @Je suis convaincu[BREAK]qu[03 51][03 12] est en sécurité[BREAK]quelque part.
 29C: @Hey, you're underage. I'm[BREAK]taking you into custody.[BREAK]
-29C-E: @Hé, tu es mineur[03 6E]. Je vais[BREAK]devoir te placer en garde[BREAK]à vue.[BREAK]
+29C-E: @Hé, tu es mineur[03 62]. Je vais[BREAK]devoir te placer en garde[BREAK]à vue.[BREAK]
 29D: 
 29D-E: 
 29E: 
@@ -1435,7 +1435,7 @@
 2A2-E: @On dirait que tu as bien[BREAK]dormi.[BREAK][PAUSE]@Où est-ce que tu comptes[BREAK]aller aujourd'hui ?[BREAK][PAUSE]@Bon, fais attention à toi ![BREAK]
 // #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 2A3: @Oh, you're not here[BREAK]to visit someone?[BREAK][PAUSE]@If you are the[BREAK]patient, come into[BREAK]the back room.[BREAK]
-2A3-E: @Oh, tu n'es pas[BREAK]venu rendre visite[BREAK]à quelqu'un ?[BREAK][PAUSE]@Si c'est toi le[BREAK]patient, va dans la[BREAK]pièce du fond.[BREAK]
+2A3-E: @Oh, tu n'es pas[BREAK]venu rendre visite[BREAK]à quelqu'un ?[BREAK][PAUSE]@Si c'est toi l[03 66][BREAK]patient[03 62], va dans[BREAK]la pièce du fond.[BREAK]
 // from eb
 // from eb
 
@@ -1508,7 +1508,7 @@
 2C1: @With the tracks ruined, the[BREAK]train has stopped running.[BREAK][PAUSE]@Quit with all the pesky[BREAK]questions, will ya?[BREAK][PAUSE]@Geez, you're persistent.[BREAK][PAUSE]@You're gonna make me cry[BREAK]with all your questions.[BREAK]
 2C1-E: @Les rails sont détruits, du[BREAK]coup le train ne circule[BREAK]plus.[BREAK][PAUSE]@Arrête de me poser toutes[BREAK]ces fichues questions, tu[BREAK]veux ?[BREAK][PAUSE]@Bon sang, tu t'obstines.[BREAK][PAUSE]@Tu vas finir par me faire[BREAK]pleurer à force, avec tes[BREAK]questions.
 2C2: @Don't just stand there![BREAK]Get moving![BREAK]
-2C2-E: @Reste pas planté[03 6E] là ![BREAK]Bouge ![BREAK]
+2C2-E: @Reste pas planté[03 62] là ![BREAK]Bouge ![BREAK]
 2C3: @You look like you've been[BREAK]through a lot.[BREAK][PAUSE]@Well, now you can sit back,[BREAK]relax, and regret it all.[BREAK]
 2C3-E: @On dirait que tu as vécu[BREAK]beaucoup de choses.[BREAK][PAUSE]@Maintenant, tu peux prendre[BREAK]du recul, te détendre et[BREAK]tout regretter.
 2C4: @I've heard about all the[BREAK]great things you've been up[BREAK]to.[BREAK][PAUSE]@You must really be brave,[BREAK]huh?[BREAK]
@@ -1687,7 +1687,7 @@
 318-E: @Bonne journée.[BREAK][PAUSE]@Au plaisir de ta prochaine[BREAK]visite.[BREAK]
 // #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 319: @[03 1B] was just[BREAK]brought in, and is[BREAK]still unconscious.[BREAK][PAUSE]@Please pay $[03 1E][BREAK]for the doctor's[BREAK]fee.[BREAK]
-319-E: @On vient de[BREAK]recevoir [03 1B],[BREAK]toujours évanoui[03 6B].[BREAK][PAUSE]@Les honoraires du[BREAK]médecin s'élèvent[BREAK]à [03 1E]$[BREAK]
+319-E: @On vient de[BREAK]recevoir [03 1B],[BREAK]toujours évanoui[03 61].[BREAK][PAUSE]@Les honoraires du[BREAK]médecin s'élèvent[BREAK]à [03 1E]$[BREAK]
 31A: @Who are you here to[BREAK]see?[BREAK]
 31A-E: @Qui es-tu venu[BREAK]voir ?[BREAK]
 31B: 
@@ -3789,7 +3789,7 @@
 6D6: @[03 1A] took out the[BREAK][03 1C] and then put it[BREAK]away again.[BREAK]
 6D6-E: @[03 1A] sort[BREAK]l[03 41][03 1C] puis[BREAK][03 44]range immédiatement.[BREAK]
 6D7: @[03 1A] is unconcious.[BREAK]
-6D7-E: @[03 1A] est évanoui[03 6A].[BREAK]
+6D7-E: @[03 1A] est évanoui[03 60].[BREAK]
 6D8: @The entire party was[BREAK]healed![BREAK]
 6D8-E: @L'équipe tout entière a[BREAK]été soignée[4F]![BREAK]
 6D9: @[03 10] sensed a faint[BREAK]memory of his[BREAK]great-grandfather![BREAK]

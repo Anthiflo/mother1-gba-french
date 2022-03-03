@@ -1148,23 +1148,34 @@ more_field_control_codes:
   and     r0,r1
   bl      general.has_elision
   lsl     r0,r0,#2
-  ldr     r1,=#0x8FFE9A0    // strings for "e " / "’"
+  ldr     r1,=#0x8FFE9A0      // strings for "e " / "’"
   add     r0,r0,r1
   bl      0x8F0C058
   b       .field_cc_next
     
 
-.field_cc_gender: // cc argument in r1
-  mov     r0,#0x0F
+.field_cc_gender:             // cc argument in r1
+  mov     r0,#0xC
+  and     r0,r1               // this part contains the type of gender letter
+
+  ldr     r2,=#0x8FFE9A8      // gender string
+  add     r2,r2,r0
+  
+  mov     r0,#0x3             // this part contains the target member
   and     r0,r1
   
-  bl   general.is_female   // r0 now contains the gender
+  cmp     r0,#2               // converting r0 into parameter for is_female...
+  blt     +
+  add     r0,#2
+  +
+  add     r0,#0xA
   
-  ldr  r1,=#0x8FFE9A0      // strings for "e ", "’" and gender
-  add  r1,#9
+  bl      general.is_female   // r0 now contains the gender
   
-  sub  r0,r1,r0
-
+  lsl     r0,r0,#1
+  
+  add     r0,r0,r2
+  
   bl      0x8F0C058
   b       .field_cc_next
 
@@ -1195,8 +1206,7 @@ more_field_control_codes:
 
 
 .field_cc_default:
-    ldr     r0,=#0x8FFE9A0    // default is empty string
-    add     r0,#9
+    ldr     r0,=#0x8FFE9A8    // default is empty string
     
     bl      0x8F0C058
     b       .field_cc_next

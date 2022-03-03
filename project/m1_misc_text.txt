@@ -76,10 +76,10 @@
 0F7E600 L'équipe d[END]
 0F0C3A0 [00][E6][F7][08]
 
-// Elision strings (de / d') + grammatical gender for "party" string
-0FFE9A0 e [END]
-0FFE9A4 '[END]
-0FFE9A8 e[END]
+// Elision strings (de / d')
+0FFE9A0 e [00][00]'[00]
+// Grammatical gender
+0FFE9A8 [00][00]e[00][00][00]n[00]x[00]s[00]r[00]s[00]
 
 
 //==========================================================================================================
