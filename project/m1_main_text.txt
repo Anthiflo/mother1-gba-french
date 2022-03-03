@@ -3309,7 +3309,7 @@
 60C-E: Scolopendre
 // #MAXLENGTH=18 31
 60D: Dust Ghost
-60D-E: Esprit crado
+60D-E: Esprit poussiéreux
 // #MAXLENGTH=18 32
 60E: Fly
 60E-E: Mouche
@@ -3336,7 +3336,7 @@
 615-E: Fantôme
 // #MAXLENGTH=18 3A
 616: Li'l Saucer
-616-E: P'tit OVNI
+616-E: P'tite soucoupe
 // #MAXLENGTH=18 3B
 617: Mr. Batty
 617-E: M.[4F]Batou
@@ -3477,7 +3477,7 @@
 644-E: Barbot tueur
 // #MAXLENGTH=18 69
 645: Omega Saucer
-645-E: OVNI Oméga
+645-E: Soucoupe Oméga
 // #MAXLENGTH=20 6A
 646: Caroline
 646-E: Caroline

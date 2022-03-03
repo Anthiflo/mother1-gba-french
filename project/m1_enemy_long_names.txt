@@ -146,7 +146,7 @@ ENEMY-60B-2F: Lynx
 ENEMY-60C-30: Scolopendre
 
 //Dust Ghost
-ENEMY-60D-31: Esprit crado
+ENEMY-60D-31: Esprit poussiéreux
 
 //Fly
 ENEMY-60E-32: Mouche
@@ -173,7 +173,7 @@ ENEMY-614-38: Zieux bonus
 ENEMY-615-39: Fantôme
 
 //Li'l Saucer
-ENEMY-616-3A: P'tit OVNI
+ENEMY-616-3A: P'tite soucoupe
 
 //Mr. Batty
 ENEMY-617-3B: M.[4F]Batou
@@ -314,7 +314,7 @@ ENEMY-643-67: Robot cassé
 ENEMY-644-68: Barbot tueur
 
 //Omega Saucer
-ENEMY-645-69: OVNI Oméga
+ENEMY-645-69: Soucoupe Oméga
 
 //Caroline
 ENEMY-646-6A: Caroline
