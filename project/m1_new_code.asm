@@ -318,10 +318,10 @@ parsecopy:
   + 
   cmp  r3,#0xE0; blt +; bl cc_enemy_article; b .loop_start
   + 
-  cmp  r3,#0xD0; blt +; bl cc_long_enemy; b .loop_start
-  + 
-  cmp  r3,#0xC0; blt +; bl cc_enemy_letter; b .loop_start
-  +
+  //cmp  r3,#0xD0; blt +; bl cc_long_enemy; b .loop_start
+  //+ 
+  //cmp  r3,#0xC0; blt +; bl cc_enemy_letter; b .loop_start
+  //+
   cmp  r3,#0x70; blt +; bl cc_plural; b .loop_start
   +
 
@@ -759,110 +759,110 @@ cc_enemy_article:
 // this is a custom battle control code to display an enemy’s long name
 // ([03 D0] actor / [03 D8] target)
 
-cc_long_enemy:
-  push {lr}
-  push {r2-r7}
-  push {r0}
-
-  ldr  r5,=#0x3003700
-
-  mov  r0,#0x8
-  and  r0,r3
-  cmp  r0,#0             // actor or target?
-  beq  + 
-  sub  r5,#0x14
-  +
-  ldrb r5,[r5,#0x0]      // r5 now has the index of the relevant actor or target in battle
-  
-  mov  r0,#0x4
-  and  r0,r5             // r0 now knows if the character is a party member (0) or an enemy (4)
-  
-  
-  ldr  r4,=#0x3003500    // let’s check the actual id of this character
-  add  r4,#0x18
-  lsl  r5,r5,#0x5
-  ldrb r4,[r4,r5]        // r4 now has the character id
-  
-  cmp  r0,#0             // but, is the character a party member? if so, skip
-  beq  +
-  
-  ldr  r5,=#0x8FDF300    // long enemy names
-  mov  r0,#0x19
-  mul  r0,r4             // r5 has the starting point, r0 has the offset...
-  
-  b  .long_enemy_end
-  +
-  
-  ldr  r5,=#0x3003208
-  lsl  r0,r4,#0x6        // r5 has the starting point, r0 has the offset...
-  
-  .long_enemy_end:
-  
-  add  r0,r0,r5
-  
-  bl   strcopy
-  pop  {r0}
-  add  r0,#0x2
-  sub  r1,#1
-
-  pop  {r2-r7}
-  pop  {pc}
-
-
-
-// this is a custom battle control code to display the letter (A/B/C/D) after an enemy name
-// ([03 C0] actor / [03 C8] target)
-
-cc_enemy_letter:
-  push {lr}
-  push {r2-r7}
-  push {r0}
-
-  ldr  r5,=#0x3003700
-
-  mov  r0,#0x8
-  and  r0,r3
-  cmp  r0,#0             // actor or target?
-  beq  +    
-  sub  r5,#0x14
-  +
-  ldrb r5,[r5,#0x0]      // r5 now KEEPS the index of the relevant actor or target in battle
-  
-  mov  r0,#0x4
-  and  r0,r5             // r0 now knows if the character is a party member (0) or an enemy (4)
-
-  cmp  r0,#0             // if the character is a party member, skip
-  beq  .enemy_letter_end
-  
-  ldr  r4,=#0x3003500    // if it’s an enemy, let’s check its actual id
-  
-  lsl  r0,r5,#0x5
-  add  r0,r0,r4
-
-  mov  r5,#0x1C
-  ldrb r0,[r0,#0x1A]
-  and  r0,r5
-  
-  lsl  r0,r0,#0x18
-  
-  cmp  r0,#0
-  beq  .enemy_letter_end
-  
-  lsr  r0,r0,#0x1A
-  
-  .enemy_letter_end:
-
-  ldr  r5,=#0x8FFE980
-  lsl  r0,r0,#2
-  add  r0,r0,r5
-  
-  bl   strcopy
-  pop  {r0}
-  add  r0,#0x2
-  sub  r1,#1
-
-  pop  {r2-r7}
-  pop  {pc}
+//cc_long_enemy:
+//  push {lr}
+//  push {r2-r7}
+//  push {r0}
+//
+//  ldr  r5,=#0x3003700
+//
+//  mov  r0,#0x8
+//  and  r0,r3
+//  cmp  r0,#0             // actor or target?
+//  beq  + 
+//  sub  r5,#0x14
+//  +
+//  ldrb r5,[r5,#0x0]      // r5 now has the index of the relevant actor or target in battle
+//  
+//  mov  r0,#0x4
+//  and  r0,r5             // r0 now knows if the character is a party member (0) or an enemy (4)
+//  
+//  
+//  ldr  r4,=#0x3003500    // let’s check the actual id of this character
+//  add  r4,#0x18
+//  lsl  r5,r5,#0x5
+//  ldrb r4,[r4,r5]        // r4 now has the character id
+//  
+//  cmp  r0,#0             // but, is the character a party member? if so, skip
+//  beq  +
+//  
+//  ldr  r5,=#0x8FDF300    // long enemy names
+//  mov  r0,#0x19
+//  mul  r0,r4             // r5 has the starting point, r0 has the offset...
+//  
+//  b  .long_enemy_end
+//  +
+//  
+//  ldr  r5,=#0x3003208
+//  lsl  r0,r4,#0x6        // r5 has the starting point, r0 has the offset...
+//  
+//  .long_enemy_end:
+//  
+//  add  r0,r0,r5
+//  
+//  bl   strcopy
+//  pop  {r0}
+//  add  r0,#0x2
+//  sub  r1,#1
+//
+//  pop  {r2-r7}
+//  pop  {pc}
+//
+//
+//
+//// this is a custom battle control code to display the letter (A/B/C/D) after an enemy name
+//// ([03 C0] actor / [03 C8] target)
+//
+//cc_enemy_letter:
+//  push {lr}
+//  push {r2-r7}
+//  push {r0}
+//
+//  ldr  r5,=#0x3003700
+//
+//  mov  r0,#0x8
+//  and  r0,r3
+//  cmp  r0,#0             // actor or target?
+//  beq  +    
+//  sub  r5,#0x14
+//  +
+//  ldrb r5,[r5,#0x0]      // r5 now KEEPS the index of the relevant actor or target in battle
+//  
+//  mov  r0,#0x4
+//  and  r0,r5             // r0 now knows if the character is a party member (0) or an enemy (4)
+//
+//  cmp  r0,#0             // if the character is a party member, skip
+//  beq  .enemy_letter_end
+//  
+//  ldr  r4,=#0x3003500    // if it’s an enemy, let’s check its actual id
+//  
+//  lsl  r0,r5,#0x5
+//  add  r0,r0,r4
+//
+//  mov  r5,#0x1C
+//  ldrb r0,[r0,#0x1A]
+//  and  r0,r5
+//  
+//  lsl  r0,r0,#0x18
+//  
+//  cmp  r0,#0
+//  beq  .enemy_letter_end
+//  
+//  lsr  r0,r0,#0x1A
+//  
+//  .enemy_letter_end:
+//
+//  ldr  r5,=#0x8FFE980
+//  lsl  r0,r0,#2
+//  add  r0,r0,r5
+//  
+//  bl   strcopy
+//  pop  {r0}
+//  add  r0,#0x2
+//  sub  r1,#1
+//
+//  pop  {r2-r7}
+//  pop  {pc}
 
 //----------------------------------------------------------------------------------------
 // this is used to display numbers

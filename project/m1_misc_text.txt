@@ -126,12 +126,12 @@
 F2789D Vitesse du texte
 F278B3 (Lent)[01][01][01][01](Rapide)
 
-// Letters for long enemy names
-0FFE980 [END]
-0FFE984 [4F]A[END]
-0FFE988 [4F]B[END]
-0FFE98C [4F]C[END]
-0FFE990 [4F]D[END]
+// Letters for long enemy names (OBSOLETE)
+//0FFE980 [END]
+//0FFE984 [4F]A[END]
+//0FFE988 [4F]B[END]
+//0FFE98C [4F]C[END]
+//0FFE990 [4F]D[END]
 
 
 //==========================================================================================================

@@ -95,7 +95,7 @@ int main(int argc, char *argv[])
     InsertEnemyArticles();
     InsertItemClasses();
     InsertEnemyClasses();
-    InsertEnemyLongNames();
+    //InsertEnemyLongNames();
 
 
 	printf("\r\n MOTHER 2 STUFF\r\n");

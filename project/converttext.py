@@ -1,6 +1,8 @@
 import io
 import re
 import shutil
+import sys
+import os
 
 # Replaces text in a string
 def replace(text, old_text, new_text):
@@ -32,6 +34,11 @@ def convert(input_file, output_file, table_file):
         file.truncate()
         file.write(file_contents)
         
-convert("m1_main_text.txt","m1_main_text_converted.txt","eng_table.txt")
-convert("m1_enemy_long_names.txt", "m1_enemy_long_names_converted.txt", "eng_table.txt")
+#convert("m1_main_text.txt","m1_main_text_converted.txt","eng_table.txt")
+#convert("m1_enemy_long_names.txt", "m1_enemy_long_names_converted.txt", "eng_table.txt")
+
+if (len(sys.argv) > 3):
+    convert(sys.argv[1],sys.argv[3],sys.argv[2])
+else:
+    print("Syntax: " + os.path.basename(sys.argv[0]) + " input_text char_table [output_text]")
 

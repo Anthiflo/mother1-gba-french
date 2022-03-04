@@ -4,10 +4,11 @@ import sys
 
 LENGTH_CHAR_NAME = 6
 LENGTH_ITEM_NAME = 12
+LENGTH_ENEMY_NAME = 20
 LENGTH_TEAM_PREFIX = 12
 LENGTH_MONEY_AMOUNT = 5
 
-maxEnemyLength = 0
+#maxEnemyLength = 0
 maxItemArticlesLength = []
 maxEnemyArticlesLength = []
 substitutions = []
@@ -18,19 +19,19 @@ def exampleStr(txt, length):
     nbToAdd = length - len(txt)
     return txt + ("*" * nbToAdd)
     
-def checkMaxEnemyNameLength():
-    enemyFile = open("m1_enemy_long_names.txt","r",encoding="utf-8")
-    lines = enemyFile.readlines()   
-    res = 0
-
-    for line in lines:
-        match = re.match("^ENEMY-...-..: (.*)$", line)
-        if match:
-            if len(match.group(1)) > res:
-                res = len(match.group(1))
-    
-    enemyFile.close()
-    return res
+#def checkMaxEnemyNameLength():
+#    enemyFile = open("m1_enemy_long_names.txt","r",encoding="utf-8")
+#    lines = enemyFile.readlines()   
+#    res = 0
+#
+#    for line in lines:
+#        match = re.match("^ENEMY-...-..: (.*)$", line)
+#        if match:
+#            if len(match.group(1)) > res:
+#                res = len(match.group(1))
+#    
+#    enemyFile.close()
+#    return res
 
 
 def checkMaxArticleLength(filename1, filename2, prefix):
@@ -96,7 +97,8 @@ def decodeLine(line):
     line = re.sub("\[03 7E\]",          "", line)
     line = re.sub("\[03 7F\]",          "e", line)
     line = re.sub("\[03 C.\]",          " X", line)
-    line = re.sub("\[03 D.\]",          exampleStr("FIGHTERLONGNAME",maxEnemyLength), line)
+    line = re.sub("\[03 D.\]",          exampleStr("FIGHTERLONGNAME",LENGTH_ENEMY_NAME), line)
+    line = re.sub("\[03 2[01]\]",      exampleStr("FIGHTERLONGNAME",LENGTH_ENEMY_NAME), line)
     for i in range(8):
         line = re.sub("\[03 4" + "{:01X}".format(i) + "\]", exampleStr("########", maxItemArticlesLength[i]), line)
         line = re.sub("\[03 4" + "{:01X}".format(i+8) + "\]", exampleStr("########", maxItemArticlesLength[i]), line)
@@ -119,8 +121,9 @@ forcedStrings = []
 forcedLengths =[]
 
 def initValues():
-    global maxEnemyLength,maxItemArticlesLength,maxEnemyArticlesLength,substitutions
-    maxEnemyLength = checkMaxEnemyNameLength()
+    #global maxEnemyLength
+    global maxItemArticlesLength,maxEnemyArticlesLength,substitutions
+    #maxEnemyLength = checkMaxEnemyNameLength()
     maxItemArticlesLength = checkMaxArticleLength("m1_item_classes.txt", "m1_item_articles.txt", "ITEM")
     maxEnemyArticlesLength = checkMaxArticleLength("m1_enemy_classes.txt", "m1_enemy_articles.txt", "ENEMY")
     substitutions = initSubstitutions()
