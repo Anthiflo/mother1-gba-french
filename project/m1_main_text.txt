@@ -415,13 +415,13 @@
 0C0: 
 0C0-E: 
 0C1: @You rotten liar![BREAK]
-0C1-E: @Espèce de sale menteur[4F]![BREAK]
+0C1-E: @Espèce de sale menteu[03 6E][03 62][4F]![BREAK]
 0C2: @We all know you're not from[BREAK]here, but we consider you[BREAK]one of us just the same.[BREAK][PAUSE]@With the Onyx Hook, you can[BREAK]come back here any time.[BREAK]
 0C2-E: @Nous savons que tu n'es pas[BREAK]d'ici mais nous te considé-[BREAK]rons comme l'un des nôtres.[BREAK][PAUSE]@Avec le Crochet d'onyx, tu[BREAK]pourras revenir ici quand[BREAK]tu le voudras.[BREAK]
 0C3: @Don't hesitate to come[BREAK]visit us again whenever[BREAK]you're having a hard time.[BREAK][PAUSE]@Everyone here loves you.[BREAK]
 0C3-E: @N'hésite pas à venir nous[BREAK]rendre visite dès que tu[BREAK]ne te sens pas bien.[BREAK][PAUSE]@Ici, tout le monde t'aime.[BREAK]
 0C4: @Welcome, [03 16].[BREAK][PAUSE]@Here in the land of[BREAK]Magicant, everyone is your[BREAK]friend[BREAK][PAUSE]and you can have as much as[BREAK]you like of whatever you[BREAK]want.[BREAK][PAUSE]@Oh? You want to hear my[BREAK]song?[BREAK][PAUSE]@I'm sorry. I don't know[BREAK]why, but I just can't seem[BREAK]to remember it.[BREAK][PAUSE]@I'm sure I'll be able to[BREAK]remember it someday...[BREAK][PAUSE]@If I can just sing it[BREAK]again, something will[BREAK]happen...[BREAK][PAUSE]I just know it.[BREAK]
-0C4-E: @Bienvenue, [03 16].[BREAK][PAUSE]@Ici, au pays de Magicant,[BREAK]tout le monde est ton ami[BREAK][PAUSE]et tu peux obtenir ce que[BREAK]tu veux, autant que tu le[BREAK]veux.[BREAK][PAUSE]@Oh[4F]? Tu souhaites écouter[BREAK]ma chanson[4F]?[BREAK][PAUSE]@Je suis navrée, j'ignore[BREAK]pourquoi, mais je n'arrive[BREAK]pas à m'en souvenir.[BREAK][PAUSE]@Je suis certaine qu'un[BREAK]jour, je serai capable de[BREAK]me la remémorer...[BREAK][PAUSE]@Si je parviens à la chanter[BREAK]à nouveau, quelque chose se[BREAK]produira...[BREAK][PAUSE]J'en suis sûre.[BREAK]
+0C4-E: @Bienvenue, [03 10].[BREAK][PAUSE]@Ici, au pays de Magicant,[BREAK]tout le monde est ton ami[BREAK][PAUSE]et tu peux obtenir ce que[BREAK]tu veux, autant que tu le[BREAK]veux.[BREAK][PAUSE]@Oh[4F]? Tu souhaites écouter[BREAK]ma chanson[4F]?[BREAK][PAUSE]@Je suis navrée, j'ignore[BREAK]pourquoi, mais je n'arrive[BREAK]pas à m'en souvenir.[BREAK][PAUSE]@Je suis certaine qu'un[BREAK]jour, je serai capable de[BREAK]me la remémorer...[BREAK][PAUSE]@Si je parviens à la chanter[BREAK]à nouveau, quelque chose se[BREAK]produira...[BREAK][PAUSE]J'en suis sûre.[BREAK]
 0C5: 
 0C5-E: 
 0C6: 
@@ -455,7 +455,7 @@
 0D4: @I'm a swimming cat.[BREAK][PAUSE]@Have you heard of a candy[BREAK]that gives courage and[BREAK]strength to weaklings?[BREAK]
 0D4-E: @Je suis un chat nageur.[BREAK][PAUSE]@As-tu entendu parler de ce[BREAK]bonbon qui donne force et[BREAK]courage aux mauviettes ?[BREAK]
 0D5: @I see. But you're a strong[BREAK]boy, so I doubt you would[BREAK]need any.[BREAK]
-0D5-E: @Je vois. Mais tu es un[BREAK]garçon courageux, je doute[BREAK]que tu en aies besoin.[BREAK]
+0D5-E: @Je vois. Mais tu es un[03 62][BREAK]enfant courageu[03 6A][03 62], je doute[BREAK]que tu en aies besoin.[BREAK]
 0D6: @That boy with the glasses[BREAK]seems pretty weak. I'll[BREAK]give the candy to him.[BREAK]
 0D6-E: @Ce garçon avec les lunettes[BREAK]semble plutôt faiblard.[BREAK][PAUSE]C'est à lui que je vais[BREAK]donner le bonbon.[BREAK]
 0D7: 
@@ -663,7 +663,8 @@
 133: 
 133-E: 
 134: @That'll be $[03 1E], then.[BREAK]
-134-E: @Alors ça te fera [03 1E]$.[BREAK]
+134-E: @Alors ça fera [03 1E]$.[BREAK]
+// Billets de train pour tout le groupe
 135: 
 135-E: 
 136: 
@@ -743,7 +744,7 @@
 15B: 
 15B-E: 
 15C: @Oh, you want more[BREAK]mouthwash?[BREAK][PAUSE]@All right, here you go.[BREAK][PAUSE]@From now on, it'll cost you[BREAK]$[03 1E], though.[BREAK][PAUSE](gargle gargle spit)[BREAK]
-15C-E: @Oh, tu veux encore du bain[BREAK]de bouche ?[BREAK][PAUSE]@Très bien, voilà.[BREAK][PAUSE]@En revanche, à partir de[BREAK]maintenant, ça te coutera[BREAK][03 1E]$.[BREAK][PAUSE](gargarise crache)[BREAK]
+15C-E: @Oh, tu veux encore du bain[BREAK]de bouche ?[BREAK][PAUSE]@Très bien, voilà.[BREAK][PAUSE]@En revanche, à partir de[BREAK]maintenant, ça te coûtera[BREAK][03 1E]$.[BREAK][PAUSE](gargarise crache)[BREAK]
 15D: @I've heard that some people[BREAK]have died from catching a[BREAK]cold.[BREAK][PAUSE]Just a cold![BREAK]
 15D-E: @À ce qu'il parait, il y a[BREAK]des gens qui sont morts à[BREAK]cause d'un rhume.[BREAK][PAUSE]Un simple rhume ![BREAK]
 15E: @Have you heard about[BREAK]Halloween's haunted house?[BREAK]
@@ -815,7 +816,7 @@
 17C: @My mommy's in the town of[BREAK]Easter.[BREAK][PAUSE]@We haven't heard from her[BREAK]in days,[BREAK][PAUSE]so Daddy and I are going[BREAK]there to look for her.[BREAK]
 17C-E: @Ma maman est dans la ville[BREAK]de Youngtown.[BREAK][PAUSE]@On a pas eu de nouvelles[BREAK]d'elle depuis un moment,[BREAK][PAUSE]alors Papa et moi on va[BREAK]partir là-bas à sa[BREAK]recherche.[BREAK]
 17D: @Have you been to the[BREAK]haunted house in Halloween?[BREAK]
-17D-E: @Tu es déjà allé au manoir[BREAK]hanté d'Atrocity ?[BREAK]
+17D-E: @Tu es déjà allé[03 62] au manoir[BREAK]hanté d'Atrocity ?[BREAK]
 17E: @You HAVE to tell me all[BREAK]about it sometime.[BREAK][PAUSE]@I just love scary stories!
 17E-E: @Il faudra que tu me[BREAK]racontes tout, un jour.[BREAK][PAUSE]@J'adore les histoires qui[BREAK]font peur !
 17F: @I don't wanna visit it,[BREAK]but you probably should.[BREAK]
@@ -866,9 +867,9 @@
 195: @What's wrong, [03 11]?[BREAK]
 195-E: @Qu'est-ce qui ne va pas,[BREAK][03 11][4F]?[BREAK]
 196: @The dragon is asleep.[BREAK][PAUSE]@[03 16] can't wake it up[BREAK]just yet.[BREAK]
-196-E: @Le dragon est endormi.[BREAK][PAUSE]@[03 16] ne peut pas le[BREAK]réveiller pour le moment.[BREAK]
+196-E: @Le dragon est endormi.[BREAK][PAUSE]@[03 10] ne peut pas le[BREAK]réveiller pour le moment.[BREAK]
 197: @The dragon sensed [03 16]'s[BREAK]presence and awoke.[BREAK][PAUSE]@"NO ONE WEAKER THAN ME CAN[BREAK]HAVE THIS SHEET MUSIC."[BREAK]
-197-E: @Le dragon sent la présence[BREAK]d[03 5E][03 16] et se réveille.[BREAK][PAUSE]@"LES ÊTRES PLUS FAIBLES QUE[BREAK]MOI NE SONT PAS DIGNES[BREAK]D'ENTENDRE MA BERCEUSE."[BREAK]
+197-E: @Le dragon sent la présence[BREAK]d[03 50][03 10] et se réveille.[BREAK][PAUSE]@"LES ÊTRES PLUS FAIBLES QUE[BREAK]MOI NE SONT PAS DIGNES[BREAK]D'ENTENDRE MA BERCEUSE."[BREAK]
 198: 
 198-E: 
 199: @My daughter [03 12] is[BREAK]timid, but she has a kind[BREAK]heart and mysterious power.[BREAK]
@@ -889,7 +890,7 @@
 19F: @I make a useful signpost,[BREAK]wouldn't you say?[BREAK]
 19F-E: @Je fais un panneau plutôt[BREAK]utile, hein ?[BREAK]
 1A0: @You're one gutsy kid,[BREAK]talking to dead bodies...[BREAK]
-1A0-E: @T'en as dans le ventre,[BREAK]petit, à parler à des[BREAK]cadavres...[BREAK]
+1A0-E: @T'en as dans le ventre,[BREAK]petit[03 62], à parler à des[BREAK]cadavres...[BREAK]
 1A1: @I'm a camel's bones.[BREAK][PAUSE]@Would you like some tips[BREAK]for walking through the[BREAK]desert?[BREAK]
 1A1-E: @Je suis un tas d'os de[BREAK]chameau.[BREAK][PAUSE]@Veux-tu quelques conseils[BREAK]pour traverser le désert ?[BREAK]
 1A2: @Move your left foot before[BREAK]your right foot sinks.[BREAK][PAUSE]@Move your right foot before[BREAK]your left foot sinks.[BREAK][PAUSE]@It took me 100 years to[BREAK]figure this out.[BREAK]
@@ -1337,7 +1338,8 @@
 272: 
 272-E: 
 273: @Oh, [03 16]![BREAK]How are you doing?[BREAK]
-273-E: @Oh, [03 16] ![BREAK]Comment vas-tu ?[BREAK]
+273-E: @Oh, [03 10] ![BREAK]Comment vas-tu ?[BREAK]
+// Abbé qui parle à Ninten à la mairie de Podunk
 274: @Good morning. It looks like[BREAK]you slept well.[BREAK]
 274-E: @Bonjour. On dirait que tu[BREAK]as bien dormi.[BREAK]
 275: @Please come again, okay?[BREAK]Promise?[BREAK]
@@ -1358,11 +1360,11 @@
 // check context
 
 27C: @Are you really sure about[BREAK]that?[BREAK]
-27C-E: @En es-tu vraiment sûr ?[BREAK]
+27C-E: @En es-tu vraiment sûr[03 62] ?[BREAK]
 27D: @Oh. Oh, well, then.[BREAK]
 27D-E: @Oh. Hmm, bon, d'accord.[BREAK]
 27E: @You managed to catch me.[BREAK][PAUSE]You're really something.[BREAK][PAUSE]@Here's something nice for[BREAK]you.[BREAK]
-27E-E: @Tu as réussi à m'attraper.[BREAK][PAUSE]Tu es vraiment doué.[BREAK][PAUSE]@Voici quelque chose de[BREAK]sympa pour toi.[BREAK]
+27E-E: @Tu as réussi à m'attraper.[BREAK][PAUSE]Tu es vraiment doué[03 62].[BREAK][PAUSE]@Voici quelque chose de[BREAK]sympa pour toi.[BREAK]
 27F: @Turn right and then left to[BREAK]find something nice.[BREAK]
 27F-E: @Tourne à droite puis à[BREAK]gauche et tu trouveras un[BREAK]truc sympa.[BREAK]
 280: @It seems peaceful in here,[BREAK]but it's also way too dark.[BREAK]
@@ -1437,7 +1439,7 @@
 2A2-E: @On dirait que tu as bien[BREAK]dormi.[BREAK][PAUSE]@Où est-ce que tu comptes[BREAK]aller aujourd'hui ?[BREAK][PAUSE]@Bon, fais attention à toi ![BREAK]
 // #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 2A3: @Oh, you're not here[BREAK]to visit someone?[BREAK][PAUSE]@If you are the[BREAK]patient, come into[BREAK]the back room.[BREAK]
-2A3-E: @Oh, tu n'es pas[BREAK]venu rendre visite[BREAK]à quelqu'un ?[BREAK][PAUSE]@Si c'est toi l[03 66][BREAK]patient[03 62], va dans[BREAK]la pièce du fond.[BREAK]
+2A3-E: @Oh, tu n'es pas[BREAK]venu[03 62] rendre visite[BREAK]à quelqu'un ?[BREAK][PAUSE]@Si c'est toi l[03 66][BREAK]patient[03 62], va dans[BREAK]la pièce du fond.[BREAK]
 // from eb
 // from eb
 
@@ -1661,7 +1663,7 @@
 30B: @I'm so glad that[BREAK]you recovered,[BREAK][03 1B].[BREAK][PAUSE]@Come back any time[BREAK]you need.[BREAK]
 30B-E: @Je suis contente[BREAK]que tu ailles[BREAK]mieux, [03 1B].[BREAK][PAUSE]@Reviens dès que tu[BREAK]en auras besoin.[BREAK]
 30C: @Oh, isn't that your[BREAK]friend, though?[BREAK][PAUSE]@They really could[BREAK]die, you know...[BREAK]
-30C-E: @Oh, mais cette[BREAK]personne n'est[BREAK]pas ton amie ?[BREAK][PAUSE]@Elle pourrait y[BREAK]passer, tu sais...[BREAK]
+30C-E: @Oh, mais vous[BREAK]n'êtes pas amis ?[BREAK][PAUSE]@Cette personne[BREAK]pourrait y passer,[BREAK]tu sais...[BREAK]
 30D: @Yes, yes.[BREAK][PAUSE]@I can examine you[BREAK]for $[03 1E] per[BREAK]person.[BREAK][PAUSE]@Is that agreeable[BREAK]with you?[BREAK]
 30D-E: @Oui, oui.[BREAK][PAUSE]@La consultation[BREAK]coûte [03 1E]$ par[BREAK]personne.[BREAK][PAUSE]@Est-ce que cela te[BREAK]convient ?[BREAK]
 30E: @You really don't[BREAK]need treatment?[BREAK][PAUSE]@All right, then.[BREAK]
@@ -4068,7 +4070,7 @@
 75F: "Haunted House Key"[BREAK]@The key to the Rosemarys'[BREAK]mansion.
 75F-E: "Clé du manoir hanté"[BREAK]@La clé du manoir des[BREAK]Rosemary.
 760: "Great-Grandfather's Diary"[BREAK]@The diary of [03 10]'s[BREAK]great-grandfather.[BREAK][PAUSE]@It's filled with writing,[BREAK]but it's in such bad shape[BREAK]that it's mostly illegible.
-760-E: "Journal arrière-grd-père"[BREAK]@Le journal de l'arrière-[BREAK]grand-père d[03 50][03 10].[BREAK][PAUSE]@Il est rempli d'écritures,[BREAK]mais il est en si mauvais[BREAK]état que c'est quasiment[BREAK]illisible.
+760-E: "Journal de l'arrière-[BREAK]grand-père d[03 50][03 10]"[BREAK][PAUSE]@Il est rempli d'écritures,[BREAK]mais il est en si mauvais[BREAK]état que c'est quasiment[BREAK]illisible.
 761: "Pass"[BREAK]@"Duncan Factory Employee"[BREAK]is written on it.
 761-E: "Passe"[BREAK]@Il comporte l'inscription :[BREAK]"Employé usine de Duncan".
 762: "Show Ticket"[BREAK]@"Every Day All Night[BREAK]Rock 'n' Roll Live Show"[BREAK]is written on it.
