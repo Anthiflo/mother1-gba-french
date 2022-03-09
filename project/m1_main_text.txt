@@ -1415,7 +1415,7 @@
 296: @I have a secret to share[BREAK]with you later.[BREAK]
 296-E: @J'ai un secret, je te le[BREAK]confierai plus tard.[BREAK]
 297: @Oh, you came to stay the[BREAK]night again?[BREAK]
-297-E: @Oh, tu es revenu passer[BREAK]la nuit ici[4F]?[BREAK]
+297-E: @Oh, tu reviens passer la[BREAK]nuit ici[4F]?[BREAK]
 298: @Oh, a traveler![BREAK]
 298-E: @Oh, un voyageur[4F]![BREAK]
 299: @If you think you're[BREAK]supposed to bust the ghosts[BREAK]in the haunted house...[BREAK][PAUSE]you're gravely mistaken.[BREAK][PAUSE]@No, there's actually a[BREAK]melody there.[BREAK]
@@ -2212,7 +2212,7 @@
 409: Stinger
 409-E: DardPoison
 40A: Flamethrowr
-40A-E: LanceFlamme
+40A-E: LanceFlammes
 40B: Bomb
 40B-E: Bombe
 // #MAXLENGTH=11 (prix 4 chiffres)
@@ -2470,9 +2470,9 @@
 484: Darkness
 484-E: Ténèbres
 485: PSI Magnet
-485-E: Aimant PSI
+485-E: Aimant à PSI
 486: Shield Off
-486-E: Anti-Bouclr
+486-E: AntiBouclier
 487: PSI Block
 487-E: Blocage PSI
 488: Offense Up
