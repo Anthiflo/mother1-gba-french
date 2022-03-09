@@ -4558,7 +4558,7 @@
 850: [03 21] disappeared into thin air!
 850-E: [03 EA][03 21] s'est volatilisé[03 EC][4F]!
 851: [03 20] stole [03 21]'s [03 22]!
-851-E: [03 E2][03 20] vole l[03 F9][03 22] [03 ED][03 21][4F]!
+851-E: [03 E2][03 20] vole [03 F8][03 22] [03 ED][03 21][4F]!
 852: [03 20] leveled up![BREAK][PAUSE][03 01]
 852-E: [03 E2][03 20] gagne un niveau[4F]![BREAK][PAUSE][03 01]
 853: [03 20] learned a new PSI in battle![BREAK][PAUSE][03 01]
