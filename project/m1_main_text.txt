@@ -1099,13 +1099,14 @@
 203: 
 203-E: 
 204: @Stop by if you ever get[BREAK]hurt.[BREAK][PAUSE]@It's not much, but I have[BREAK]food, medicine, and some[BREAK]plain beds here.[BREAK]
-204-E: @N'hésite pas à passer si[BREAK]jamais tu es blessé[03 62].[BREAK][PAUSE]@Ce n'est pas grand-chose,[BREAK]mais j'ai de la nourriture,[BREAK]des remèdes, et des lits.[BREAK]
+204-E: @N'hésitez pas à passer si[BREAK]jamais vous êtes blessés.[BREAK][PAUSE]@Ce n'est pas grand-chose,[BREAK]mais j'ai de la nourriture,[BREAK]des remèdes, et des lits.[BREAK]
 205: 
 205-E: 
 206: @Say, [03 11].[BREAK][PAUSE]@Looks like it's finally[BREAK]time to use what little[BREAK]courage you have.[BREAK]
 206-E: @Alors, [03 11].[BREAK][PAUSE]@On dirait que le moment est[BREAK]enfin venu d'utiliser le[BREAK]peu de courage que tu as.[BREAK]
 207: @Hello, kids.[BREAK][PAUSE]@What do you need?[BREAK]
-207-E: @Bonjour les enfants.[BREAK][PAUSE]@De quoi avez-vous besoin ?[BREAK]
+207-E: @Alors, les enfants.[BREAK]@De quoi avez-vous besoin ?[BREAK]
+// le bonjour n’est pas là en jap (ni dans EBB) et colle pas trop au contexte (il nous parle juste avant, cf. 204)
 208: @MY NAME IS EVE.[BREAK][PAUSE]I HAVE BEEN WAITING FOR[BREAK]YOU.[BREAK][PAUSE]@MY FATHER WAS GEORGE.[BREAK][PAUSE]HE WAS TAKEN TO THE ENDS OF[BREAK]THE UNIVERSE,[BREAK][PAUSE]AND THEN HE RETURNED HERE.[BREAK][PAUSE]@MY DUTY IS TO PROTECT YOU.[BREAK]
 208-E: @MON NOM EST ÈVE.[BREAK][PAUSE]JE T'ATTENDAIS.[BREAK][PAUSE]@MON PÈRE ÉTAIT GEORGE.[BREAK][PAUSE]IL FUT EMMENÉ AUX CONFINS[BREAK]DE L'UNIVERS,[BREAK][PAUSE]AVANT DE REVENIR ICI.[BREAK][PAUSE]@MON DEVOIR EST DE TE[BREAK]PROTÉGER.[BREAK]
 209: 
@@ -1305,7 +1306,7 @@
 261: @I am the professor's[BREAK]Assistant A.[BREAK][PAUSE]@I, too, would love to try[BREAK]some strawberry-flavored[BREAK]tofu.[BREAK]
 261-E: @Je suis l'assistant A du[BREAK]professeur.[BREAK][PAUSE]@J'aimerais beaucoup goûter[BREAK]du tofu à la fraise.[BREAK]
 262: @Oh, it looks so good![BREAK][PAUSE]@Thanks, I appreciate it.[BREAK][PAUSE]As a token of my gratitude,[BREAK]I'll share some information[BREAK]I heard.[BREAK][PAUSE]@There's an amazing robot at[BREAK]the bottom of a lake on[BREAK]Holy Loly Mountain.[BREAK][PAUSE]@I bet it still works, too![BREAK]
-262-E: @Oh, ça a l'air délicieux ![BREAK][PAUSE]@Merci, j'apprécie.[BREAK][PAUSE]Pour te remercier, je vais[BREAK]partager avec toi quelques[BREAK]infos que j'ai entendues.[BREAK][PAUSE]@Il y a un robot incroyable[BREAK]au fond du lac du Mont[BREAK]Itoi.[BREAK][PAUSE]@Je parie qu'il fonctionne[BREAK]encore ![BREAK]
+262-E: @Oh, il a l'air délicieux ![BREAK][PAUSE]@Merci, j'apprécie.[BREAK][PAUSE]Pour te remercier, je vais[BREAK]partager avec toi quelques[BREAK]infos que j'ai entendues.[BREAK][PAUSE]@Il y a un robot incroyable[BREAK]au fond du lac du Mont[BREAK]Itoi.[BREAK][PAUSE]@Je parie qu'il fonctionne[BREAK]encore ![BREAK]
 263: @I realize I look like[BREAK]Assistant A, but I'm[BREAK]actually Assistant B.[BREAK][PAUSE]@I really, truly want to try[BREAK]strawberry-flavored tofu[BREAK]too.[BREAK]
 263-E: @J'ai bien conscience que je[BREAK]ressemble à l'assistant A,[BREAK]mais je suis l'assistant B.[BREAK][PAUSE]@J'ai vraiment, énormément[BREAK]envie de goûter du tofu à[BREAK]la fraise.[BREAK]
 264: @Oh! Oh! I'm so happy![BREAK][PAUSE]@Please, take these Curse[BREAK]Words with you.[BREAK]
@@ -1393,7 +1394,7 @@
 28B: @I don't trust any of the[BREAK]monkeys here.[BREAK][PAUSE]All they ever do is lie.[BREAK][PAUSE]@Go right, left, left, and[BREAK]then right.[BREAK]
 28B-E: @Je fais pas confiance aux[BREAK]singes d'ici.[BREAK][PAUSE]Ils passent leur temps à[BREAK]mentir.[BREAK][PAUSE]@Va à droite, à gauche, à[BREAK]gauche puis à droite.[BREAK]
 28C: @Turn back![BREAK][PAUSE]@Or, if you don't feel like[BREAK]turning back, then just[BREAK]keep going![BREAK]
-28C-E: @Fais demi-tour ![BREAK][PAUSE]@Ou bien si t'as pas envie[BREAK]de faire demi-tour,[BREAK]continue tout droit ![BREAK]
+28C-E: @Fais demi-tour ![BREAK][PAUSE]@Ou bien si t'as pas envie[BREAK]de faire demi-tour,[BREAK]continue à avancer ![BREAK]
 28D: @I think you'll meet a new[BREAK]friend in a city with an[BREAK]ocean view.[BREAK]
 28D-E: @Je pense que tu te feras[BREAK]un nouvel ami dans une[BREAK]ville au bord de l'océan.[BREAK]
 28E: @I'm a shy monkey.[BREAK][PAUSE]@Talking isn't really my[BREAK]thing.[BREAK][PAUSE]@......Okay?[BREAK][PAUSE]@......[BREAK]
@@ -1455,7 +1456,7 @@
 2A6: @I don't have a cold.[BREAK][PAUSE]Cough cough.[BREAK][PAUSE]@Oh, that wasn't a cough.[BREAK][PAUSE]it's just something I say[BREAK]out of habit.[BREAK][PAUSE]@Cough cough.[BREAK]
 2A6-E: @Je n'ai pas le rhume.[BREAK][PAUSE]Kof, kof.[BREAK][PAUSE]@Oh, je n'ai pas toussé,[BREAK][PAUSE]j'ai juste l'habitude de[BREAK]dire ça.[BREAK][PAUSE]@Kof, kof.[BREAK]
 2A7: @Exhausted? Go to the hotel.[BREAK][PAUSE]@Sleepy? Go to the hotel.[BREAK][PAUSE]@That's all there is to say,[BREAK]really.[BREAK]
-2A7-E: @Épuisé ? Va à l'hôtel.[BREAK][PAUSE]@Endormi ? Va à l'hôtel.[BREAK][PAUSE]@C'est tout ce que j'ai à[BREAK]dire, vraiment.[BREAK]
+2A7-E: @Épuisé[03 62] ? Va à l'hôtel.[BREAK][PAUSE]@Endormi[03 62] ? Va à l'hôtel.[BREAK][PAUSE]@C'est tout ce que j'ai à[BREAK]dire, vraiment.[BREAK]
 2A8: @Oh, hi. Heh heh.[BREAK]
 2A8-E: @Oh, salut. Hé hé.[BREAK]
 2A9: @This is a restaurant,[BREAK]tra-la-la![BREAK][PAUSE]@A happy restaurant,[BREAK]ha-ha-ha![BREAK][PAUSE]@Are you feeling happy?[BREAK]
@@ -1621,7 +1622,7 @@
 2F6: @I'm tough.[BREAK][PAUSE]@But I'm mostly all talk.[BREAK]
 2F6-E: @Je suis un dur à cuire.[BREAK][PAUSE]@Enfin, je suis surtout un[BREAK]beau parleur.[BREAK]
 2F7: @Our boss [03 13] could[BREAK]totally beat you with just[BREAK]his pinkie if he wanted to![BREAK]
-2F7-E: @[03 13], notre chef, peux[BREAK]carrément te dézinguer rien[BREAK]qu'avec son petit doigt ![BREAK]
+2F7-E: @[03 13], notre chef, peut[BREAK]carrément te dézinguer rien[BREAK]qu'avec son petit doigt ![BREAK]
 2F8: @Did you make sure to read[BREAK]the sign?[BREAK]
 2F8-E: @As-tu bien lu la pancarte ?[BREAK]
 2F9: @If you ever come across a[BREAK]cactus with a face on it[BREAK]in a desert somewhere...[BREAK][PAUSE]...that would be utterly[BREAK]terrifying.[BREAK]
@@ -4425,7 +4426,7 @@
 80E: [03 21] recovered [03 23] HP!
 80E-E: [03 EA][03 21] récupère [03 23][4F]PV[4F]!
 80F: [03 20] replenished energy!
-80F-E: [03 E2][03 20] est réalimenté[03 E4] en énergie[4F]!
+80F-E: [03 E2][03 20] fournit de l'énergie[4F]!
 810: But no one came.
 810-E: Mais personne ne vient.
 811: (silence...)
