@@ -97,7 +97,7 @@ def decodeLine(line):
     line = re.sub("\[03 7E\]",          "", line)
     line = re.sub("\[03 7F\]",          "e", line)
     line = re.sub("\[03 C.\]",          " X", line)
-    line = re.sub("\[03 D.\]",          exampleStr("FIGHTERLONGNAME",LENGTH_ENEMY_NAME), line)
+    #line = re.sub("\[03 D.\]",          exampleStr("FIGHTERLONGNAME",LENGTH_ENEMY_NAME), line)
     line = re.sub("\[03 2[01]\]",      exampleStr("FIGHTERLONGNAME",LENGTH_ENEMY_NAME), line)
     for i in range(8):
         line = re.sub("\[03 4" + "{:01X}".format(i) + "\]", exampleStr("########", maxItemArticlesLength[i]), line)

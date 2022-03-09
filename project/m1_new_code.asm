@@ -312,11 +312,13 @@ parsecopy:
   + 
   cmp  r3,#0x23; bne +; bl control_code_23; b .loop_start
   + 
-  cmp  r3,#0xF8; blt +; bl cc_won_item_article; b .loop_start
+  cmp  r3,#0xF8; blt +; bl cc_alt_item_article; b .loop_start
   + 
   cmp  r3,#0xF0; blt +; bl cc_item_article; b .loop_start
   + 
   cmp  r3,#0xE0; blt +; bl cc_enemy_article; b .loop_start
+  + 
+  cmp  r3,#0xD0; blt +; bl cc_won_item_article; b .loop_start
   + 
   //cmp  r3,#0xD0; blt +; bl cc_long_enemy; b .loop_start
   //+ 
@@ -642,6 +644,35 @@ cc_item_article:
   add  r0,#0x1
   add  r0,r0,r5
   ldrb r0,[r0,#0x0]      // this now has the item number being used
+  ldr  r5,=#0x8FFE000
+  ldrb r0,[r5,r0]        // we now have the item class
+  lsl  r0,r0,#0x3        // 8 articles per class
+  add  r0,r0,r3
+  lsl  r0,r0,#0x3        // 8 characters per article
+  ldr  r5,=#0x8FFE100
+  add  r0,r0,r5          // we now have the address of the custom article string to copy
+  
+  bl   strcopy
+  pop  {r0}
+  add  r0,#0x2
+  sub  r1,#1
+
+  pop  {r2-r7}
+  pop  {pc}
+
+//----------------------------------------------------------------------------------------
+// this is a custom battle control code that selects a/an/the for when an item is used
+// ([03 E8-F] item)
+
+cc_alt_item_article:
+  push {lr}
+  push {r2-r7}
+  push {r0}
+
+  mov  r0,#0x7
+  and  r3,r0
+  ldr  r0,=#0x3003624
+  ldrb r0,[r0,#0]        // this now has the item number being used
   ldr  r5,=#0x8FFE000
   ldrb r0,[r5,r0]        // we now have the item class
   lsl  r0,r0,#0x3        // 8 articles per class

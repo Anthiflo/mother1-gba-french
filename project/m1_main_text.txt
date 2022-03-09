@@ -13,8 +13,9 @@
 //										de 670-E (singulier) ou 680-E (pluriel)
 // 
 // COMBAT
+// [03 DX]		article objets gagné	0-7 type d’article							[03 1D]
 // [03 EX]		article combattant		0-7 type d’article, +8 pour la cible		[03 20-21] (acteur-cible)
-// [03 FX]		article objets			0-7 type d’article, +8 si gagné au combat	[03 22] (normal), [03 1D] (gagné)
+// [03 FX]		article objets			0-7 type d’article, +8 si cas alt (vol ?)	[03 22]
 //
 // (OBSOLÈTE !!!)
 // [03 CX]		lettre nom combattant	0 pour l’acteur, 8 pour la cible			[03 20-21] (acteur-cible)
@@ -929,7 +930,7 @@
 // this is supposed to be kiddy-ish and have wrong spelling
 
 1B2: @Y-you're suspishus![BREAK][PAUSE]D-don't make me beet you[BREAK]up...![BREAK](shiver shiver)[BREAK]
-1B2-E: @T-Tu es chuchpect[4F]![BREAK][PAUSE]M-M'obliche pas à te[BREAK]cacher la figure... ![BREAK](tremblote tremblote)[BREAK]
+1B2-E: @T-Tu es chuchpect[03 62][4F]![BREAK][PAUSE]M-M'obliche pas à te[BREAK]cacher la figure... ![BREAK](tremblote tremblote)[BREAK]
 1B3: @The Garricksons' baby is[BREAK]weird. Like, REALLY weird.[BREAK]
 1B3-E: @Le bébé des Garrickson est[BREAK]bizarre. Genre, SUPER[BREAK]bizarre.[BREAK]
 1B4: @Let's see...[BREAK]Two plus three is five.[BREAK][PAUSE]Eight minus four is four...[BREAK][PAUSE]I study all the time.[BREAK]
@@ -1594,7 +1595,7 @@
 2EA: @[03 12] lives in a temple...[BREAK]Err, I mean a church.[BREAK][PAUSE]@Oh, you already knew that?[BREAK]
 2EA-E: @[03 12] vit dans un[BREAK]temple...[BREAK][PAUSE]Euh, je veux dire une[BREAK]église.[BREAK][PAUSE]@Ah, tu le savais déjà ?[BREAK]
 2EB: @There's a church in the[BREAK]mountains further to the[BREAK]east.[BREAK][PAUSE]@(cough... cough...)[BREAK]
-2EB-E: @Il y a une église dans les[BREAK]montagnes plus loin vers[BREAK]l'est.[BREAK][PAUSE]@(tousse... tousse...)[BREAK]
+2EB-E: @Il y a une église dans les[BREAK]montagnes, plus loin vers[BREAK]l'est.[BREAK][PAUSE]@(tousse... tousse...)[BREAK]
 2EC: @You kids sure are energetic[BREAK]and carefree, wearing such[BREAK]light clothes out here![BREAK][PAUSE](cough... cough...)[BREAK]
 2EC-E: @Vous les enfants, vous êtes[BREAK]vraiment insouciants et[BREAK]pleins d'énergie...[BREAK][PAUSE]Porter des habits aussi[BREAK]légers par ce temps... ![BREAK][PAUSE](tousse... tousse...)[BREAK]
 2ED: @If you run into some camel[BREAK]bones in the Advent Desert,[BREAK]tell them I say hi.[BREAK][PAUSE]@That camel and I go way[BREAK]back.[BREAK]
@@ -3481,7 +3482,7 @@
 644-E: Barbot tueur
 // #MAXLENGTH=18 69
 645: Omega Saucer
-645-E: Soucoupe Oméga
+645-E: Soucoupe oméga
 // #MAXLENGTH=20 6A
 646: Caroline
 646-E: Caroline
@@ -4557,7 +4558,7 @@
 850: [03 21] disappeared into thin air!
 850-E: [03 EA][03 21] s'est volatilisé[03 EC][4F]!
 851: [03 20] stole [03 21]'s [03 22]!
-851-E: [03 E2][03 20] vole l[03 F1][03 22] [03 ED][03 21][4F]!
+851-E: [03 E2][03 20] vole l[03 F9][03 22] [03 ED][03 21][4F]!
 852: [03 20] leveled up![BREAK][PAUSE][03 01]
 852-E: [03 E2][03 20] gagne un niveau[4F]![BREAK][PAUSE][03 01]
 853: [03 20] learned a new PSI in battle![BREAK][PAUSE][03 01]
@@ -4580,7 +4581,7 @@
 85B: [03 20] escaped from the rope!
 85B-E: [03 E2][03 20] s'est défait de ses liens[4F]!
 85C: Picked up [03 F1][03 1D]![BREAK][PAUSE][03 01]
-85C-E: Vous ramassez [03 F8][03 1D][4F]![BREAK][PAUSE][03 01]
+85C-E: Vous ramassez [03 D0][03 1D][4F]![BREAK][PAUSE][03 01]
 85D: [03 21]'s confusion went away!
 85D-E: La confusion [03 ED][03 21] s'est dissipée[4F]!
 85E: [03 20] woke up!
