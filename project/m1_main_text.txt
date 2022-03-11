@@ -1249,10 +1249,12 @@
 247-E: @DÉPOSER COMBIEN[4F]?[BREAK]
 248: @Okay! Let's go back to town[BREAK]now![BREAK]
 248-E: @Allez[4F]! Retournons en ville[BREAK]maintenant[4F]![BREAK]
+// #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 249: @Oh, no. It looks like you[BREAK]can't carry any more items.[BREAK][PAUSE]@That's too bad.[BREAK]
-249-E: @Mince. On dirait que tu ne[BREAK]peux pas porter davantage[BREAK]d'objets.[BREAK][PAUSE]@Quel dommage.[BREAK]
+249-E: @Mince. On dirait[BREAK]que tu ne peux rien[BREAK]porter de plus.[BREAK][PAUSE]@Dommage.[BREAK]
 24A: @You can't carry any more[BREAK]stuff?[BREAK][PAUSE]@That's too bad.[BREAK]
-24A-E: @Tu ne peux rien porter de[BREAK]plus[4F]?[BREAK][PAUSE]@Quel dommage.[BREAK]
+24A-E: @Tu ne peux rien[BREAK]porter de plus[4F]?[BREAK][PAUSE]@Quel dommage.[BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 24B: @Looks like you can't carry[BREAK]any. Come by later when you[BREAK]can.[BREAK]
 24B-E: @On dirait que tu n'as pas[BREAK]la place pour porter ça.[BREAK][PAUSE]Reviens quand tu pourras.[BREAK]
 24C: 
@@ -1525,7 +1527,7 @@
 2C8: @It's like I told my son,[BREAK]"If you have time to play[BREAK]Nintendo games...[BREAK][PAUSE]then you should be studying[BREAK]instead!"[BREAK]
 2C8-E: @Comme je le dis à mon fils,[BREAK]"Si tu as le temps de jouer[BREAK]à des jeux Nintendo...[BREAK][PAUSE]alors tu as du temps à[BREAK]consacrer à tes devoirs !"[BREAK]
 2C9: @You have a really cheerful[BREAK]look on your face.[BREAK]
-2C9-E: @Tu as l'air très enjoué.[BREAK]Ça se voit sur ton visage.[BREAK]
+2C9-E: @Tu as l'air très enjoué[03 62].[BREAK]Ça se voit sur ton visage.[BREAK]
 2CA: @Duncan is trying to open a[BREAK]strip club in this town.[BREAK][PAUSE]@I'm absolutely against it![BREAK]
 2CA-E: @Duncan essaie d'ouvrir un[BREAK]club de strip-tease dans[BREAK]cette ville.[BREAK][PAUSE]@Je suis contre à 100 % ![BREAK]
 2CB: @Someday I wanna be a doctor[BREAK]so I can help people.[BREAK][PAUSE]@And so I can make loads of[BREAK]money.[BREAK]
@@ -1545,7 +1547,7 @@
 2D2: @My husband is an important[BREAK]man at Twinkle Elementary[BREAK]School.[BREAK][PAUSE]@He's so important that he[BREAK]doesn't eat packed lunches[BREAK]from home.[BREAK]
 2D2-E: @Mon mari est une personne[BREAK]importante de l'école[BREAK]primaire Léclat.[BREAK][PAUSE]@Il trop important pour[BREAK]manger des paniers-repas[BREAK]préparés à la maison.[BREAK]
 2D3: @Have you been to the Sweet[BREAK]Little Factory?[BREAK]
-2D3-E: @Tu es déjà allé à l'usine[BREAK]Minimimi ?[BREAK]
+2D3-E: @Tu es déjà allé[03 62] à l'usine[BREAK]Minimimi ?[BREAK]
 2D4: @You know how there are[BREAK]scary monsters all outside[BREAK]town?[BREAK][PAUSE]@I'm worried to death that[BREAK]they'll steal my money.[BREAK]
 2D4-E: @Tu vois tous ces monstres[BREAK]effrayants qui rôdent en[BREAK]dehors de la ville ?[BREAK][PAUSE]@J'ai vraiment peur qu'ils[BREAK]me volent mon portefeuille.[BREAK]
 2D5: @La-la-laaa...[BREAK][PAUSE]Into the wide blue sky...[BREAK][PAUSE]dandelion fuzz does fly...[BREAK][PAUSE]La-la-laaa![BREAK][PAUSE]@I love music more than[BREAK]anything else![BREAK]
