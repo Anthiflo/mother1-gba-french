@@ -177,14 +177,14 @@ org $8F2762D; db $1E
 org $8F27632; db $1E
 org $8F27637; db $1E
 
-org $8F27770; db $07   // move enemy name box left a little bit
-org $8F27776; db $15   // expand enemy name box in battle
-org $8F2777F; db $15
-org $8F27788; db $15
-org $8F27791; db $15
-org $8F2779A; db $15
-org $8F277A3; db $15
-org $8F10F32; db $08   // move cursor
+org $8F27770; db $06   // move enemy name box left a little bit
+org $8F27776; db $16   // expand enemy name box in battle
+org $8F2777F; db $16
+org $8F27788; db $16
+org $8F27791; db $16
+org $8F2779A; db $16
+org $8F277A3; db $16
+org $8F10F32; db $07   // move cursor
 
 // get pre-parsing stuff to work so we can do auto line wraps
 org $8F0F226; bl copy_battle_line_to_ram

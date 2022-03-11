@@ -312,7 +312,7 @@ parsecopy:
   + 
   cmp  r3,#0x23; bne +; bl control_code_23; b .loop_start
   + 
-  cmp  r3,#0xF8; blt +; bl cc_alt_item_article; b .loop_start
+  cmp  r3,#0xF8; blt +; bl cc_stolen_item_article; b .loop_start
   + 
   cmp  r3,#0xF0; blt +; bl cc_item_article; b .loop_start
   + 
@@ -661,10 +661,10 @@ cc_item_article:
   pop  {pc}
 
 //----------------------------------------------------------------------------------------
-// this is a custom battle control code that selects a/an/the for when an item is used
+// this is a custom battle control code that selects a/an/the for when an item gets stolen
 // ([03 E8-F] item)
 
-cc_alt_item_article:
+cc_stolen_item_article:
   push {lr}
   push {r2-r7}
   push {r0}

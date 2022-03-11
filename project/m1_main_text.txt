@@ -3,23 +3,20 @@
 // CODE			SIGNIFICATION			PARAMÈTRE									CC ASSOCIÉS
 //
 // OVERWORLD
-// [03 4X]		articles objets			0-7 type d’article,					 		[03 1C-1D] (objet 1-2)
+// [03 4X]		article objet			0-7 type d’article,					 		[03 1C-1D] (objet 1-2)
 //										+8 si le code de l’objet est 1D
-// [03 5X]		élision persos/plat		0-7 persos principaux / F plat				[03 10-13], [03 15-16], [03 1A-1B]
+// [03 5X]		élision perso/plat		0-7 persos principaux / F plat				[03 10-13], [03 15-16], [03 1A-1B]
 //										/ E leader / A-B acteur ou cible
-// [03 6X]		genre persos			0-1 acteur ou cible / 2 leader				[03 16], [03 1A-1B]
+// [03 6X]		genre perso				0-1 acteur ou cible / 2 leader				[03 16], [03 1A-1B]
 //										+(4/8/C) pour le type de féminin
 // [03 7X]		pluriel équipe			0-F pour spécifier la ligne appelée à partir
 //										de 670-E (singulier) ou 680-E (pluriel)
 // 
 // COMBAT
-// [03 DX]		article objets gagné	0-7 type d’article							[03 1D]
+// [03 DX]		article objet gagné		0-7 type d’article							[03 1D]
 // [03 EX]		article combattant		0-7 type d’article, +8 pour la cible		[03 20-21] (acteur-cible)
-// [03 FX]		article objets			0-7 type d’article, +8 si cas alt (vol ?)	[03 22]
-//
-// (OBSOLÈTE !!!)
-// [03 CX]		lettre nom combattant	0 pour l’acteur, 8 pour la cible			[03 20-21] (acteur-cible)
-// [03 DX]		nom long combattant		0 pour l’acteur, 8 pour la cible			[03 20-21] (acteur-cible)
+// [03 FX]		article objet			0-7 type d’article, +8 pour objet volé		[03 22]
+
 
 // #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 000: System Error![BREAK]
@@ -580,7 +577,7 @@
 109: @The door to the roof is[BREAK]locked.[BREAK][PAUSE]@I was plannin' to ditch[BREAK]class and listen to the[BREAK]radio on the roof, too![BREAK][PAUSE]Weren't you?![BREAK]
 109-E: @La porte qui mène au toit[BREAK]est verrouillée.[BREAK][PAUSE]@Moi aussi je voulais sécher[BREAK]les cours pour écouter de[BREAK]la musique sur le toit[4F]![BREAK][PAUSE]Comme toi, non[4F]?![BREAK]
 10A: @Geez, you don't talk much,[BREAK]do you?[BREAK]
-10A-E: @Eh bah, t'es pas très[BREAK]bavard toi, hein[4F]?[BREAK]
+10A-E: @Eh bah, t'es pas très[BREAK]bavard[03 62] toi, hein[4F]?[BREAK]
 10B: @The gym teacher hit me.[BREAK][PAUSE]@Maybe I should drop out and[BREAK]become a thug...[BREAK]
 10B-E: @Le prof de sport m'a tapé.[BREAK][PAUSE]@Je devrais peut-être[BREAK]laisser tomber l'école et[BREAK]devenir un délinquant...[BREAK]
 10C: @Getting lost in your own[BREAK]school...[BREAK][PAUSE]@Can you get any more lame?![BREAK]
@@ -610,7 +607,7 @@
 118: @No running in the halls![BREAK]
 118-E: @On ne court pas dans les[BREAK]couloirs[4F]![BREAK]
 119: @Hey! I haven't seen you[BREAK]before, kid![BREAK][PAUSE]@Do you even go to this[BREAK]school?[BREAK]
-119-E: @Hé[4F]! Je ne t'avais jamais[BREAK]vu avant, petit[4F]![BREAK][PAUSE]@Tu es bien un élève de[BREAK]cette école[4F]?[BREAK]
+119-E: @Hé[4F]! Je ne t'avais jamais[BREAK]vu[03 62] avant, petit[03 62][4F]![BREAK][PAUSE]@Tu es bien un[03 62] élève de[BREAK]cette école[4F]?[BREAK]
 11A: @Oh, okay. Just don't run in[BREAK]the halls.[BREAK]
 11A-E: @Oh, d'accord. Fais juste[BREAK]attention à ne pas courir[BREAK]dans les couloirs.[BREAK]
 11B: @Show me what you have.[BREAK][PAUSE]@You better not be carrying[BREAK]anything dangerous...[BREAK]
@@ -999,7 +996,7 @@
 1D3: @Geez, you kids are cheap.[BREAK]
 1D3-E: @Tss, vous êtes radins les[BREAK]mômes.[BREAK]
 1D4: @I have some secret info you[BREAK]might find interesting.[BREAK][PAUSE]@Want to hear it?[BREAK]
-1D4-E: @J'ai des infos secrètes qui[BREAK]peuvent t'intéresser.[BREAK][PAUSE]@Tu veux les entendre ?[BREAK]
+1D4-E: @J'ai une info secrète qui[BREAK]peut t'intéresser.[BREAK][PAUSE]@Tu veux l'entendre ?[BREAK]
 1D5: @The BB Gang's boss's full[BREAK]name is [03 13] Junior the[BREAK]3rd.[BREAK][PAUSE]@It's only a rumor, though.[BREAK]
 1D5-E: @Le nom complet du chef du[BREAK]BB Gang est [03 13] Junior[BREAK]troisième du nom.[BREAK][PAUSE]@Enfin, ce n'est qu'une[BREAK]rumeur.[BREAK]
 1D6: @I'm sure you'll regret it[BREAK]later.[BREAK]
@@ -2550,9 +2547,9 @@
 4AB: Asleep
 4AB-E:  Endormi
 4AC: Flust.
-4AC-E:  Troublé
+4AC-E:   Confus
 4AD: Confus
-4AD-E:   Confus
+4AD-E:  Troublé
 4AE: Poison
 4AE-E:   Poison
 4AF:   Cold
@@ -2666,9 +2663,9 @@
 4E3:       
 4E3-E:      Endormi
 4E4:       
-4E4-E:      Troublé
+4E4-E:       Confus
 4E5:       
-4E5-E:       Confus
+4E5-E:      Troublé
 4E6:       
 4E6-E:   Empoisonné
 //   [8D][8E][8F][90][91][92][93][94][95][96]
@@ -2686,9 +2683,9 @@
 4EB:       
 4EB-E:     Endormie
 4EC:       
-4EC-E:     Troublée
+4EC-E:      Confuse
 4ED:       
-4ED-E:      Confuse
+4ED-E:     Troublée
 4EE:       
 4EE-E:  Empoisonnée
 //  [6D][6E][6F][70][71][72][73][74][75][76][77]
@@ -3169,205 +3166,205 @@
 5DB-E: 
 5DC: 
 5DC-E: 
-// #MAXLENGTH=20 #AUTOWRAP=0 #MAXLINES=1 #EXTRALASTLINES=0 01
+// #MAXLENGTH=21 #AUTOWRAP=0 #MAXLINES=1 #EXTRALASTLINES=0 01
 5DD: Territ. Oak
 5DD-E: Gros Tronchou
-// #MAXLENGTH=20 02
+// #MAXLENGTH=21 02
 5DE: Dragon
 5DE-E: Dragon
-// #MAXLENGTH=20 03
+// #MAXLENGTH=21 03
 5DF: R-7038
 5DF-E: R-7038
-// #MAXLENGTH=20 04
+// #MAXLENGTH=21 04
 5E0: Elephant
 5E0-E: Éléphant
-// #MAXLENGTH=20 05
+// #MAXLENGTH=21 05
 5E1: Bear
 5E1-E: Ours
-// #MAXLENGTH=20 06
+// #MAXLENGTH=21 06
 5E2: Bigfoot
 5E2-E: Bigfoot
-// #MAXLENGTH=20 07
+// #MAXLENGTH=21 07
 5E3: Mad Truck
 5E3-E: Camion fou
-// #MAXLENGTH=20 08
+// #MAXLENGTH=21 08
 5E4: Old Robot
 5E4-E: Vieux robot
-// #MAXLENGTH=18 09
+// #MAXLENGTH=19 09
 5E5: Mega-Borg
 5E5-E: Méga-Borg
-// #MAXLENGTH=18 0A
+// #MAXLENGTH=19 0A
 5E6: Gargoyle
 5E6-E: Gargouille
-// #MAXLENGTH=18 0B
+// #MAXLENGTH=19 0B
 5E7: Gabilan
 5E7-E: Gabilan
-// #MAXLENGTH=20 0C
+// #MAXLENGTH=21 0C
 5E8: Gorilla
 5E8-E: Gorille
-// #MAXLENGTH=18 0D
+// #MAXLENGTH=19 0D
 5E9: Bison
 5E9-E: Bison
-// #MAXLENGTH=20 0E
+// #MAXLENGTH=21 0E
 5EA: Tiger
 5EA-E: Tigre
-// #MAXLENGTH=20 0F
+// #MAXLENGTH=21 0F
 5EB: Mad Car
 5EB-E: Voiture folle
-// #MAXLENGTH=20 10
+// #MAXLENGTH=21 10
 5EC: Raeb Yddet
 5EC-E: Nounours
-// #MAXLENGTH=18 11
+// #MAXLENGTH=19 11
 5ED: Magisnail
 5ED-E: Magiscargot
-// #MAXLENGTH=18 12
+// #MAXLENGTH=19 12
 5EE: Titany
 5EE-E: Titanie
-// #MAXLENGTH=20 13
+// #MAXLENGTH=21 13
 5EF: Giygas
 5EF-E: Giygas
-// #MAXLENGTH=18 14
+// #MAXLENGTH=19 14
 5F0: Eagle
 5F0-E: Aigle
-// #MAXLENGTH=18 15
+// #MAXLENGTH=19 15
 5F1: Wolf
 5F1-E: Loup
-// #MAXLENGTH=18 16
+// #MAXLENGTH=19 16
 5F2: Gull Bandit
 5F2-E: Mouette voleuse
-// #MAXLENGTH=18 17
+// #MAXLENGTH=19 17
 5F3: Crocodile
 5F3-E: Crocodile
-// #MAXLENGTH=20 18
+// #MAXLENGTH=21 18
 5F4: Atomic Robot
 5F4-E: Robot atomique
-// #MAXLENGTH=20 19
+// #MAXLENGTH=21 19
 5F5: Cave Master
 5F5-E: Roi des profondeurs
-// #MAXLENGTH=20 1A
+// #MAXLENGTH=21 1A
 5F6: Fugitive
 5F6-E: Fugitif
-// #MAXLENGTH=20 1B
+// #MAXLENGTH=21 1B
 5F7: BB Gang Boss
 5F7-E: Chef du BB Gang
-// #MAXLENGTH=20 1C
+// #MAXLENGTH=21 1C
 5F8: Barbot
 5F8-E: Barbot
-// #MAXLENGTH=20 1D
+// #MAXLENGTH=21 1D
 5F9: Jane
 5F9-E: Jane
-// #MAXLENGTH=18 1E
+// #MAXLENGTH=19 1E
 5FA: Starman
 5FA-E: Starman
-// #MAXLENGTH=20 1F
+// #MAXLENGTH=21 1F
 5FB: Ulrich
 5FB-E: Ulrich
-// #MAXLENGTH=20 20
+// #MAXLENGTH=21 20
 5FC: Brainger
 5FC-E: Cerebrum
-// #MAXLENGTH=18 21
+// #MAXLENGTH=19 21
 5FD: Mook
 5FD-E: Mook
-// #MAXLENGTH=18 22
+// #MAXLENGTH=19 22
 5FE: Armor
 5FE-E: Armure
-// #MAXLENGTH=18 23
+// #MAXLENGTH=19 23
 5FF: Oak
 5FF-E: Tronchou
-// #MAXLENGTH=20 24
+// #MAXLENGTH=21 24
 600: Redneck
 600-E: Péquenaud
-// #MAXLENGTH=20 25
+// #MAXLENGTH=21 25
 601: Hippie
 601-E: Hippie
-// #MAXLENGTH=20 26
+// #MAXLENGTH=21 26
 602: Bag Lady
 602-E: Ménagère
-// #MAXLENGTH=20 27
+// #MAXLENGTH=21 27
 603: Gang Member
 603-E: Membre du gang
-// #MAXLENGTH=20 28
+// #MAXLENGTH=21 28
 604: Dr. Distorto
 604-E: Dr[4F]Distorto
 //
 605: 
 605-E: 
-// #MAXLENGTH=20 2A
+// #MAXLENGTH=21 2A
 606: Gang Zombie
 606-E: Zombie mafieux
-// #MAXLENGTH=20 2B
+// #MAXLENGTH=21 2B
 607: PseudoZombie
 607-E: Pseudo-zombie
-// #MAXLENGTH=18 2C
+// #MAXLENGTH=19 2C
 608: Crow
 608-E: Corbeau
-// #MAXLENGTH=20 2D
+// #MAXLENGTH=21 2D
 609: Snake
 609-E: Serpent
-// #MAXLENGTH=18 2E
+// #MAXLENGTH=19 2E
 60A: Hyena
 60A-E: Hyène
-// #MAXLENGTH=18 2F
+// #MAXLENGTH=19 2F
 60B: Lynx
 60B-E: Lynx
-// #MAXLENGTH=18 30
+// #MAXLENGTH=19 30
 60C: Centipede
-60C-E: Scolopendre
-// #MAXLENGTH=18 31
+60C-E: Mille-pattes
+// #MAXLENGTH=19 31
 60D: Dust Ghost
 60D-E: Esprit poussiéreux
-// #MAXLENGTH=18 32
+// #MAXLENGTH=19 32
 60E: Fly
 60E-E: Mouche
-// #MAXLENGTH=18 33
+// #MAXLENGTH=19 33
 60F: Arachnid!
 60F-E: Araignée
-// #MAXLENGTH=18 34
+// #MAXLENGTH=19 34
 610: Scorpion
 610-E: Scorpion
-// #MAXLENGTH=20 35
+// #MAXLENGTH=21 35
 611: Rope
 611-E: Corde
-// #MAXLENGTH=20 36
+// #MAXLENGTH=21 36
 612: Fireball
 612-E: Boule de feu
-// #MAXLENGTH=20 37
+// #MAXLENGTH=21 37
 613: Swoosh
 613-E: Zieux
-// #MAXLENGTH=20 38
+// #MAXLENGTH=21 38
 614: Bonus Swoosh
 614-E: Zieux bonus
-// #MAXLENGTH=18 39
+// #MAXLENGTH=19 39
 615: Ghost
 615-E: Fantôme
-// #MAXLENGTH=18 3A
+// #MAXLENGTH=19 3A
 616: Li'l Saucer
 616-E: P'tite soucoupe
-// #MAXLENGTH=18 3B
+// #MAXLENGTH=19 3B
 617: Mr. Batty
 617-E: M.[4F]Batou
-// #MAXLENGTH=20 3C
+// #MAXLENGTH=21 3C
 618: Starman Jr.
 618-E: Starman Jr
-// #MAXLENGTH=18 3D
+// #MAXLENGTH=19 3D
 619: Skunk
 619-E: Putois
-// #MAXLENGTH=20 3E
+// #MAXLENGTH=21 3E
 61A: BloodyZombie
 61A-E: Zombie sanglant
-// #MAXLENGTH=18 3F
+// #MAXLENGTH=19 3F
 61B: Rat
 61B-E: Rat
-// #MAXLENGTH=20 40
+// #MAXLENGTH=21 40
 61C: Bomber
 61C-E: Explosœuf
 //
 61D: 
 61D-E: 
-// #MAXLENGTH=20 42
+// #MAXLENGTH=21 42
 61E: Doll
 61E-E: Poupée
-// #MAXLENGTH=20 43
+// #MAXLENGTH=21 43
 61F: Lamp
 61F-E: Lampe
 //
@@ -3376,10 +3373,10 @@
 //
 621: 
 621-E: 
-// #MAXLENGTH=20 46
+// #MAXLENGTH=21 46
 622: Biopede
-622-E: Scolopendre bionique
-// #MAXLENGTH=20 47
+622-E: Mille-pattes bionique
+// #MAXLENGTH=21 47
 623: Bio-Scorpion
 623-E: Scorpion bionique
 //
@@ -3388,13 +3385,13 @@
 // 
 625: 
 625-E: 
-// #MAXLENGTH=20 4A
+// #MAXLENGTH=21 4A
 626: Red Snake
 626-E: Serpent rouge
-// #MAXLENGTH=20 4B
+// #MAXLENGTH=21 4B
 627: Lone Wolf
 627-E: Loup solitaire
-// #MAXLENGTH=20 4C
+// #MAXLENGTH=21 4C
 628: Polar Bear
 628-E: Ours polaire
 //
@@ -3409,52 +3406,52 @@
 //
 62C: 
 62C-E: 
-// #MAXLENGTH=20 51
+// #MAXLENGTH=21 51
 62D: Rattlesnake
 62D-E: Serpent à sonnette
-// #MAXLENGTH=18 52
+// #MAXLENGTH=19 52
 62E: Tarantula
 62E-E: Tarentule
-// #MAXLENGTH=18 53
+// #MAXLENGTH=19 53
 62F: Tough Croc
 62F-E: Crocodile tenace
 //
 630: 
 630-E: 
-// #MAXLENGTH=18 55
+// #MAXLENGTH=19 55
 631: Buffalo
 631-E: Buffle
 //
 632: 
 632-E: 
-// #MAXLENGTH=18 57
+// #MAXLENGTH=19 57
 633: Bio-Bat
 633-E: Batou bionique
-// #MAXLENGTH=20 58
+// #MAXLENGTH=21 58
 634: Stray Dog
 634-E: Chien errant
-// #MAXLENGTH=20 59
+// #MAXLENGTH=21 59
 635: Devil Car
 635-E: Voiture démoniaque
-// #MAXLENGTH=20 5A
+// #MAXLENGTH=21 5A
 636: Devil Truck
 636-E: Camion démoniaque
-// #MAXLENGTH=20 5B
+// #MAXLENGTH=21 5B
 637: Death Truck
 637-E: Camion mortel
-// #MAXLENGTH=20 5C
+// #MAXLENGTH=21 5C
 638: Alarm Ghost
 638-E: Fantôme S.O.S.
 //
 639: 
 639-E: 
-// #MAXLENGTH=20 5E
+// #MAXLENGTH=21 5E
 63A: Woosh Swoosh
 63A-E: Katzieux
-// #MAXLENGTH=20 5F
+// #MAXLENGTH=21 5F
 63B: Papa Swoosh
 63B-E: Papa Zieux
-// #MAXLENGTH=20 60
+// #MAXLENGTH=21 60
 63C: Swooshette
 63C-E: Maman Zieux
 //
@@ -3463,73 +3460,73 @@
 //
 63E: 
 63E-E: 
-// #MAXLENGTH=20 63
+// #MAXLENGTH=21 63
 63F: Sky Yddet
 63F-E: Nounours du ciel
 //
 640: 
 640-E: 
-// #MAXLENGTH=18 65
+// #MAXLENGTH=19 65
 641: Giga-Borg
 641-E: Giga-Borg
-// #MAXLENGTH=20 66
+// #MAXLENGTH=21 66
 642: Last Borg
 642-E: Borg ultime
-// #MAXLENGTH=20 67
+// #MAXLENGTH=21 67
 643: Scrapper
 643-E: Robot cassé
-// #MAXLENGTH=20 68
+// #MAXLENGTH=21 68
 644: Death Barbot
 644-E: Barbot tueur
-// #MAXLENGTH=18 69
+// #MAXLENGTH=19 69
 645: Omega Saucer
 645-E: Soucoupe oméga
-// #MAXLENGTH=20 6A
+// #MAXLENGTH=21 6A
 646: Caroline
 646-E: Caroline
-// #MAXLENGTH=20 6B
+// #MAXLENGTH=21 6B
 647: Star Miner
 647-E: Déflagratœuf
-// #MAXLENGTH=20 6C
+// #MAXLENGTH=21 6C
 648: NuclearRobot
 648-E: Super robot atomique
-// #MAXLENGTH=20 6D
+// #MAXLENGTH=21 6D
 649: Suzie
 649-E: Suzie
-// #MAXLENGTH=18 6E
+// #MAXLENGTH=19 6E
 64A: Blue Starman
 64A-E: Starman bleu
-// #MAXLENGTH=18 6F
+// #MAXLENGTH=19 6F
 64B: Satania
 64B-E: Satanie
-// #MAXLENGTH=18 70
+// #MAXLENGTH=19 70
 64C: Titanian
 64C-E: Titanien
-// #MAXLENGTH=18 71
+// #MAXLENGTH=19 71
 64D: Mook Senior
 64D-E: Mook senior
 //
 64E: 
 64E-E: 
-// #MAXLENGTH=18 73
+// #MAXLENGTH=19 73
 64F: Zombie
 64F-E: Zombie
-// #MAXLENGTH=20 74
+// #MAXLENGTH=21 74
 650: Mean Zombie
 650-E: Zombie cruel
-// #MAXLENGTH=18 75
+// #MAXLENGTH=19 75
 651: Silver Wolf
 651-E: Loup argenté
-// #MAXLENGTH=20 76
+// #MAXLENGTH=21 76
 652: R-7037
 652-E: R-7037
-// #MAXLENGTH=20 77
+// #MAXLENGTH=21 77
 653: Grizzly
 653-E: Grizzly
-// #MAXLENGTH=20 78
+// #MAXLENGTH=21 78
 654: R-7038XX
 654-E: R-7038XX
-// #MAXLENGTH=18 79
+// #MAXLENGTH=19 79
 655: Last Starman
 655-E: Starman ultime
 656: 
@@ -4426,7 +4423,7 @@
 80E: [03 21] recovered [03 23] HP!
 80E-E: [03 EA][03 21] récupère [03 23][4F]PV[4F]!
 80F: [03 20] replenished energy!
-80F-E: [03 E2][03 20] fournit de l'énergie[4F]!
+80F-E: [03 E2][03 20] fait le plein d'énergie[4F]!
 810: But no one came.
 810-E: Mais personne ne vient.
 811: (silence...)
@@ -4485,6 +4482,7 @@
 82B-E: [03 E2][03 20] est en garde.
 82C: [03 20] edged closer!
 82C-E: [03 E2][03 20] se rapproche[4F]!
+// #FORCELENGTH "[03 21]"=6
 82D: The poison disappeared from [03 21]'s body!
 82D-E: Le poison disparaît du corps [03 ED][03 21][4F]!
 82E: [03 21] went back to normal!
@@ -4508,7 +4506,7 @@
 837: [03 20] did something strange!
 837-E: [03 E2][03 20] fait quelque chose d'étrange[4F]!
 838: [03 20] is spacing out.
-838-E: [03 E2][03 20] est en train de rêvasser.
+838-E: [03 E2][03 20] a la tête ailleurs.
 839: [03 21]'s shield was destroyed!
 839-E: Le bouclier [03 ED][03 21] a été détruit[4F]!
 83A: [03 20] checked [03 21]!
@@ -4558,6 +4556,7 @@
 84F-E: [03 EA][03 21] tombe en morceaux[4F]!
 850: [03 21] disappeared into thin air!
 850-E: [03 EA][03 21] s'est volatilisé[03 EC][4F]!
+// #FORCELENGTH "[03 21]"=6
 851: [03 20] stole [03 21]'s [03 22]!
 851-E: [03 E2][03 20] vole [03 F8][03 22] [03 ED][03 21][4F]!
 852: [03 20] leveled up![BREAK][PAUSE][03 01]
@@ -4584,7 +4583,7 @@
 85C: Picked up [03 F1][03 1D]![BREAK][PAUSE][03 01]
 85C-E: Vous ramassez [03 D0][03 1D][4F]![BREAK][PAUSE][03 01]
 85D: [03 21]'s confusion went away!
-85D-E: La confusion [03 ED][03 21] s'est dissipée[4F]!
+85D-E: [03 E2][03 21] reprend ses esprits[4F]!
 85E: [03 20] woke up!
 85E-E: [03 E2][03 20] se réveille[4F]!
 85F: [03 20] tore a hole through space![BREAK]
