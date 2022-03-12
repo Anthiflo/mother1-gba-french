@@ -63,6 +63,10 @@
 0FE710B Non
 0FE7142 Oui
 0FE714B Non
+0FE7182 Si
+0FE718B Non
+0FE71C2 Si
+0FE71CB Non
 
 // USELESS: Replaced with yes_no_cursor method in m1_new_code.asm
 // note: these numbers need to be -1 their actual X coordinates

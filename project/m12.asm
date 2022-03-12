@@ -254,8 +254,10 @@ org $8F085A6; bl swallow_item
 org $8F085B6; bl swallow_item
 
 // repoint yes/no main dialog options, make the game know when to choose which one
-org $8FE7100; incbin m1_window_yes_no.bin // #OVERRIDDEN
+org $8FE7100; incbin m1_window_yes_no.bin       // #OVERRIDDEN
 org $8FE7140; incbin m1_window_yes_no_small.bin // #OVERRIDDEN
+org $8FE7180; incbin m1_window_yes_no.bin       // #OVERRIDDEN
+org $8FE71C0; incbin m1_window_yes_no_small.bin // #OVERRIDDEN
 org $8F04FCE; bl choose_yes_no_size
 
 // Expand item menu
@@ -332,6 +334,18 @@ org $8F0CC32; bl ailment_gender.text_line_with_gender
 org $8F0CC46; bl ailment_gender.text_line_with_gender
 org $8F0CC5A; bl ailment_gender.text_line_with_gender
 org $8F0CC6E; bl ailment_gender.text_line_with_gender
+
+// swap line order for PV/PP recovery: 6B1 and 6B3/6B4
+// update: NOT NEEDED, but I leave it here just in case, commented out
+//org $8F08464; db $B1
+//org $8F0846C; db $B3
+//org $8F0853C; db $B1
+//org $8F08544; db $B4
+//org $8F08F38; db $B1
+//org $8F08F40; db $B3
+//org $8F09000; db $B1
+//org $8F09008; db $B3
+
 
 //========================================================================================
 //                  FIXES TO BUGS IN THE ORIGINAL MOTHER 1 PROGRAMMING

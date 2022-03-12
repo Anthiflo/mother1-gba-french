@@ -161,6 +161,7 @@
 045-E: 
 046: @Say, since you're here and[BREAK]everything, won't you help[BREAK]with the zoo problem too?[BREAK]
 046-E: @Tiens, tant que t'y es, tu[BREAK]ne voudrais pas t'occuper[BREAK]aussi du problème au zoo[4F]?[BREAK]
+// si/non
 047: @Oh, you'll go check it out?[BREAK]That's wonderful![BREAK][PAUSE][03 16], you certainly do[BREAK]love to play games![BREAK][PAUSE]@Have my assistant Abbot[BREAK]give you a key to the zoo.[BREAK]
 047-E: @Oh, tu t'en charges[4F]?[BREAK]C'est fantastique[4F]![BREAK][PAUSE][03 16], tu es quelqu'un de[BREAK]très joueur on dirait[4F]![BREAK][PAUSE]@Demande à Abbé, mon[BREAK]assistant, de te donner la[BREAK]clé du zoo.[BREAK]
 048: @Here you go. This is the[BREAK]key to the zoo.[BREAK]
@@ -191,6 +192,7 @@
 054-E: @J'ai vraiment l'impression[BREAK]que les animaux sont sous[BREAK]l'emprise de quelque[BREAK]chose...[BREAK]
 055: @Animals are so cute. Don't[BREAK]you agree?[BREAK]
 055-E: @Les animaux c'est tellement[BREAK]mignon, pas vrai ?[BREAK]
+// si/non
 056: @Teehee.[BREAK]
 056-E: @Hi hi hi.[BREAK]
 057: @Stupid head![BREAK]
@@ -227,6 +229,7 @@
 066-E: @T'es vraiment rigolo[4F]![BREAK]Hahaha[4F]![BREAK]
 067: @You're really brave.[BREAK]I hope we meet again[BREAK]sometime, don't you?[BREAK]
 067-E: @Tu es vraiment courageux.[BREAK]J'espère qu'on se reverra[BREAK]un jour, pas toi[4F]?[BREAK]
+// si/non
 068: @Oh, I'm so happy![BREAK][PAUSE]@Here, this badge can be a[BREAK]symbol of our bond.[BREAK][PAUSE]Take it with you.[BREAK]
 068-E: @Oh, je suis tellement[BREAK]contente[4F]![BREAK][PAUSE]@Tiens, ce badge sera le[BREAK]symbole de notre amitié.[BREAK][PAUSE]Prends-le avec toi.[BREAK]
 069: @I guess you already have a[BREAK]special someone, huh...[BREAK]
@@ -246,7 +249,8 @@
 070: 
 070-E: 
 071: @Happiness won't just walk[BREAK]into your life on its own.[BREAK][PAUSE]@But neither will[BREAK]unhappiness.[BREAK][PAUSE]@Wouldn't you agree?[BREAK]
-071-E: @Le bonheur ne mettra jamais[BREAK]les pieds dans notre vie[BREAK]par lui-même.[BREAK][PAUSE]@Mais c'est pareil pour le[BREAK]malheur.[BREAK][PAUSE]@Tu es d'accord[4F]?[BREAK]
+071-E: @Le bonheur ne mettra jamais[BREAK]les pieds dans notre vie[BREAK]par lui-même.[BREAK][PAUSE]@Mais c'est pareil pour le[BREAK]malheur.[BREAK][PAUSE]@Tu n'es pas d'accord[4F]?[BREAK]
+// si/non
 072: @So if you don't want[BREAK]trouble in your life...[BREAK][PAUSE]then you'd best stay still[BREAK]and never move a muscle.[BREAK]
 072-E: @Alors si on ne veut pas de[BREAK]problèmes dans la vie...[BREAK][PAUSE]il vaut mieux rester sur[BREAK]place et ne pas bouger d'un[BREAK]poil.[BREAK]
 073: @Really? Unhappiness CAN[BREAK]walk?[BREAK][PAUSE]I had no idea.[BREAK]
@@ -280,7 +284,7 @@
 081: @I feel so relaxed just[BREAK]listening to the mysterious[BREAK]sound of the fountain.[BREAK]
 081-E: @Le mystérieux son que[BREAK]produit la fontaine est[BREAK]tellement relaxant.[BREAK]
 082: @Oh, are you lost?[BREAK]Just keep going south.[BREAK][PAUSE]@Oops, sorry. I thought you[BREAK]were looking for a[BREAK]restroom.[BREAK][PAUSE]@If you're looking for Queen[BREAK]Mary's fountain, then just[BREAK]go west from the castle.[BREAK]
-082-E: @Oh, tu es perdu[4F]?[BREAK]Continue vers le sud.[BREAK][PAUSE]@Oups, pardon. Je croyais[BREAK]que tu cherchais des[BREAK]toilettes.[BREAK][PAUSE]@Si tu cherches la fontaine[BREAK]de la reine Mary, va à[BREAK]l'ouest depuis le château.[BREAK]
+082-E: @Oh, tu es perdu[03 62][4F]?[BREAK]Continue vers le sud.[BREAK][PAUSE]@Oups, pardon. Je croyais[BREAK]que tu cherchais des[BREAK]toilettes.[BREAK][PAUSE]@Si tu cherches la fontaine[BREAK]de la reine Mary, va à[BREAK]l'ouest depuis le château.[BREAK]
 083: 
 083-E: 
 084: @I bent my spoon, and now[BREAK]it's hard to eat with.[BREAK][PAUSE]@Can you bend it back for[BREAK]me?[BREAK]
@@ -360,7 +364,7 @@
 0A8: @The queen isn't feeling[BREAK]very well right now...[BREAK]
 0A8-E: @La reine ne se sent pas[BREAK]très bien en ce moment...[BREAK]
 0A9: @You look suspicious.[BREAK][PAUSE]@But I'll let you through if[BREAK]you can solve my little[BREAK]riddle...[BREAK]
-0A9-E: @Tu as l'air suspect.[BREAK][PAUSE]@Mais je te laisserai passer[BREAK]si tu peux résoudre ma[BREAK]petite énigme...[BREAK]
+0A9-E: @Tu as l'air suspect[03 62].[BREAK][PAUSE]@Mais je te laisserai passer[BREAK]si tu peux résoudre ma[BREAK]petite énigme...[BREAK]
 0AA: @That's right. The answer is[BREAK]"two alligators".[BREAK][PAUSE]@I haven't thought up the[BREAK]question yet, though.[BREAK][PAUSE]Heheh.[BREAK]
 0AA-E: @C'est exact. La réponse est[BREAK]"deux alligators".[BREAK][PAUSE]@Je n'avais pas encore[BREAK]inventé la question, par[BREAK]contre.[BREAK][PAUSE]Hé hé.[BREAK]
 0AB: @Take care![BREAK]
@@ -538,7 +542,7 @@
 0FA: 
 0FA-E: 
 0FB: @Some really strong monsters[BREAK]beat me up.[BREAK][PAUSE]@If you're headed for the[BREAK]train station, I'd watch[BREAK]out if I were you...[BREAK]
-0FB-E: @Il y a des monstres très[BREAK]puissants qui m'ont fichu[BREAK]une raclée.[BREAK][PAUSE]@Si tu comptes te rendre à[BREAK]la gare, je te conseille[BREAK]d'être vigilant...[BREAK]
+0FB-E: @Il y a des monstres très[BREAK]puissants qui m'ont fichu[BREAK]une raclée.[BREAK][PAUSE]@Si tu comptes te rendre à[BREAK]la gare, je te conseille[BREAK]d'être vigilant[03 62]...[BREAK]
 0FC: 
 0FC-E: 
 0FD: @I heard they lifted the[BREAK]order for martial law over[BREAK]in Mother's Day.[BREAK][PAUSE]@Which means we can cross[BREAK]that bridge now...[BREAK][PAUSE]@Get my drift?[BREAK]
@@ -576,6 +580,7 @@
 
 109: @The door to the roof is[BREAK]locked.[BREAK][PAUSE]@I was plannin' to ditch[BREAK]class and listen to the[BREAK]radio on the roof, too![BREAK][PAUSE]Weren't you?![BREAK]
 109-E: @La porte qui mène au toit[BREAK]est verrouillée.[BREAK][PAUSE]@Moi aussi je voulais sécher[BREAK]les cours pour écouter de[BREAK]la musique sur le toit[4F]![BREAK][PAUSE]Comme toi, non[4F]?![BREAK]
+// si/non
 10A: @Geez, you don't talk much,[BREAK]do you?[BREAK]
 10A-E: @Eh bah, t'es pas très[BREAK]bavard[03 62] toi, hein[4F]?[BREAK]
 10B: @The gym teacher hit me.[BREAK][PAUSE]@Maybe I should drop out and[BREAK]become a thug...[BREAK]
@@ -587,7 +592,8 @@
 10E: 
 10E-E: 
 10F: @All she does is get fatter[BREAK]and fatter.[BREAK][PAUSE]@Isn't she a terrible woman?[BREAK]
-10F-E: @Elle ne fait que grossir de[BREAK]plus en plus.[BREAK][PAUSE]@N'est-elle pas une femme[BREAK]horrible[4F]?[BREAK]
+10F-E: @Elle ne fait que grossir de[BREAK]plus en plus.[BREAK][PAUSE]@N'est-elle pas une horrible[BREAK]femme[4F]?[BREAK]
+// si/non
 110: @A kid like you wouldn't[BREAK]understand the sorrows of[BREAK]life...[BREAK]
 110-E: @Un gamin comme toi ne peut[BREAK]pas comprendre les chagrins[BREAK]de la vie...[BREAK]
 111: @How dare you talk about my[BREAK]wife like that![BREAK][PAUSE]@Get out![BREAK]
@@ -784,6 +790,7 @@
 16D-E: @Je peux te donner jusqu'à[BREAK]trois indices.[BREAK][PAUSE]@Tout le reste est T-O-P[BREAK]S-E-C-R-E-T.[BREAK]
 16E: @I'm the most upbeat person[BREAK]here in Halloween.[BREAK][PAUSE]@Everyone else seems so[BREAK]gloomy, wouldn't you say?[BREAK]
 16E-E: @Je suis la personne la plus[BREAK]enjouée d'Atrocity.[BREAK][PAUSE]@Tous les autres ont l'air[BREAK]tristounets, tu trouves[BREAK]pas ?[BREAK]
+// si/non
 16F: @Yeah, huh.[BREAK][PAUSE]@To be honest, I'm not that[BREAK]cheerful a person either...[BREAK]
 16F-E: @Ouais, hein.[BREAK][PAUSE]@Pour être honnête je suis[BREAK]pas quelqu'un de si joyeux[BREAK]que ça...[BREAK]
 170: @I dunno.[BREAK][PAUSE]@Maybe I'M actually the[BREAK]gloomy one.[BREAK]
@@ -895,6 +902,7 @@
 1A2-E: @Bouge ton pied gauche avant[BREAK]que ton pied droit ne[BREAK]s'enfonce.[BREAK][PAUSE]@Bouge ton pied droit avant[BREAK]que ton pied gauche ne[BREAK]s'enfonce.[BREAK][PAUSE]@Il m'a fallu 100 ans pour[BREAK]découvrir ça.[BREAK]
 1A3: @Oh, but I wanna tell you.[BREAK][PAUSE]@Wouldn't you like to know?[BREAK]
 1A3-E: @Oh, mais je veux te parler.[BREAK][PAUSE]@Tu ne veux pas savoir ?[BREAK]
+// si/non
 1A4: @Advent Desert is the most[BREAK]boring part of this game.[BREAK][PAUSE]@But watch out for land[BREAK]mines...[BREAK]
 1A4-E: @Le désert Yucca est la[BREAK]partie la plus ennuyeuse de[BREAK]ce jeu.[BREAK][PAUSE]@Mais fais attention aux[BREAK]mines terrestres...[BREAK]
 1A5: "Advent Desert"[BREAK]Why not take a sightseeing[BREAK]flight?[BREAK]
@@ -1371,6 +1379,7 @@
 281-E: @Tout droit ![BREAK]Continue tout droit ![BREAK][PAUSE]La vérité se trouve quelque[BREAK]part droit devant.[BREAK]
 282: @I'm a lady, you know.[BREAK][PAUSE]@You shouldn't walk up to a[BREAK]lady so casually and start[BREAK]talking.[BREAK][PAUSE]Don't you agree?[BREAK]
 282-E: @Je suis une dame, pour ta[BREAK]gouverne.[BREAK][PAUSE]@Ça ne se fait pas[BREAK]d'adresser la parole à une[BREAK]dame de cette façon.[BREAK][PAUSE]Tu n'es pas d'accord ?[BREAK]
+// si/non
 283: @Actually, I'm a man.[BREAK]
 283-E: @En fait je suis un mec.[BREAK]
 284: 
@@ -1627,6 +1636,7 @@
 2FA-E: @Fais gaffe si tu commences[BREAK]à parler au pêcheur, il va[BREAK]plus jamais te lâcher.[BREAK]
 2FB: @Any first-grader can do a[BREAK]cartwheel, wouldn't you[BREAK]say?[BREAK]
 2FB-E: @N'importe quel élève de CP[BREAK]est capable de faire la[BREAK]roue, t'es pas d'accord ?[BREAK]
+// si/non
 2FC: @Please take this elevator[BREAK]up to the observation deck.[BREAK]
 2FC-E: @Empruntez cet ascenseur[BREAK]pour accéder à la[BREAK]plateforme d'observation.[BREAK]
 2FD: @I saw smoke rising from an[BREAK]island you can see from[BREAK]the observation deck.[BREAK][PAUSE]@I wonder if someone lives[BREAK]there.[BREAK][PAUSE]@Man, if only I'd looked[BREAK]through the telescope...[BREAK]
@@ -1854,7 +1864,8 @@
 364: @I'm going to stay here and[BREAK]help the people of Snowman.[BREAK][PAUSE]Please be careful on your[BREAK]way...[BREAK]
 364-E: @Je vais rester ici et aider[BREAK]les habitants de Snowman.[BREAK][PAUSE]Soyez prudents durant votre[BREAK]voyage...[BREAK]
 365: @You don't have enough[BREAK]money.[BREAK]
-365-E: @Tu n'as pas assez d'argent.[BREAK]
+365-E: @Vous n'avez pas assez[BREAK]d'argent.[BREAK]
+// narrateur quand on téléphone
 366: @I'm too scared.[BREAK][PAUSE]@You lead the way, [03 10].[BREAK]
 366-E: @J'ai trop peur.[BREAK][PAUSE]@Passe devant, [03 10].[BREAK]
 367: @Upon closer look, the[BREAK]gate's lock was broken.[BREAK][PAUSE]@[03 3E] opened the gate.[BREAK]
@@ -1883,6 +1894,7 @@
 372-E: @Dis... Tu sais comment[BREAK]utiliser la télépathie ou[BREAK]je ne sais quoi, non ?[BREAK][PAUSE]@Tout le monde parle de toi,[BREAK]tu sais ![BREAK][PAUSE]@T'es une vraie célébrité ![BREAK]
 373: @By any chance are you on[BREAK]your way to Snowman?[BREAK]
 373-E: @Tu ne te rendrais pas à[BREAK]Snowman, par hasard ?[BREAK]
+// si/non
 374: @I found this hat. I think[BREAK]it belongs to a girl in[BREAK]Snowman.[BREAK][PAUSE]@Deliver it to her, if you'd[BREAK]be so kind.[BREAK]
 374-E: @J'ai trouvé ce chapeau. Je[BREAK]crois qu'il appartient à[BREAK]une fille à Snowman.[BREAK][PAUSE]@Va le lui rendre, tu seras[BREAK]gentil.[BREAK]
 375: @Oh, that's too bad. I was[BREAK]hoping to ask you a favor.[BREAK]
@@ -3714,13 +3726,13 @@
 6B0: @[03 1A] drank the[BREAK][03 1C].[BREAK]
 6B0-E: @[03 1A] boit[BREAK]l[03 41][03 1C].[BREAK]
 6B1: was recovered by [03 1E].[BREAK]
-6B1-E: remontent de [03 1E].[BREAK]
+6B1-E: [END]
 6B2: went up [03 1E].[BREAK]
 6B2-E: augmente de [03 1E].[BREAK]
 6B3: @[03 1A]'s HP[BREAK]
-6B3-E: @Les PV d[03 5A][03 1A][BREAK]
+6B3-E: @[03 1A] récupère [03 1E] PV.[BREAK]
 6B4: @[03 1A]'s PP[BREAK]
-6B4-E: @Les PP d[03 5A][03 1A][BREAK]
+6B4-E: @[03 1A] récupère [03 1E] PP.[BREAK]
 6B5: @[03 1A]'s Fight[BREAK]
 6B5-E: @La fougue d[03 5A][03 1A][BREAK]
 6B6: @[03 1A]'s Speed[BREAK]

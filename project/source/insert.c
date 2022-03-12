@@ -674,16 +674,17 @@ void InsertSpecialText(void)
 void InsertAltWindowData(void)
 {
 	FILE* fin;
-	char  str[1000];
+	char  line[100];
+	char* byteVal;
 	int   lineNum;
 	int   insertLoc = 0xFED000;
 	int   totalSize = 0x1000;
 	int   totalFound = 0;
 
-	fin = fopen("m1_small_windows_list.txt", "r");
+	fin = fopen("m1_windows_data.txt", "r");
 	if (!fin)
 	{
-		printf("Can't open m1_small_windows_list.txt, doh\r\n");
+		printf("Can't open m1_windows_data.txt, doh\r\n");
 		return;
 	}
 
@@ -691,29 +692,34 @@ void InsertAltWindowData(void)
 	for (int i = 0; i < totalSize; i++)
 	   WriteInRom(0);
 
-	fscanf(fin, "%x", &lineNum);
+	fgets(line, 100, fin);
     while(!feof(fin))
     {
-		if (lineNum < totalSize)
-		{
-			StartWritingInRom(insertLoc + lineNum, WRITE_FLAG_AFTER_PREFILL, "Insert M1 alt window data");
-			WriteInRom(1);
-			totalFound++;
+        line[strcspn(line, "\n")] = '\0';
+        if (line[0] != '/' && line[0] != '\0') {	
+            byteVal = &line[4];
+			sscanf(line,"%x",&lineNum);
+			//printf("%s => %x: (%s)\n",line,lineNum,byteVal);
+			if (lineNum < totalSize) {
+				StartWritingInRom(insertLoc + lineNum, WRITE_FLAG_AFTER_PREFILL, "Insert M1 alt window data");
+				WriteInRom(hstrtoi(byteVal));
+				totalFound++;
+			}
 		}
 
-	   fscanf(fin, "%x", &lineNum);
+	   fgets(line, 100, fin);
 	}
 
 	fclose(fin);
 
     printf(" Alt. windows:\t\tINSERTED (Total: %d)\r\n", totalFound);
-    return;
+	return;
 }
 
 void InsertItemArticles(void)
 {
 	FILE* fin;
-	char  line[1000];
+	char  line[100];
 	char* str;
 	int   lineNum = 0;
 	int   startLoc = 0xFFE000;
@@ -726,7 +732,7 @@ void InsertItemArticles(void)
 		return;
 	}
 
-	fgets(line, 1000, fin);
+	fgets(line, 100, fin);
     while(!feof(fin))
     {
 		line[strcspn(line, "\n")] = '\0';
@@ -738,7 +744,7 @@ void InsertItemArticles(void)
 
             lineNum++;
         }
-        fgets(line, 1000, fin);
+        fgets(line, 100, fin);
 	}
 
     printf(" Item articles:\t\tINSERTED\r\n");
@@ -749,7 +755,7 @@ void InsertItemArticles(void)
 void InsertEnemyArticles(void)
 {
 	FILE* fin;
-	char  line[1000];
+	char  line[100];
 	char* str;
 	int   lineNum = 0;
 	int   startLoc = 0xFFE080;
@@ -762,7 +768,7 @@ void InsertEnemyArticles(void)
 		return;
 	}
 
-	fgets(line, 1000, fin);
+	fgets(line, 100, fin);
     while(!feof(fin))
     {
 		line[strcspn(line, "\n")] = '\0';
@@ -774,7 +780,7 @@ void InsertEnemyArticles(void)
 
             lineNum++;
         }
-	    fgets(line, 1000, fin);
+	    fgets(line, 100, fin);
 	}
 
     printf(" Enemy articles:\tINSERTED\r\n");

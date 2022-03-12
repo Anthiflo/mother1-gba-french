@@ -173,15 +173,17 @@ choose_text_window_type:
   ldr  r1,=#0x8FED000      // this is the start of our custom table
   add  r1,r1,r4
   ldrb r1,[r1,#0]          // if the value in the table is 1, then use small window
+  mov  r4,#0x1
+  and  r1,r4
   cmp  r1,#0x1
   beq  +
 
   ldr  r0,=#wide_text_box  // load wide text box window
 
   +
-  mov  r4,#0               // unset our custom "current line #" variable
-  ldr  r1,=#0x2014300
-  strh r4,[r1,#0]
+  //mov  r4,#0               // unset our custom "current line #" variable
+  //ldr  r1,=#0x2014300
+  //strh r4,[r1,#0]
 
   pop  {r4}
   bl   $8F0C058
@@ -211,11 +213,9 @@ choose_yes_no_size:
    ldr  r1,=#0x8FED000      // this is the start of our custom table
    add  r1,r1,r4
    ldrb r1,[r1,#0]          // if the value in the table is 1, then use small window
-   cmp  r1,#0x1
-   beq  +
-
+   lsl  r1,r1,#0x6
    ldr  r0,=#0x8FE7100      // load wide yes/no window
-
+   add  r0,r0,r1
    +
    pop  {r1-r7}
    pop  {pc}
