@@ -1268,7 +1268,8 @@
 250: @I can't talk very well[BREAK]without my dentures.[BREAK]
 250-E: @Je ne peux pas parler[BREAK]correctement sans mon[BREAK]dentier.[BREAK]
 251: @Looks like you still don't[BREAK]have enough.[BREAK]
-251-E: @On dirait que tu n'en as[BREAK]toujours pas assez.[BREAK]
+251-E: @On dirait que t'en as[BREAK]toujours pas assez.[BREAK]
+// talons de tickets
 252: 
 252-E: 
 253: 
@@ -1289,9 +1290,7 @@
 25A-E: @C'est qui votre chef ?![BREAK][PAUSE]J'vais lui donner une bonne[BREAK]leçon, moi !![BREAK]
 25B: @The BB Gang members are[BREAK]doing just fine.[BREAK]
 25B-E: @Les membres du BB Gang se[BREAK]portent très bien.[BREAK]
-// context?
-// context?
-
+// un PNJ à Ellay
 25C: 
 25C-E: 
 25D: @Please don't make me angry.[BREAK]
@@ -1357,23 +1356,21 @@
 27A-E: @Mince.[BREAK][PAUSE]@Tu as une très bonne vue,[BREAK]tu le sais ça ?[BREAK]
 27B: @You should quit playing.[BREAK]
 27B-E: @Tu devrais arrêter de[BREAK]jouer.[BREAK]
-// check context
-// check context
-
+// grotte des singes
 27C: @Are you really sure about[BREAK]that?[BREAK]
 27C-E: @En es-tu vraiment sûr[03 62] ?[BREAK]
 27D: @Oh. Oh, well, then.[BREAK]
 27D-E: @Oh. Hmm, bon, d'accord.[BREAK]
 27E: @You managed to catch me.[BREAK][PAUSE]You're really something.[BREAK][PAUSE]@Here's something nice for[BREAK]you.[BREAK]
-27E-E: @Tu as réussi à m'attraper.[BREAK][PAUSE]Tu es vraiment doué[03 62].[BREAK][PAUSE]@Voici quelque chose de[BREAK]sympa pour toi.[BREAK]
+27E-E: @Tu as réussi à me[BREAK]rattraper.[BREAK][PAUSE]Tu es vraiment doué[03 62].[BREAK][PAUSE]@Voici quelque chose de[BREAK]sympa pour toi.[BREAK]
 27F: @Turn right and then left to[BREAK]find something nice.[BREAK]
 27F-E: @Tourne à droite puis à[BREAK]gauche et tu trouveras un[BREAK]truc sympa.[BREAK]
 280: @It seems peaceful in here,[BREAK]but it's also way too dark.[BREAK]
-280-E: @Ça a l'air paisible par[BREAK]ici, mais c'est aussi[BREAK]beaucoup trop sombre.[BREAK]
+280-E: @Ça a l'air tranquille par[BREAK]ici, mais c'est aussi[BREAK]beaucoup trop sombre.[BREAK]
 281: @Straight![BREAK]Just walk straight![BREAK][PAUSE]The truth is somewhere[BREAK]straight ahead.[BREAK]
 281-E: @Tout droit ![BREAK]Continue tout droit ![BREAK][PAUSE]La vérité se trouve quelque[BREAK]part droit devant.[BREAK]
 282: @I'm a lady, you know.[BREAK][PAUSE]@You shouldn't walk up to a[BREAK]lady so casually and start[BREAK]talking.[BREAK][PAUSE]Don't you agree?[BREAK]
-282-E: @Je suis une dame, pour ta[BREAK]gouverne.[BREAK][PAUSE]@Ça ne se fait pas de parler[BREAK]à une dame de cette façon.[BREAK][PAUSE]Tu n'es pas d'accord ?[BREAK]
+282-E: @Je suis une dame, pour ta[BREAK]gouverne.[BREAK][PAUSE]@Ça ne se fait pas[BREAK]d'adresser la parole à une[BREAK]dame de cette façon.[BREAK][PAUSE]Tu n'es pas d'accord ?[BREAK]
 283: @Actually, I'm a man.[BREAK]
 283-E: @En fait je suis un mec.[BREAK]
 284: 
@@ -1383,9 +1380,9 @@
 286: @How long has it taken you[BREAK]to get this far?[BREAK][PAUSE]@Oh, I just thought I'd ask.[BREAK]
 286-E: @Combien de temps ça t'a[BREAK]pris pour arriver aussi[BREAK]loin ?[BREAK][PAUSE]@Oh, simple curiosité.[BREAK]
 287: @I got some good information[BREAK]for you. You interested?[BREAK]
-287-E: @J'ai des infos qui peuvent[BREAK]t'intéresser. Tu veux les[BREAK]entendre ?[BREAK]
+287-E: @J'ai une info qui peut[BREAK]t'intéresser. Tu veux[BREAK]l'entendre ?[BREAK]
 288: @Well, basically...[BREAK]Treasure your friends.[BREAK][PAUSE]@That's all I have to say.[BREAK]
-288-E: @Alors, pour faire simple...[BREAK]Prends soin de tes amis.[BREAK][PAUSE]@C'est tout ce que j'ai à[BREAK]dire.[BREAK]
+288-E: @Alors, pour faire simple...[BREAK]Prends soin de tes amis.[BREAK][PAUSE]@Voilà, c'est tout ce que[BREAK]j'ai à dire.[BREAK]
 289: @Fine, then![BREAK][PAUSE]@You have no intellectual[BREAK]curiousity at all![BREAK]
 289-E: @Bien, je vois ![BREAK][PAUSE]@Tu n'as aucune curiosité[BREAK]intellectuelle ![BREAK]
 28A: @Stop! You must not go this[BREAK]way![BREAK]
@@ -1397,7 +1394,7 @@
 28D: @I think you'll meet a new[BREAK]friend in a city with an[BREAK]ocean view.[BREAK]
 28D-E: @Je pense que tu te feras[BREAK]un nouvel ami dans une[BREAK]ville au bord de l'océan.[BREAK]
 28E: @I'm a shy monkey.[BREAK][PAUSE]@Talking isn't really my[BREAK]thing.[BREAK][PAUSE]@......Okay?[BREAK][PAUSE]@......[BREAK]
-28E-E: @Je suis un singe timide.[BREAK][PAUSE]@Parler, c'est pas vraiment[BREAK]mon truc.[BREAK][PAUSE]@...... Pigé ?[BREAK][PAUSE]@......[BREAK]
+28E-E: @Je suis un singe timide.[BREAK][PAUSE]@Parler, c'est pas vraiment[BREAK]mon truc.[BREAK][PAUSE]@...... Compris ?[BREAK][PAUSE]@......[BREAK]
 28F: @Hubba hubba. Heaven must be[BREAK]missing an angel.[BREAK]
 28F-E: @Houba houba. On dirait[BREAK]qu'un ange est tombé du[BREAK]paradis.[BREAK]
 290: @Don't assume that all[BREAK]monkeys are liars.[BREAK]
@@ -1459,7 +1456,7 @@
 2A8: @Oh, hi. Heh heh.[BREAK]
 2A8-E: @Oh, salut. Hé hé.[BREAK]
 2A9: @This is a restaurant,[BREAK]tra-la-la![BREAK][PAUSE]@A happy restaurant,[BREAK]ha-ha-ha![BREAK][PAUSE]@Are you feeling happy?[BREAK]
-2A9-E: @C'est un restaurant,[BREAK]tra-la-la ![BREAK][PAUSE]@Un joyeux restaurant,[BREAK]ha-ha-ha ![BREAK][PAUSE]@Et toi, tu es joyeux ?[BREAK]
+2A9-E: @C'est un restaurant,[BREAK]tra-la-la ![BREAK][PAUSE]@Un joyeux restaurant,[BREAK]ha-ha-ha ![BREAK][PAUSE]@Et toi, tu es joyeu[03 6A][03 62] ?[BREAK]
 2AA: @Are restaurant owners[BREAK]everywhere so musical, I[BREAK]wonder?[BREAK]
 2AA-E: @Est-ce que tous les[BREAK]restaurateurs chantent[BREAK]comme ça ?[BREAK]
 2AB: @I think [03 15] is great,[BREAK]too.[BREAK]
