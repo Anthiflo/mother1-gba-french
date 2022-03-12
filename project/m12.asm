@@ -220,17 +220,21 @@ org $8F0F264; dd $3003820
 //                              MOTHER 1 OVERWORLD HACKS
 //========================================================================================
 
-// Alter the Command menu
+// alter the Command menu
 org $8F0B290; dd $8FE4000
 org $8FE4000; incbin m1_window_command_menu.bin // #OVERRIDDEN
 
-// Alter the Status menu
+// alter the Status menu
 org $8F0B188; dd $8FE4800
 org $8FE4800; incbin m1_window_status_menu.bin // #OVERRIDDEN
 org $8F0C6B4; db $04        // fix status menu number alignment
 org $8F0CC78; mov r0,#0xC   // empty status ailment = 8 characters, like the others
 org $8F0B112; mov r0,#0x11  // move list of items
 org $8F0B1D0; mov r0,#0x11  // move list of psi
+
+// fix status menu not coming back when giving/using item
+org $8F049E4; bl fix_give_stuff
+org $8F0BA64; bl fix_give_stuff
 
 // alter main dialogue box
 org $8F0CAE4; bl choose_text_window_type

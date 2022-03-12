@@ -1397,6 +1397,24 @@ mov  r1,r4
 bx   lr
 
 
+fix_give_stuff:
+push {r4,lr}
+mov  r4,#0xE
+-
+mov  r0,#0x8
+mov  r1,r4
+bl   0x8F0CA54
+mov  r0,#0x16
+bl   0x8F0CABC
+add  r4,r4,#1
+cmp  r4,#0x10
+ble  -
+bl   0x8F0AE50
+bl   0x8F0B914
+mov  r0,r0
+pop {r4,pc}
+
+
 //======================================================================
 // Gender for status ailment names
 //======================================================================
