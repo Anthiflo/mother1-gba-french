@@ -380,7 +380,8 @@
 0B0: @You tried to ignore me,[BREAK]didn't you?[BREAK][PAUSE]@I get so lonely, being out[BREAK]here all by myself.[BREAK][PAUSE]@If there's anything I can[BREAK]do, I'll do it.[BREAK][PAUSE]@Here![BREAK]
 0B0-E: @Tu as essayé de m'ignorer,[BREAK]pas vrai[4F]?[BREAK][PAUSE]@Qu'est-ce que je peux[BREAK]m'ennuyer, ici, tout seul.[BREAK][PAUSE]@Si je peux faire quoi que[BREAK]ce soit, je le ferai.[BREAK][PAUSE]@Tiens[4F]![BREAK]
 0B1: @I'm so happy you came![BREAK][PAUSE]@I know just what you want.[BREAK][PAUSE]@Here you go![BREAK]
-0B1-E: @Je suis très heureux de te[BREAK]voir[4F]![BREAK][PAUSE]@Je sais exactement ce que[BREAK]tu veux.[BREAK][PAUSE]@Et voilà[4F]![BREAK]
+0B1-E: @[03 7B][BREAK][PAUSE]@[03 7C][BREAK][PAUSE]@Et voilà[4F]![BREAK]
+// appels ligne 67B ou 68B, puis ligne 67C ou 68C
 0B2: @I finally wrote a song![BREAK]Give it a listen, you[BREAK]music-loving adventurer![BREAK][PAUSE]@Oh, baby doll, why do you[BREAK]weep?[BREAK][PAUSE]The saddened canary won't[BREAK]utter a peep.[BREAK][PAUSE]The monkey can sing,[BREAK]the piano - it chimes.[BREAK][PAUSE]Though ghosts will play out[BREAK]on its keyboard sometimes.[BREAK][PAUSE]Each night in the desert,[BREAK]the lone cactus croons.[BREAK][PAUSE]The dragon, when beaten,[BREAK]will carry some tunes.[BREAK][PAUSE]While scaling the mountain,[BREAK]EVE sings along.[BREAK][PAUSE]Will Queen Mary ever hear[BREAK]the XX Stone's last song?[BREAK][PAUSE]Lalala, what a mysterious[BREAK]lullaby.[BREAK][PAUSE]Lullaby, bye-bye, and[BREAK]goodbye.[BREAK][PAUSE]@What do you think? Nice[BREAK]song, huh?[BREAK][PAUSE]@It is, isn't it?[BREAK]
 0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK][PAUSE]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]depuis longtemps s'est tu.[BREAK][PAUSE]Un singe qui sait chanter,[BREAK]patiente dans son enclos.[BREAK][PAUSE]De redoutables fantômes,[BREAK]parfois jouent du piano.[BREAK][PAUSE]Chaque nuit dans le désert,[BREAK]siffle le cactus solitaire.[BREAK][PAUSE]Le dragon, une fois rossé,[BREAK]fredonne un petit air.[BREAK][PAUSE]Sur la montagne escarpée,[BREAK]ÈVE pousse un faible cri.[BREAK][PAUSE]La pierre XX a l'ultime[BREAK]mélodie que cherche Mary.[BREAK][PAUSE]Lalala, étrange comptine,[BREAK]tu me fais bâiller.[BREAK][PAUSE]Comptine, douce comptine,[BREAK]continue de me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est[BREAK]belle, non[4F]?[BREAK]
 0B3: @Deep in the forest is a[BREAK]guitar player who loves[BREAK]solitude.[BREAK][PAUSE]@He's kind of handsome...[BREAK]and a great poet, too.
@@ -559,7 +560,7 @@
 // connects to a line in MOTHER 3's script
 
 102: @You've been picking on that[BREAK]weakling [03 11], haven't[BREAK]you?[BREAK]
-102-E: @T'es allé embêter cette[BREAK]mauviette d[03 52][03 11], pas[BREAK]vrai[4F]?[BREAK]
+102-E: @T'es allé[03 62] embêter cette[BREAK]mauviette d[03 52][03 11], pas[BREAK]vrai[4F]?[BREAK]
 103: @What?! That was just a[BREAK]joke?![BREAK]
 103-E: @Quoi[4F]?! C'était juste une[BREAK]blague[4F]?![BREAK]
 // check
@@ -1614,8 +1615,7 @@
 2F0: @Shh! Keep quiet in the[BREAK]library![BREAK][PAUSE]@A-a-a-CHOO![BREAK]
 2F0-E: @Chut ! C'est une[BREAK]bibliothèque, ne fais[BREAK]pas de bruit ![BREAK][PAUSE]@A-a-a-TCHOUM ![BREAK]
 2F1: @Oh, you must be here[BREAK]because you heard I'm the[BREAK]world's greatest fisherman.[BREAK][PAUSE]@Well, I wouldn't say I'm[BREAK]THAT great, but...[BREAK][PAUSE]@Oh, how about I tell you[BREAK]about some of my great[BREAK]exploits for an hour or so?[BREAK]
-2F1-E: @[03 7B][BREAK][PAUSE]@Bon, je suis peut-être pas[BREAK]SI doué que ça, mais...[BREAK][PAUSE]@[03 7C][BREAK]
-// appels ligne 67B ou 68B, puis ligne 67C ou 68C
+2F1-E: @Oh, tu es là pour voir le[BREAK]meilleur pêcheur du monde,[BREAK]je présume.[BREAK][PAUSE]@Bon, je suis peut-être pas[BREAK]SI doué que ça, mais...[BREAK][PAUSE]@Hé, si tu as une heure à[BREAK]tuer, tu veux que je te[BREAK]raconte mes exploits ?[BREAK]
 2F2: @Get outta my face, twerps![BREAK]
 2F2-E: @Hors de ma vue, avorton ![BREAK]
 2F3: @Hey, you![BREAK]
@@ -3616,9 +3616,9 @@
 67A:   
 67A-E: Amuse-toi bien[4F]![END]
 67B:   
-67B-E: Oh, tu es là pour voir le[BREAK]meilleur pêcheur du monde,[BREAK]je présume.[END]
+67B-E: Je suis très heureux de ta[BREAK]venue[4F]![END]
 67C:   
-67C-E: Hé, si tu as une heure à[BREAK]tuer, tu veux que je te[BREAK]raconte mes exploits ?[END]
+67C-E: Je sais exactement ce que[BREAK]tu veux.[END]
 67D:   
 67D-E: Tu vas chanter, toi aussi ?[END]
 67E:   
@@ -3648,9 +3648,9 @@
 68A:   
 68A-E: Amusez-vous bien[4F]![END]
 68B: 
-68B-E: Oh, vous êtes là pour voir[BREAK]le meilleur pêcheur du[BREAK]monde, je présume.[END]
+68B-E: Je suis très heureux de[BREAK]votre venue[4F]![END]
 68C: 
-68C-E: Hé, si vous avez une heure[BREAK]à tuer, vous voulez que je[BREAK]vous raconte mes exploits ?[END]
+68C-E: Je sais exactement ce que[BREAK]vous voulez.[END]
 68D: 
 68D-E: Vous allez chanter, vous[BREAK]aussi ?[END]
 68E: 
