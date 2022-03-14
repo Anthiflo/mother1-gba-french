@@ -245,7 +245,7 @@
 06E: @[03 16] heard a voice...[BREAK][PAUSE]@"Where is the god's tail?"[BREAK]
 06E-E: @[03 16] entend ces mots...[BREAK][PAUSE]@"Où se trouve la queue de[BREAK]l'esprit[4F]?"[BREAK]
 06F: @Whoa, those are some weird[BREAK]clothes you have on there.[BREAK][PAUSE]@I bet you'll attract[BREAK]monsters dressed like that![BREAK]
-06F-E: @Ouah, tu portes vraiment[BREAK]des habits étranges.[BREAK][PAUSE]@Tu vas attirer les monstres[BREAK]en étant habillé comme ça[4F]![BREAK]
+06F-E: @Ouah, tu portes vraiment[BREAK]des habits étranges.[BREAK][PAUSE]@Tu vas attirer les[BREAK]monstres en étant[BREAK]habillé[03 62] comme ça[4F]![BREAK]
 070: 
 070-E: 
 071: @Happiness won't just walk[BREAK]into your life on its own.[BREAK][PAUSE]@But neither will[BREAK]unhappiness.[BREAK][PAUSE]@Wouldn't you agree?[BREAK]
@@ -300,9 +300,9 @@
 089: @Waaah! You're supposed to[BREAK]accept people's kindness!
 089-E: @Ouah[4F]! Tu es censé accepter[BREAK]quand on te propose quelque[BREAK]chose gentiment[4F]!
 08A: @Oh, a traveler! Why don't[BREAK]you eat with us?[BREAK][PAUSE]@Here, can you guess what[BREAK]we're having today?[BREAK]
-08A-E: @Oh, un voyageur[4F]! Pourquoi[BREAK]ne viendrais-tu pas manger[BREAK]avec nous[4F]?[BREAK][PAUSE]@Tiens, saurais-tu[BREAK]deviner ce qu'on mange[BREAK]aujourd'hui[4F]?[BREAK]
+08A-E: @Oh, un[03 62] voyageu[03 6E][03 62][4F]![BREAK]Pourquoi ne viendrais-tu[BREAK]pas manger avec nous[4F]?[BREAK][PAUSE]@Tiens, saurais-tu[BREAK]deviner ce qu'on mange[BREAK]aujourd'hui[4F]?[BREAK]
 08B: @Huh? Why can't you tell?[BREAK]You're really suspicious![BREAK]
-08B-E: @Hein[4F]? Tu n'arrives pas à[BREAK]trouver[4F]?[BREAK]Tu es vraiment suspect[4F]![BREAK]
+08B-E: @Hein[4F]? Tu n'arrives pas à[BREAK]trouver[4F]?[BREAK]Tu es vraiment suspect[03 62][4F]![BREAK]
 08C: @That's right, [03 15].[BREAK][PAUSE]@I read your mind and[BREAK]decided to make [03 15].[BREAK][PAUSE]@How does it taste? Do you[BREAK]like it?[BREAK]
 08C-E: @C'est ça, un plat[BREAK]d[03 5F][03 15].[BREAK][PAUSE]@J'ai lu dans ton esprit et[BREAK]j'ai décidé de préparer un[BREAK]peu d[03 5F][03 15].[BREAK][PAUSE]@Alors, ça te plaît ?[BREAK]
 08D: 
@@ -573,7 +573,7 @@
 106: @I'm Suzy. I won the Miss[BREAK]Middle of Nowhere pageant.[BREAK]Do you think I'm pretty?[BREAK]
 106-E: @Je m'appelle Suzy. J'ai[BREAK]remporté le titre de Miss[BREAK]Trou Paumé.[BREAK][PAUSE]Est-ce que tu me trouves[BREAK]jolie[4F]?[BREAK]
 107: @You're really cute, too.[BREAK]
-107-E: @Tu es très mignon, toi[BREAK]aussi.[BREAK]
+107-E: @Tu es très chou, toi aussi.[BREAK]
 108: @You're way uglier than me![BREAK][PAUSE]@Stupid Face is what they[BREAK]should call you![BREAK]
 108-E: @Non mais, et toi, t'as vu[BREAK]ta tronche[4F]?[BREAK][PAUSE]@"Andouille", c'est comme ça[BREAK]qu'on devrait t'appeler[4F]![BREAK]
 // this connects with what the nicknamer in Magicant calls you
@@ -1424,7 +1424,7 @@
 297: @Oh, you came to stay the[BREAK]night again?[BREAK]
 297-E: @Oh, tu reviens passer la[BREAK]nuit ici[4F]?[BREAK]
 298: @Oh, a traveler![BREAK]
-298-E: @Oh, un voyageur[4F]![BREAK]
+298-E: @Oh, un[03 62] voyageu[03 6E][03 62][4F]![BREAK]
 299: @If you think you're[BREAK]supposed to bust the ghosts[BREAK]in the haunted house...[BREAK][PAUSE]you're gravely mistaken.[BREAK][PAUSE]@No, there's actually a[BREAK]melody there.[BREAK]
 299-E: @Si tu penses que ta mission[BREAK]est d'éliminer les fantômes[BREAK]dans la maison hantée...[BREAK][PAUSE]alors tu fais fausse route.[BREAK][PAUSE]@Non, en réalité il y a une[BREAK]mélodie à l'intérieur.[BREAK]
 29A: 
