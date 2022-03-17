@@ -4,6 +4,7 @@
 *.sgm
 *.bak
 *.ups
+*.sna
 test_*.png
 
 # ignore OS files
