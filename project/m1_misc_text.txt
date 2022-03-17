@@ -98,23 +98,23 @@
 0FE741B Exp
 
 // This is the main battle menu
-0F2764A Frapper
+0F2764A Attaque
 0F27653 Auto
 0F27661 PSI
 0F2766A Garde
 0F27678 Objets
 0F27681 Fuite
-0F2768F Analyser
+0F2768F Analyse
 0F27698 Options
 
 // This is the menu for the final battle
-0F276BC Frapper
+0F276BC Attaque
 0F276C5 Auto
 0F276D3 PSI
 0F276DC Garde
 0F276EA Objets
 0F276F3 [FF]Chanter
-0F27701 Analyser
+0F27701 Analyse
 0F2770A Options
 
 // If you try to use a weird item in battle (change the address to move the text left or right) #OVERRIDE

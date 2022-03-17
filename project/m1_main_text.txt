@@ -855,7 +855,7 @@
 18C: @[03 16]... right?[BREAK]
 18C-E: @[03 10]... c'est bien ça ?[BREAK]
 18D: @Come on, quit joking[BREAK]around.[BREAK]
-18D-E: @Oh allez, fait pas l'idiot.[BREAK]
+18D-E: @Oh allez, fais pas l'idiot.[BREAK]
 18E: @I've been waiting for you.[BREAK][PAUSE]@I need your help to find my[BREAK]mom.[BREAK][PAUSE]@Let's start by seeing[BREAK]what's happening in the[BREAK]town of Easter.[BREAK]
 18E-E: @Je t'attendais.[BREAK][PAUSE]@J'ai besoin de ton aide[BREAK]pour retrouver ma mère.[BREAK][PAUSE]@Commençons par aller voir[BREAK]ce qui s'est passé dans la[BREAK]ville de Youngtown.[BREAK]
 18F: @You know, I had a dream[BREAK]about someone who looked[BREAK]just like you...[BREAK]
