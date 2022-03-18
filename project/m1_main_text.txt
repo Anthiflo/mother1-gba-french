@@ -332,7 +332,7 @@
 099: @Leave Magicant?[BREAK]That'd be the day![BREAK][PAUSE]@Ahahaha![BREAK]
 099-E: @Quitter Magicant[4F]?[BREAK]Elle est bonne celle-là[4F]![BREAK][PAUSE]@Ha ha ha[4F]![BREAK]
 09A: @Outside?[BREAK][PAUSE]What is this "outside" you[BREAK]speak of?[BREAK]
-09A-E: @Dehors[4F]?[BREAK][PAUSE]C'est quoi "dehors"[4F]?[BREAK]
+09A-E: @Le monde extérieur[4F]?[BREAK][PAUSE]Qu'est-ce que tu veux dire[BREAK]par "monde extérieur"[4F]?[BREAK]
 09B: @I'm so embarrassed I wish I[BREAK]could crawl into a hole.[BREAK][PAUSE]@If only there were holes to[BREAK]crawl into...[BREAK]
 09B-E: @Je suis tellement gênée que[BREAK]j'aimerais pouvoir me[BREAK]terrer dans un trou.[BREAK][PAUSE]@Si seulement il y avait des[BREAK]trous dans le coin...[BREAK]
 // #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=0
@@ -387,7 +387,7 @@
 0B3: @Deep in the forest is a[BREAK]guitar player who loves[BREAK]solitude.[BREAK][PAUSE]@He's kind of handsome...[BREAK]and a great poet, too.
 0B3-E: @Au cœur de la forêt se[BREAK]trouve un guitariste qui[BREAK]adore la solitude.[BREAK][PAUSE]@C'est un très bel homme...[BREAK]et un grand poète aussi.
 0B4: @I've heard about a man who[BREAK]was forgotten...[BREAK][PAUSE]@But I forget what his story[BREAK]was.[BREAK]
-0B4-E: @J'ai entendu parler d'un[BREAK]homme que tout le monde a[BREAK]oublié...[BREAK][PAUSE]@Je te raconterais bien son[BREAK]histoire, mais je l'ai[BREAK]oubliée.[BREAK]
+0B4-E: @J'ai entendu parler d'un[BREAK]homme qui a été oublié...[BREAK][PAUSE]@Je te raconterais bien son[BREAK]histoire, mais je l'ai[BREAK]oubliée.[BREAK]
 0B5: @Though you may not[BREAK]believe it, I'm a[BREAK]healer.[BREAK][PAUSE]@I can restore your[BREAK]PP or heal friends[BREAK]turned to stone.[BREAK][PAUSE]@So, what can I do[BREAK]for you?[BREAK]
 // #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 0B5-E: @Crois-le ou non,[BREAK]mais je suis un[BREAK]guérisseur.[BREAK][PAUSE]@Je peux restaurer[BREAK]les PP,[BREAK][PAUSE]ou guérir les amis[BREAK]transformés en[BREAK]pierre.[BREAK][PAUSE]@Alors, que puis-je[BREAK]faire pour toi[4F]?[BREAK]
@@ -4507,7 +4507,7 @@
 832: [03 21] was revived!!!
 832-E: [03 EA][03 21] revient à la vie[4F]!!!
 833: [03 20] used [03 F0][03 22]!
-833-E: [03 E2][03 20] utilise l[03 F1][03 22][4F]!
+833-E: [03 E2][03 20] utilise [03 F0][03 22][4F]!
 834: [03 20] tried [03 22]!
 834-E: [03 E2][03 20] tente [03 22][4F]!
 835: [03 20] can't use [03 22]!
