@@ -1245,6 +1245,7 @@
 241-E: 
 242: @Oh, my. You can't carry any[BREAK]more things.[BREAK][PAUSE]@In that case, I'll give it[BREAK]to you the next time I see[BREAK]you.[BREAK]
 242-E: @Oh mince, tu ne[BREAK]peux pas porter[BREAK]plus de choses.[BREAK][PAUSE]@Je te donnerai ça[BREAK]la prochaine fois[BREAK]qu'on se verra.[BREAK]
+// Fifi qui nous rend ses objets, ou Rosemary qui nous donne la clé du manoir
 // #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 243: @Here you go! Medicine![BREAK]
 243-E: @Et voilà[4F]! Un remède[4F]![BREAK]
