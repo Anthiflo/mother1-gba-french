@@ -2169,7 +2169,7 @@
 3F2-E: Couteau
 // #MAXLENGTH=11 (prix 4 chiffres)
 3F3: Surv. Knife
-3F3-E: CteauSurvie
+3F3-E: CouteauSurv
 // #MAXLENGTH=12
 3F4: Basic Sword
 3F4-E: ÉpéeSimple
