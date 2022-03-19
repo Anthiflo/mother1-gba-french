@@ -1241,11 +1241,11 @@
 // #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
 240: @Bye! Take care![BREAK]
 240-E: @À plus[4F]! Fais[BREAK]attention à toi[4F]![BREAK]
-// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 241: 
 241-E: 
 242: @Oh, my. You can't carry any[BREAK]more things.[BREAK][PAUSE]@In that case, I'll give it[BREAK]to you the next time I see[BREAK]you.[BREAK]
-242-E: @Oh mince, tu ne peux pas[BREAK]porter davantage de choses.[BREAK][PAUSE]@Dans ce cas, je te donnerai[BREAK]ça la prochaine fois qu'on[BREAK]se verra.[BREAK]
+242-E: @Oh mince, tu ne[BREAK]peux pas porter[BREAK]plus de choses.[BREAK][PAUSE]@Je te donnerai ça[BREAK]la prochaine fois[BREAK]qu'on se verra.[BREAK]
+// #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 243: @Here you go! Medicine![BREAK]
 243-E: @Et voilà[4F]! Un remède[4F]![BREAK]
 244: @Okey-doke! Good night![BREAK]
@@ -3891,7 +3891,7 @@
 701: The abducted grownups return[BREAK]to their children in Easter.[BREAK]You did great, kids![BREAK]
 701-E: Les adultes qui ont été[BREAK]enlevés retrouvent leurs[BREAK]enfants à Youngtown.[BREAK]Beau travail, les enfants[4F]![BREAK]
 702: [03 12]: I promise I'll never[BREAK]forget you. So I won't say[BREAK]say goodbye...[BREAK]Just, "'Til we meet again!"[BREAK]
-702-E: [03 12] : Je ne t'oublierai[BREAK]jamais, c'est promis. Je ne[BREAK]vais pas dire "Adieu", mais[BREAK]plutôt : "À la prochaine !"[BREAK]
+702-E: [03 12] : Je ne t'oublierai[BREAK]jamais, c'est promis. Je ne[BREAK]vais pas te dire adieu, mais[BREAK]plutôt : "À la prochaine !"[BREAK]
 703: [03 11] returns to a hero's[BREAK]welcome at Twinkle[BREAK]Elementary School.[BREAK]
 703-E: [03 11] retourne à l'école[BREAK]primaire Léclat où il est[BREAK]acclamé en héros.[BREAK]
 704: Welcome home, [03 10]![BREAK]We're so glad you made it[BREAK]back safe and sound.[BREAK]You must be famished![BREAK]
@@ -4594,7 +4594,7 @@
 85C: Picked up [03 F1][03 1D]![BREAK][PAUSE][03 01]
 85C-E: Vous ramassez [03 D0][03 1D][4F]![BREAK][PAUSE][03 01]
 85D: [03 21]'s confusion went away!
-85D-E: [03 E2][03 21] reprend ses esprits[4F]!
+85D-E: [03 EA][03 21] reprend ses esprits[4F]!
 85E: [03 20] woke up!
 85E-E: [03 E2][03 20] se réveille[4F]!
 85F: [03 20] tore a hole through space![BREAK]
