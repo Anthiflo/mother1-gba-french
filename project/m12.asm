@@ -346,6 +346,10 @@ org $8F0CC6E; bl ailment_gender.text_line_with_gender
 //org $8F09000; db $B1
 //org $8F09008; db $B3
 
+// Hidden credits menu for translation
+define shortcut $010E //B+R+Select+Start
+org $8F00666; bl translation_credits.check_shortcut
+org $8FE4500; incbin m1_translation_credits_window.bin // #OVERRIDDEN
 
 //========================================================================================
 //                  FIXES TO BUGS IN THE ORIGINAL MOTHER 1 PROGRAMMING

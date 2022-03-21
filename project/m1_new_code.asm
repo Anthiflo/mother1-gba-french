@@ -1455,6 +1455,29 @@ pop  {pc}
 
 
 //======================================================================
+// Hidden credits menu for translation
+//======================================================================
+translation_credits:
+.check_shortcut:
+push {lr}
+ldr  r1,=#0x4000130
+ldrh r1,[r1,#0]
+mvn  r1,r1
+ldr  r0,=#{shortcut}         // Is the shortcut being pressed?
+and  r1,r0
+cmp  r1,r0
+beq  .show_menu
+bl   0x8F0B0AC
+pop  {pc}
+
+.show_menu:
+ldr  r0,=#0x8FE4500
+bl   0x8F0C058
+bl   0x8F0CC98
+
+pop  {pc}
+
+//======================================================================
 // Intro screen stuff
 //======================================================================
 
