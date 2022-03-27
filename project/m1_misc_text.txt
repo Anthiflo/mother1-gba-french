@@ -229,7 +229,7 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 0FE7C30 Nommez cette fille.[END]
 0FE7C60 Nommez cet ami.[END]
 0FE7C90 Nommez cet autre ami.[END]
-0FE7CC0 Votre plat favori ?[END]
+0FE7CC0 Votre plat préféré ?[END]
 
 // unallowed names (separate them with [02], end with [END]) #OVERRIDE
 0FE80C0 ABC[02]George[02]Mimmie[02]Minnie[02]Fifi[02]Duncan[02]Suzy[02]Abbé[02]Laura[02]Gyiyg[02]Giegue[02]Giygas[02]Mary[02]Maria[02]EVE[02]ÈVE[02]Eve[02]Ève[02] [02]  [02]   [02]    [02]     [02]      [02][END]
@@ -523,7 +523,7 @@ F278B3 (Lent)[01][01][01][01](Rapide)
 // INTRODUCTION STUFF
 //==========================================================================================================
 
-0F7DC00 Dans les années 1900, une[BREAK]ombre s'étendit au-dessus[BREAK]d'un village américain. Peu[BREAK]après, un couple marié[BREAK]disparut mystérieusement.[BREAK][BREAK]L'homme s'appelait George,[BREAK]la femme s'appelait Maria.[BREAK][BREAK]Deux ans plus tard, George[BREAK]réapparut mais ne confia à[BREAK]personne ce qui lui était[BREAK]arrivé.[BREAK]Il s'isola et se plongea[BREAK]dans d'étranges recherches.[BREAK][BREAK]Quant à sa femme, Maria...[BREAK]elle ne revint jamais.[END]
+0F7DC00 Dans les années 1900, une[BREAK]ombre s'étendit au-dessus[BREAK]d'un village américain.[BREAK]Peu après, un couple marié[BREAK]disparut mystérieusement.[BREAK][BREAK]L'homme s'appelait George,[BREAK]la femme s'appelait Maria.[BREAK][BREAK]Deux ans plus tard, George[BREAK]réapparut mais ne confia à[BREAK]personne ce qui lui était[BREAK]arrivé.[BREAK]Il s'isola et se plongea[BREAK]dans d'étranges recherches.[BREAK][BREAK]Quant à sa femme, Maria...[BREAK]elle ne revint jamais.[END]
 // starting X,Y positions for this text
 0F0DC40 [00]
 0F0DC42 [01]
