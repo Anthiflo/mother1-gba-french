@@ -113,6 +113,25 @@ org $8F2743C; db $03,$0B,$02,$03,$0A
 org $8F27441; db $01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01,$01	// #OVERRIDDEN
 org $8F27451; db $03,$0B,$02,$03,$0C,$03,$04,$10,$FB,$03,$0D,$00
 
+// extend fav food to 10 characters
+org $8F0DD38; ldr r6,[sp,#0x338]; mov r0,#0xA
+org $8F0DD54; cmp r4,r6
+org $8F0DD68; cmp r5,r6
+org $8F0DD74; ldr r0,[sp,#0x334]; add r0,r0,r5
+org $8F0DD80; cmp r5,r6
+org $8F0DD90; cmp r4,r6
+org $8F0DF9E; add r0,r5,#5; ldr r6,[sp,#0x338]
+org $8F0DFB8; cmp r5,r6; bcc $8F0DFBE
+org $8F0DFBE; ldr r0,[sp,#0x348]; sub r0,#1
+org $8F0E1FA; ldr r1,[sp,#0x338]; ldrb r0,[r6,r5]
+org $8F0E204; strb r0,[r6,r5]
+org $8F0E20C; cmp r5,r1
+org $8F0DAA8; mov r2,#5
+org $8F0DAB8; mov r2,#5
+org $8F0DAC8; mov r2,#5
+org $8F0DADA; mov r2,#5
+org $8F0DAEE; mov r2,#9
+
 
 //========================================================================================
 //                          MOTHER 1 PLAYER NAMING SCREEN STUFF

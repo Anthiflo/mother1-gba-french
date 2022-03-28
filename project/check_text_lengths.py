@@ -3,6 +3,7 @@ import textwrap
 import sys
 
 LENGTH_CHAR_NAME = 6
+LENGTH_FOOD_NAME = 10
 LENGTH_ITEM_NAME = 12
 LENGTH_ENEMY_NAME = 21
 LENGTH_TEAM_PREFIX = 12
@@ -86,6 +87,7 @@ def decodeLine(line):
     
     line = re.sub("\[03 1[0123]\]",     exampleStr("HERO",LENGTH_CHAR_NAME), line)
     line = re.sub("\[03 1[6AB]\]",      exampleStr("HERO",LENGTH_CHAR_NAME), line)
+    line = re.sub("\[03 15\]",          exampleStr("FOOD",LENGTH_FOOD_NAME), line)
     line = re.sub("\[03 17\]",          exampleStr("L’équipe de ",LENGTH_TEAM_PREFIX), line)
     line = re.sub("\[03 1C\]",          exampleStr("ITEM1",LENGTH_ITEM_NAME), line)
     line = re.sub("\[03 1D\]",          exampleStr("ITEM2",LENGTH_ITEM_NAME), line)
