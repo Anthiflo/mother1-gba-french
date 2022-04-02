@@ -1,3 +1,20 @@
+//00. masculin singulier multiple dénombrable consonne initiale 
+//01. masculin singulier multiple dénombrable voyelle initiale 
+//02. masculin singulier multiple indénombrable consonne initiale 
+//03. masculin singulier multiple indénombrable voyelle initiale 
+//04. féminin singulier multiple dénombrable consonne initiale 
+//05. féminin singulier multiple dénombrable voyelle initiale 
+//06. féminin singulier multiple indénombrable consonne initiale 
+//07. féminin singulier multiple indénombrable voyelle initiale 
+//08. masculin singulier unique consonne initiale 
+//09. masculin singulier unique voyelle initiale 
+//0A. masculin pluriel multiple 
+//0B. masculin pluriel unique 
+//0C. féminin singulier unique consonne initiale 
+//0D. féminin singulier unique voyelle initiale 
+//0E. féminin pluriel multiple 
+//0F. féminin pluriel unique 
+
 //  
 ITEM-3E8-00: 00
 
@@ -11,7 +28,7 @@ ITEM-3EA-01: 04
 ITEM-3EB-02: 0E
 
 //Repel Ring
-ITEM-3EC-03: 04
+ITEM-3EC-03: 01
 
 //ITEM 05
 ITEM-3ED-04: 00
@@ -164,7 +181,7 @@ ITEM-41D-34: 00
 ITEM-41E-35: 00
 
 //Easy Ring
-ITEM-41F-36: 04
+ITEM-41F-36: 01
 
 //Item 56
 ITEM-420-37: 00
@@ -314,7 +331,7 @@ ITEM-44F-66: 00
 ITEM-450-67: 00
 
 //Friend Ring
-ITEM-451-68: 04
+ITEM-451-68: 01
 
 //Item 106
 ITEM-452-69: 00
