@@ -4081,7 +4081,7 @@
 75F: "Haunted House Key"[BREAK]@The key to the Rosemarys'[BREAK]mansion.
 75F-E: "Clé du manoir hanté"[BREAK]@La clé du manoir des[BREAK]Rosemary.
 760: "Great-Grandfather's Diary"[BREAK]@The diary of [03 10]'s[BREAK]great-grandfather.[BREAK][PAUSE]@It's filled with writing,[BREAK]but it's in such bad shape[BREAK]that it's mostly illegible.
-760-E: "Journal de l'arrière-[BREAK]grand-père d[03 50][03 10]"[BREAK][PAUSE]@Il est rempli d'écritures,[BREAK]mais il est en si mauvais[BREAK]état que c'est quasiment[BREAK]illisible.
+760-E: "Journal de l'arrière-[BREAK]grand-père d[03 50][03 10]"[BREAK][PAUSE]@Il est rempli de notes,[BREAK]mais il est en si mauvais[BREAK]état que c'est quasiment[BREAK]illisible.
 761: "Pass"[BREAK]@"Duncan Factory Employee"[BREAK]is written on it.
 761-E: "Passe"[BREAK]@Il comporte l'inscription :[BREAK]"Employé usine de Duncan".
 762: "Show Ticket"[BREAK]@"Every Day All Night[BREAK]Rock 'n' Roll Live Show"[BREAK]is written on it.
