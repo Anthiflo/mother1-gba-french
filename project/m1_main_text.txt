@@ -40,7 +40,7 @@
 009: @Are you okay, [03 10]?[BREAK][PAUSE]@What on earth is happening[BREAK]to our home?[BREAK][PAUSE]I'm so scared...[BREAK][PAUSE]@If only your father were[BREAK]here now...[BREAK]
 009-E: @[03 10] ! Est-ce que ça va ?[BREAK][PAUSE]@Qu'est-ce qui a bien pu[BREAK]arriver à notre maison[4F]?[BREAK][PAUSE]J'ai tellement peur...[BREAK][PAUSE]@Si seulement ton père[BREAK]était là avec nous...[BREAK]
 00A: @You're much braver than I[BREAK]ever imagined.[BREAK][PAUSE]@...But I can't send you on[BREAK]a journey so famished.[BREAK]
-00A-E: @Tu es bien plus courageux[BREAK]que ce que je n'aurais[BREAK]imaginé.[BREAK][PAUSE]@... Mais je ne peux pas te[BREAK]laisser partir en voyage le[BREAK]ventre vide.[BREAK]
+00A-E: @Tu es bien plus courageux[BREAK]que je ne l'aurais imaginé.[BREAK][PAUSE]@... Mais je ne peux pas te[BREAK]laisser partir en voyage le[BREAK]ventre vide.[BREAK]
 00B: @Oh, my! You're hurt![BREAK]
 00B-E: @Mon dieu[4F]! Tu es blessé[4F]![BREAK]
 00C: @Let's see... To get to the[BREAK]next level, you need...[BREAK]
@@ -62,7 +62,7 @@
 014: @[03 10][4F]? It's your dad.[BREAK]
 014-E: @Allô, [03 10][4F]? C'est Papa.[BREAK]
 015: @I've deposited $[03 18][BREAK]into your bank account.[BREAK][PAUSE]@Taking away what you've[BREAK]spent, you should now have[BREAK]$[03 19] in the bank.[BREAK][PAUSE]@Use it wisely.[BREAK]
-015-E: @J'ai déposé [03 18]$[BREAK]sur ton compte bancaire.[BREAK][PAUSE]@En enlevant ce que tu as[BREAK]dépensé, tu devrais avoir[BREAK][03 19]$ sur ton compte.[BREAK][PAUSE]@Fais-en bon usage.[BREAK]
+015-E: @J'ai déposé [03 18]$[BREAK]sur ton compte bancaire.[BREAK][PAUSE]@En déduisant ce que tu as[BREAK]dépensé, tu devrais avoir[BREAK][03 19]$ sur ton compte.[BREAK][PAUSE]@Fais-en bon usage.[BREAK]
 016: @I realize this isn't any of[BREAK]my business, but why don't[BREAK]you take a little break?[BREAK]
 016-E: @Je sais que ce ne sont pas[BREAK]mes affaires, mais...[BREAK][PAUSE]Pourquoi ne prendrais-tu[BREAK]pas une petite pause[4F]?[BREAK]
 017: @I see. Then I'll make a[BREAK]record of your progress.[BREAK]
@@ -122,7 +122,7 @@
 032: @Oh, that's a baby canary.[BREAK][PAUSE]Did you find it in Canary[BREAK]Village?[BREAK]
 032-E: @Oh, c'est un bébé canari.[BREAK][PAUSE]Tu l'as trouvé au village[BREAK]Canari[4F]?[BREAK]
 033: @Hmm. You don't say.[BREAK]
-033-E: @Hmm. Tu m'étonnes.[BREAK]
+033-E: @Hmm. Si tu le dis.[BREAK]
 034: @The birds of Canary Village[BREAK]do sing such lovely songs.[BREAK]
 034-E: @Les oiseaux du village[BREAK]Canari chantent de si[BREAK]adorables chansons.[BREAK]
 035: @I really admire the man[BREAK]living in Canary Village.[BREAK]
@@ -142,7 +142,7 @@
 03C: 
 03C-E: 
 03D: @Did a poltergeist attack[BREAK]your house?[BREAK][PAUSE]It tore mine apart.[BREAK]
-03D-E: @Est-ce qu'un esprit[BREAK]frappeur a attaqué ta[BREAK]maison[4F]?[BREAK][PAUSE]L'un d'eux a réduit la[BREAK]mienne en morceaux.[BREAK]
+03D-E: @Est-ce qu'un esprit[BREAK]frappeur a attaqué ta[BREAK]maison[4F]?[BREAK][PAUSE]L'un d'eux a complètement[BREAK]détruit la mienne.[BREAK]
 03E: @I hear they locked the zoo[BREAK]up to keep any more animals[BREAK]from escaping.[BREAK][PAUSE]@They've all gone berserk,[BREAK]you see...[BREAK]
 03E-E: @Ils ont apparemment fermé[BREAK]le zoo pour éviter que plus[BREAK]d'animaux ne s'échappent.[BREAK][PAUSE]@Ils sont tous devenus[BREAK]enragés, t'imagines...[BREAK]
 03F: @Bread is great for when[BREAK]you're hungry,[BREAK][PAUSE]but I bet you could also[BREAK]use its crumbs to mark your[BREAK]trail.[BREAK][PAUSE]@...I guess it's really none[BREAK]of my business, though.[BREAK]
@@ -154,7 +154,7 @@
 042: @Oh! You'll do it?![BREAK][PAUSE]@You'll go and rescue her?![BREAK]
 042-E: @Oh[4F]! C'est vrai[4F]?![BREAK][PAUSE]@Tu vas aller la sauver[4F]?![BREAK]
 043: @Oh, is this Pippi, the girl[BREAK]who got lost?[BREAK][PAUSE]@Stunning work, lad![BREAK][PAUSE]@I knew from the start that[BREAK]you showed promise![BREAK][PAUSE](clap clap applause)[BREAK][PAUSE]@You're so lucky, Pippi.[BREAK]Adorable, too.[BREAK][PAUSE]@Now remember to tell your[BREAK]mother that the mayor[BREAK]rescued you.[BREAK][PAUSE]@And for you, [03 16]...[BREAK]A $[03 1E] reward. Here.[BREAK]
-043-E: @Oh, serait-ce Fifi, la[BREAK]fille qui s'est perdue[4F]?[BREAK][PAUSE]@Beau travail, petit[4F]![BREAK][PAUSE]@Dès le départ, je savais[BREAK]que tu avais du potentiel ![BREAK][PAUSE](clap clap applaudit)[BREAK][PAUSE]@Tu es sacrément chanceuse,[BREAK]Fifi. Et très mignonne,[BREAK]aussi.[BREAK][PAUSE]@Bien, n'oublie pas de dire[BREAK]à ta maman que M. le maire[BREAK]t'a sauvée.[BREAK][PAUSE]@Et pour toi, [03 16]...[BREAK]Voilà une récompense de[BREAK][03 1E]$.[BREAK]
+043-E: @Oh, serait-ce Fifi, la[BREAK]fille qui s'est perdue[4F]?[BREAK][PAUSE]@Beau travail, petit[4F]![BREAK][PAUSE]@Dès le départ, je savais[BREAK]que tu avais du potentiel ![BREAK][PAUSE](clap clap bravo)[BREAK][PAUSE]@Tu es sacrément chanceuse,[BREAK]Fifi. Et très mignonne,[BREAK]aussi.[BREAK][PAUSE]@Bien, n'oublie pas de dire[BREAK]à ta maman que M. le maire[BREAK]t'a sauvée.[BREAK][PAUSE]@Et pour toi, [03 16]...[BREAK]Voilà une récompense de[BREAK][03 1E]$.[BREAK]
 044: 
 044-E: 
 045: 
@@ -485,7 +485,7 @@
 0E0: @I see.[BREAK][PAUSE]@You seem to have $[03 19][BREAK]in your account.[BREAK][PAUSE]@How much will you withdraw?[BREAK]
 0E0-E: @Très bien.[BREAK][PAUSE]@On dirait que tu as [03 19]$[BREAK]sur ton compte.[BREAK][PAUSE]@Combien veux-tu retirer[4F]?[BREAK]
 0E1: @Hocus-pocus, allakazam![BREAK][PAUSE]@Use it wisely. Goodbye.[BREAK]
-0E1-E: @Hocus-pocus, allakazam[4F]![BREAK][PAUSE]@Fais-en bon usage. À[BREAK]bientôt.[BREAK]
+0E1-E: @Hocus-pocus, alakazam[4F]![BREAK][PAUSE]@Fais-en bon usage. À[BREAK]bientôt.[BREAK]
 0E2: @You can't withdraw that[BREAK]much.[BREAK][PAUSE]@You'll have to try again.[BREAK]Goodbye.[BREAK]
 0E2-E: @Tu ne peux pas retirer[BREAK]autant.[BREAK][PAUSE]@Tu vas devoir réessayer.[BREAK]À bientôt.[BREAK]
 0E3: @I'm a forgotten man.[BREAK]I might as well not exist.[BREAK][PAUSE]@You didn't have to notice[BREAK]me, you know...[BREAK][PAUSE]@Just go ahead and ignore[BREAK]me.[BREAK]
@@ -1126,7 +1126,7 @@
 20D: @Surely it must be[BREAK]hard carrying so[BREAK]much stuff...[BREAK]
 20D-E: @Ça doit être dur[BREAK]de porter autant[BREAK]d'affaires...[BREAK]
 20E: @[03 10]! [03 10]![BREAK][PAUSE]@It looks like you got your[BREAK]head handed to you.[BREAK][PAUSE]@So, how about giving it[BREAK]another shot?[BREAK]
-20E-E: @[03 10] ! [03 10] ![BREAK][PAUSE]@On dirait que tu as subi[BREAK]un cuisant échec.[BREAK][PAUSE]@Alors, que dirais-tu de[BREAK]tenter à nouveau ?[BREAK]
+20E-E: @[03 10] ! [03 10] ![BREAK][PAUSE]@On dirait que tu as subi[BREAK]un cuisant échec.[BREAK][PAUSE]@Alors, que dirais-tu de[BREAK]retenter ta chance ?[BREAK]
 // line from EarthBound
 // line from EarthBound
 
@@ -1187,7 +1187,7 @@
 227: 
 227-E: 
 228: @Oh me, oh my![BREAK] Oh me, oh my![BREAK]  Oh me, oh my![BREAK][PAUSE]@My dear Pippi's gotten[BREAK]lost.[BREAK][PAUSE]@If you're going into town,[BREAK]please tell the mayor for[BREAK]me, okay?[BREAK][PAUSE](sniffle sniffle sob sob)[BREAK]
-228-E: @Quelle horreur[4F]![BREAK] Quelle horreur[4F]![BREAK]  Quelle horreur[4F]![BREAK][PAUSE]@Ma petite Fifi s'est[BREAK]perdue.[BREAK][PAUSE]@Je t'en prie, si tu vas en[BREAK]ville, préviens le maire[BREAK]pour moi, d'accord[4F]?[BREAK][PAUSE](snif snif sanglote)[BREAK]
+228-E: @Quelle horreur[4F]![BREAK] Quelle horreur[4F]![BREAK]  Quelle horreur[4F]![BREAK][PAUSE]@Ma petite Fifi s'est[BREAK]perdue.[BREAK][PAUSE]@Je t'en prie, si tu vas en[BREAK]ville, préviens le maire[BREAK]pour moi, d'accord[4F]?[BREAK][PAUSE](snif snif, sanglots)[BREAK]
 229: @What would you like to[BREAK]sell?[BREAK]
 229-E: @Que souhaites-tu vendre[4F]?[BREAK]
 22A: @I can buy your [03 1D][BREAK]for $[03 1E].[BREAK][PAUSE]@Is that okay with you?[BREAK]
@@ -1553,7 +1553,7 @@
 2D1: @You know...[BREAK][PAUSE]@If it were up to me...[BREAK][PAUSE]@I'd probably use a Duncan[BREAK]Factory rocket to blow up[BREAK]the rocks on the tracks.[BREAK]
 2D1-E: @Tu sais...[BREAK][PAUSE]@Si ça ne tenait qu'à moi,[BREAK]je détruirais les rochers[BREAK]qui bloquent la voie ferrée[BREAK][PAUSE]avec une fusée de l'usine[BREAK]de Duncan.[BREAK]
 2D2: @My husband is an important[BREAK]man at Twinkle Elementary[BREAK]School.[BREAK][PAUSE]@He's so important that he[BREAK]doesn't eat packed lunches[BREAK]from home.[BREAK]
-2D2-E: @Mon mari est une personne[BREAK]importante de l'école[BREAK]primaire Léclat.[BREAK][PAUSE]@Il trop important pour[BREAK]manger des paniers-repas[BREAK]préparés à la maison.[BREAK]
+2D2-E: @Mon mari est une personne[BREAK]importante de l'école[BREAK]primaire Léclat.[BREAK][PAUSE]@Trop importante pour manger[BREAK]des paniers-repas préparés[BREAK]à la maison.[BREAK]
 2D3: @Have you been to the Sweet[BREAK]Little Factory?[BREAK]
 2D3-E: @Tu es déjà allé[03 62] à l'usine[BREAK]Minimimi ?[BREAK]
 2D4: @You know how there are[BREAK]scary monsters all outside[BREAK]town?[BREAK][PAUSE]@I'm worried to death that[BREAK]they'll steal my money.[BREAK]
@@ -1745,7 +1745,7 @@
 32B: @THANK YOU[BREAK]
 32B-E: @MERCI[BREAK]
 32C: @There's an old music box[BREAK]hidden inside the doll.[BREAK][PAUSE]@[03 3E] opened the music[BREAK]box.[BREAK][PAUSE]@A broken melody began to[BREAK]play.[BREAK]
-32C-E: @Une vieille boîte à musique[BREAK]est cachée à l'intérieur de[BREAK]la poupée.[BREAK][PAUSE]@[03 3E] ouvre la boîte à[BREAK]musique.[BREAK][PAUSE]@Une mélodie saccadée[BREAK]commence à être jouée.[BREAK]
+32C-E: @Une vieille boîte à musique[BREAK]est cachée à l'intérieur de[BREAK]la poupée.[BREAK][PAUSE]@[03 3E] ouvre la boîte à[BREAK]musique.[BREAK][PAUSE]@Une mélodie saccadée[BREAK]se fait entendre.[BREAK]
 32D: @ ???[BREAK]
 32D-E: @ ???[BREAK]
 32E: @Thank you.[BREAK]
@@ -1847,7 +1847,7 @@
 35B: @This is my final hint.[BREAK][PAUSE]@You know the guitar player[BREAK]in Magicant?[BREAK][PAUSE]Be sure you listen to his[BREAK]song![BREAK]
 35B-E: @Voici mon ultime indice.[BREAK][PAUSE]@Connais-tu le guitariste de[BREAK]Magicant ?[BREAK][PAUSE]Écoute attentivement sa[BREAK]chanson ![BREAK]
 35C: @If something ever seems[BREAK]strange, be sure to "Check"[BREAK]all around.[BREAK]
-35C-E: @Si quelque chose te paraît[BREAK]étrange, n'hésite pas à[BREAK]"Examiner" autour de toi.[BREAK]
+35C-E: @Si quelque chose te paraît[BREAK]étrange, n'hésite pas à[BREAK]"Examiner" les alentours.[BREAK]
 35D: @The singing monkey sang[BREAK]with passion.[BREAK]
 35D-E: @Le singe chantant chante[BREAK]avec passion.[BREAK]
 35E: @The cactus sang.[BREAK][PAUSE]@For some reason, it sang.[BREAK][PAUSE]@It continued to sing with[BREAK]emotion.[BREAK]
@@ -2014,7 +2014,7 @@
 3AC: West:  Valentine[BREAK]South: Swamp[BREAK]
 3AC-E: Ouest : Ellay[BREAK]Sud : Marais[BREAK]
 3AD: Thanksgiving Main Street[BREAK]South: Twinkle Elem. School[BREAK]
-3AD-E: Grand-rue de Merrysville[BREAK]Sud : École primaire Léclat[BREAK]
+3AD-E: Grande rue de Merrysville[BREAK]Sud : École primaire Léclat[BREAK]
 3AE: [03 10]'s house[BREAK]
 3AE-E: Chez [03 10][BREAK]
 3AF: Welcome to Thanksgiving![BREAK][BREAK]West:  Mother's Day[BREAK]North: Santa Claus Station[BREAK]
@@ -2893,7 +2893,7 @@
 54D: A rather run-of-the-mill ghost.
 54D-E: Un fantôme plutôt banal.
 54E: It's about as big as a dinner plate...
-54E-E: Il est à peu près aussi grand qu'une assiette...
+54E-E: Elle est à peu près aussi grande qu'une assiette...
 54F: Apparently, life is like a puzzle to him.
 54F-E: Apparemment, la vie est une énigme pour lui.
 550: It may be small, but it's clearly an alien.
@@ -2987,7 +2987,7 @@
 57C: A cutting-edge, mass-produced robot.
 57C-E: Un robot produit en série, à la pointe de la technologie.
 57D: It's about as big as a manhole cover...
-57D-E: Il est à peu près aussi grand qu'une plaque d'égout...
+57D-E: Elle est à peu près aussi grande qu'une plaque d'égout...
 57E: Don't let her beauty fool you...
 57E-E: Ne vous laissez pas duper par sa beauté...
 57F: It carries bombs... and often uses them.
