@@ -5,8 +5,8 @@
 //(3/B) possessif sans lettre initiale
 //(4/C) COD
 //(5/D) de
-//(6/E) verbe avoir
-//(7/E) accord participe passé
+//(6/E) verbe avoir (inutilisé ?)
+//(7/E) accord participe passé (inutilisé ?)
 //00. masculin singulier multiple dénombrable consonne initiale 
 un 
 e 

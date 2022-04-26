@@ -137,7 +137,7 @@
 0FE7922 Ne peut être équipé ici
 
 // If a character tries to use an item they can't use in battle (like Ninten using a Bomb) edit m1_window_cant_use_item.bin for placement #OVERRIDE
-0FE7982 Pas utilisable par [03][20]
+0FE7982 [03][20] ne peut l'utiliser
 
 // If you use the Setup option in battle #OVERRIDE
 F2789D Vitesse du texte
