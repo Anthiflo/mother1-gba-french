@@ -302,7 +302,7 @@
 08A: @Oh, a traveler! Why don't[BREAK]you eat with us?[BREAK][PAUSE]@Here, can you guess what[BREAK]we're having today?[BREAK]
 08A-E: @Oh, un[03 62] voyageu[03 6E][03 62][4F]![BREAK]Pourquoi ne viendrais-tu[BREAK]pas manger avec nous[4F]?[BREAK][PAUSE]@Tiens, saurais-tu[BREAK]deviner ce qu'on mange[BREAK]aujourd'hui[4F]?[BREAK]
 08B: @Huh? Why can't you tell?[BREAK]You're really suspicious![BREAK]
-08B-E: @Hein[4F]? Tu n'arrives pas à[BREAK]trouver[4F]?[BREAK]Tu es vraiment suspect[03 62][4F]![BREAK]
+08B-E: @Hein[4F]? Tu n'arrives pas à[BREAK]trouver[4F]?[BREAK]Tu es vraiment louche[4F]![BREAK]
 08C: @That's right, [03 15].[BREAK][PAUSE]@I read your mind and[BREAK]decided to make [03 15].[BREAK][PAUSE]@How does it taste? Do you[BREAK]like it?[BREAK]
 08C-E: @C'est ça, un plat[BREAK]d[03 5F][03 15].[BREAK][PAUSE]@J'ai lu dans ton esprit et[BREAK]j'ai décidé de préparer un[BREAK]peu d[03 5F][03 15].[BREAK][PAUSE]@Alors, ça te plaît ?[BREAK]
 08D: 
@@ -1187,7 +1187,7 @@
 227: 
 227-E: 
 228: @Oh me, oh my![BREAK] Oh me, oh my![BREAK]  Oh me, oh my![BREAK][PAUSE]@My dear Pippi's gotten[BREAK]lost.[BREAK][PAUSE]@If you're going into town,[BREAK]please tell the mayor for[BREAK]me, okay?[BREAK][PAUSE](sniffle sniffle sob sob)[BREAK]
-228-E: @Quelle horreur[4F]![BREAK] Quelle horreur[4F]![BREAK]  Quelle horreur[4F]![BREAK][PAUSE]@Ma petite Fifi s'est[BREAK]perdue.[BREAK][PAUSE]@Je t'en prie, si tu vas en[BREAK]ville, préviens le maire[BREAK]pour moi, d'accord[4F]?[BREAK][PAUSE](snif snif, sanglots)[BREAK]
+228-E: @Quelle horreur[4F]![BREAK] Quelle horreur[4F]![BREAK]  Quelle horreur[4F]![BREAK][PAUSE]@Ma petite Fifi s'est[BREAK]perdue.[BREAK][PAUSE]@Je t'en prie, si tu vas en[BREAK]ville, préviens le maire[BREAK]pour moi, d'accord[4F]?[BREAK][PAUSE](snif snif sanglots)[BREAK]
 229: @What would you like to[BREAK]sell?[BREAK]
 229-E: @Que souhaites-tu vendre[4F]?[BREAK]
 22A: @I can buy your [03 1D][BREAK]for $[03 1E].[BREAK][PAUSE]@Is that okay with you?[BREAK]
