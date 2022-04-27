@@ -61,13 +61,13 @@
 // Translation credits menu #OVERRIDE
 0FE450F MOTHER 1 en français
 0FE455E Par l'équipe MotherVF :
-0FE457D Anthiflo, JumpmanFR.
+0FE457D Anthiflo, JumpmanFR
 0FE459C [01]
 0FE45BB Basé sur la traduction
-0FE45DA anglaise de Tomato.
+0FE45DA anglaise de Tomato
 0FE45F9 [01]
 0FE4618 Relecture et bêta-test :
-0FE4637 Zeilk, Matthack.
+0FE4637 Zeilk, Matthack, Gashomy
 0FE4656 [01]
 0FE4675 [01]       mother1vf.free.fr
 
