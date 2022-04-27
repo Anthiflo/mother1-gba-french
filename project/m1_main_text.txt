@@ -707,7 +707,7 @@
 146: @He ate five orders of[BREAK][03 15] and then ran off[BREAK]without paying.[BREAK][PAUSE]@If you see him, let me know[BREAK]immediately![BREAK]
 146-E: @Il a mangé cinq assiettes[BREAK]d[03 5F][03 15] et s'est[BREAK]enfui sans payer.[BREAK][PAUSE]@Si tu le vois, préviens-moi[BREAK]immédiatement ![BREAK]
 147: @Oof, my stomach's so full.[BREAK](belch)
-147-E: @Pfiou, j'ai le ventre bien[BREAK]rempli. (rote)
+147-E: @Pfiou, j'ai le ventre bien[BREAK]rempli. (burp)
 148: @Things've gotten mighty[BREAK]dangerous in this town.[BREAK][PAUSE]@But it's still a whole lot[BREAK]better than the city of[BREAK]Valentine, that's for sure.[BREAK]
 148-E: @Cette ville devient[BREAK]vraiment dangereuse.[BREAK][PAUSE]@Mais ce n'est rien comparé[BREAK]à la ville d'Ellay, ça[BREAK]c'est clair.[BREAK]
 149: @Oh, yeah!! You feelin' it?![BREAK]
@@ -828,7 +828,7 @@
 17F: @I don't wanna visit it,[BREAK]but you probably should.[BREAK]
 17F-E: @Je n'ai pas l'intention[BREAK]d'aller le visiter, mais[BREAK]toi, tu devrais.[BREAK]
 180: @It's freezing here in[BREAK]Snowman. Be careful not to[BREAK]catch a cold.[BREAK][PAUSE]@And be sure to brush your[BREAK]teeth, too.[BREAK][PAUSE]@(cough cough)[BREAK]
-180-E: @Ça caille sévère ici, à[BREAK]Snowman. Fais gaffe de ne[BREAK]pas choper un rhume.[BREAK][PAUSE]@Et brosse-toi bien les[BREAK]dents, hein.[BREAK][PAUSE]@(tousse tousse)[BREAK]
+180-E: @Ça caille sévère ici, à[BREAK]Snowman. Fais gaffe de ne[BREAK]pas choper un rhume.[BREAK][PAUSE]@Et brosse-toi bien les[BREAK]dents, hein.[BREAK][PAUSE]@(kof kof)[BREAK]
 // on peut être seul à Snowman si on traverse le tunnel à pied
 181: 
 181-E: 
@@ -948,7 +948,7 @@
 1B7: @A big flying ship took all[BREAK]the grownups away.[BREAK]
 1B7-E: @Un gros vaisseau volant a[BREAK]enlevé tous les grands.[BREAK]
 1B8: @It's great having no[BREAK]grownups around![BREAK][PAUSE](sniffle sob)[BREAK]
-1B8-E: @C'est super sans les grands[BREAK]dans les parages ![BREAK][PAUSE](snif sanglote)[BREAK]
+1B8-E: @C'est super sans les grands[BREAK]dans les parages ![BREAK][PAUSE](snif sanglots)[BREAK]
 1B9: @I want milk![BREAK]
 1B9-E: @Je veux du lait ![BREAK]
 1BA: @I want milk, too![BREAK]
@@ -1603,9 +1603,9 @@
 2EA: @[03 12] lives in a temple...[BREAK]Err, I mean a church.[BREAK][PAUSE]@Oh, you already knew that?[BREAK]
 2EA-E: @[03 12] vit dans un[BREAK]temple...[BREAK][PAUSE]Euh, je veux dire une[BREAK]église.[BREAK][PAUSE]@Ah, tu le savais déjà ?[BREAK]
 2EB: @There's a church in the[BREAK]mountains further to the[BREAK]east.[BREAK][PAUSE]@(cough... cough...)[BREAK]
-2EB-E: @Il y a une église dans les[BREAK]montagnes, plus loin vers[BREAK]l'est.[BREAK][PAUSE]@(tousse... tousse...)[BREAK]
+2EB-E: @Il y a une église dans les[BREAK]montagnes, plus loin vers[BREAK]l'est.[BREAK][PAUSE]@(kof... kof...)[BREAK]
 2EC: @You kids sure are energetic[BREAK]and carefree, wearing such[BREAK]light clothes out here![BREAK][PAUSE](cough... cough...)[BREAK]
-2EC-E: @Vous les enfants, vous êtes[BREAK]vraiment insouciants et[BREAK]pleins d'énergie...[BREAK][PAUSE]Porter des habits aussi[BREAK]légers par ce temps... ![BREAK][PAUSE](tousse... tousse...)[BREAK]
+2EC-E: @Vous les enfants, vous êtes[BREAK]vraiment insouciants et[BREAK]pleins d'énergie...[BREAK][PAUSE]Porter des habits aussi[BREAK]légers par ce temps... ![BREAK][PAUSE](kof... kof...)[BREAK]
 2ED: @If you run into some camel[BREAK]bones in the Advent Desert,[BREAK]tell them I say hi.[BREAK][PAUSE]@That camel and I go way[BREAK]back.[BREAK]
 2ED-E: @Dans le désert Yucca, il y[BREAK]a un tas d'os de chameau.[BREAK][PAUSE]Si jamais tu tombes dessus,[BREAK]passe-lui le bonjour de ma[BREAK]part.[BREAK][PAUSE]@C'est une très vieille[BREAK]connaissance.[BREAK]
 // peut-être tournure semblable à 19D (PNJ juste à côté)
