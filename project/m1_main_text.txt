@@ -2857,7 +2857,7 @@
 53B: Beating the punks' leader will probably set them all straight.
 53B-E: Il suffirait de vaincre leur chef pour tous les remettre à leur place.
 53C: His heart is as warped as his face is.
-53C-E: Son c[37]ur est aussi tordu que son visage.
+53C-E: Son esprit est aussi tordu que son visage.
 53D: 
 53D-E: 
 53E: Watch out for this guy's SMAAAASH hits!
