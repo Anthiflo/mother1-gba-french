@@ -1974,7 +1974,7 @@
 399: @[03 3E] opened the present.[BREAK]
 399-E: @[03 3E] ouvre le paquet.[BREAK]
 39A: @Found [03 1D].[BREAK]
-39A-E: @[03 4A][03 1D] [03 4E] été[BREAK]trouvé[03 4F].[BREAK] 
+39A-E: @Trouvé : [03 48][03 1D].[BREAK] 
 39B: @[03 16][03 17] took the[BREAK][03 1D].[BREAK]
 39B-E: @[03 70][03 16] prend[BREAK]l[03 49][03 1D].[BREAK]
 // appel ligne 670 ou 680
