@@ -487,11 +487,11 @@
 0E1: @Hocus-pocus, allakazam![BREAK][PAUSE]@Use it wisely. Goodbye.[BREAK]
 0E1-E: @Hocus-pocus, alakazam[4F]![BREAK][PAUSE]@Fais-en bon usage. À[BREAK]bientôt.[BREAK]
 0E2: @You can't withdraw that[BREAK]much.[BREAK][PAUSE]@You'll have to try again.[BREAK]Goodbye.[BREAK]
-0E2-E: @Tu ne peux pas retirer[BREAK]autant.[BREAK][PAUSE]@Tu vas devoir réessayer.[BREAK]À bientôt.[BREAK]
+0E2-E: @Tu ne peux pas retirer[BREAK]autant.[BREAK][PAUSE]@Tu vas devoir recommencer.[BREAK]À bientôt.[BREAK]
 0E3: @I'm a forgotten man.[BREAK]I might as well not exist.[BREAK][PAUSE]@You didn't have to notice[BREAK]me, you know...[BREAK][PAUSE]@Just go ahead and ignore[BREAK]me.[BREAK]
-0E3-E: @Je suis un homme oublié.[BREAK]Je pourrais très bien ne[BREAK]pas exister.[BREAK][PAUSE]@Tu n'avais pas besoin de me[BREAK]remarquer, tu sais...[BREAK][PAUSE]@Allez, vas-y, ignore-moi.[BREAK]
+0E3-E: @Je suis un homme oublié.[BREAK]Je pourrais aussi bien ne[BREAK]pas exister.[BREAK][PAUSE]@Tu n'avais pas besoin de me[BREAK]remarquer, tu sais...[BREAK][PAUSE]@Allez, vas-y, ignore-moi.[BREAK]
 0E4: @I'm a nowhere man.[BREAK][PAUSE]@It's best if you don't give[BREAK]me words of kindness.[BREAK][PAUSE]@I can't live on like this[BREAK]if I start to miss[BREAK]people...[BREAK]
-0E4-E: @Je suis un homme perdu.[BREAK][PAUSE]@Garde ta gentillesse pour[BREAK]quelqu'un d'autre, cela[BREAK]vaut mieux.[BREAK][PAUSE]@Je ne peux pas continuer à[BREAK]vivre ainsi si des gens[BREAK]commencent à me manquer...[BREAK]
+0E4-E: @Je suis un homme de nulle[BREAK]part.[BREAK][PAUSE]@Garde ta gentillesse pour[BREAK]quelqu'un d'autre, cela[BREAK]vaut mieux.[BREAK][PAUSE]@Je ne peux pas continuer à[BREAK]vivre ainsi si des gens[BREAK]commencent à me manquer...[BREAK]
 // check
 // check
 
