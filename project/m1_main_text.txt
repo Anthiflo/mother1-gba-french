@@ -1763,7 +1763,7 @@
 334: @It's locked.[BREAK]
 334-E: @C'est verrouillé.[BREAK]
 335: @The key doesn't fit.[BREAK]
-335-E: @La clé ne rentre pas.[BREAK]
+335-E: @Cette clé ne rentre pas.[BREAK]
 336: @[03 16][03 17] unlocked[BREAK]the door and went inside.[BREAK]
 336-E: @[03 70][03 16][BREAK]déverrouille la porte et[BREAK]pénètre à l'intérieur.[BREAK]
 // appel ligne 670 ou 680
