@@ -808,7 +808,7 @@
 175-E: @Ah ! Elle s'est envolée[BREAK]dans l'espace.[BREAK][PAUSE]@Un véritable succès...[BREAK]d'une certaine façon.[BREAK]
 // Real Rocket
 176: @Oh! You're such a charming[BREAK]boy![BREAK][PAUSE]@Why, I could just gaze at[BREAK]you forever...[BREAK][PAUSE]@If anyone can turn our[BREAK]mansion back to normal, I'm[BREAK]sure it's you.[BREAK][PAUSE]@Here. This is the key to[BREAK]get in.[BREAK][PAUSE](giggle)[BREAK]
-176-E: @Oh ! Quel charmant garçon ![BREAK][PAUSE]@Ouh là là, je pourrais bien[BREAK]te contempler sans jamais[BREAK]m'en lasser...[BREAK][PAUSE]@Si quelqu'un peut remettre[BREAK]notre manoir dans son état[BREAK]normal, c'est bien toi.[BREAK][PAUSE]@Tiens. Voilà la clé pour[BREAK]entrer à l'intérieur.[BREAK][PAUSE](glousse)[BREAK]
+176-E: @Oh ! Quel charmant garçon ![BREAK][PAUSE]@Ouh là là, je pourrais bien[BREAK]te contempler sans jamais[BREAK]m'en lasser...[BREAK][PAUSE]@Si quelqu'un peut remettre[BREAK]notre manoir dans son état[BREAK]normal, c'est bien toi.[BREAK][PAUSE]@Tiens. Voilà la clé pour y[BREAK]entrer.[BREAK][PAUSE](glousse)[BREAK]
 177: @My name is [03 10].[BREAK][PAUSE]@It used to be Bugerror[BREAK]Rosemary, though.[BREAK]
 177-E: @Mon nom est [03 10].[BREAK][PAUSE]@Mais avant je m'appelais[BREAK]Boguerreur Rosemary.[BREAK]
 178: @[03 10]! You big dummy![BREAK][PAUSE]@Oh, sorry, I was talking to[BREAK]my son, not you.
@@ -1461,7 +1461,7 @@
 2A5: @The cold this year is[BREAK]especially bad.[BREAK][PAUSE]@It's made me so scrawny...[BREAK]
 2A5-E: @Le rhume de cette année est[BREAK]particulièrement virulent.[BREAK][PAUSE]@J'ai perdu tellement de[BREAK]poids...[BREAK]
 2A6: @I don't have a cold.[BREAK][PAUSE]Cough cough.[BREAK][PAUSE]@Oh, that wasn't a cough.[BREAK][PAUSE]it's just something I say[BREAK]out of habit.[BREAK][PAUSE]@Cough cough.[BREAK]
-2A6-E: @Je n'ai pas le rhume.[BREAK][PAUSE]Kof, kof.[BREAK][PAUSE]@Oh, je n'ai pas toussé,[BREAK][PAUSE]j'ai juste l'habitude de[BREAK]dire ça.[BREAK][PAUSE]@Kof, kof.[BREAK]
+2A6-E: @Je ne suis pas enrhumé.[BREAK][PAUSE]Kof, kof.[BREAK][PAUSE]@Oh, je n'ai pas toussé,[BREAK][PAUSE]j'ai juste l'habitude de[BREAK]dire ça.[BREAK][PAUSE]@Kof, kof.[BREAK]
 2A7: @Exhausted? Go to the hotel.[BREAK][PAUSE]@Sleepy? Go to the hotel.[BREAK][PAUSE]@That's all there is to say,[BREAK]really.[BREAK]
 2A7-E: @Épuisé[03 62] ? Va à l'hôtel.[BREAK][PAUSE]@Endormi[03 62] ? Va à l'hôtel.[BREAK][PAUSE]@C'est tout ce que j'ai à[BREAK]dire, vraiment.[BREAK]
 2A8: @Oh, hi. Heh heh.[BREAK]
