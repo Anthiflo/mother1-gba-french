@@ -1561,7 +1561,7 @@
 2D5: @La-la-laaa...[BREAK][PAUSE]Into the wide blue sky...[BREAK][PAUSE]dandelion fuzz does fly...[BREAK][PAUSE]La-la-laaa![BREAK][PAUSE]@I love music more than[BREAK]anything else![BREAK]
 2D5-E: @La-la-laaa...[BREAK][PAUSE]Dans le vaste ciel gris...[BREAK][PAUSE]volent les pissenlits...[BREAK][PAUSE]La-la-laaa ![BREAK][PAUSE]@J'aime la musique plus que[BREAK]tout au monde ![BREAK]
 2D6: @The school janitor has the[BREAK]key to the roof,[BREAK][PAUSE]but he won't give it to[BREAK]anyone.[BREAK]
-2D6-E: @Le concierge de l'école a[BREAK]la clé pour le toit,[BREAK][PAUSE]mais il ne la donne à[BREAK]personne.[BREAK]
+2D6-E: @Le concierge de l'école a[BREAK]la clé pour le toit,[BREAK][PAUSE]mais il la donne à[BREAK]personne.[BREAK]
 2D7: @The old fortunetelling man[BREAK]on top of the mountain is[BREAK]really friendly.[BREAK][PAUSE]@He'll give you as much[BREAK]stuff as you can possibly[BREAK]carry![BREAK]
 2D7-E: @Le vieux diseur de bonne[BREAK]aventure au sommet de la[BREAK]montagne est très sympa.[BREAK][PAUSE]@Il te donnera tellement de[BREAK]choses que tu repartiras[BREAK]les bras chargés ![BREAK]
 2D8: @I walked through the tunnel[BREAK]once when I was young.[BREAK][PAUSE]@I went to see a dead body.[BREAK]
@@ -1647,7 +1647,8 @@
 2FF: @I still don't really know[BREAK]how to carry numbers in[BREAK]subtraction.[BREAK]
 2FF-E: @Je sais toujours pas faire[BREAK]de soustractions avec une[BREAK]retenue.[BREAK]
 300: @I hear strawberry-flavored[BREAK]tofu is all the rage in big[BREAK]cities.[BREAK][PAUSE]@I'd love to try some.[BREAK]
-300-E: @Apparemment le tofu à la[BREAK]fraise fait fureur dans les[BREAK]grandes villes.[BREAK][PAUSE]@J'adorerais en goûter.[BREAK]
+300-E: @Il paraît que le tofu à la[BREAK]fraise fait fureur dans les[BREAK]grandes villes.[BREAK][PAUSE]@J'adorerais en goûter.[BREAK]
+// enfant
 301: @I'm hungry.[BREAK]
 301-E: @J'ai faim.[BREAK]
 302: @Don't assume I'm an[BREAK]ordinary old guy.[BREAK][PAUSE]@...Is what my dad likes to[BREAK]say all the time.[BREAK]
