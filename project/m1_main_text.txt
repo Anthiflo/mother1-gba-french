@@ -28,11 +28,11 @@
 003: @Waah![BREAK]
 003-E: @Ouaah[4F]![BREAK]
 004: @Here's some juice, big[BREAK]brother![BREAK][PAUSE]You must be pretty thirsty.[BREAK]
-004-E: @Tiens, voilà du jus, grand[BREAK]frère[4F]![BREAK][PAUSE]Tu dois mourir de soif.[BREAK]
+004-E: @Tiens, grand frère, prends[BREAK]ce jus d'orange[4F]![BREAK][PAUSE]Tu dois mourir de soif.[BREAK]
 005: @Eek![BREAK]My doll is going crazy![BREAK]
 005-E: @Hiii[4F]![BREAK]Ma poupée est devenue[BREAK]folle[4F]![BREAK]
 006: @Whew, that was scary.[BREAK][PAUSE]@Oh! I think I see something[BREAK]inside the doll![BREAK]
-006-E: @Pfiou, c'était terrifiant.[BREAK][PAUSE]@Oh[4F]! Je crois apercevoir[BREAK]quelque chose à l'intérieur[BREAK]de la poupée[4F]![BREAK]
+006-E: @Pfiou, c'était terrifiant.[BREAK][PAUSE]@Oh[4F]! On dirait qu'il y a[BREAK]quelque chose à l'intérieur[BREAK]de la poupée[4F]![BREAK]
 007: 
 007-E: 
 008: @I'm Mimmie.[BREAK]Don't mix me up with[BREAK]Minnie![BREAK]
@@ -48,7 +48,7 @@
 00D: @Come back home whenever you[BREAK]want some more [03 15].[BREAK]
 00D-E: @Reviens à la maison dès[BREAK]que tu auras une envie[BREAK]d[03 5F][03 15].[BREAK]
 00E: @Hmm, I see. Sounds like it[BREAK]must be a poltergeist of[BREAK]some sort.[BREAK][PAUSE]@I'm not sure what to do[BREAK]about it, either.[BREAK][PAUSE]@But your great-grandfather[BREAK]did study PSI at one point.[BREAK][PAUSE]@Perhaps there's something[BREAK]in the basement that could[BREAK]help make sense of things.[BREAK][PAUSE]@I know I put the basement[BREAK]key somewhere...[BREAK][PAUSE]but I can't remember where.[BREAK][PAUSE]@Anyway, you're our only[BREAK]hope. Now is the time for[BREAK]an adventure.[BREAK][PAUSE]Go forth, [03 10]![BREAK]Protect us all![BREAK]
-00E-E: @Hmm, je vois. Ça ressemble[BREAK]à une sorte d'esprit[BREAK]frappeur.[BREAK][PAUSE]@Je ne vois pas vraiment[BREAK]quoi faire à ce sujet.[BREAK][PAUSE]@Mais ton arrière-grand-père[BREAK]a étudié la PSI à une[BREAK]époque.[BREAK][PAUSE]@Il y a probablement quelque[BREAK]chose à la cave qui pourra[BREAK]t'aider à en savoir plus.[BREAK][PAUSE]@J'ai d[40] ranger la clé de[BREAK]la cave quelque part...[BREAK][PAUSE]mais je ne sais plus où.[BREAK][PAUSE]@En tout cas, tu es notre[BREAK]seul espoir. L'heure de[BREAK]l'aventure a sonné.[BREAK][PAUSE]Va, [03 10] ![BREAK]Protège-nous tous[4F]![BREAK]
+00E-E: @Hmm, je vois. Ça ressemble[BREAK]à une sorte d'esprit[BREAK]frappeur.[BREAK][PAUSE]@Je ne vois pas vraiment[BREAK]quoi faire moi non plus.[BREAK][PAUSE]@Mais ton arrière-grand-père[BREAK]a étudié la PSI à une[BREAK]époque.[BREAK][PAUSE]@Il y a probablement quelque[BREAK]chose à la cave qui pourra[BREAK]t'aider à en savoir plus.[BREAK][PAUSE]@J'ai d[40] ranger la clé de[BREAK]la cave quelque part...[BREAK][PAUSE]mais je ne sais plus où.[BREAK][PAUSE]@En tout cas, tu es notre[BREAK]seul espoir. L'heure de[BREAK]l'aventure a sonné.[BREAK][PAUSE]Va, [03 10] ![BREAK]Protège-nous tous[4F]![BREAK]
 00F: 
 00F-E: 
 010: 
@@ -142,7 +142,7 @@
 03C: 
 03C-E: 
 03D: @Did a poltergeist attack[BREAK]your house?[BREAK][PAUSE]It tore mine apart.[BREAK]
-03D-E: @Est-ce qu'un esprit[BREAK]frappeur a attaqué ta[BREAK]maison[4F]?[BREAK][PAUSE]L'un d'eux a complètement[BREAK]détruit la mienne.[BREAK]
+03D-E: @Est-ce qu'un esprit[BREAK]frappeur a attaqué ta[BREAK]maison[4F]?[BREAK][PAUSE]Il a complètement détruit[BREAK]la mienne.[BREAK]
 03E: @I hear they locked the zoo[BREAK]up to keep any more animals[BREAK]from escaping.[BREAK][PAUSE]@They've all gone berserk,[BREAK]you see...[BREAK]
 03E-E: @Ils ont apparemment fermé[BREAK]le zoo pour éviter que plus[BREAK]d'animaux ne s'échappent.[BREAK][PAUSE]@Ils sont tous devenus[BREAK]enragés, t'imagines...[BREAK]
 03F: @Bread is great for when[BREAK]you're hungry,[BREAK][PAUSE]but I bet you could also[BREAK]use its crumbs to mark your[BREAK]trail.[BREAK][PAUSE]@...I guess it's really none[BREAK]of my business, though.[BREAK]
@@ -383,14 +383,14 @@
 0B1-E: @[03 7B][BREAK][PAUSE]@[03 7C][BREAK][PAUSE]@Et voilà[4F]![BREAK]
 // appels ligne 67B ou 68B, puis ligne 67C ou 68C
 0B2: @I finally wrote a song![BREAK]Give it a listen, you[BREAK]music-loving adventurer![BREAK][PAUSE]@Oh, baby doll, why do you[BREAK]weep?[BREAK][PAUSE]The saddened canary won't[BREAK]utter a peep.[BREAK][PAUSE]The monkey can sing,[BREAK]the piano - it chimes.[BREAK][PAUSE]Though ghosts will play out[BREAK]on its keyboard sometimes.[BREAK][PAUSE]Each night in the desert,[BREAK]the lone cactus croons.[BREAK][PAUSE]The dragon, when beaten,[BREAK]will carry some tunes.[BREAK][PAUSE]While scaling the mountain,[BREAK]EVE sings along.[BREAK][PAUSE]Will Queen Mary ever hear[BREAK]the XX Stone's last song?[BREAK][PAUSE]Lalala, what a mysterious[BREAK]lullaby.[BREAK][PAUSE]Lullaby, bye-bye, and[BREAK]goodbye.[BREAK][PAUSE]@What do you think? Nice[BREAK]song, huh?[BREAK][PAUSE]@It is, isn't it?[BREAK]
-0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK][PAUSE]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]depuis longtemps s'est tu.[BREAK][PAUSE]Un singe qui sait chanter,[BREAK]patiente dans son enclos.[BREAK][PAUSE]De redoutables fantômes,[BREAK]parfois jouent du piano.[BREAK][PAUSE]Chaque nuit dans le désert,[BREAK]siffle le cactus solitaire.[BREAK][PAUSE]Le dragon, une fois rossé,[BREAK]fredonne un petit air.[BREAK][PAUSE]Sur la montagne escarpée,[BREAK]ÈVE pousse un faible cri.[BREAK][PAUSE]La pierre XX a l'ultime[BREAK]mélodie que cherche Mary.[BREAK][PAUSE]Lalala, étrange comptine,[BREAK]tu me fais bâiller.[BREAK][PAUSE]Comptine, douce comptine,[BREAK]continue de me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est[BREAK]belle, non[4F]?[BREAK]
+0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK][PAUSE]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, petite poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]ne pépiera jamais plus.[BREAK][PAUSE]Le singe qui sait chanter[BREAK]patiente dans son enclos.[BREAK][PAUSE]De redoutables fantômes[BREAK]joueront parfois du piano.[BREAK][PAUSE]Chaque nuit dans le désert,[BREAK]siffle le cactus solitaire.[BREAK][PAUSE]Le dragon, une fois rossé,[BREAK]fredonnera un petit air.[BREAK][PAUSE]Sur la montagne escarpée,[BREAK]ÈVE pousse un faible cri.[BREAK][PAUSE]La pierre XX aura l'ultime[BREAK]mélodie que cherche Mary.[BREAK][PAUSE]Lalala, étrange comptine,[BREAK]tu me fais bâiller.[BREAK][PAUSE]Comptine, douce comptine,[BREAK]continue de me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est[BREAK]belle, non[4F]?[BREAK]
 0B3: @Deep in the forest is a[BREAK]guitar player who loves[BREAK]solitude.[BREAK][PAUSE]@He's kind of handsome...[BREAK]and a great poet, too.
 0B3-E: @Au cœur de la forêt se[BREAK]trouve un guitariste qui[BREAK]adore la solitude.[BREAK][PAUSE]@C'est un très bel homme...[BREAK]et un grand poète aussi.
 0B4: @I've heard about a man who[BREAK]was forgotten...[BREAK][PAUSE]@But I forget what his story[BREAK]was.[BREAK]
 0B4-E: @J'ai entendu parler d'un[BREAK]homme qui a été oublié...[BREAK][PAUSE]@Je te raconterais bien son[BREAK]histoire, mais je l'ai[BREAK]oubliée.[BREAK]
 0B5: @Though you may not[BREAK]believe it, I'm a[BREAK]healer.[BREAK][PAUSE]@I can restore your[BREAK]PP or heal friends[BREAK]turned to stone.[BREAK][PAUSE]@So, what can I do[BREAK]for you?[BREAK]
 // #MAXLENGTH=19 #MAXLINES=3 #EXTRALASTLINES=1
-0B5-E: @Crois-le ou non,[BREAK]mais je suis un[BREAK]guérisseur.[BREAK][PAUSE]@Je peux restaurer[BREAK]les PP,[BREAK][PAUSE]ou guérir les amis[BREAK]transformés en[BREAK]pierre.[BREAK][PAUSE]@Alors, que puis-je[BREAK]faire pour toi[4F]?[BREAK]
+0B5-E: @Crois-le ou non,[BREAK]mais je suis un[BREAK]guérisseur.[BREAK][PAUSE]@Je peux restaurer[BREAK]les PP,[BREAK][PAUSE]ou guérir les[BREAK]compagnons changés[BREAK]en pierre.[BREAK][PAUSE]@Alors, que puis-je[BREAK]faire pour toi[4F]?[BREAK]
 0B6: @...That's what I figured.[BREAK]
 0B6-E: @... C'est bien ce[BREAK]que je pensais.
 // #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
@@ -755,7 +755,7 @@
 15E: @Have you heard about[BREAK]Halloween's haunted house?[BREAK]
 15E-E: @As-tu entendu parler de la[BREAK]maison hantée d'Atrocity ?[BREAK]
 15F: @They say you can hear a[BREAK]piano melody coming from[BREAK]inside,[BREAK][PAUSE]even though the house is[BREAK]empty.[BREAK]
-15F-E: @On dit qu'un air de piano[BREAK]venant de l'intérieur peut[BREAK]être entendu,[BREAK][PAUSE]alors même que la maison[BREAK]n'est pas habitée.[BREAK]
+15F-E: @Il paraît qu'on peut[BREAK]entendre un air de piano à[BREAK]l'intérieur,[BREAK][PAUSE]alors même que la maison a[BREAK]été désertée.[BREAK]
 160: @In that case, it's best[BREAK]that you don't know.[BREAK]
 160-E: @Dans ce cas, il vaut mieux[BREAK]que tu ne saches pas.[BREAK]
 161: @Heh heh heh heh.[BREAK]
@@ -892,7 +892,7 @@
 // on peut être seul à Snowman si on traverse le tunnel à pied
 // peut-être tournure semblable à 2ED (PNJ juste à côté)
 19E: @I'm a nice guy's corpse.[BREAK][PAUSE]@So don't worry, I won't[BREAK]attack you or anything like[BREAK]that.[BREAK]
-19E-E: @Je suis la dépouille d'un[BREAK]type sympa.[BREAK][PAUSE]@Donc t'inquiète pas, je[BREAK]vais pas t'attaquer, hein.[BREAK]
+19E-E: @Je ne suis plus qu'un tas[BREAK]d'os, mais avant, j'étais[BREAK]un type sympa.[BREAK][PAUSE]@Donc ne t'inquiète pas, je[BREAK]ne vais pas t'attaquer,[BREAK]hein.[BREAK]
 19F: @I make a useful signpost,[BREAK]wouldn't you say?[BREAK]
 19F-E: @Je fais un panneau plutôt[BREAK]utile, hein ?[BREAK]
 1A0: @You're one gutsy kid,[BREAK]talking to dead bodies...[BREAK]
@@ -1114,7 +1114,7 @@
 207-E: @Alors, les enfants.[BREAK]@De quoi avez-vous besoin ?[BREAK]
 // le bonjour n’est pas là en jap (ni dans EBB) et colle pas trop au contexte (il nous parle juste avant, cf. 204)
 208: @MY NAME IS EVE.[BREAK][PAUSE]I HAVE BEEN WAITING FOR[BREAK]YOU.[BREAK][PAUSE]@MY FATHER WAS GEORGE.[BREAK][PAUSE]HE WAS TAKEN TO THE ENDS OF[BREAK]THE UNIVERSE,[BREAK][PAUSE]AND THEN HE RETURNED HERE.[BREAK][PAUSE]@MY DUTY IS TO PROTECT YOU.[BREAK]
-208-E: @MON NOM EST ÈVE.[BREAK][PAUSE]JE T'ATTENDAIS.[BREAK][PAUSE]@MON PÈRE ÉTAIT GEORGE.[BREAK][PAUSE]IL FUT EMMENÉ AUX CONFINS[BREAK]DE L'UNIVERS,[BREAK][PAUSE]AVANT DE REVENIR ICI.[BREAK][PAUSE]@MON DEVOIR EST DE TE[BREAK]PROTÉGER.[BREAK]
+208-E: @MON NOM EST ÈVE.[BREAK][PAUSE]JE T'ATTENDAIS.[BREAK][PAUSE]@MON PÈRE ÉTAIT GEORGE.[BREAK][PAUSE]IL A ÉTÉ EMMENÉ AUX CONFINS[BREAK]DE L'UNIVERS,[BREAK][PAUSE]AVANT DE REVENIR ICI.[BREAK][PAUSE]@MON DEVOIR EST DE TE[BREAK]PROTÉGER.[BREAK]
 209: 
 209-E: 
 20A: 
@@ -1628,7 +1628,7 @@
 2F6: @I'm tough.[BREAK][PAUSE]@But I'm mostly all talk.[BREAK]
 2F6-E: @Je suis un dur à cuire.[BREAK][PAUSE]@Enfin, je suis surtout un[BREAK]beau parleur.[BREAK]
 2F7: @Our boss [03 13] could[BREAK]totally beat you with just[BREAK]his pinkie if he wanted to![BREAK]
-2F7-E: @[03 13], notre chef, peut[BREAK]carrément te dézinguer rien[BREAK]qu'avec son petit doigt ![BREAK]
+2F7-E: @[03 13], notre chef, peut[BREAK]carrément t'écraser rien[BREAK]qu'avec son petit doigt ![BREAK]
 2F8: @Did you make sure to read[BREAK]the sign?[BREAK]
 2F8-E: @As-tu bien lu la pancarte ?[BREAK]
 2F9: @If you ever come across a[BREAK]cactus with a face on it[BREAK]in a desert somewhere...[BREAK][PAUSE]...that would be utterly[BREAK]terrifying.[BREAK]
@@ -1766,7 +1766,7 @@
 335: @The key doesn't fit.[BREAK]
 335-E: @Cette clé ne rentre pas.[BREAK]
 336: @[03 16][03 17] unlocked[BREAK]the door and went inside.[BREAK]
-336-E: @[03 70][03 16][BREAK]déverrouille la porte et[BREAK]pénètre à l'intérieur.[BREAK]
+336-E: @[03 70][03 16][BREAK]déverrouille la porte et[BREAK]entre.[BREAK]
 // appel ligne 670 ou 680
 337:   Save      Nothing
 337-E:   Sauvegarder  Rien
@@ -1854,11 +1854,11 @@
 35E: @The cactus sang.[BREAK][PAUSE]@For some reason, it sang.[BREAK][PAUSE]@It continued to sing with[BREAK]emotion.[BREAK]
 35E-E: @Le cactus chante.[BREAK][PAUSE]@Personne ne sait pourquoi,[BREAK]mais il chante.[BREAK][PAUSE]@Il continue de chanter avec[BREAK]beaucoup d'émotion.[BREAK]
 35F: @The keys on the piano began[BREAK]to play all by themselves.[BREAK]
-35F-E: @Les touches du piano se[BREAK]mettent à bouger d'elles-[BREAK]mêmes.[BREAK]
+35F-E: @Les touches du piano se[BREAK]mettent à jouer d'elles-[BREAK]mêmes.[BREAK]
 360: @With no hesitation at all,[BREAK]the dragon showed its old[BREAK]sheet music.[BREAK][PAUSE]@The song went like this...[BREAK]
 360-E: @Sans aucune hésitation, le[BREAK]dragon montre sa vieille[BREAK]partition.[BREAK][PAUSE]@Voici à quoi ressemble la[BREAK]mélodie...[BREAK]
 361: @EVE was destroyed and[BREAK]ceased functioning.[BREAK][PAUSE]@Music began to emanate[BREAK]from EVE's chest area.[BREAK]
-361-E: @ÈVE a été détruite et a[BREAK]cessé de fonctionner.[BREAK][PAUSE]@Une musique s'élève du[BREAK]torse d'ÈVE.[BREAK]
+361-E: @ÈVE a été détruite et a[BREAK]cessé de fonctionner.[BREAK][PAUSE]@Une musique s'élève de son[BREAK]torse.[BREAK]
 362: The world's only singing[BREAK]monkey![BREAK][PAUSE]Right here at Cream Puff[BREAK]Zoo![BREAK]
 362-E: Le seul et unique singe[BREAK]chantant ![BREAK][PAUSE]En exclusivité ici, au zoo[BREAK]Patachou ![BREAK]
 363: @There's a big lock on the[BREAK]door at the top of the[BREAK]stairs.[BREAK]
@@ -2126,7 +2126,7 @@
 3DE-E: @La réserve est[BREAK]pleine.[BREAK]
 // #MAXLENGTH=27 #MAXLINES=3 #EXTRALASTLINES=1
 3DF: @Once Queen Mary finished[BREAK]speaking to [03 10], she[BREAK]disappeared into the wind.[BREAK][PAUSE]And then the land of[BREAK]Magicant itself vanished[BREAK]without a trace.[BREAK][PAUSE]@Magicant had actually been[BREAK]an illusion born of Mary's[BREAK]conciousness.[BREAK]
-3DF-E: @Une fois son discours à[BREAK][03 10] terminé, la reine[BREAK]Mary se volatilisa.[BREAK][PAUSE]Puis le monde de Magicant[BREAK]tout entier disparut sans[BREAK]laisser de trace.[BREAK][PAUSE]@Magicant était en réalité[BREAK]une illusion née de la[BREAK]conscience de Mary.[BREAK]
+3DF-E: @À peine avait-elle fini de[BREAK]prononcer ces mots, que la[BREAK]reine Mary se volatilisa.[BREAK][PAUSE]Puis le monde de Magicant[BREAK]tout entier disparut sans[BREAK]laisser de trace.[BREAK][PAUSE]@Magicant était en réalité[BREAK]une illusion née de la[BREAK]conscience de Mary.[BREAK]
 3E0: @It was I who called you[BREAK]here.[BREAK][PAUSE]@[03 10]![BREAK][PAUSE][03 12]![BREAK][PAUSE][03 11]![BREAK][PAUSE][03 13]![BREAK][PAUSE]@And all courageous children[BREAK]out there...[BREAK][PAUSE]@The time is now![BREAK]
 3E0-E: @C'est moi qui vous ai[BREAK]amenés ici.[BREAK][PAUSE]@[03 10] ![BREAK][PAUSE][03 12] ![BREAK][PAUSE][03 11] ![BREAK][PAUSE][03 13] ![BREAK][PAUSE]@Et tous les courageux[BREAK]enfants du monde...[BREAK][PAUSE]@Le moment est venu ![BREAK]
 3E1: @Shh! I'm just like you![BREAK]I'm from the other world![BREAK][PAUSE]@For some money, I'll share[BREAK]some souvenirs of Magicant[BREAK]with you.[BREAK][PAUSE]@Hee hee hee![BREAK]
@@ -2814,7 +2814,7 @@
 525: This thing's shell is unbelievably hard.
 525-E: La coquille de cette bestiole est incroyablement dure.
 526: Watch out. It'll use hypnosis on you.
-526-E: Attention. Elle peut pratiquer l'hypnose sur vous.
+526-E: Attention. Elle peut utiliser l'hypnose sur vous.
 527: 
 527-E: 
 528: This animal is as swift as they come.
@@ -2886,7 +2886,7 @@
 549: Try not to get tied up.
 549-E: Essayez de ne pas vous faire ligoter.
 54A: It's almost like this guy escaped from a comic book or something.
-54A-E: C'est presque comme si ce type sortait d'une BD ou quelque chose de ce genre.
+54A-E: On la croirait tout droit sortie d'une bande dessinée.
 54B: This guy's face is the easiest to draw.
 54B-E: Son visage est super facile à dessiner.
 54C: If this guy put a mask on, it'd be impossible to tell who he is.
@@ -2926,7 +2926,7 @@
 55D: 
 55D-E: 
 55E: Don't let it get away! It's a good source of experience points!
-55E-E: Ne le laissez pas fuir[4F]! C'est une bonne source de points d'expérience[4F]!
+55E-E: Ne le laissez pas fuir[4F]! Il rapporte beaucoup de points d'expérience[4F]!
 55F: It apparently doesn't have any friends at all.
 55F-E: Il n'a apparemment aucun ami.
 560: @Its chair broke and now it's in a REALLY bad mood!
@@ -3012,13 +3012,13 @@
 588: A violent guy who comes out swinging the first chance he gets.
 588-E: Un gars violent qui ne manque pas une occasion de frapper.
 589: Its beautiful silver coat glistens in the light.
-589-E: Sa superbe fourrure argentée brille dans la lumière.
+589-E: Sa superbe fourrure argentée brille à la lumière.
 58A: This thing is HUGE!
 58A-E: Cette chose est ÉNORME[4F]!
 58B: Don't ever sleep in this guy's bed, no matter how tired you are!
 58B-E: Ne dormez jamais sur le lit de ce type, même si vous êtes exténué[4F]!
 58C: This robot has been remodeled to be even stronger now!
-58C-E: Ce robot a été remanié et est désormais encore plus puissant[4F]!
+58C-E: Ce robot a été rénové et est désormais encore plus puissant[4F]!
 58D: The strongest Starman of all.
 58D-E: Le Starman le plus puissant qui existe.
 58E: 
@@ -3893,7 +3893,7 @@
 701: The abducted grownups return[BREAK]to their children in Easter.[BREAK]You did great, kids![BREAK]
 701-E: Les adultes qui ont été[BREAK]enlevés retrouvent leurs[BREAK]enfants à Youngtown.[BREAK]Beau travail, les enfants[4F]![BREAK]
 702: [03 12]: I promise I'll never[BREAK]forget you. So I won't say[BREAK]say goodbye...[BREAK]Just, "'Til we meet again!"[BREAK]
-702-E: [03 12] : Je ne t'oublierai[BREAK]jamais, c'est promis. Je ne[BREAK]vais pas te dire adieu, mais[BREAK]plutôt : "À la prochaine !"[BREAK]
+702-E: [03 12] : Promis, je ne vous[BREAK]oublierai pas. Je ne vous[BREAK]dis pas adieu, mais plutôt :[BREAK]"À la prochaine !"[BREAK]
 703: [03 11] returns to a hero's[BREAK]welcome at Twinkle[BREAK]Elementary School.[BREAK]
 703-E: [03 11] retourne à l'école[BREAK]primaire Léclat où il est[BREAK]acclamé en héros.[BREAK]
 704: Welcome home, [03 10]![BREAK]We're so glad you made it[BREAK]back safe and sound.[BREAK]You must be famished![BREAK]
@@ -3918,7 +3918,7 @@
 70D: 
 70D-E: 
 70E: "Memory Chip"[BREAK]@Part of Great Grandfather[BREAK]George's memory is stored[BREAK]on this.[BREAK][PAUSE]@[03 10] can use it to return[BREAK]to EVE's location.
-70E-E: "Puce mémoire"[BREAK]@Une partie des souvenirs de[BREAK]George, l'arrière-grand-[BREAK]père, est inscrite dessus.[BREAK][PAUSE]@[03 10] peut l'utiliser pour[BREAK]retourner à l'endroit où se[BREAK]trouve ÈVE.
+70E-E: "Puce mémoire"[BREAK]@Une partie des souvenirs de[BREAK]George, l'arrière-grand-[BREAK]père, y est conservée.[BREAK][PAUSE]@[03 10] peut l'utiliser pour[BREAK]retourner à l'endroit où se[BREAK]trouve ÈVE.
 70F: 
 70F-E: 
 710: 
@@ -4044,7 +4044,7 @@
 74C: "Mouthwash"[BREAK]@Gargle with this to get[BREAK]over a cold.
 74C-E: "Bain de bouche"[BREAK]@Gargarisez-vous avec ceci[BREAK]pour faire passer le rhume.
 74D: "Strawberry Tofu"[BREAK]@Wouldn't you like to try[BREAK]some for real?
-74D-E: "Tofu à la fraise"[BREAK]@Franchement, vous n'auriez[BREAK]pas envie d'y goûter ?
+74D-E: "Tofu à la fraise"[BREAK]@Franchement, vous n'auriez[BREAK]pas envie d'y goûter un[BREAK]jour ?
 74E: 
 74E-E: 
 74F: "Bread"[BREAK]@It's good to eat,[BREAK][PAUSE]but you can use its crumbs[BREAK]to mark a trail that you[BREAK]can retrace later.
@@ -4600,7 +4600,7 @@
 85E: [03 20] woke up!
 85E-E: [03 E2][03 20] se réveille[4F]!
 85F: [03 20] tore a hole through space![BREAK]
-85F-E: [03 E2][03 20] fait un trou à travers l'espace[4F]![BREAK]
+85F-E: [03 E2][03 20] ouvre une faille spatiale[4F]![BREAK]
 860: But there was no effect!
 860-E: Mais ça n'a aucun effet[4F]!
 861: The [03 22] was fully emptied...
