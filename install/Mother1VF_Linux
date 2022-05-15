@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec mono "./Mother1VF_Windows.exe" "$@"
