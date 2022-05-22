@@ -1479,7 +1479,7 @@
 2AE: @There was a landslide and[BREAK]now big rocks are blocking[BREAK]the railroad tracks.[BREAK][PAUSE]@The train can't get[BREAK]through.[BREAK]
 2AE-E: @Il y a eu un éboulement et[BREAK]maintenant de gros rochers[BREAK]bloquent la voie ferrée.[BREAK][PAUSE]@Le train ne peut pas[BREAK]passer.[BREAK]
 2AF: @You understand animal talk,[BREAK]right?[BREAK][PAUSE]@Then I'll give you a hint:[BREAK]try checking me.[BREAK][PAUSE]@Woof![BREAK]
-2AF-E: @Tu comprends le langage[BREAK]animal, pas vrai ?[BREAK][PAUSE]@Alors voici un indice :[BREAK]essaie de m'examiner.[BREAK][PAUSE]@Ouaf ![BREAK]
+2AF-E: @Tu comprends la langue des[BREAK]animaux, pas vrai ?[BREAK][PAUSE]@Alors voici un indice :[BREAK]essaie de m'examiner.[BREAK][PAUSE]@Ouaf ![BREAK]
 2B0: @You don't have enough[BREAK]money. That's too bad.[BREAK][PAUSE]@Please come again some[BREAK]other time.[BREAK]
 2B0-E: @Tu n'as pas assez d'argent.[BREAK]Quel dommage.[BREAK][PAUSE]@Reviens une autre fois.[BREAK]
 // from eb, possible hospital text?
@@ -1787,7 +1787,7 @@
 33E: @I'm very sorry. I can't buy[BREAK]your [03 1D].[BREAK]
 33E-E: @Je suis vraiment navrée. Je[BREAK]ne peux pas te racheter[BREAK]t[03 4B][03 1D].
 33F: @Laura the songbird was so[BREAK]happy to see her baby again[BREAK]that she began singing.[BREAK]
-33F-E: @Laura l'oiseau chanteur[BREAK]est tellement contente de[BREAK]revoir son bébé qu'elle se[BREAK]met à chanter.[BREAK]
+33F-E: @Laura, l'oiseau chanteur,[BREAK]est tellement contente de[BREAK]revoir son bébé qu'elle se[BREAK]met à chanter.[BREAK]
 340: @[03 16] learned the melody.[BREAK]
 340-E: @[03 16] apprend la mélodie.[BREAK]
 341: @The canary is singing.[BREAK]
