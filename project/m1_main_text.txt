@@ -2814,7 +2814,7 @@
 525: This thing's shell is unbelievably hard.
 525-E: La coquille de cette bestiole est incroyablement dure.
 526: Watch out. It'll use hypnosis on you.
-526-E: Attention. Elle peut utiliser l'hypnose sur vous.
+526-E: Attention. Elle peut utiliser l'hypnose.
 527: 
 527-E: 
 528: This animal is as swift as they come.
