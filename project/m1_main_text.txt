@@ -383,7 +383,7 @@
 0B1-E: @[03 7B][BREAK][PAUSE]@[03 7C][BREAK][PAUSE]@Et voilà[4F]![BREAK]
 // appels ligne 67B ou 68B, puis ligne 67C ou 68C
 0B2: @I finally wrote a song![BREAK]Give it a listen, you[BREAK]music-loving adventurer![BREAK][PAUSE]@Oh, baby doll, why do you[BREAK]weep?[BREAK][PAUSE]The saddened canary won't[BREAK]utter a peep.[BREAK][PAUSE]The monkey can sing,[BREAK]the piano - it chimes.[BREAK][PAUSE]Though ghosts will play out[BREAK]on its keyboard sometimes.[BREAK][PAUSE]Each night in the desert,[BREAK]the lone cactus croons.[BREAK][PAUSE]The dragon, when beaten,[BREAK]will carry some tunes.[BREAK][PAUSE]While scaling the mountain,[BREAK]EVE sings along.[BREAK][PAUSE]Will Queen Mary ever hear[BREAK]the XX Stone's last song?[BREAK][PAUSE]Lalala, what a mysterious[BREAK]lullaby.[BREAK][PAUSE]Lullaby, bye-bye, and[BREAK]goodbye.[BREAK][PAUSE]@What do you think? Nice[BREAK]song, huh?[BREAK][PAUSE]@It is, isn't it?[BREAK]
-0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK][PAUSE]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, petite poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]ne pépiera plus.[BREAK][PAUSE]Le singe qui sait chanter[BREAK]attend dans son enclos.[BREAK][PAUSE]De terribles fantômes[BREAK]joueront du piano.[BREAK][PAUSE]Le cactus siffle, seul,[BREAK]dans la nuit du désert.[BREAK][PAUSE]Le dragon terrassé[BREAK]fredonnera un air.[BREAK][PAUSE]Du haut de la montagne,[BREAK]ÈVE chante à l'unisson.[BREAK][PAUSE]Mary pourra-t-elle enfin[BREAK]entendre le son,[BREAK][PAUSE]Depuis la pierre XX,[BREAK]d'une ultime chanson ?[BREAK][PAUSE]Ah, étrange comptine[BREAK]tu me fais bâiller,[BREAK][PAUSE]Comptine, douce comptine,[BREAK]tu sauras me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est[BREAK]belle, non[4F]?[BREAK]
+0B2-E: @J'ai enfin écrit une[BREAK]chanson[4F]![BREAK][PAUSE]Écoute-la donc, cher[BREAK]aventurier mélomane[4F]![BREAK][PAUSE]@Oh, petite poupée, dis-moi,[BREAK]pourquoi pleures-tu ?[BREAK][PAUSE]Le canari, chagriné,[BREAK]ne pépiera plus.[BREAK][PAUSE]Le singe qui sait chanter[BREAK]attend dans son enclos.[BREAK][PAUSE]De terribles fantômes[BREAK]joueront du piano.[BREAK][PAUSE]Le cactus siffle, seul,[BREAK]dans la nuit du désert.[BREAK][PAUSE]Le dragon terrassé[BREAK]fredonnera un air.[BREAK][PAUSE]Gravissant la montagne,[BREAK]ÈVE chante à l'unisson.[BREAK][PAUSE]Mary pourra-t-elle enfin[BREAK]entendre le son,[BREAK][PAUSE]Depuis la pierre XX,[BREAK]d'une ultime chanson ?[BREAK][PAUSE]Ah, étrange comptine[BREAK]tu me fais bâiller,[BREAK][PAUSE]Comptine, douce comptine,[BREAK]tu sauras me bercer.[BREAK][PAUSE]@Qu'en dis-tu[4F]? Belle[BREAK]chanson, hein[4F]?[BREAK][PAUSE]@Sérieusement, elle est[BREAK]belle, non[4F]?[BREAK]
 0B3: @Deep in the forest is a[BREAK]guitar player who loves[BREAK]solitude.[BREAK][PAUSE]@He's kind of handsome...[BREAK]and a great poet, too.
 0B3-E: @Au cœur de la forêt se[BREAK]trouve un guitariste qui[BREAK]adore la solitude.[BREAK][PAUSE]@C'est un très bel homme...[BREAK]et un grand poète aussi.
 0B4: @I've heard about a man who[BREAK]was forgotten...[BREAK][PAUSE]@But I forget what his story[BREAK]was.[BREAK]
@@ -2814,7 +2814,7 @@
 525: This thing's shell is unbelievably hard.
 525-E: La coquille de cette bestiole est incroyablement dure.
 526: Watch out. It'll use hypnosis on you.
-526-E: Attention. Elle peut utiliser l'hypnose.
+526-E: Attention. Elle va vous hypnotiser.
 527: 
 527-E: 
 528: This animal is as swift as they come.
