@@ -1685,7 +1685,7 @@
 311: 
 311-E: 
 312: @Though you may not[BREAK]believe it, I'm a[BREAK]healer.[BREAK][PAUSE]@What do you want[BREAK]me to do?[BREAK]
-312-E: @Crois-le ou non,[BREAK]mais je suis un[BREAK]guérisseur.[BREAK][PAUSE]@Je peux restaurer[BREAK]les PP,[BREAK][PAUSE]ou guérir les amis[BREAK]transformés en[BREAK]pierre.[BREAK][PAUSE]@Alors, que puis-je[BREAK]faire pour toi[4F]?[BREAK]
+312-E: @Crois-le ou non,[BREAK]mais je suis un[BREAK]guérisseur.[BREAK][PAUSE]@Je peux restaurer[BREAK]les PP,[BREAK][PAUSE]ou guérir les[BREAK]compagnons changés[BREAK]en pierre.[BREAK][PAUSE]@Alors, que puis-je[BREAK]faire pour toi[4F]?[BREAK]
 313: @Oh, okay.[BREAK]If you say so.[BREAK]
 313-E: @Ah, d'accord.[BREAK]Comme tu veux.[BREAK]
 314: @I need to charge[BREAK]you $[03 1E]. Okay?[BREAK]
