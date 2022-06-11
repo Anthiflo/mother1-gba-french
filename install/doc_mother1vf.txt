@@ -238,11 +238,11 @@ AUTRES QUESTIONS FRÉQUENTES
 
 ===========================================================================
 
-TRAVAIL EFFECTUÉ
+CONTENU DU PATCH
 
-  - Traduction
+  - Textes traduits
     - Script principal d'environ 1000 dialogues
-    - Textes de combat
+    - Phrases de combat
     - Menus et écrans narratifs
     - Nom des objets et leur description
     - Nom des ennemis et leur description
@@ -250,7 +250,7 @@ TRAVAIL EFFECTUÉ
     - Éléments graphiques en jeu : enseignes de magasins, carte du monde
     - Autres éléments graphiques : écran-titre, introduction, générique
 
-  - Hacking
+  - Routines de hack
     - Gestion des articles et accords pour les noms d'objets et d'ennemis
     - Gestion dynamique du féminin et du pluriel pour les personnages
       contrôlés, ainsi que de l'élision
@@ -262,10 +262,9 @@ TRAVAIL EFFECTUÉ
     - Démarrage automatique de la partie MOTHER 1
     - Ajout d'un menu secret
 
-  - Travaux repris de la traduction anglaise de Tomato
+  - Éléments repris de la traduction anglaise de Tomato
     - Ajout de l'anneau facile
-    - Agrandissement et réajustement de menus
-    - Gestion dynamique de la taille de la zone de dialogue
+    - Agrandissement et taille dynamique des menus et zones de texte
     - Retour à la ligne automatique en combat
     - Correction de bugs dans le jeu d'origine
 
